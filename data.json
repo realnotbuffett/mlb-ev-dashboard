@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-03-25T22:19:10.216140+00:00",
+  "last_updated": "2026-03-25T22:30:04.637429+00:00",
+  "scoreboard": [
+    {
+      "game_id": "823244",
+      "away": "NYY",
+      "home": "SF",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T00:05:00Z"
+    }
+  ],
   "today": "2026-03-25",
-  "mode": "LIVE",
+  "mode": "DRY RUN",
   "bets": [],
   "today_games": [
     {
       "date": "2026-03-25",
-      "time": "22:19:10",
+      "time": "22:30:04",
       "game_id": "823244",
       "home_team": "San Francisco Giants",
       "away_team": "New York Yankees",
@@ -31,6 +42,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 0,
     "total_games_scanned_today": 1,
-    "total_games_scanned_all": 5
+    "total_games_scanned_all": 6
   }
 }
