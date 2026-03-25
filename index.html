@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MLB EV Bot — Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #06090f;
+    --bg-card: #0d1117;
+    --bg-card-hover: #131921;
+    --border: #1b2332;
+    --border-bright: #253045;
+    --text-primary: #e2e8f0;
+    --text-secondary: #8892a4;
+    --text-dim: #4a5568;
+    --green: #22c55e;
+    --green-bg: rgba(34,197,94,0.08);
+    --red: #ef4444;
+    --red-bg: rgba(239,68,68,0.08);
+    --amber: #f59e0b;
+    --amber-bg: rgba(245,158,11,0.08);
+    --blue: #3b82f6;
+    --blue-bg: rgba(59,130,246,0.08);
+    --cyan: #06b6d4;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(59,130,246,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(59,130,246,0.03) 1px, transparent 1px);
+    background-size: 48px 48px;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .container { position: relative; z-index: 1; max-width: 1100px; margin: 0 auto; padding: 20px 16px 40px; }
+  .header { display: flex; align-items: center; justify-content: space-between; padding: 16px 0 24px; border-bottom: 1px solid var(--border); margin-bottom: 24px; flex-wrap: wrap; gap: 12px; }
+  .header-left { display: flex; align-items: center; gap: 14px; }
+  .logo { width: 42px; height: 42px; background: linear-gradient(135deg, var(--red), var(--amber)); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 18px; font-weight: 800; color: white; letter-spacing: -1px; font-family: 'JetBrains Mono', monospace; }
+  .header h1 { font-size: 22px; font-weight: 700; letter-spacing: -0.5px; }
+  .header h1 span { color: var(--text-secondary); font-weight: 400; font-size: 15px; margin-left: 8px; }
+  .header-right { display: flex; align-items: center; gap: 16px; }
+  .status-pill { display: flex; align-items: center; gap: 6px; padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+  .status-pill.live { background: var(--green-bg); color: var(--green); border: 1px solid rgba(34,197,94,0.2); }
+  .status-pill.offline { background: var(--red-bg); color: var(--red); border: 1px solid rgba(239,68,68,0.2); }
+  .status-pill.dryrun { background: var(--amber-bg); color: var(--amber); border: 1px solid rgba(245,158,11,0.2); }
+  .status-dot { width: 7px; height: 7px; border-radius: 50%; animation: pulse 2s ease-in-out infinite; }
+  .status-pill.live .status-dot { background: var(--green); }
+  .status-pill.offline .status-dot { background: var(--red); animation: none; }
+  .status-pill.dryrun .status-dot { background: var(--amber); }
+  @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.85); } }
+  .updated-text { font-size: 11px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; }
+  .stats-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 24px; }
+  .stat-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; transition: border-color 0.2s; }
+  .stat-card:hover { border-color: var(--border-bright); }
+  .stat-label { font-size: 11px; font-weight: 500; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px; }
+  .stat-value { font-size: 28px; font-weight: 700; font-family: 'JetBrains Mono', monospace; letter-spacing: -1px; }
+  .stat-sub { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
+  .section { margin-bottom: 24px; }
+  .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+  .section-title { font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--text-secondary); }
+  .section-badge { font-size: 11px; padding: 3px 10px; border-radius: 12px; font-weight: 600; font-family: 'JetBrains Mono', monospace; }
+  .games-list { display: flex; flex-direction: column; gap: 8px; }
+  .game-row { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 18px; display: grid; grid-template-columns: 1.3fr auto auto auto auto; align-items: center; gap: 16px; transition: border-color 0.2s, background 0.2s; }
+  .game-row:hover { border-color: var(--border-bright); background: var(--bg-card-hover); }
+  .game-row.has-bet { border-left: 3px solid var(--green); }
+  .game-matchup { display: flex; flex-direction: column; gap: 2px; }
+  .game-teams { font-size: 15px; font-weight: 600; font-family: 'JetBrains Mono', monospace; }
+  .game-id { font-size: 11px; color: var(--text-dim); }
+  .game-probs { text-align: center; }
+  .prob-label { font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.5px; }
+  .prob-values { font-size: 13px; font-family: 'JetBrains Mono', monospace; font-weight: 600; }
+  .game-ev { text-align: center; min-width: 70px; }
+  .ev-value { font-size: 15px; font-family: 'JetBrains Mono', monospace; font-weight: 700; }
+  .ev-positive { color: var(--green); }
+  .ev-negative { color: var(--text-dim); }
+  .ev-team { font-size: 10px; color: var(--text-secondary); }
+  .game-pitcher { min-width: 90px; text-align: center; }
+  .pitcher-badge { display: inline-block; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 600; font-family: 'JetBrains Mono', monospace; }
+  .pitcher-confirmed { background: var(--green-bg); color: var(--green); border: 1px solid rgba(34,197,94,0.15); }
+  .pitcher-unconfirmed { background: rgba(255,255,255,0.03); color: var(--text-dim); border: 1px solid var(--border); }
+  .bets-list { display: flex; flex-direction: column; gap: 8px; }
+  .bet-row { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 18px; display: grid; grid-template-columns: 1.3fr auto auto auto auto auto; align-items: center; gap: 16px; }
+  .bet-row.win { border-left: 3px solid var(--green); }
+  .bet-row.loss { border-left: 3px solid var(--red); }
+  .bet-row.pending { border-left: 3px solid var(--amber); }
+  .bet-team { font-size: 15px; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+  .bet-matchup { font-size: 11px; color: var(--text-secondary); }
+  .bet-detail { text-align: center; }
+  .bet-detail-label { font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.5px; }
+  .bet-detail-value { font-size: 14px; font-family: 'JetBrains Mono', monospace; font-weight: 600; }
+  .bet-time { font-size: 11px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; }
+  .result-badge { display: inline-block; padding: 3px 10px; border-radius: 6px; font-size: 11px; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+  .result-win { background: var(--green-bg); color: var(--green); border: 1px solid rgba(34,197,94,0.2); }
+  .result-loss { background: var(--red-bg); color: var(--red); border: 1px solid rgba(239,68,68,0.2); }
+  .result-pending { background: var(--amber-bg); color: var(--amber); border: 1px solid rgba(245,158,11,0.2); }
+  .empty-state { text-align: center; padding: 40px 20px; color: var(--text-dim); }
+  .empty-state .icon { font-size: 32px; margin-bottom: 8px; }
+  .empty-state p { font-size: 13px; }
+  .footer { text-align: center; padding: 24px 0; border-top: 1px solid var(--border); margin-top: 16px; }
+  .footer p { font-size: 11px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; }
+  .loading { text-align: center; padding: 60px 20px; }
+  .loading p { color: var(--text-secondary); font-size: 14px; }
+  @media (max-width: 700px) {
+    .game-row { grid-template-columns: 1fr 1fr; gap: 10px; }
+    .bet-row { grid-template-columns: 1fr 1fr; gap: 10px; }
+    .header h1 span { display: none; }
+    .stat-value { font-size: 24px; }
+    .stats-row { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 420px) {
+    .stats-row { grid-template-columns: 1fr 1fr; }
+    .container { padding: 12px 10px 30px; }
+  }
+</style>
+</head>
+<body>
+<div class="container" id="app">
+  <div class="loading"><p>Loading dashboard data...</p></div>
+</div>
+<script>
+const CACHE_BUST = Date.now();
+
+async function loadData() {
+  try {
+    const resp = await fetch('data.json?t=' + CACHE_BUST);
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    return await resp.json();
+  } catch (e) {
+    console.error('Failed to load data.json:', e);
+    return null;
+  }
+}
+
+function timeAgo(isoStr) {
+  if (!isoStr) return "never";
+  const diff = (Date.now() - new Date(isoStr).getTime()) / 1000;
+  if (diff < 60) return "just now";
+  if (diff < 3600) return Math.floor(diff/60) + "m ago";
+  if (diff < 86400) return Math.floor(diff/3600) + "h " + Math.floor((diff%3600)/60) + "m ago";
+  return Math.floor(diff/86400) + "d ago";
+}
+
+function formatTime(isoStr) {
+  if (!isoStr) return "";
+  return new Date(isoStr).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+}
+
+function isRecent(isoStr, minutes) {
+  if (!isoStr) return false;
+  return (Date.now() - new Date(isoStr).getTime()) < (minutes || 20) * 60 * 1000;
+}
+
+function calcPerformance(bets) {
+  let wins = 0, losses = 0, pending = 0, profit = 0;
+  for (const b of bets) {
+    const r = (b.result || '').toUpperCase();
+    if (r === 'WIN') {
+      wins++;
+      const p = parseFloat(b.profit || 0);
+      profit += isNaN(p) ? 0 : p;
+    } else if (r === 'LOSS') {
+      losses++;
+      const p = parseFloat(b.profit || 0);
+      profit += isNaN(p) ? -parseFloat(b.bet_size || 1) : p;
+    } else {
+      pending++;
+    }
+  }
+  const resolved = wins + losses;
+  const winRate = resolved > 0 ? (wins / resolved * 100) : 0;
+  const roi = resolved > 0 ? (profit / resolved * 100) : 0;
+  return { wins, losses, pending, profit, winRate, roi, resolved };
+}
+
+function render(d) {
+  const app = document.getElementById("app");
+
+  if (!d) {
+    app.innerHTML = '<div class="loading"><p>Could not load dashboard data. Make sure data.json exists.</p></div>';
+    return;
+  }
+
+  const stats = d.stats || {};
+  const bets = d.bets || [];
+  const games = d.today_games || [];
+  const perf = calcPerformance(bets);
+  const botActive = isRecent(d.last_updated);
+  const isDryRun = d.mode === 'DRY RUN';
+
+  // Sort games: bet placed first, then by best EV
+  const sortedGames = [...games].sort((a, b) => {
+    const aBet = a.bet_placed === 'yes' ? 1 : 0;
+    const bBet = b.bet_placed === 'yes' ? 1 : 0;
+    if (bBet !== aBet) return bBet - aBet;
+    const aEv = Math.max(Math.abs(parseFloat(a.home_ev||0)), Math.abs(parseFloat(a.away_ev||0)));
+    const bEv = Math.max(Math.abs(parseFloat(b.home_ev||0)), Math.abs(parseFloat(b.away_ev||0)));
+    return bEv - aEv;
+  });
+
+  const totalBetsToday = stats.total_bets_today || 0;
+  const totalBetsAll = stats.total_bets_all_time || bets.length;
+  const confirmedGames = games.filter(g => g.pitchers_confirmed === 'yes').length;
+  const profitColor = perf.profit >= 0 ? 'var(--green)' : 'var(--red)';
+  const profitSign = perf.profit >= 0 ? '+' : '';
+
+  // Status pill
+  let pillClass = 'offline';
+  let pillText = 'Bot Idle';
+  if (isDryRun) { pillClass = 'dryrun'; pillText = 'Dry Run'; }
+  else if (botActive) { pillClass = 'live'; pillText = 'Bot Active'; }
+
+  let h = `
+    <div class="header">
+      <div class="header-left">
+        <div class="logo">&#9918;</div>
+        <h1>MLB EV Bot <span>Dashboard</span></h1>
+      </div>
+      <div class="header-right">
+        <span class="status-pill ${pillClass}">
+          <span class="status-dot"></span>
+          ${pillText}
+        </span>
+        <span class="updated-text">Updated ${timeAgo(d.last_updated)}</span>
+      </div>
+    </div>
+
+    <div class="stats-row">
+      <div class="stat-card">
+        <div class="stat-label">Cumulative Profit</div>
+        <div class="stat-value" style="color:${profitColor}">${profitSign}$${Math.abs(perf.profit).toFixed(2)}</div>
+        <div class="stat-sub">$1.00 per bet</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Record</div>
+        <div class="stat-value" style="font-size:22px">${perf.wins}W - ${perf.losses}L</div>
+        <div class="stat-sub">${perf.pending} pending</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Win Rate</div>
+        <div class="stat-value" style="color:${perf.winRate >= 50 ? 'var(--green)' : 'var(--text-primary)'}">${perf.winRate.toFixed(1)}%</div>
+        <div class="stat-sub">${totalBetsAll} total bets</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">ROI</div>
+        <div class="stat-value" style="font-size:22px;color:${perf.roi >= 0 ? 'var(--green)' : 'var(--red)'}">${perf.roi >= 0 ? '+' : ''}${perf.roi.toFixed(1)}%</div>
+        <div class="stat-sub">per bet avg</div>
+      </div>
+    </div>
+
+    <div class="stats-row">
+      <div class="stat-card">
+        <div class="stat-label">Last Run</div>
+        <div class="stat-value" style="font-size:18px">${timeAgo(d.last_updated)}</div>
+        <div class="stat-sub">${formatTime(d.last_updated)}</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Bets Today</div>
+        <div class="stat-value" style="color:${totalBetsToday > 0 ? 'var(--green)' : 'var(--text-primary)'}">${totalBetsToday}</div>
+        <div class="stat-sub">${totalBetsAll} all time</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Games Today</div>
+        <div class="stat-value">${games.length}</div>
+        <div class="stat-sub">${confirmedGames} pitchers confirmed</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Games All Time</div>
+        <div class="stat-value">${stats.total_games_scanned_all || 0}</div>
+        <div class="stat-sub">total scanned</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-header">
+        <span class="section-title">Today's Games</span>
+        <span class="section-badge" style="background:var(--blue-bg);color:var(--blue);border:1px solid rgba(59,130,246,0.15)">${d.today||'--'}</span>
+      </div>
+      <div class="games-list">`;
+
+  if (sortedGames.length === 0) {
+    h += '<div class="empty-state"><div class="icon">&#9918;</div><p>No games today or bot hasn\'t run yet</p></div>';
+  } else {
+    for (const g of sortedGames) {
+      const homeEv = parseFloat(g.home_ev || 0);
+      const awayEv = parseFloat(g.away_ev || 0);
+      const bestEv = Math.abs(homeEv) > Math.abs(awayEv) ? homeEv : awayEv;
+      const bestEvTeam = Math.abs(homeEv) > Math.abs(awayEv) ? g.home_team : g.away_team;
+      const evPct = (bestEv * 100).toFixed(1);
+      const isPos = bestEv > 0.04;
+      const hasBet = g.bet_placed === 'yes';
+      const conf = g.pitchers_confirmed === 'yes';
+
+      const ap = (parseFloat(g.away_prob||0)*100).toFixed(1);
+      const hp = (parseFloat(g.home_prob||0)*100).toFixed(1);
+      const aPr = g.poly_away_price ? '$'+parseFloat(g.poly_away_price).toFixed(2) : '--';
+      const hPr = g.poly_home_price ? '$'+parseFloat(g.poly_home_price).toFixed(2) : '--';
+
+      // Pitcher info
+      const hPitch = g.home_pitcher || '--';
+      const aPitch = g.away_pitcher || '--';
+
+      h += `
+        <div class="game-row ${hasBet?'has-bet':''}">
+          <div class="game-matchup">
+            <div class="game-teams">${g.away_team || '--'} @ ${g.home_team || '--'}</div>
+            <div class="game-id">${aPitch} vs ${hPitch}</div>
+          </div>
+          <div class="game-probs">
+            <div class="prob-label">Pinnacle</div>
+            <div class="prob-values">${ap}% / ${hp}%</div>
+            <div class="prob-label" style="margin-top:4px">Polymarket</div>
+            <div class="prob-values">${aPr} / ${hPr}</div>
+          </div>
+          <div class="game-ev">
+            <div class="ev-value ${isPos?'ev-positive':'ev-negative'}">${bestEv>0?'+':''}${evPct}%</div>
+            <div class="ev-team">${bestEvTeam || ''}</div>
+          </div>
+          <div class="game-pitcher">
+            <span class="pitcher-badge ${conf?'pitcher-confirmed':'pitcher-unconfirmed'}">${conf ? '&#10003; CONFIRMED' : 'UNCONFIRMED'}</span>
+          </div>
+          <div style="text-align:center">
+            ${hasBet ? '<span class="result-badge result-win">BET &#10003;</span>' : '<span style="color:var(--text-dim);font-size:11px">No bet</span>'}
+          </div>
+        </div>`;
+    }
+  }
+
+  h += '</div></div>';
+
+  // Bets section
+  h += `<div class="section">
+    <div class="section-header">
+      <span class="section-title">Bets Placed</span>
+      <span class="section-badge" style="background:var(--green-bg);color:var(--green);border:1px solid rgba(34,197,94,0.15)">${bets.length} total</span>
+    </div>
+    <div class="bets-list">`;
+
+  if (bets.length === 0) {
+    h += '<div class="empty-state"><div class="icon">&#128176;</div><p>No bets placed yet</p></div>';
+  } else {
+    const sb = [...bets].reverse();
+    for (const b of sb) {
+      const ev = (parseFloat(b.ev_pct||0)*100).toFixed(1);
+      const mp = (parseFloat(b.model_prob||0)*100).toFixed(1);
+      const pp = parseFloat(b.polymarket_price||0).toFixed(2);
+      const result = (b.result || '').toUpperCase();
+      const rowClass = result === 'WIN' ? 'win' : result === 'LOSS' ? 'loss' : 'pending';
+
+      let resultBadge = '<span class="result-badge result-pending">PENDING</span>';
+      if (result === 'WIN') {
+        const payout = parseFloat(b.profit || 0).toFixed(2);
+        resultBadge = `<span class="result-badge result-win">WIN +$${payout}</span>`;
+      } else if (result === 'LOSS') {
+        resultBadge = '<span class="result-badge result-loss">LOSS -$1.00</span>';
+      }
+
+      const matchup = b.away_team && b.home_team ? `${b.away_team} @ ${b.home_team}` : '';
+      const betTeam = b.bet_side === 'home' ? (b.home_team || 'HOME') : (b.away_team || 'AWAY');
+
+      h += `
+        <div class="bet-row ${rowClass}">
+          <div><div class="bet-team">${betTeam}</div><div class="bet-matchup">${matchup}</div></div>
+          <div class="bet-detail"><div class="bet-detail-label">EV</div><div class="bet-detail-value ev-positive">+${ev}%</div></div>
+          <div class="bet-detail"><div class="bet-detail-label">Model</div><div class="bet-detail-value">${mp}%</div></div>
+          <div class="bet-detail"><div class="bet-detail-label">PM Price</div><div class="bet-detail-value">$${pp}</div></div>
+          <div style="text-align:center">${resultBadge}</div>
+          <div><div class="bet-time">${b.date||''}</div><div class="bet-time">${b.time ? b.time.slice(0,5) : ''}</div></div>
+        </div>`;
+    }
+  }
+
+  h += '</div></div>';
+  h += '<div class="footer"><p>MLB EV Bot &#8226; Pinnacle de-vig vs Polymarket &#8226; Refresh page for latest</p></div>';
+  app.innerHTML = h;
+}
+
+loadData().then(render);
+</script>
+</body>
+</html>
