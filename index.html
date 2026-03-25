@@ -108,6 +108,18 @@
   .empty-state { text-align: center; padding: 40px 20px; color: var(--text-dim); }
   .empty-state .icon { font-size: 32px; margin-bottom: 8px; }
   .empty-state p { font-size: 13px; }
+  .sb-row { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 0; }
+  .sb-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 20px; min-width: 160px; flex: 1; max-width: 220px; transition: border-color 0.2s; }
+  .sb-card:hover { border-color: var(--border-bright); }
+  .sb-state { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 8px; font-family: 'JetBrains Mono', monospace; }
+  .sb-state.upcoming { color: var(--amber); }
+  .sb-state.live { color: var(--green); }
+  .sb-state.final { color: var(--text-dim); }
+  .sb-teams { display: flex; flex-direction: column; gap: 4px; }
+  .sb-team-row { display: flex; justify-content: space-between; align-items: center; }
+  .sb-team { font-size: 16px; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+  .sb-score { font-size: 16px; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+  .sb-time { font-size: 14px; font-weight: 600; font-family: 'JetBrains Mono', monospace; color: var(--text-primary); margin-top: 2px; }
   .footer { text-align: center; padding: 24px 0; border-top: 1px solid var(--border); margin-top: 16px; }
   .footer p { font-size: 11px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; }
   .loading { text-align: center; padding: 60px 20px; }
@@ -284,7 +296,53 @@ function render(d) {
 
     <div class="section">
       <div class="section-header">
-        <span class="section-title">Today's Games</span>
+        <span class="section-title">Scoreboard</span>
+        <span class="section-badge" style="background:var(--blue-bg);color:var(--blue);border:1px solid rgba(59,130,246,0.15)">${d.today||'--'}</span>
+      </div>
+      <div class="sb-row">`;
+
+  const sb = d.scoreboard || [];
+  if (sb.length === 0) {
+    h += '<div class="empty-state" style="width:100%"><div class="icon">&#9918;</div><p>No games scheduled today</p></div>';
+  } else {
+    for (const g of sb) {
+      const isLive = g.state !== 'UPCOMING' && g.state !== 'FINAL';
+      const isFinal = g.state === 'FINAL';
+      const stateClass = isFinal ? 'final' : isLive ? 'live' : 'upcoming';
+
+      let stateLabel = g.state;
+      let timeStr = '';
+      if (g.state === 'UPCOMING' && g.start_time) {
+        timeStr = new Date(g.start_time).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+      }
+
+      const awayScore = g.away_score !== null && g.away_score !== undefined ? g.away_score : '';
+      const homeScore = g.home_score !== null && g.home_score !== undefined ? g.home_score : '';
+
+      h += `
+        <div class="sb-card">
+          <div class="sb-state ${stateClass}">${stateLabel}</div>
+          <div class="sb-teams">
+            <div class="sb-team-row">
+              <span class="sb-team">${g.away}</span>
+              ${awayScore !== '' ? '<span class="sb-score">'+awayScore+'</span>' : ''}
+            </div>
+            <div class="sb-team-row">
+              <span class="sb-team">${g.home}</span>
+              ${homeScore !== '' ? '<span class="sb-score">'+homeScore+'</span>' : ''}
+            </div>
+            ${timeStr ? '<div class="sb-time">'+timeStr+'</div>' : ''}
+          </div>
+        </div>`;
+    }
+  }
+
+  h += `</div>
+    </div>
+
+    <div class="section">
+      <div class="section-header">
+        <span class="section-title">EV Analysis</span>
         <span class="section-badge" style="background:var(--blue-bg);color:var(--blue);border:1px solid rgba(59,130,246,0.15)">${d.today||'--'}</span>
       </div>
       <div class="games-list">`;
