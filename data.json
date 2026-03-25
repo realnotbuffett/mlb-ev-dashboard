@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T21:56:45.040299+00:00",
+  "last_updated": "2026-03-25T21:58:08.276879+00:00",
   "today": "2026-03-25",
   "mode": "DRY RUN",
   "bets": [],
@@ -47,12 +47,34 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-03-25",
+      "time": "21:58:08",
+      "game_id": "823244",
+      "home_team": "San Francisco Giants",
+      "away_team": "New York Yankees",
+      "home_prob": "0.4772",
+      "away_prob": "0.5228",
+      "poly_home_price": "0.4800",
+      "poly_away_price": "0.5300",
+      "home_ev": "-0.0059",
+      "away_ev": "-0.0135",
+      "home_pitcher": "Logan Webb",
+      "away_pitcher": "Max Fried",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 0,
-    "total_games_scanned_today": 2,
-    "total_games_scanned_all": 2
+    "total_games_scanned_today": 3,
+    "total_games_scanned_all": 3
   }
 }
