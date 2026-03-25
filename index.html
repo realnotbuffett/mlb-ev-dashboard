@@ -295,8 +295,8 @@ function render(d) {
     for (const g of sortedGames) {
       const homeEv = parseFloat(g.home_ev || 0);
       const awayEv = parseFloat(g.away_ev || 0);
-      const bestEv = Math.abs(homeEv) > Math.abs(awayEv) ? homeEv : awayEv;
-      const bestEvTeam = Math.abs(homeEv) > Math.abs(awayEv) ? g.home_team : g.away_team;
+      const bestEv = homeEv >= awayEv ? homeEv : awayEv;
+      const bestEvTeam = homeEv >= awayEv ? g.home_team : g.away_team;
       const evPct = (bestEv * 100).toFixed(1);
       const isPos = bestEv > 0.04;
       const hasBet = g.bet_placed === 'yes';
