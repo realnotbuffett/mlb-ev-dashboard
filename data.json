@@ -1,0 +1,13 @@
+{
+  "last_updated": "2026-03-25T21:06:12.987771+00:00",
+  "today": "2026-03-25",
+  "mode": "DRY RUN",
+  "bets": [],
+  "today_games": [],
+  "stats": {
+    "total_bets_today": 0,
+    "total_bets_all_time": 0,
+    "total_games_scanned_today": 0,
+    "total_games_scanned_all": 0
+  }
+}
