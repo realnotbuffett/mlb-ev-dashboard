@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T23:30:05.721873+00:00",
+  "last_updated": "2026-03-26T23:45:05.780160+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
@@ -70,7 +70,7 @@
       "home": "STL",
       "away_score": 7,
       "home_score": 9,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-03-26T20:15:00Z"
     },
     {
@@ -327,16 +327,16 @@
     },
     {
       "date": "2026-03-26",
-      "time": "23:30:04",
+      "time": "23:45:04",
       "game_id": "823974",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.7089",
-      "away_prob": "0.2911",
+      "home_prob": "0.7095",
+      "away_prob": "0.2905",
       "poly_home_price": "0.7200",
       "poly_away_price": "0.2900",
-      "home_ev": "-0.0155",
-      "away_ev": "0.0039",
+      "home_ev": "-0.0146",
+      "away_ev": "0.0018",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Zac Gallen",
       "pitchers_confirmed": "yes",
@@ -349,16 +349,16 @@
     },
     {
       "date": "2026-03-26",
-      "time": "23:30:05",
+      "time": "23:45:05",
       "game_id": "823163",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.6244",
-      "away_prob": "0.3756",
+      "home_prob": "0.6226",
+      "away_prob": "0.3774",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0089",
-      "away_ev": "-0.0116",
+      "home_ev": "-0.0118",
+      "away_ev": "-0.0068",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "Tanner Bibee",
       "pitchers_confirmed": "yes",
@@ -374,6 +374,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 0,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 194
+    "total_games_scanned_all": 196
   }
 }
