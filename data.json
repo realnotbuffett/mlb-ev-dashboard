@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-26T19:45:07.764338+00:00",
+  "last_updated": "2026-03-26T20:00:06.297968+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
       "away": "PIT",
       "home": "NYM",
       "away_score": 5,
-      "home_score": 10,
-      "state": "B6",
+      "home_score": 11,
+      "state": "B7",
       "start_time": "2026-03-26T17:15:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "CWS",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 6,
-      "state": "T5",
+      "home_score": 8,
+      "state": "T6",
       "start_time": "2026-03-26T18:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "CHC",
       "away_score": 7,
       "home_score": 3,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-03-26T18:20:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-03-26T19:05:00Z"
     },
     {
@@ -68,18 +68,18 @@
       "game_id": "823081",
       "away": "TB",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-03-26T20:15:00Z"
     },
     {
       "game_id": "823486",
       "away": "TEX",
       "home": "PHI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-03-26T20:15:00Z"
     },
     {
@@ -327,16 +327,16 @@
     },
     {
       "date": "2026-03-26",
-      "time": "19:45:06",
+      "time": "20:00:05",
       "game_id": "823974",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.7095",
-      "away_prob": "0.2905",
+      "home_prob": "0.7070",
+      "away_prob": "0.2930",
       "poly_home_price": "0.7200",
       "poly_away_price": "0.2900",
-      "home_ev": "-0.0146",
-      "away_ev": "0.0018",
+      "home_ev": "-0.0180",
+      "away_ev": "0.0103",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Zac Gallen",
       "pitchers_confirmed": "yes",
@@ -349,15 +349,15 @@
     },
     {
       "date": "2026-03-26",
-      "time": "19:45:07",
+      "time": "20:00:06",
       "game_id": "823163",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
       "home_prob": "0.6211",
       "away_prob": "0.3789",
-      "poly_home_price": "0.6400",
+      "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0295",
+      "home_ev": "-0.0141",
       "away_ev": "-0.0029",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "Tanner Bibee",
@@ -374,6 +374,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 0,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 164
+    "total_games_scanned_all": 166
   }
 }
