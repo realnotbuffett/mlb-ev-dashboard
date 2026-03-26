@@ -1,41 +1,131 @@
 {
-  "last_updated": "2026-03-26T02:45:03.260297+00:00",
+  "last_updated": "2026-03-26T05:59:01.953064+00:00",
   "scoreboard": [
     {
-      "game_id": "823244",
-      "away": "NYY",
-      "home": "SF",
-      "away_score": 7,
-      "home_score": 0,
-      "state": "T9",
-      "start_time": "2026-03-26T00:05:00Z"
+      "game_id": "823649",
+      "away": "PIT",
+      "home": "NYM",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T17:15:00Z"
+    },
+    {
+      "game_id": "823812",
+      "away": "CWS",
+      "home": "MIL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T18:10:00Z"
+    },
+    {
+      "game_id": "824704",
+      "away": "WSH",
+      "home": "CHC",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T18:20:00Z"
+    },
+    {
+      "game_id": "824865",
+      "away": "MIN",
+      "home": "BAL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T19:05:00Z"
+    },
+    {
+      "game_id": "824541",
+      "away": "BOS",
+      "home": "CIN",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T20:10:00Z"
+    },
+    {
+      "game_id": "824218",
+      "away": "LAA",
+      "home": "HOU",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T20:10:00Z"
+    },
+    {
+      "game_id": "823325",
+      "away": "DET",
+      "home": "SD",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T20:10:00Z"
+    },
+    {
+      "game_id": "823081",
+      "away": "TB",
+      "home": "STL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T20:15:00Z"
+    },
+    {
+      "game_id": "823486",
+      "away": "TEX",
+      "home": "PHI",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-26T20:15:00Z"
+    },
+    {
+      "game_id": "823974",
+      "away": "ARI",
+      "home": "LAD",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-27T00:30:00Z"
+    },
+    {
+      "game_id": "823163",
+      "away": "CLE",
+      "home": "SEA",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-03-27T02:10:00Z"
     }
   ],
-  "today": "2026-03-25",
+  "today": "2026-03-26",
   "mode": "DRY RUN",
   "bets": [],
   "today_games": [
     {
-      "date": "2026-03-25",
-      "time": "23:45:04",
+      "date": "2026-03-26",
+      "time": "00:15:04",
       "game_id": "823244",
       "home_team": "San Francisco Giants",
       "away_team": "New York Yankees",
-      "home_prob": "0.4772",
-      "away_prob": "0.5228",
+      "home_prob": "0.4695",
+      "away_prob": "0.5305",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0059",
-      "away_ev": "-0.0135",
+      "home_ev": "-0.0218",
+      "away_ev": "0.0009",
       "home_pitcher": "Logan Webb",
       "away_pitcher": "Max Fried",
       "pitchers_confirmed": "yes",
       "bet_placed": "no",
       "bet_side": "",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
+      "home_score": "0",
+      "away_score": "7",
+      "winner": "away",
+      "result_updated": "2026-03-26T01:59:01.017113-04:00"
     }
   ],
   "stats": {
