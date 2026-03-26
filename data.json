@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-26T18:15:11.944635+00:00",
+  "last_updated": "2026-03-26T18:30:11.695793+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
       "away": "PIT",
       "home": "NYM",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 5,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-03-26T17:15:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-03-26T18:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "CHC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-03-26T18:20:00Z"
     },
     {
@@ -195,16 +195,16 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:04",
+      "time": "18:30:04",
       "game_id": "824865",
       "home_team": "Baltimore Orioles",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5639",
-      "away_prob": "0.4361",
+      "home_prob": "0.5650",
+      "away_prob": "0.4350",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0107",
-      "away_ev": "-0.0089",
+      "home_ev": "-0.0088",
+      "away_ev": "-0.0114",
       "home_pitcher": "Trevor Rogers",
       "away_pitcher": "Joe Ryan",
       "pitchers_confirmed": "yes",
@@ -217,7 +217,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:05",
+      "time": "18:30:05",
       "game_id": "824541",
       "home_team": "Cincinnati Reds",
       "away_team": "Boston Red Sox",
@@ -239,7 +239,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:06",
+      "time": "18:30:06",
       "game_id": "824218",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -261,7 +261,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:08",
+      "time": "18:30:07",
       "game_id": "823325",
       "home_team": "San Diego Padres",
       "away_team": "Detroit Tigers",
@@ -283,7 +283,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:09",
+      "time": "18:30:08",
       "game_id": "823081",
       "home_team": "St. Louis Cardinals",
       "away_team": "Tampa Bay Rays",
@@ -305,7 +305,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:10",
+      "time": "18:30:09",
       "game_id": "823486",
       "home_team": "Philadelphia Phillies",
       "away_team": "Texas Rangers",
@@ -327,7 +327,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:10",
+      "time": "18:30:10",
       "game_id": "823974",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -349,7 +349,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "18:15:11",
+      "time": "18:30:11",
       "game_id": "823163",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -374,6 +374,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 0,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 124
+    "total_games_scanned_all": 132
   }
 }
