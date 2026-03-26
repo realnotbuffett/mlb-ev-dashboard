@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T22:30:05.916332+00:00",
+  "last_updated": "2026-03-26T22:45:05.721516+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
@@ -41,18 +41,18 @@
       "game_id": "824541",
       "away": "BOS",
       "home": "CIN",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-03-26T20:10:00Z"
     },
     {
       "game_id": "824218",
       "away": "LAA",
       "home": "HOU",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-03-26T20:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "SD",
       "away_score": 8,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-03-26T20:10:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "STL",
       "away_score": 7,
       "home_score": 9,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-03-26T20:15:00Z"
     },
     {
       "game_id": "823486",
       "away": "TEX",
       "home": "PHI",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 5,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-03-26T20:15:00Z"
     },
     {
@@ -327,16 +327,16 @@
     },
     {
       "date": "2026-03-26",
-      "time": "22:30:04",
+      "time": "22:45:04",
       "game_id": "823974",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
       "home_prob": "0.7043",
       "away_prob": "0.2957",
-      "poly_home_price": "0.7100",
-      "poly_away_price": "0.3000",
-      "home_ev": "-0.0081",
-      "away_ev": "-0.0142",
+      "poly_home_price": "0.7200",
+      "poly_away_price": "0.2900",
+      "home_ev": "-0.0219",
+      "away_ev": "0.0198",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Zac Gallen",
       "pitchers_confirmed": "yes",
@@ -349,7 +349,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "22:30:05",
+      "time": "22:45:05",
       "game_id": "823163",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -374,6 +374,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 0,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 186
+    "total_games_scanned_all": 188
   }
 }
