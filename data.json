@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-26T01:30:03.428057+00:00",
+  "last_updated": "2026-03-26T01:45:03.414877+00:00",
   "scoreboard": [
     {
       "game_id": "823244",
       "away": "NYY",
       "home": "SF",
-      "away_score": 5,
+      "away_score": 7,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-03-26T00:05:00Z"
     }
   ],
