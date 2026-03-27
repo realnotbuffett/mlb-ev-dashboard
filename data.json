@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T18:30:11.436451+00:00",
+  "last_updated": "2026-03-27T18:45:11.409601+00:00",
   "scoreboard": [
     {
       "game_id": "823243",
@@ -118,16 +118,16 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:04",
+      "time": "14:45:04",
       "game_id": "823243",
       "home_team": "San Francisco Giants",
       "away_team": "New York Yankees",
-      "home_prob": "0.4484",
-      "away_prob": "0.5516",
-      "poly_home_price": "0.4600",
-      "poly_away_price": "0.5500",
-      "home_ev": "-0.0253",
-      "away_ev": "0.0030",
+      "home_prob": "0.4458",
+      "away_prob": "0.5542",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "-0.0092",
+      "away_ev": "-0.0104",
       "home_pitcher": "Robbie Ray",
       "away_pitcher": "Cam Schlittler",
       "pitchers_confirmed": "yes",
@@ -140,16 +140,16 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:05",
+      "time": "14:45:05",
       "game_id": "822839",
       "home_team": "Toronto Blue Jays",
       "away_team": "Athletics",
-      "home_prob": "0.6135",
-      "away_prob": "0.3865",
+      "home_prob": "0.6092",
+      "away_prob": "0.3908",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0090",
+      "home_ev": "-0.0174",
+      "away_ev": "0.0020",
       "home_pitcher": "Kevin Gausman",
       "away_pitcher": "Luis Severino",
       "pitchers_confirmed": "yes",
@@ -162,7 +162,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:06",
+      "time": "14:45:06",
       "game_id": "823893",
       "home_team": "Miami Marlins",
       "away_team": "Colorado Rockies",
@@ -184,16 +184,16 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:07",
+      "time": "14:45:07",
       "game_id": "824946",
       "home_team": "Atlanta Braves",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.5639",
-      "away_prob": "0.4361",
+      "home_prob": "0.5650",
+      "away_prob": "0.4350",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0107",
-      "away_ev": "-0.0089",
+      "home_ev": "-0.0088",
+      "away_ev": "-0.0114",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Cole Ragans",
       "pitchers_confirmed": "yes",
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:08",
+      "time": "14:45:08",
       "game_id": "824216",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -228,7 +228,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:09",
+      "time": "14:45:09",
       "game_id": "823324",
       "home_team": "San Diego Padres",
       "away_team": "Detroit Tigers",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:10",
+      "time": "14:45:10",
       "game_id": "823162",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -272,7 +272,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "14:30:11",
+      "time": "14:45:11",
       "game_id": "823971",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -297,6 +297,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 1,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 331
+    "total_games_scanned_all": 339
   }
 }
