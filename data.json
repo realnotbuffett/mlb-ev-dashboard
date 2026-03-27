@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T03:30:03.674072+00:00",
+  "last_updated": "2026-03-27T03:30:35.182197+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
@@ -105,8 +105,8 @@
   "mode": "LIVE",
   "bets": [
     {
-      "date": "2026-03-27",
-      "time": "00:45:05",
+      "date": "2026-03-26",
+      "time": "20:45:05",
       "game_id": "823163",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -387,7 +387,7 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
+    "total_bets_today": 1,
     "total_bets_all_time": 1,
     "total_games_scanned_today": 12,
     "total_games_scanned_all": 203
