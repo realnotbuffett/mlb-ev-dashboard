@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T23:45:05.780160+00:00",
+  "last_updated": "2026-03-27T00:00:05.221137+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
@@ -86,9 +86,9 @@
       "game_id": "823974",
       "away": "ARI",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-03-27T00:30:00Z"
     },
     {
@@ -374,6 +374,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 0,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 196
+    "total_games_scanned_all": 197
   }
 }
