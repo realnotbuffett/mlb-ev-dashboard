@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T02:45:04.372786+00:00",
+  "last_updated": "2026-03-27T03:28:36.145681+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
@@ -88,16 +88,16 @@
       "home": "LAD",
       "away_score": 2,
       "home_score": 8,
-      "state": "B7",
+      "state": "FINAL",
       "start_time": "2026-03-27T00:30:00Z"
     },
     {
       "game_id": "823163",
       "away": "CLE",
       "home": "SEA",
-      "away_score": 1,
-      "home_score": 1,
-      "state": "B2",
+      "away_score": 3,
+      "home_score": 3,
+      "state": "B5",
       "start_time": "2026-03-27T02:10:00Z"
     }
   ],
@@ -107,6 +107,7 @@
     {
       "date": "2026-03-27",
       "time": "00:45:05",
+      "game_id": "823163",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
       "bet_side": "away",
