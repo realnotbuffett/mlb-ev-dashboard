@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T23:30:07.788967+00:00",
+  "last_updated": "2026-03-27T23:45:07.807052+00:00",
   "scoreboard": [
     {
       "game_id": "823243",
@@ -24,8 +24,8 @@
       "away": "COL",
       "home": "MIA",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B2",
+      "home_score": 2,
+      "state": "T3",
       "start_time": "2026-03-27T23:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-03-27T23:15:00Z"
     },
     {
@@ -206,16 +206,16 @@
     },
     {
       "date": "2026-03-27",
-      "time": "19:30:04",
+      "time": "19:45:04",
       "game_id": "824216",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6126",
-      "away_prob": "0.3874",
+      "home_prob": "0.6049",
+      "away_prob": "0.3951",
       "poly_home_price": "0.6100",
       "poly_away_price": "0.4000",
-      "home_ev": "0.0042",
-      "away_ev": "-0.0315",
+      "home_ev": "-0.0084",
+      "away_ev": "-0.0122",
       "home_pitcher": "Mike Burrows",
       "away_pitcher": "Yusei Kikuchi",
       "pitchers_confirmed": "yes",
@@ -228,7 +228,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "823324",
       "home_team": "San Diego Padres",
       "away_team": "Detroit Tigers",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "823162",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -272,16 +272,16 @@
     },
     {
       "date": "2026-03-27",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "823971",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.6734",
-      "away_prob": "0.3266",
+      "home_prob": "0.6712",
+      "away_prob": "0.3288",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0097",
-      "away_ev": "-0.0104",
+      "home_ev": "-0.0130",
+      "away_ev": "-0.0035",
       "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Ryne Nelson",
       "pitchers_confirmed": "yes",
@@ -297,6 +297,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 1,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 469
+    "total_games_scanned_all": 473
   }
 }
