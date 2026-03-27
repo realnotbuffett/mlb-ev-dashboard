@@ -111,6 +111,7 @@
   .sb-row { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 0; }
   .sb-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 20px; min-width: 160px; flex: 1; max-width: 220px; transition: border-color 0.2s; }
   .sb-card:hover { border-color: var(--border-bright); }
+  .sb-card.sb-bet { border-color: var(--green); box-shadow: 0 0 8px rgba(52, 211, 153, 0.15); }
   .sb-state { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 8px; font-family: 'JetBrains Mono', monospace; }
   .sb-state.upcoming { color: var(--amber); }
   .sb-state.live { color: var(--green); }
@@ -302,6 +303,13 @@ function render(d) {
       <div class="sb-row">`;
 
   const sb = d.scoreboard || [];
+  const allBets = d.bets || [];
+
+  // Build lookup: game_id -> bet_side for bet labels
+  const betsByGame = {};
+  for (const b of allBets) {
+    if (b.game_id) betsByGame[b.game_id] = b.bet_side;
+  }
   if (sb.length === 0) {
     h += '<div class="empty-state" style="width:100%"><div class="icon">&#9918;</div><p>No games scheduled today</p></div>';
   } else {
@@ -320,15 +328,15 @@ function render(d) {
       const homeScore = g.home_score !== null && g.home_score !== undefined ? g.home_score : '';
 
       h += `
-        <div class="sb-card">
+        <div class="sb-card${betsByGame[g.game_id] ? ' sb-bet' : ''}">
           <div class="sb-state ${stateClass}">${stateLabel}</div>
           <div class="sb-teams">
             <div class="sb-team-row">
-              <span class="sb-team">${g.away}</span>
+              <span class="sb-team">${g.away}${betsByGame[g.game_id] === 'away' ? ' <span style="color:var(--green);font-size:0.7em;font-weight:600">- bet</span>' : ''}</span>
               ${awayScore !== '' ? '<span class="sb-score">'+awayScore+'</span>' : ''}
             </div>
             <div class="sb-team-row">
-              <span class="sb-team">${g.home}</span>
+              <span class="sb-team">${g.home}${betsByGame[g.game_id] === 'home' ? ' <span style="color:var(--green);font-size:0.7em;font-weight:600">- bet</span>' : ''}</span>
               ${homeScore !== '' ? '<span class="sb-score">'+homeScore+'</span>' : ''}
             </div>
             ${timeStr ? '<div class="sb-time">'+timeStr+'</div>' : ''}
@@ -410,7 +418,7 @@ function render(d) {
   } else {
     const sb = [...bets].reverse();
     for (const b of sb) {
-      const ev = (parseFloat(b.ev_pct||0)*100).toFixed(1);
+      const ev = parseFloat(b.ev_pct||0).toFixed(1);
       const mp = (parseFloat(b.model_prob||0)*100).toFixed(1);
       const pp = parseFloat(b.polymarket_price||0).toFixed(2);
       const result = (b.result || '').toUpperCase();
