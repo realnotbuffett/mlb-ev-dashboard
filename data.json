@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T22:45:09.313074+00:00",
+  "last_updated": "2026-03-27T23:00:08.802143+00:00",
   "scoreboard": [
     {
       "game_id": "823243",
@@ -7,7 +7,7 @@
       "home": "SF",
       "away_score": 3,
       "home_score": 0,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-03-27T20:35:00Z"
     },
     {
@@ -32,9 +32,9 @@
       "game_id": "824946",
       "away": "KC",
       "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-03-27T23:15:00Z"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "18:45:04",
+      "time": "19:00:04",
       "game_id": "822839",
       "home_team": "Toronto Blue Jays",
       "away_team": "Athletics",
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "18:45:06",
+      "time": "19:00:05",
       "game_id": "824216",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -228,7 +228,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "18:45:07",
+      "time": "19:00:06",
       "game_id": "823324",
       "home_team": "San Diego Padres",
       "away_team": "Detroit Tigers",
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "18:45:08",
+      "time": "19:00:07",
       "game_id": "823162",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -272,7 +272,7 @@
     },
     {
       "date": "2026-03-27",
-      "time": "18:45:09",
+      "time": "19:00:08",
       "game_id": "823971",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -297,6 +297,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 1,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 455
+    "total_games_scanned_all": 460
   }
 }
