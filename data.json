@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T00:30:04.788767+00:00",
+  "last_updated": "2026-03-27T00:45:05.997410+00:00",
   "scoreboard": [
     {
       "game_id": "823649",
@@ -88,7 +88,7 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-03-27T00:30:00Z"
     },
     {
@@ -103,7 +103,22 @@
   ],
   "today": "2026-03-26",
   "mode": "LIVE",
-  "bets": [],
+  "bets": [
+    {
+      "date": "2026-03-27",
+      "time": "00:45:05",
+      "home_team": "Seattle Mariners",
+      "away_team": "Cleveland Guardians",
+      "bet_side": "away",
+      "model_prob": "0.3980",
+      "polymarket_price": "0.3800",
+      "ev_pct": "4.75%",
+      "bet_size": "$1.00",
+      "order_id": "0x0e7aba06d81fee37de",
+      "result": "",
+      "profit": ""
+    }
+  ],
   "today_games": [
     {
       "date": "2026-03-26",
@@ -371,9 +386,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 0,
+    "total_bets_today": 1,
+    "total_bets_all_time": 1,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 199
+    "total_games_scanned_all": 200
   }
 }
