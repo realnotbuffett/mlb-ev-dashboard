@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T23:15:07.312650+00:00",
+  "last_updated": "2026-03-28T23:30:07.432135+00:00",
   "scoreboard": [
     {
       "game_id": "823082",
@@ -52,16 +52,16 @@
       "home": "CIN",
       "away_score": 5,
       "home_score": 5,
-      "state": "B9",
+      "state": "B10",
       "start_time": "2026-03-28T20:10:00Z"
     },
     {
       "game_id": "823651",
       "away": "PIT",
       "home": "NYM",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "B10",
+      "state": "B11",
       "start_time": "2026-03-28T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "CWS",
       "home": "MIL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 3,
+      "state": "B1",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -442,7 +442,7 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:15:05",
+      "time": "19:30:05",
       "game_id": "823323",
       "home_team": "San Diego Padres",
       "away_team": "Detroit Tigers",
@@ -464,16 +464,16 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:15:06",
+      "time": "19:30:06",
       "game_id": "823973",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
       "home_prob": "0.6886",
       "away_prob": "0.3114",
-      "poly_home_price": "0.6900",
-      "poly_away_price": "0.3200",
-      "home_ev": "-0.0020",
-      "away_ev": "-0.0269",
+      "poly_home_price": "0.7000",
+      "poly_away_price": "0.3100",
+      "home_ev": "-0.0163",
+      "away_ev": "0.0045",
       "home_pitcher": "Tyler Glasnow",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -486,7 +486,7 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:15:07",
+      "time": "19:30:07",
       "game_id": "823161",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -511,6 +511,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 2,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 948
+    "total_games_scanned_all": 951
   }
 }
