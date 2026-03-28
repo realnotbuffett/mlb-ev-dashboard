@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T23:00:07.780236+00:00",
+  "last_updated": "2026-03-28T23:15:07.312650+00:00",
   "scoreboard": [
     {
       "game_id": "823082",
@@ -24,7 +24,7 @@
       "away": "OAK",
       "home": "TOR",
       "away_score": 7,
-      "home_score": 7,
+      "home_score": 8,
       "state": "FINAL",
       "start_time": "2026-03-28T19:07:00Z"
     },
@@ -34,7 +34,7 @@
       "home": "BAL",
       "away_score": 4,
       "home_score": 1,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-03-28T20:05:00Z"
     },
     {
@@ -42,17 +42,17 @@
       "away": "TEX",
       "home": "PHI",
       "away_score": 5,
-      "home_score": 3,
-      "state": "T10",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-03-28T20:05:00Z"
     },
     {
       "game_id": "824540",
       "away": "BOS",
       "home": "CIN",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 5,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-03-28T20:10:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "PIT",
       "home": "NYM",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T10",
+      "home_score": 1,
+      "state": "B10",
       "start_time": "2026-03-28T20:10:00Z"
     },
     {
@@ -442,16 +442,16 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:00:05",
+      "time": "19:15:05",
       "game_id": "823323",
       "home_team": "San Diego Padres",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5115",
-      "away_prob": "0.4885",
-      "poly_home_price": "0.5200",
+      "home_prob": "0.5077",
+      "away_prob": "0.4923",
+      "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0164",
-      "away_ev": "-0.0229",
+      "home_ev": "-0.0046",
+      "away_ev": "-0.0153",
       "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher": "Jack Flaherty",
       "pitchers_confirmed": "yes",
@@ -464,7 +464,7 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:00:06",
+      "time": "19:15:06",
       "game_id": "823973",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -486,16 +486,16 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:00:07",
+      "time": "19:15:07",
       "game_id": "823161",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.6184",
-      "away_prob": "0.3816",
+      "home_prob": "0.6193",
+      "away_prob": "0.3807",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0185",
-      "away_ev": "0.0043",
+      "home_ev": "-0.0170",
+      "away_ev": "0.0019",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Joey Cantillo",
       "pitchers_confirmed": "yes",
@@ -511,6 +511,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 2,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 945
+    "total_games_scanned_all": 948
   }
 }
