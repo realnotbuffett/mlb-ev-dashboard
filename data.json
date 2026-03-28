@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T23:30:07.432135+00:00",
+  "last_updated": "2026-03-28T23:45:07.282903+00:00",
   "scoreboard": [
     {
       "game_id": "823082",
@@ -51,8 +51,8 @@
       "away": "BOS",
       "home": "CIN",
       "away_score": 5,
-      "home_score": 5,
-      "state": "B10",
+      "home_score": 6,
+      "state": "FINAL",
       "start_time": "2026-03-28T20:10:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "PIT",
       "home": "NYM",
       "away_score": 2,
-      "home_score": 1,
-      "state": "B11",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-03-28T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 3,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -442,7 +442,7 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "823323",
       "home_team": "San Diego Padres",
       "away_team": "Detroit Tigers",
@@ -464,7 +464,7 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "823973",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -486,16 +486,16 @@
     },
     {
       "date": "2026-03-28",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "823161",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
       "home_prob": "0.6193",
       "away_prob": "0.3807",
-      "poly_home_price": "0.6300",
-      "poly_away_price": "0.3800",
-      "home_ev": "-0.0170",
-      "away_ev": "0.0019",
+      "poly_home_price": "0.6200",
+      "poly_away_price": "0.3900",
+      "home_ev": "-0.0012",
+      "away_ev": "-0.0238",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Joey Cantillo",
       "pitchers_confirmed": "yes",
@@ -511,6 +511,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 2,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 951
+    "total_games_scanned_all": 954
   }
 }
