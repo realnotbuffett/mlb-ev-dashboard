@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T00:45:05.390577+00:00",
+  "last_updated": "2026-03-29T01:00:06.229680+00:00",
   "scoreboard": [
     {
       "game_id": "823082",
@@ -78,8 +78,8 @@
       "away": "LAA",
       "home": "HOU",
       "away_score": 6,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 3,
+      "state": "T6",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 4,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
       "game_id": "824945",
       "away": "KC",
       "home": "ATL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SF",
       "away_score": 3,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-03-29T00:40:00Z"
     },
     {
@@ -486,7 +486,7 @@
     },
     {
       "date": "2026-03-28",
-      "time": "20:45:05",
+      "time": "21:00:06",
       "game_id": "823161",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -511,6 +511,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 2,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 962
+    "total_games_scanned_all": 963
   }
 }
