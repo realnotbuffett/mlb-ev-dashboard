@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-29T20:15:04.682410+00:00",
+  "last_updated": "2026-03-29T20:30:04.828409+00:00",
   "scoreboard": [
     {
       "game_id": "824864",
       "away": "MIN",
       "home": "BAL",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 8,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-03-29T17:35:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "PHI",
       "away_score": 8,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-03-29T17:35:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "CIN",
       "away_score": 2,
       "home_score": 3,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-03-29T17:40:00Z"
     },
     {
       "game_id": "823647",
       "away": "PIT",
       "home": "NYM",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
-      "state": "T9",
+      "state": "T10",
       "start_time": "2026-03-29T17:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "COL",
       "home": "MIA",
       "away_score": 3,
-      "home_score": 2,
-      "state": "T9",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-03-29T17:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 6,
       "home_score": 6,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-03-29T18:10:00Z"
     },
     {
@@ -78,17 +78,17 @@
       "away": "CWS",
       "home": "MIL",
       "away_score": 7,
-      "home_score": 2,
-      "state": "B6",
+      "home_score": 3,
+      "state": "B7",
       "start_time": "2026-03-29T18:10:00Z"
     },
     {
       "game_id": "823079",
       "away": "TB",
       "home": "STL",
-      "away_score": 6,
+      "away_score": 7,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-03-29T18:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "CHC",
       "away_score": 4,
       "home_score": 2,
-      "state": "B6",
+      "state": "T8",
       "start_time": "2026-03-29T18:20:00Z"
     },
     {
@@ -410,7 +410,7 @@
     },
     {
       "date": "2026-03-29",
-      "time": "16:15:04",
+      "time": "16:30:04",
       "game_id": "823160",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
@@ -435,6 +435,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 3,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 1196
+    "total_games_scanned_all": 1197
   }
 }
