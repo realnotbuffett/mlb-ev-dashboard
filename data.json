@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:00:21.851728+00:00",
+  "last_updated": "2026-03-29T16:07:40.136040+00:00",
   "scoreboard": [
     {
       "game_id": "824864",
@@ -125,8 +125,8 @@
       "ev_pct": "4.75%",
       "bet_size": "$1.00",
       "order_id": "0x0e7aba06d81fee37de",
-      "order_status": "",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$1.00",
       "result": "win",
       "profit": "1.63"
     },
@@ -142,10 +142,27 @@
       "ev_pct": "11.20%",
       "bet_size": "$1.00",
       "order_id": "0x6d797a4859a7dd08f9",
-      "order_status": "",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$1.00",
       "result": "win",
       "profit": "1.17"
+    },
+    {
+      "date": "2026-03-28",
+      "time": "10:15:10",
+      "game_id": "823488",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Texas Rangers",
+      "bet_side": "away",
+      "model_prob": "0.4600",
+      "polymarket_price": "0.4400",
+      "ev_pct": "4.55%",
+      "bet_size": "$10.00",
+      "order_id": "0xe2beaab895b257abeb",
+      "order_status": "filled",
+      "filled_size": "$10.00",
+      "result": "win",
+      "profit": "12.73"
     }
   ],
   "today_games": [
@@ -416,7 +433,7 @@
   ],
   "stats": {
     "total_bets_today": 0,
-    "total_bets_all_time": 2,
+    "total_bets_all_time": 3,
     "total_games_scanned_today": 12,
     "total_games_scanned_all": 1119
   }
