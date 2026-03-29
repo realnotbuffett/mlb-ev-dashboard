@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T00:15:09.341172+00:00",
+  "last_updated": "2026-03-29T00:30:07.008908+00:00",
   "scoreboard": [
     {
       "game_id": "823082",
@@ -79,16 +79,16 @@
       "home": "HOU",
       "away_score": 3,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
       "game_id": "823811",
       "away": "CWS",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 4,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-03-28T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SF",
       "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-03-28T23:15:00Z"
     },
     {
@@ -464,7 +464,7 @@
     },
     {
       "date": "2026-03-28",
-      "time": "20:15:08",
+      "time": "20:30:06",
       "game_id": "823973",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -486,16 +486,16 @@
     },
     {
       "date": "2026-03-28",
-      "time": "20:15:09",
+      "time": "20:30:06",
       "game_id": "823161",
       "home_team": "Seattle Mariners",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.6184",
-      "away_prob": "0.3816",
-      "poly_home_price": "0.6200",
-      "poly_away_price": "0.3900",
-      "home_ev": "-0.0026",
-      "away_ev": "-0.0214",
+      "home_prob": "0.6169",
+      "away_prob": "0.3831",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0208",
+      "away_ev": "0.0082",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Joey Cantillo",
       "pitchers_confirmed": "yes",
@@ -511,6 +511,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 2,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 959
+    "total_games_scanned_all": 961
   }
 }
