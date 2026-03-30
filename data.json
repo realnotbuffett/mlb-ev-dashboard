@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T23:00:12.248352+00:00",
+  "last_updated": "2026-03-30T23:15:10.418779+00:00",
   "scoreboard": [
     {
       "game_id": "824135",
@@ -14,9 +14,9 @@
       "game_id": "824863",
       "away": "TEX",
       "home": "BAL",
-      "away_score": 1,
+      "away_score": 4,
       "home_score": 1,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-03-30T22:35:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-03-30T22:40:00Z"
     },
     {
       "game_id": "823484",
       "away": "WSH",
       "home": "PHI",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-03-30T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-03-30T22:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-03-30T23:07:00Z"
     },
     {
@@ -68,18 +68,18 @@
       "game_id": "824702",
       "away": "LAA",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-03-30T23:40:00Z"
     },
     {
       "game_id": "823809",
       "away": "TB",
       "home": "MIL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-03-30T23:40:00Z"
     },
     {
@@ -371,7 +371,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "19:00:07",
+      "time": "19:15:05",
       "game_id": "823080",
       "home_team": "St. Louis Cardinals",
       "away_team": "New York Mets",
@@ -393,16 +393,16 @@
     },
     {
       "date": "2026-03-30",
-      "time": "19:00:08",
+      "time": "19:15:06",
       "game_id": "824214",
       "home_team": "Houston Astros",
       "away_team": "Boston Red Sox",
       "home_prob": "0.4670",
       "away_prob": "0.5330",
-      "poly_home_price": "0.4700",
-      "poly_away_price": "0.5400",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0130",
+      "poly_home_price": "0.4600",
+      "poly_away_price": "0.5500",
+      "home_ev": "0.0152",
+      "away_ev": "-0.0309",
       "home_pitcher": "Lance McCullers Jr.",
       "away_pitcher": "Ranger Suarez",
       "pitchers_confirmed": "yes",
@@ -415,16 +415,16 @@
     },
     {
       "date": "2026-03-30",
-      "time": "19:00:09",
+      "time": "19:15:07",
       "game_id": "823320",
       "home_team": "San Diego Padres",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5115",
-      "away_prob": "0.4885",
+      "home_prob": "0.5165",
+      "away_prob": "0.4835",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0164",
-      "away_ev": "-0.0030",
+      "home_ev": "-0.0067",
+      "away_ev": "-0.0133",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Landen Roupp",
       "pitchers_confirmed": "yes",
@@ -437,7 +437,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "19:00:10",
+      "time": "19:15:08",
       "game_id": "823159",
       "home_team": "Seattle Mariners",
       "away_team": "New York Yankees",
@@ -459,16 +459,16 @@
     },
     {
       "date": "2026-03-30",
-      "time": "19:00:11",
+      "time": "19:15:09",
       "game_id": "825108",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Detroit Tigers",
       "home_prob": "0.5330",
       "away_prob": "0.4670",
       "poly_home_price": "0.5400",
-      "poly_away_price": "0.4800",
+      "poly_away_price": "0.4700",
       "home_ev": "-0.0130",
-      "away_ev": "-0.0271",
+      "away_ev": "-0.0064",
       "home_pitcher": "Michael Soroka",
       "away_pitcher": "Justin Verlander",
       "pitchers_confirmed": "yes",
@@ -481,7 +481,7 @@
     },
     {
       "date": "2026-03-30",
-      "time": "19:00:12",
+      "time": "19:15:10",
       "game_id": "823972",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Cleveland Guardians",
@@ -528,6 +528,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 3,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 1784
+    "total_games_scanned_all": 1790
   }
 }
