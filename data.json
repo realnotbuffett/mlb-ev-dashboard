@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T01:00:08.576723+00:00",
+  "last_updated": "2026-03-31T01:15:09.267691+00:00",
   "scoreboard": [
     {
       "game_id": "824135",
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 4,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-03-30T22:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 9,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-03-30T22:40:00Z"
     },
     {
@@ -42,15 +42,15 @@
       "away": "CWS",
       "home": "MIA",
       "away_score": 9,
-      "home_score": 3,
-      "state": "B8",
+      "home_score": 4,
+      "state": "T9",
       "start_time": "2026-03-30T22:40:00Z"
     },
     {
       "game_id": "822834",
       "away": "COL",
       "home": "TOR",
-      "away_score": 4,
+      "away_score": 7,
       "home_score": 1,
       "state": "T6",
       "start_time": "2026-03-30T23:07:00Z"
@@ -61,7 +61,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 3,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-03-30T23:15:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CHC",
       "away_score": 0,
       "home_score": 6,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-03-30T23:40:00Z"
     },
     {
@@ -78,17 +78,17 @@
       "away": "TB",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-03-30T23:40:00Z"
     },
     {
       "game_id": "823080",
       "away": "NYM",
       "home": "STL",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-03-30T23:45:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 3,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-03-31T00:10:00Z"
     },
     {
@@ -113,9 +113,9 @@
       "game_id": "823159",
       "away": "NYY",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-03-31T01:40:00Z"
     },
     {
@@ -415,16 +415,16 @@
     },
     {
       "date": "2026-03-30",
-      "time": "21:00:05",
+      "time": "21:15:07",
       "game_id": "823320",
       "home_team": "San Diego Padres",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5165",
-      "away_prob": "0.4835",
+      "home_prob": "0.5204",
+      "away_prob": "0.4796",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0067",
-      "away_ev": "-0.0133",
+      "home_ev": "0.0008",
+      "away_ev": "-0.0212",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Landen Roupp",
       "pitchers_confirmed": "yes",
@@ -459,16 +459,16 @@
     },
     {
       "date": "2026-03-30",
-      "time": "21:00:07",
+      "time": "21:15:08",
       "game_id": "825108",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5305",
-      "away_prob": "0.4695",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0177",
-      "away_ev": "-0.0010",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0118",
       "home_pitcher": "Michael Soroka",
       "away_pitcher": "Justin Verlander",
       "pitchers_confirmed": "yes",
@@ -481,16 +481,16 @@
     },
     {
       "date": "2026-03-30",
-      "time": "21:00:08",
+      "time": "21:15:09",
       "game_id": "823972",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.6286",
-      "away_prob": "0.3714",
+      "home_prob": "0.6318",
+      "away_prob": "0.3682",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0023",
-      "away_ev": "-0.0226",
+      "home_ev": "0.0029",
+      "away_ev": "-0.0311",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Parker Messick",
       "pitchers_confirmed": "yes",
@@ -528,6 +528,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 3,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 1815
+    "total_games_scanned_all": 1818
   }
 }
