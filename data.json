@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T20:30:06.259238+00:00",
+  "last_updated": "2026-04-01T20:45:05.873157+00:00",
   "scoreboard": [
     {
       "game_id": "824940",
@@ -61,7 +61,7 @@
       "home": "STL",
       "away_score": 1,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-04-01T17:15:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "MIL",
       "away_score": 2,
       "home_score": 8,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-01T17:40:00Z"
     },
     {
       "game_id": "824211",
       "away": "BOS",
       "home": "HOU",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 6,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-04-01T18:10:00Z"
     },
     {
@@ -87,7 +87,7 @@
       "away": "LAA",
       "home": "CHC",
       "away_score": 2,
-      "home_score": 5,
+      "home_score": 6,
       "state": "B7",
       "start_time": "2026-04-01T18:20:00Z"
     },
@@ -97,7 +97,7 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-01T19:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SD",
       "away_score": 0,
       "home_score": 1,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-04-01T20:10:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-01T20:10:00Z"
     },
     {
@@ -481,7 +481,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "16:30:05",
+      "time": "16:45:04",
       "game_id": "824136",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
@@ -503,7 +503,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "16:30:06",
+      "time": "16:45:05",
       "game_id": "823970",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Cleveland Guardians",
@@ -528,6 +528,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 3,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 2669
+    "total_games_scanned_all": 2671
   }
 }
