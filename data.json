@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T23:15:06.818932+00:00",
+  "last_updated": "2026-04-01T23:30:05.145083+00:00",
   "scoreboard": [
     {
       "game_id": "824940",
@@ -122,9 +122,9 @@
       "game_id": "824136",
       "away": "MIN",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-01T23:40:00Z"
     },
     {
@@ -203,8 +203,8 @@
       "ev_pct": "16.21%",
       "bet_size": "$10.00",
       "order_id": "0x182541685e797d985b",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     }
@@ -520,16 +520,16 @@
     },
     {
       "date": "2026-04-01",
-      "time": "19:15:06",
+      "time": "19:30:05",
       "game_id": "823970",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.7122",
-      "away_prob": "0.2878",
-      "poly_home_price": "0.7300",
-      "poly_away_price": "0.2800",
-      "home_ev": "-0.0244",
-      "away_ev": "0.0279",
+      "home_prob": "0.7134",
+      "away_prob": "0.2866",
+      "poly_home_price": "0.7200",
+      "poly_away_price": "0.2900",
+      "home_ev": "-0.0092",
+      "away_ev": "-0.0117",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Gavin Williams",
       "pitchers_confirmed": "yes",
@@ -545,6 +545,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 4,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 2689
+    "total_games_scanned_all": 2690
   }
 }
