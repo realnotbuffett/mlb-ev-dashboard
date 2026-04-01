@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T23:30:05.145083+00:00",
+  "last_updated": "2026-04-01T23:45:05.306390+00:00",
   "scoreboard": [
     {
       "game_id": "824940",
@@ -520,16 +520,16 @@
     },
     {
       "date": "2026-04-01",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "823970",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.7134",
-      "away_prob": "0.2866",
+      "home_prob": "0.7167",
+      "away_prob": "0.2833",
       "poly_home_price": "0.7200",
       "poly_away_price": "0.2900",
-      "home_ev": "-0.0092",
-      "away_ev": "-0.0117",
+      "home_ev": "-0.0046",
+      "away_ev": "-0.0230",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Gavin Williams",
       "pitchers_confirmed": "yes",
@@ -545,6 +545,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 4,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 2690
+    "total_games_scanned_all": 2691
   }
 }
