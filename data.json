@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T22:00:06.390235+00:00",
+  "last_updated": "2026-04-01T22:15:06.074239+00:00",
   "scoreboard": [
     {
       "game_id": "824940",
@@ -104,9 +104,9 @@
       "game_id": "823321",
       "away": "SF",
       "home": "SD",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 3,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-04-01T20:10:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 4,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-04-01T20:10:00Z"
     },
     {
@@ -481,7 +481,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "18:00:05",
+      "time": "18:15:04",
       "game_id": "824136",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
@@ -503,7 +503,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "18:00:06",
+      "time": "18:15:06",
       "game_id": "823970",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Cleveland Guardians",
@@ -528,6 +528,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 3,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 2681
+    "total_games_scanned_all": 2683
   }
 }
