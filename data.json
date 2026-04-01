@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T19:30:08.335999+00:00",
+  "last_updated": "2026-04-01T19:45:06.017218+00:00",
   "scoreboard": [
     {
       "game_id": "824940",
@@ -33,7 +33,7 @@
       "away": "WSH",
       "home": "PHI",
       "away_score": 5,
-      "home_score": 2,
+      "home_score": 3,
       "state": "B8",
       "start_time": "2026-04-01T17:05:00Z"
     },
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 1,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-04-01T17:07:00Z"
     },
     {
@@ -59,9 +59,9 @@
       "game_id": "823078",
       "away": "NYM",
       "home": "STL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-01T17:15:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIL",
       "away_score": 2,
       "home_score": 2,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-01T17:40:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "BOS",
       "home": "HOU",
       "away_score": 2,
-      "home_score": 2,
-      "state": "B5",
+      "home_score": 5,
+      "state": "T6",
       "start_time": "2026-04-01T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "CHC",
       "away_score": 0,
       "home_score": 5,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-01T18:20:00Z"
     },
     {
@@ -104,18 +104,18 @@
       "game_id": "823321",
       "away": "SF",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-01T20:10:00Z"
     },
     {
       "game_id": "823157",
       "away": "NYY",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-01T20:10:00Z"
     },
     {
@@ -481,16 +481,16 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:30:07",
+      "time": "15:45:04",
       "game_id": "824136",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.4821",
-      "away_prob": "0.5179",
+      "home_prob": "0.4835",
+      "away_prob": "0.5165",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0160",
-      "away_ev": "-0.0041",
+      "home_ev": "-0.0133",
+      "away_ev": "-0.0067",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Joe Ryan",
       "pitchers_confirmed": "yes",
@@ -503,7 +503,7 @@
     },
     {
       "date": "2026-04-01",
-      "time": "15:30:08",
+      "time": "15:45:05",
       "game_id": "823970",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Cleveland Guardians",
@@ -528,6 +528,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 3,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 2661
+    "total_games_scanned_all": 2663
   }
 }
