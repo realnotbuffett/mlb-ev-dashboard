@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T05:59:03.341993+00:00",
+  "last_updated": "2026-04-02T13:00:10.669657+00:00",
   "scoreboard": [
     {
       "game_id": "824133",
@@ -110,11 +110,78 @@
       "profit": "10.00"
     }
   ],
-  "today_games": [],
+  "today_games": [
+    {
+      "date": "2026-04-02",
+      "time": "09:00:08",
+      "game_id": "824133",
+      "home_team": "Kansas City Royals",
+      "away_team": "Minnesota Twins",
+      "home_prob": "0.5831",
+      "away_prob": "0.4169",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "-0.0116",
+      "away_ev": "-0.0074",
+      "home_pitcher": "Cole Ragans",
+      "away_pitcher": "Taj Bradley",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
+    },
+    {
+      "date": "2026-04-02",
+      "time": "09:00:09",
+      "game_id": "825105",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Atlanta Braves",
+      "home_prob": "0.4758",
+      "away_prob": "0.5242",
+      "poly_home_price": "0.4800",
+      "poly_away_price": "0.5300",
+      "home_ev": "-0.0087",
+      "away_ev": "-0.0110",
+      "home_pitcher": "Ryne Nelson",
+      "away_pitcher": "Reynaldo L\u00f3pez",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
+    },
+    {
+      "date": "2026-04-02",
+      "time": "09:00:10",
+      "game_id": "823242",
+      "home_team": "San Francisco Giants",
+      "away_team": "New York Mets",
+      "home_prob": "0.4645",
+      "away_prob": "0.5355",
+      "poly_home_price": "0.4700",
+      "poly_away_price": "0.5400",
+      "home_ev": "-0.0118",
+      "away_ev": "-0.0083",
+      "home_pitcher": "Robbie Ray",
+      "away_pitcher": "David Peterson",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
+    }
+  ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 4,
-    "total_games_scanned_today": 0,
-    "total_games_scanned_all": 2691
+    "total_games_scanned_today": 3,
+    "total_games_scanned_all": 2694
   }
 }
