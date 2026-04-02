@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T13:45:06.939506+00:00",
+  "last_updated": "2026-04-02T14:00:07.650287+00:00",
   "scoreboard": [
     {
       "game_id": "824133",
@@ -113,16 +113,16 @@
   "today_games": [
     {
       "date": "2026-04-02",
-      "time": "09:45:04",
+      "time": "10:00:05",
       "game_id": "824133",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5831",
-      "away_prob": "0.4169",
+      "home_prob": "0.5901",
+      "away_prob": "0.4099",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0116",
-      "away_ev": "-0.0074",
+      "home_ev": "0.0002",
+      "away_ev": "-0.0241",
       "home_pitcher": "Cole Ragans",
       "away_pitcher": "Taj Bradley",
       "pitchers_confirmed": "yes",
@@ -135,7 +135,7 @@
     },
     {
       "date": "2026-04-02",
-      "time": "09:45:05",
+      "time": "10:00:06",
       "game_id": "825105",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Atlanta Braves",
@@ -157,7 +157,7 @@
     },
     {
       "date": "2026-04-02",
-      "time": "09:45:06",
+      "time": "10:00:07",
       "game_id": "823242",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
@@ -182,6 +182,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 4,
     "total_games_scanned_today": 3,
-    "total_games_scanned_all": 2703
+    "total_games_scanned_all": 2706
   }
 }
