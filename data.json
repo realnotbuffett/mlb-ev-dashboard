@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T23:30:08.352417+00:00",
+  "last_updated": "2026-04-03T23:45:08.353895+00:00",
   "scoreboard": [
     {
       "game_id": "822758",
@@ -69,7 +69,7 @@
       "away": "TB",
       "home": "MIN",
       "away_score": 3,
-      "home_score": 3,
+      "home_score": 5,
       "state": "B7",
       "start_time": "2026-04-03T20:10:00Z"
     },
@@ -427,7 +427,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "824056",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
@@ -449,16 +449,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "825026",
       "home_team": "Athletics",
       "away_team": "Houston Astros",
       "home_prob": "0.4808",
       "away_prob": "0.5192",
-      "poly_home_price": "0.5000",
-      "poly_away_price": "0.5100",
-      "home_ev": "-0.0384",
-      "away_ev": "0.0180",
+      "poly_home_price": "0.5100",
+      "poly_away_price": "0.5000",
+      "home_ev": "-0.0572",
+      "away_ev": "0.0384",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Cristian Javier",
       "pitchers_confirmed": "yes",
@@ -471,16 +471,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "825103",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4936",
-      "away_prob": "0.5064",
+      "home_prob": "0.4949",
+      "away_prob": "0.5051",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0128",
-      "away_ev": "-0.0071",
+      "home_ev": "-0.0103",
+      "away_ev": "-0.0096",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Grant Holmes",
       "pitchers_confirmed": "yes",
@@ -493,16 +493,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "19:30:08",
+      "time": "19:45:08",
       "game_id": "823240",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
-      "home_prob": "0.4557",
-      "away_prob": "0.5443",
+      "home_prob": "0.4656",
+      "away_prob": "0.5344",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0094",
-      "away_ev": "-0.0104",
+      "home_ev": "0.0123",
+      "away_ev": "-0.0285",
       "home_pitcher": "Tyler Mahle",
       "away_pitcher": "Nolan McLean",
       "pitchers_confirmed": "yes",
@@ -562,6 +562,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 5,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 3204
+    "total_games_scanned_all": 3208
   }
 }
