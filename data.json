@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T22:30:08.530661+00:00",
+  "last_updated": "2026-04-03T22:45:08.292146+00:00",
   "scoreboard": [
     {
       "game_id": "822758",
@@ -52,7 +52,7 @@
       "home": "TEX",
       "away_score": 5,
       "home_score": 3,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-04-03T20:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 4,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-04-03T20:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIN",
       "away_score": 3,
       "home_score": 3,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-04-03T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "COL",
       "away_score": 10,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-04-03T20:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "PIT",
       "away_score": 3,
       "home_score": 5,
-      "state": "T7",
+      "state": "B8",
       "start_time": "2026-04-03T20:12:00Z"
     },
     {
@@ -427,16 +427,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "824056",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4134",
-      "away_prob": "0.5866",
+      "home_prob": "0.4158",
+      "away_prob": "0.5842",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0158",
-      "away_ev": "-0.0057",
+      "home_ev": "-0.0099",
+      "away_ev": "-0.0099",
       "home_pitcher": "Reid Detmers",
       "away_pitcher": "Bryan Woo",
       "pitchers_confirmed": "yes",
@@ -449,16 +449,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "18:30:06",
+      "time": "18:45:06",
       "game_id": "825026",
       "home_team": "Athletics",
       "away_team": "Houston Astros",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5051",
+      "away_prob": "0.4949",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0046",
-      "away_ev": "-0.0153",
+      "home_ev": "-0.0096",
+      "away_ev": "-0.0102",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Cristian Javier",
       "pitchers_confirmed": "yes",
@@ -471,7 +471,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "18:30:07",
+      "time": "18:45:07",
       "game_id": "825103",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Atlanta Braves",
@@ -493,16 +493,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "18:30:08",
+      "time": "18:45:08",
       "game_id": "823240",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
-      "home_prob": "0.4557",
-      "away_prob": "0.5443",
+      "home_prob": "0.4571",
+      "away_prob": "0.5429",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0094",
-      "away_ev": "-0.0104",
+      "home_ev": "-0.0064",
+      "away_ev": "-0.0129",
       "home_pitcher": "Tyler Mahle",
       "away_pitcher": "Nolan McLean",
       "pitchers_confirmed": "yes",
@@ -562,6 +562,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 5,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 3192
+    "total_games_scanned_all": 3196
   }
 }
