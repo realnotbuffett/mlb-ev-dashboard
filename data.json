@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T02:15:04.403242+00:00",
+  "last_updated": "2026-04-03T02:30:06.722563+00:00",
   "scoreboard": [
     {
       "game_id": "824133",
@@ -15,8 +15,8 @@
       "away": "ATL",
       "home": "ARI",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 1,
+      "state": "T4",
       "start_time": "2026-04-03T01:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "SF",
       "away_score": 2,
       "home_score": 3,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-03T01:45:00Z"
     },
     {
