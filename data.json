@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T21:30:09.400930+00:00",
+  "last_updated": "2026-04-03T21:45:09.385419+00:00",
   "scoreboard": [
     {
       "game_id": "822758",
@@ -52,7 +52,7 @@
       "home": "TEX",
       "away_score": 3,
       "home_score": 2,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-03T20:05:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "CHC",
       "home": "CLE",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 1,
+      "state": "T6",
       "start_time": "2026-04-03T20:10:00Z"
     },
     {
@@ -70,25 +70,25 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-03T20:10:00Z"
     },
     {
       "game_id": "824377",
       "away": "PHI",
       "home": "COL",
-      "away_score": 9,
+      "away_score": 10,
       "home_score": 1,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-03T20:10:00Z"
     },
     {
       "game_id": "823406",
       "away": "BAL",
       "home": "PIT",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-03T20:12:00Z"
     },
     {
@@ -405,16 +405,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "17:30:05",
+      "time": "17:45:05",
       "game_id": "824134",
       "home_team": "Kansas City Royals",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4898",
-      "away_prob": "0.5102",
+      "home_prob": "0.4885",
+      "away_prob": "0.5115",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0004",
-      "away_ev": "-0.0188",
+      "home_ev": "-0.0030",
+      "away_ev": "-0.0164",
       "home_pitcher": "Luinder Avila",
       "away_pitcher": "Chad Patrick",
       "pitchers_confirmed": "yes",
@@ -427,7 +427,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "17:30:06",
+      "time": "17:45:06",
       "game_id": "824056",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
@@ -449,7 +449,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "17:30:07",
+      "time": "17:45:07",
       "game_id": "825026",
       "home_team": "Athletics",
       "away_team": "Houston Astros",
@@ -471,7 +471,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "17:30:08",
+      "time": "17:45:08",
       "game_id": "825103",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Atlanta Braves",
@@ -493,7 +493,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "17:30:09",
+      "time": "17:45:09",
       "game_id": "823240",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
@@ -562,6 +562,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 5,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 3173
+    "total_games_scanned_all": 3178
   }
 }
