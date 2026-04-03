@@ -1,32 +1,41 @@
 {
-  "last_updated": "2026-04-03T03:45:04.253239+00:00",
+  "last_updated": "2026-04-03T05:59:03.582474+00:00",
   "scoreboard": [
     {
-      "game_id": "824133",
-      "away": "MIN",
-      "home": "KC",
-      "away_score": 5,
-      "home_score": 1,
-      "state": "FINAL",
-      "start_time": "2026-04-02T18:10:00Z"
+      "game_id": "822758",
+      "away": "LAD",
+      "home": "WSH",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T17:05:00Z"
     },
     {
-      "game_id": "825105",
-      "away": "ATL",
-      "home": "ARI",
-      "away_score": 12,
-      "home_score": 1,
-      "state": "T7",
-      "start_time": "2026-04-03T01:40:00Z"
+      "game_id": "824299",
+      "away": "STL",
+      "home": "DET",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T17:10:00Z"
     },
     {
-      "game_id": "823242",
-      "away": "NYM",
-      "home": "SF",
-      "away_score": 2,
-      "home_score": 7,
-      "state": "B6",
-      "start_time": "2026-04-03T01:45:00Z"
+      "game_id": "823568",
+      "away": "MIA",
+      "home": "NYY",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T17:35:00Z"
+    },
+    {
+      "game_id": "824786",
+      "away": "SD",
+      "home": "BOS",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T18:10:00Z"
     },
     {
       "game_id": "824621",
@@ -34,11 +43,101 @@
       "home": "CWS",
       "away_score": null,
       "home_score": null,
-      "state": "FINAL",
-      "start_time": "2026-04-02T20:10:00Z"
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T18:10:00Z"
+    },
+    {
+      "game_id": "822919",
+      "away": "CIN",
+      "home": "TEX",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T20:05:00Z"
+    },
+    {
+      "game_id": "824458",
+      "away": "CHC",
+      "home": "CLE",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T20:10:00Z"
+    },
+    {
+      "game_id": "823732",
+      "away": "TB",
+      "home": "MIN",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T20:10:00Z"
+    },
+    {
+      "game_id": "824377",
+      "away": "PHI",
+      "home": "COL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T20:10:00Z"
+    },
+    {
+      "game_id": "823406",
+      "away": "BAL",
+      "home": "PIT",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T20:12:00Z"
+    },
+    {
+      "game_id": "824134",
+      "away": "MIL",
+      "home": "KC",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-03T23:45:00Z"
+    },
+    {
+      "game_id": "824056",
+      "away": "SEA",
+      "home": "LAA",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-04T01:38:00Z"
+    },
+    {
+      "game_id": "825026",
+      "away": "HOU",
+      "home": "OAK",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-04T01:40:00Z"
+    },
+    {
+      "game_id": "825103",
+      "away": "ATL",
+      "home": "ARI",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-04T01:45:00Z"
+    },
+    {
+      "game_id": "823240",
+      "away": "NYM",
+      "home": "SF",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-04-04T02:15:00Z"
     }
   ],
-  "today": "2026-04-02",
+  "today": "2026-04-03",
   "mode": "LIVE",
   "bets": [
     {
@@ -121,84 +220,17 @@
       "ev_pct": "5.77%",
       "bet_size": "$10.00",
       "order_id": "0x7ede5c59d1a9e6d8dc",
-      "order_status": "pending",
-      "filled_size": "",
-      "result": "",
-      "profit": ""
+      "order_status": "filled",
+      "filled_size": "$10.00",
+      "result": "win",
+      "profit": "9.61"
     }
   ],
-  "today_games": [
-    {
-      "date": "2026-04-02",
-      "time": "13:30:05",
-      "game_id": "824133",
-      "home_team": "Kansas City Royals",
-      "away_team": "Minnesota Twins",
-      "home_prob": "0.5901",
-      "away_prob": "0.4099",
-      "poly_home_price": "0.6000",
-      "poly_away_price": "0.4100",
-      "home_ev": "-0.0165",
-      "away_ev": "-0.0003",
-      "home_pitcher": "Cole Ragans",
-      "away_pitcher": "Taj Bradley",
-      "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "21:15:05",
-      "game_id": "825105",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "Atlanta Braves",
-      "home_prob": "0.4606",
-      "away_prob": "0.5394",
-      "poly_home_price": "0.5000",
-      "poly_away_price": "0.5100",
-      "home_ev": "-0.0789",
-      "away_ev": "0.0577",
-      "home_pitcher": "Ryne Nelson",
-      "away_pitcher": "Reynaldo L\u00f3pez",
-      "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
-    },
-    {
-      "date": "2026-04-02",
-      "time": "21:15:06",
-      "game_id": "823242",
-      "home_team": "San Francisco Giants",
-      "away_team": "New York Mets",
-      "home_prob": "0.4518",
-      "away_prob": "0.5482",
-      "poly_home_price": "0.4800",
-      "poly_away_price": "0.5300",
-      "home_ev": "-0.0588",
-      "away_ev": "0.0344",
-      "home_pitcher": "Robbie Ray",
-      "away_pitcher": "David Peterson",
-      "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
-    }
-  ],
+  "today_games": [],
   "stats": {
-    "total_bets_today": 1,
+    "total_bets_today": 0,
     "total_bets_all_time": 5,
-    "total_games_scanned_today": 3,
+    "total_games_scanned_today": 0,
     "total_games_scanned_all": 2808
   }
 }
