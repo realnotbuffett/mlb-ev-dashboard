@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T23:45:06.102825+00:00",
+  "last_updated": "2026-04-03T00:00:07.783185+00:00",
   "scoreboard": [
     {
       "game_id": "824133",
@@ -108,6 +108,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "10.00"
+    },
+    {
+      "date": "2026-04-02",
+      "time": "20:00:06",
+      "game_id": "825105",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Atlanta Braves",
+      "bet_side": "away",
+      "model_prob": "0.5394",
+      "polymarket_price": "0.5100",
+      "ev_pct": "5.77%",
+      "bet_size": "$10.00",
+      "order_id": "0x7ede5c59d1a9e6d8dc",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -135,21 +152,21 @@
     },
     {
       "date": "2026-04-02",
-      "time": "19:45:05",
+      "time": "20:00:06",
       "game_id": "825105",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4885",
-      "away_prob": "0.5115",
+      "home_prob": "0.4606",
+      "away_prob": "0.5394",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0229",
-      "away_ev": "0.0028",
+      "home_ev": "-0.0789",
+      "away_ev": "0.0577",
       "home_pitcher": "Ryne Nelson",
       "away_pitcher": "Reynaldo L\u00f3pez",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -157,16 +174,16 @@
     },
     {
       "date": "2026-04-02",
-      "time": "19:45:06",
+      "time": "20:00:07",
       "game_id": "823242",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
-      "home_prob": "0.4707",
-      "away_prob": "0.5293",
+      "home_prob": "0.4518",
+      "away_prob": "0.5482",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "0.0016",
-      "away_ev": "-0.0199",
+      "home_ev": "-0.0388",
+      "away_ev": "0.0152",
       "home_pitcher": "Robbie Ray",
       "away_pitcher": "David Peterson",
       "pitchers_confirmed": "yes",
@@ -179,9 +196,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 4,
+    "total_bets_today": 1,
+    "total_bets_all_time": 5,
     "total_games_scanned_today": 3,
-    "total_games_scanned_all": 2796
+    "total_games_scanned_all": 2798
   }
 }
