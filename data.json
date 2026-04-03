@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T19:15:14.022536+00:00",
+  "last_updated": "2026-04-03T19:30:14.549878+00:00",
   "scoreboard": [
     {
       "game_id": "822758",
@@ -7,7 +7,7 @@
       "home": "WSH",
       "away_score": 12,
       "home_score": 4,
-      "state": "T7",
+      "state": "B8",
       "start_time": "2026-04-03T17:05:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-04-03T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 2,
       "home_score": 4,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-03T17:35:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "SD",
       "home": "BOS",
       "away_score": 0,
-      "home_score": 1,
-      "state": "B4",
+      "home_score": 2,
+      "state": "T5",
       "start_time": "2026-04-03T18:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 3,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-03T18:10:00Z"
     },
     {
@@ -317,7 +317,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "822919",
       "home_team": "Texas Rangers",
       "away_team": "Cincinnati Reds",
@@ -339,7 +339,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:07",
+      "time": "15:30:07",
       "game_id": "823732",
       "home_team": "Minnesota Twins",
       "away_team": "Tampa Bay Rays",
@@ -361,7 +361,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:08",
+      "time": "15:30:08",
       "game_id": "824377",
       "home_team": "Colorado Rockies",
       "away_team": "Philadelphia Phillies",
@@ -383,7 +383,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:09",
+      "time": "15:30:09",
       "game_id": "823406",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Baltimore Orioles",
@@ -405,16 +405,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:09",
+      "time": "15:30:10",
       "game_id": "824134",
       "home_team": "Kansas City Royals",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4923",
-      "away_prob": "0.5077",
+      "home_prob": "0.4911",
+      "away_prob": "0.5089",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0153",
-      "away_ev": "-0.0046",
+      "home_ev": "-0.0178",
+      "away_ev": "-0.0021",
       "home_pitcher": "Luinder Avila",
       "away_pitcher": "Chad Patrick",
       "pitchers_confirmed": "yes",
@@ -427,7 +427,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:11",
+      "time": "15:30:11",
       "game_id": "824056",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
@@ -449,7 +449,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:11",
+      "time": "15:30:12",
       "game_id": "825026",
       "home_team": "Athletics",
       "away_team": "Houston Astros",
@@ -471,7 +471,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:13",
+      "time": "15:30:13",
       "game_id": "825103",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Atlanta Braves",
@@ -493,7 +493,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:14",
+      "time": "15:30:14",
       "game_id": "823240",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
@@ -537,16 +537,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "15:15:06",
+      "time": "15:30:06",
       "game_id": "824458",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.4809",
-      "away_prob": "0.5191",
+      "home_prob": "0.4821",
+      "away_prob": "0.5179",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0185",
-      "away_ev": "-0.0018",
+      "home_ev": "-0.0160",
+      "away_ev": "-0.0041",
       "home_pitcher": "Joey Cantillo",
       "away_pitcher": "Cade Horton",
       "pitchers_confirmed": "yes",
@@ -562,6 +562,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 5,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 3119
+    "total_games_scanned_all": 3129
   }
 }
