@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T01:30:06.267653+00:00",
+  "last_updated": "2026-04-04T01:45:06.042989+00:00",
   "scoreboard": [
     {
       "game_id": "822758",
@@ -427,7 +427,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "21:30:05",
+      "time": "21:45:05",
       "game_id": "824056",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
@@ -493,7 +493,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "21:30:06",
+      "time": "21:45:06",
       "game_id": "823240",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
@@ -562,6 +562,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 5,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 3234
+    "total_games_scanned_all": 3236
   }
 }
