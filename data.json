@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T00:15:08.434431+00:00",
+  "last_updated": "2026-04-04T00:30:15.304441+00:00",
   "scoreboard": [
     {
       "game_id": "822758",
@@ -70,7 +70,7 @@
       "home": "MIN",
       "away_score": 4,
       "home_score": 10,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-03T20:10:00Z"
     },
     {
@@ -427,7 +427,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "20:15:05",
+      "time": "20:30:12",
       "game_id": "824056",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
@@ -449,16 +449,16 @@
     },
     {
       "date": "2026-04-03",
-      "time": "20:15:06",
+      "time": "20:30:13",
       "game_id": "825026",
       "home_team": "Athletics",
       "away_team": "Houston Astros",
       "home_prob": "0.4808",
       "away_prob": "0.5192",
-      "poly_home_price": "0.5100",
-      "poly_away_price": "0.5000",
-      "home_ev": "-0.0572",
-      "away_ev": "0.0384",
+      "poly_home_price": "0.5000",
+      "poly_away_price": "0.5100",
+      "home_ev": "-0.0384",
+      "away_ev": "0.0180",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Cristian Javier",
       "pitchers_confirmed": "yes",
@@ -471,7 +471,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "20:15:07",
+      "time": "20:30:14",
       "game_id": "825103",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Atlanta Braves",
@@ -493,7 +493,7 @@
     },
     {
       "date": "2026-04-03",
-      "time": "20:15:08",
+      "time": "20:30:15",
       "game_id": "823240",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
@@ -562,6 +562,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 5,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 3216
+    "total_games_scanned_all": 3220
   }
 }
