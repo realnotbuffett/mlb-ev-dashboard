@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T22:45:09.765662+00:00",
+  "last_updated": "2026-04-04T23:15:07.462792+00:00",
   "scoreboard": [
     {
       "game_id": "824295",
@@ -32,9 +32,9 @@
       "game_id": "824134",
       "away": "MIL",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-04T23:10:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "LAD",
       "home": "WSH",
       "away_score": 10,
-      "home_score": 4,
-      "state": "B9",
+      "home_score": 5,
+      "state": "FINAL",
       "start_time": "2026-04-04T20:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "OAK",
       "away_score": 11,
       "home_score": 0,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-04-04T20:05:00Z"
     },
     {
@@ -60,24 +60,24 @@
       "away": "BAL",
       "home": "PIT",
       "away_score": 2,
-      "home_score": 1,
-      "state": "B8",
+      "home_score": 2,
+      "state": "B9",
       "start_time": "2026-04-04T20:05:00Z"
     },
     {
       "game_id": "824782",
       "away": "SD",
       "home": "BOS",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-04-04T20:10:00Z"
     },
     {
       "game_id": "822920",
       "away": "CIN",
       "home": "TEX",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-04-04T23:05:00Z"
@@ -95,18 +95,18 @@
       "game_id": "823730",
       "away": "TB",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-04T23:10:00Z"
     },
     {
       "game_id": "825104",
       "away": "ATL",
       "home": "ARI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-04T23:15:00Z"
     },
     {
@@ -541,16 +541,16 @@
     },
     {
       "date": "2026-04-04",
-      "time": "18:45:08",
+      "time": "19:15:06",
       "game_id": "823239",
       "home_team": "San Francisco Giants",
       "away_team": "New York Mets",
-      "home_prob": "0.5051",
-      "away_prob": "0.4949",
-      "poly_home_price": "0.5000",
-      "poly_away_price": "0.5100",
-      "home_ev": "0.0102",
-      "away_ev": "-0.0296",
+      "home_prob": "0.5165",
+      "away_prob": "0.4835",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "-0.0067",
+      "away_ev": "-0.0133",
       "home_pitcher": "Landen Roupp",
       "away_pitcher": "Clay Holmes",
       "pitchers_confirmed": "yes",
@@ -563,16 +563,16 @@
     },
     {
       "date": "2026-04-04",
-      "time": "18:45:09",
+      "time": "19:15:07",
       "game_id": "824054",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4134",
-      "away_prob": "0.5866",
+      "home_prob": "0.4123",
+      "away_prob": "0.5877",
       "poly_home_price": "0.4100",
       "poly_away_price": "0.6000",
-      "home_ev": "0.0082",
-      "away_ev": "-0.0223",
+      "home_ev": "0.0057",
+      "away_ev": "-0.0206",
       "home_pitcher": "Jack Kochanowicz",
       "away_pitcher": "Emerson Hancock",
       "pitchers_confirmed": "yes",
@@ -585,16 +585,16 @@
     },
     {
       "date": "2026-04-04",
-      "time": "18:45:07",
+      "time": "19:15:05",
       "game_id": "824378",
       "home_team": "Colorado Rockies",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.3157",
-      "away_prob": "0.6843",
+      "home_prob": "0.3072",
+      "away_prob": "0.6928",
       "poly_home_price": "0.3100",
       "poly_away_price": "0.7000",
-      "home_ev": "0.0183",
-      "away_ev": "-0.0224",
+      "home_ev": "-0.0091",
+      "away_ev": "-0.0103",
       "home_pitcher": "Brennan Bernardino",
       "away_pitcher": "Jes\u00fas Luzardo",
       "pitchers_confirmed": "yes",
@@ -610,6 +610,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 6,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 3716
+    "total_games_scanned_all": 3719
   }
 }
