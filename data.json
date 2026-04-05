@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T20:30:06.528580+00:00",
+  "last_updated": "2026-04-05T20:45:05.647588+00:00",
   "scoreboard": [
     {
       "game_id": "824459",
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-05T17:15:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "LAD",
       "home": "WSH",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-04-05T17:35:00Z"
     },
     {
@@ -43,25 +43,25 @@
       "home": "BOS",
       "away_score": 8,
       "home_score": 6,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-04-05T17:35:00Z"
     },
     {
       "game_id": "823566",
       "away": "MIA",
       "home": "NYY",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-05T17:35:00Z"
     },
     {
       "game_id": "823729",
       "away": "TB",
       "home": "MIN",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 1,
-      "state": "T10",
+      "state": "B10",
       "start_time": "2026-04-05T18:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 3,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-04-05T18:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "MIL",
       "home": "KC",
       "away_score": 6,
-      "home_score": 3,
-      "state": "B7",
+      "home_score": 5,
+      "state": "T8",
       "start_time": "2026-04-05T18:10:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "PHI",
       "home": "COL",
       "away_score": 1,
-      "home_score": 3,
-      "state": "B5",
+      "home_score": 4,
+      "state": "B6",
       "start_time": "2026-04-05T19:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "OAK",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-05T20:05:00Z"
     },
     {
@@ -115,14 +115,14 @@
       "home": "SF",
       "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-05T20:05:00Z"
     },
     {
       "game_id": "824053",
       "away": "SEA",
       "home": "LAA",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 1,
       "state": "T2",
       "start_time": "2026-04-05T20:07:00Z"
@@ -133,7 +133,7 @@
       "home": "ARI",
       "away_score": 1,
       "home_score": 1,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-04-05T20:10:00Z"
     },
     {
@@ -636,16 +636,16 @@
     },
     {
       "date": "2026-04-05",
-      "time": "16:30:06",
+      "time": "16:45:05",
       "game_id": "824296",
       "home_team": "Detroit Tigers",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.5516",
-      "away_prob": "0.4484",
+      "home_prob": "0.5664",
+      "away_prob": "0.4336",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0322",
-      "away_ev": "0.0190",
+      "home_ev": "-0.0063",
+      "away_ev": "-0.0146",
       "home_pitcher": "Keider Montero",
       "away_pitcher": "Kyle Leahy",
       "pitchers_confirmed": "yes",
@@ -661,6 +661,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 9,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 4116
+    "total_games_scanned_all": 4117
   }
 }
