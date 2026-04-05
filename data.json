@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T00:45:05.221509+00:00",
+  "last_updated": "2026-04-05T01:00:06.267631+00:00",
   "scoreboard": [
     {
       "game_id": "824295",
@@ -33,8 +33,8 @@
       "away": "MIL",
       "home": "KC",
       "away_score": 2,
-      "home_score": 2,
-      "state": "T6",
+      "home_score": 3,
+      "state": "B6",
       "start_time": "2026-04-04T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "TEX",
       "away_score": 2,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-04-04T23:05:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "NYY",
       "away_score": 4,
       "home_score": 0,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-04-04T23:05:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIN",
       "away_score": 6,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-04T23:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ARI",
       "away_score": 1,
       "home_score": 2,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-04T23:15:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "COL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-05T00:10:00Z"
     },
     {
@@ -580,7 +580,7 @@
     },
     {
       "date": "2026-04-04",
-      "time": "20:45:05",
+      "time": "21:00:06",
       "game_id": "824054",
       "home_team": "Los Angeles Angels",
       "away_team": "Seattle Mariners",
@@ -627,6 +627,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 7,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 3730
+    "total_games_scanned_all": 3731
   }
 }
