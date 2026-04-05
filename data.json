@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T22:30:05.497510+00:00",
+  "last_updated": "2026-04-05T22:45:05.339628+00:00",
   "scoreboard": [
     {
       "game_id": "824459",
@@ -16,16 +16,16 @@
       "home": "CLE",
       "away_score": 3,
       "home_score": 3,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-04-05T17:15:00Z"
     },
     {
       "game_id": "822756",
       "away": "LAD",
       "home": "WSH",
-      "away_score": 7,
+      "away_score": 8,
       "home_score": 6,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-04-05T17:35:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "NYY",
       "away_score": 2,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-05T17:35:00Z"
     },
     {
@@ -104,9 +104,9 @@
       "game_id": "825025",
       "away": "HOU",
       "home": "OAK",
-      "away_score": 3,
-      "home_score": 5,
-      "state": "T7",
+      "away_score": 5,
+      "home_score": 7,
+      "state": "B7",
       "start_time": "2026-04-05T20:05:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SF",
       "away_score": 5,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-05T20:05:00Z"
     },
     {
@@ -124,16 +124,16 @@
       "home": "LAA",
       "away_score": 5,
       "home_score": 6,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-04-05T20:07:00Z"
     },
     {
       "game_id": "825102",
       "away": "ATL",
       "home": "ARI",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 5,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-04-05T20:10:00Z"
     },
     {
@@ -636,7 +636,7 @@
     },
     {
       "date": "2026-04-05",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "824296",
       "home_team": "Detroit Tigers",
       "away_team": "St. Louis Cardinals",
@@ -661,6 +661,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 9,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 4124
+    "total_games_scanned_all": 4125
   }
 }
