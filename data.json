@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T23:30:09.456949+00:00",
+  "last_updated": "2026-04-06T23:45:08.928701+00:00",
   "scoreboard": [
     {
       "game_id": "823002",
@@ -14,18 +14,18 @@
       "game_id": "824456",
       "away": "KC",
       "home": "CLE",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-06T22:10:00Z"
     },
     {
       "game_id": "823401",
       "away": "SD",
       "home": "PIT",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-06T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-04-06T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 2,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-04-06T22:45:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 1,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-04-06T22:45:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TOR",
       "away_score": 2,
       "home_score": 1,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-04-06T23:07:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "822918",
       "away": "SEA",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-07T00:05:00Z"
     },
     {
@@ -287,6 +287,40 @@
       "ev_pct": "12.22%",
       "bet_size": "$10.00",
       "order_id": "0x98566ee8c36a7d400d",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
+    },
+    {
+      "date": "2026-04-06",
+      "time": "19:45:06",
+      "game_id": "824376",
+      "home_team": "Colorado Rockies",
+      "away_team": "Houston Astros",
+      "bet_side": "away",
+      "model_prob": "0.6259",
+      "polymarket_price": "0.5800",
+      "ev_pct": "7.91%",
+      "bet_size": "$10.00",
+      "order_id": "0x4f14850146cca586b5",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
+    },
+    {
+      "date": "2026-04-06",
+      "time": "19:45:07",
+      "game_id": "824052",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Atlanta Braves",
+      "bet_side": "home",
+      "model_prob": "0.4394",
+      "polymarket_price": "0.3900",
+      "ev_pct": "12.67%",
+      "bet_size": "$10.00",
+      "order_id": "0xf2ada75667b4ad2a3b",
       "order_status": "pending",
       "filled_size": "",
       "result": "",
@@ -494,21 +528,21 @@
     },
     {
       "date": "2026-04-06",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "824376",
       "home_team": "Colorado Rockies",
       "away_team": "Houston Astros",
-      "home_prob": "0.4179",
-      "away_prob": "0.5821",
+      "home_prob": "0.3741",
+      "away_prob": "0.6259",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0281",
-      "away_ev": "0.0036",
+      "home_ev": "-0.1300",
+      "away_ev": "0.0791",
       "home_pitcher": "Ryan Feltner",
       "away_pitcher": "Cody Bolton",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -516,21 +550,21 @@
     },
     {
       "date": "2026-04-06",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "824052",
       "home_team": "Los Angeles Angels",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.3883",
-      "away_prob": "0.6117",
+      "home_prob": "0.4394",
+      "away_prob": "0.5606",
       "poly_home_price": "0.3900",
       "poly_away_price": "0.6200",
-      "home_ev": "-0.0042",
-      "away_ev": "-0.0135",
+      "home_ev": "0.1267",
+      "away_ev": "-0.0958",
       "home_pitcher": "Jos\u00e9 Soriano",
       "away_pitcher": "Chris Sale",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -538,7 +572,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "19:30:09",
+      "time": "19:45:08",
       "game_id": "823237",
       "home_team": "San Francisco Giants",
       "away_team": "Philadelphia Phillies",
@@ -551,8 +585,8 @@
       "home_pitcher": "Adrian Houser",
       "away_pitcher": "Andrew Painter",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -582,9 +616,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 10,
+    "total_bets_today": 3,
+    "total_bets_all_time": 12,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 4597
+    "total_games_scanned_all": 4600
   }
 }
