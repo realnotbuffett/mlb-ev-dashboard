@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T21:15:15.924304+00:00",
+  "last_updated": "2026-04-06T21:30:15.990295+00:00",
   "scoreboard": [
     {
       "game_id": "823002",
@@ -7,7 +7,7 @@
       "home": "TB",
       "away_score": 2,
       "home_score": 4,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-06T20:10:00Z"
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:05",
+      "time": "17:30:05",
       "game_id": "824456",
       "home_team": "Cleveland Guardians",
       "away_team": "Kansas City Royals",
@@ -323,16 +323,16 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:06",
+      "time": "17:30:06",
       "game_id": "823401",
       "home_team": "Pittsburgh Pirates",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5603",
-      "away_prob": "0.4397",
+      "home_prob": "0.5614",
+      "away_prob": "0.4386",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0170",
-      "away_ev": "-0.0007",
+      "home_ev": "-0.0151",
+      "away_ev": "-0.0032",
       "home_pitcher": "Bubba Chandler",
       "away_pitcher": "Germ\u00e1n M\u00e1rquez",
       "pitchers_confirmed": "yes",
@@ -345,7 +345,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:07",
+      "time": "17:30:07",
       "game_id": "823886",
       "home_team": "Miami Marlins",
       "away_team": "Cincinnati Reds",
@@ -367,7 +367,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:08",
+      "time": "17:30:08",
       "game_id": "822755",
       "home_team": "Washington Nationals",
       "away_team": "St. Louis Cardinals",
@@ -389,7 +389,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:09",
+      "time": "17:30:09",
       "game_id": "824783",
       "home_team": "Boston Red Sox",
       "away_team": "Milwaukee Brewers",
@@ -411,7 +411,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:10",
+      "time": "17:30:10",
       "game_id": "822832",
       "home_team": "Toronto Blue Jays",
       "away_team": "Los Angeles Dodgers",
@@ -433,7 +433,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:10",
+      "time": "17:30:11",
       "game_id": "823728",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
@@ -455,16 +455,16 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:12",
+      "time": "17:30:13",
       "game_id": "822918",
       "home_team": "Texas Rangers",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.5165",
-      "away_prob": "0.4835",
+      "home_prob": "0.5115",
+      "away_prob": "0.4885",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0254",
-      "away_ev": "0.0072",
+      "home_ev": "-0.0350",
+      "away_ev": "0.0178",
       "home_pitcher": "Jacob deGrom",
       "away_pitcher": "Logan Gilbert",
       "pitchers_confirmed": "yes",
@@ -477,7 +477,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:13",
+      "time": "17:30:14",
       "game_id": "824376",
       "home_team": "Colorado Rockies",
       "away_team": "Houston Astros",
@@ -499,7 +499,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:14",
+      "time": "17:30:15",
       "game_id": "824052",
       "home_team": "Los Angeles Angels",
       "away_team": "Atlanta Braves",
@@ -521,7 +521,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:15",
+      "time": "17:30:15",
       "game_id": "823237",
       "home_team": "San Francisco Giants",
       "away_team": "Philadelphia Phillies",
@@ -543,16 +543,16 @@
     },
     {
       "date": "2026-04-06",
-      "time": "17:15:11",
+      "time": "17:30:12",
       "game_id": "824619",
       "home_team": "Chicago White Sox",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4386",
-      "away_prob": "0.5614",
+      "home_prob": "0.4397",
+      "away_prob": "0.5603",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0253",
-      "away_ev": "0.0025",
+      "home_ev": "-0.0229",
+      "away_ev": "0.0005",
       "home_pitcher": "Grant Taylor",
       "away_pitcher": "Brandon Young",
       "pitchers_confirmed": "yes",
@@ -568,6 +568,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 9,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 4521
+    "total_games_scanned_all": 4533
   }
 }
