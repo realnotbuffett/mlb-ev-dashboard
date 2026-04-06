@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T22:45:10.685032+00:00",
+  "last_updated": "2026-04-06T23:00:10.373993+00:00",
   "scoreboard": [
     {
       "game_id": "823002",
@@ -15,8 +15,8 @@
       "away": "KC",
       "home": "CLE",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 1,
+      "state": "T4",
       "start_time": "2026-04-06T22:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-06T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-06T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-06T22:45:00Z"
     },
     {
@@ -52,16 +52,16 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-06T22:45:00Z"
     },
     {
       "game_id": "822832",
       "away": "LAD",
       "home": "TOR",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-06T23:07:00Z"
     },
     {
@@ -433,16 +433,16 @@
     },
     {
       "date": "2026-04-06",
-      "time": "18:45:05",
+      "time": "19:00:05",
       "game_id": "823728",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5293",
-      "away_prob": "0.4707",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0014",
-      "away_ev": "-0.0193",
+      "home_ev": "-0.0062",
+      "away_ev": "-0.0140",
       "home_pitcher": "Joe Ryan",
       "away_pitcher": "Casey Mize",
       "pitchers_confirmed": "yes",
@@ -455,7 +455,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "18:45:07",
+      "time": "19:00:07",
       "game_id": "822918",
       "home_team": "Texas Rangers",
       "away_team": "Seattle Mariners",
@@ -477,16 +477,16 @@
     },
     {
       "date": "2026-04-06",
-      "time": "18:45:08",
+      "time": "19:00:08",
       "game_id": "824376",
       "home_team": "Colorado Rockies",
       "away_team": "Houston Astros",
       "home_prob": "0.4158",
       "away_prob": "0.5842",
-      "poly_home_price": "0.4200",
-      "poly_away_price": "0.5900",
-      "home_ev": "-0.0099",
-      "away_ev": "-0.0099",
+      "poly_home_price": "0.4300",
+      "poly_away_price": "0.5800",
+      "home_ev": "-0.0329",
+      "away_ev": "0.0072",
       "home_pitcher": "Ryan Feltner",
       "away_pitcher": "Cody Bolton",
       "pitchers_confirmed": "yes",
@@ -499,7 +499,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "18:45:09",
+      "time": "19:00:09",
       "game_id": "824052",
       "home_team": "Los Angeles Angels",
       "away_team": "Atlanta Braves",
@@ -521,7 +521,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "18:45:10",
+      "time": "19:00:10",
       "game_id": "823237",
       "home_team": "San Francisco Giants",
       "away_team": "Philadelphia Phillies",
@@ -543,7 +543,7 @@
     },
     {
       "date": "2026-04-06",
-      "time": "18:45:06",
+      "time": "19:00:06",
       "game_id": "824619",
       "home_team": "Chicago White Sox",
       "away_team": "Baltimore Orioles",
@@ -568,6 +568,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 9,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 4581
+    "total_games_scanned_all": 4587
   }
 }
