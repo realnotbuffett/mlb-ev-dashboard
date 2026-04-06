@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T00:00:04.651717+00:00",
+  "last_updated": "2026-04-06T00:15:04.383452+00:00",
   "scoreboard": [
     {
       "game_id": "824459",
@@ -52,7 +52,7 @@
       "home": "NYY",
       "away_score": 7,
       "home_score": 4,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-04-05T17:35:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "HOU",
       "home": "OAK",
       "away_score": 10,
-      "home_score": 9,
-      "state": "T10",
+      "home_score": 12,
+      "state": "FINAL",
       "start_time": "2026-04-05T20:05:00Z"
     },
     {
@@ -141,8 +141,8 @@
       "away": "STL",
       "home": "DET",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-04-05T23:20:00Z"
     }
   ],
