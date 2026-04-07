@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T23:30:08.586846+00:00",
+  "last_updated": "2026-04-07T23:45:08.612480+00:00",
   "scoreboard": [
     {
       "game_id": "824457",
@@ -34,7 +34,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-07T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TB",
       "away_score": 4,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-07T22:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-07T22:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "STL",
       "home": "WSH",
       "away_score": 2,
-      "home_score": 1,
-      "state": "T3",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-04-07T22:45:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-07T22:45:00Z"
     },
     {
@@ -78,17 +78,17 @@
       "away": "OAK",
       "home": "NYY",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-04-07T23:05:00Z"
     },
     {
       "game_id": "822831",
       "away": "LAD",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-04-07T23:07:00Z"
     },
     {
@@ -104,9 +104,9 @@
       "game_id": "822916",
       "away": "SEA",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-08T00:05:00Z"
     },
     {
@@ -343,6 +343,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "15.64"
+    },
+    {
+      "date": "2026-04-07",
+      "time": "19:45:08",
+      "game_id": "823235",
+      "home_team": "San Francisco Giants",
+      "away_team": "Philadelphia Phillies",
+      "bet_side": "home",
+      "model_prob": "0.4481",
+      "polymarket_price": "0.4200",
+      "ev_pct": "6.69%",
+      "bet_size": "$10.00",
+      "order_id": "0x6d67931e455cc18a5d",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -612,16 +629,16 @@
     },
     {
       "date": "2026-04-07",
-      "time": "19:30:06",
+      "time": "19:45:05",
       "game_id": "824375",
       "home_team": "Colorado Rockies",
       "away_team": "Houston Astros",
-      "home_prob": "0.3951",
-      "away_prob": "0.6049",
+      "home_prob": "0.3961",
+      "away_prob": "0.6039",
       "poly_home_price": "0.4000",
       "poly_away_price": "0.6100",
-      "home_ev": "-0.0122",
-      "away_ev": "-0.0084",
+      "home_ev": "-0.0098",
+      "away_ev": "-0.0100",
       "home_pitcher": "Kyle Freeland",
       "away_pitcher": "Mike Burrows",
       "pitchers_confirmed": "yes",
@@ -634,7 +651,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "19:30:07",
+      "time": "19:45:06",
       "game_id": "824051",
       "home_team": "Los Angeles Angels",
       "away_team": "Atlanta Braves",
@@ -656,21 +673,21 @@
     },
     {
       "date": "2026-04-07",
-      "time": "19:30:08",
+      "time": "19:45:08",
       "game_id": "823235",
       "home_team": "San Francisco Giants",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.4169",
-      "away_prob": "0.5831",
+      "home_prob": "0.4481",
+      "away_prob": "0.5519",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0074",
-      "away_ev": "-0.0116",
+      "home_ev": "0.0669",
+      "away_ev": "-0.0646",
       "home_pitcher": "Robbie Ray",
       "away_pitcher": "Cristopher S\u00e1nchez",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -678,9 +695,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 12,
+    "total_bets_today": 1,
+    "total_bets_all_time": 13,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 5119
+    "total_games_scanned_all": 5122
   }
 }
