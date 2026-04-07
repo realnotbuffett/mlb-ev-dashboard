@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T03:30:05.654245+00:00",
+  "last_updated": "2026-04-07T03:45:05.421109+00:00",
   "scoreboard": [
     {
       "game_id": "823002",
@@ -104,16 +104,16 @@
       "game_id": "824052",
       "away": "ATL",
       "home": "LAA",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 6,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-04-07T01:38:00Z"
     },
     {
       "game_id": "823237",
       "away": "PHI",
       "home": "SF",
-      "away_score": 2,
+      "away_score": 6,
       "home_score": 4,
       "state": "T7",
       "start_time": "2026-04-07T01:45:00Z"
