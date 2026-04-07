@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T23:15:08.718210+00:00",
+  "last_updated": "2026-04-07T23:30:08.586846+00:00",
   "scoreboard": [
     {
       "game_id": "824457",
@@ -24,8 +24,8 @@
       "away": "ARI",
       "home": "NYM",
       "away_score": 3,
-      "home_score": 3,
-      "state": "T10",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-04-07T20:10:00Z"
     },
     {
@@ -34,16 +34,16 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-04-07T22:40:00Z"
     },
     {
       "game_id": "822999",
       "away": "CHC",
       "home": "TB",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-04-07T22:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "CIN",
       "home": "MIA",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 2,
+      "state": "B4",
       "start_time": "2026-04-07T22:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "WSH",
       "away_score": 2,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-07T22:45:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-07T22:45:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-07T23:05:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-07T23:07:00Z"
     },
     {
@@ -590,16 +590,16 @@
     },
     {
       "date": "2026-04-07",
-      "time": "19:15:05",
+      "time": "19:30:05",
       "game_id": "822916",
       "home_team": "Texas Rangers",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4821",
-      "away_prob": "0.5179",
+      "home_prob": "0.4809",
+      "away_prob": "0.5191",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0160",
-      "away_ev": "-0.0041",
+      "home_ev": "-0.0185",
+      "away_ev": "-0.0018",
       "home_pitcher": "Nathan Eovaldi",
       "away_pitcher": "George Kirby",
       "pitchers_confirmed": "yes",
@@ -612,7 +612,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "19:15:06",
+      "time": "19:30:06",
       "game_id": "824375",
       "home_team": "Colorado Rockies",
       "away_team": "Houston Astros",
@@ -634,7 +634,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "19:15:07",
+      "time": "19:30:07",
       "game_id": "824051",
       "home_team": "Los Angeles Angels",
       "away_team": "Atlanta Braves",
@@ -656,7 +656,7 @@
     },
     {
       "date": "2026-04-07",
-      "time": "19:15:08",
+      "time": "19:30:08",
       "game_id": "823235",
       "home_team": "San Francisco Giants",
       "away_team": "Philadelphia Phillies",
@@ -681,6 +681,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 12,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 5115
+    "total_games_scanned_all": 5119
   }
 }
