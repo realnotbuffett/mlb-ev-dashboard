@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T01:30:08.401981+00:00",
+  "last_updated": "2026-04-07T01:45:06.301429+00:00",
   "scoreboard": [
     {
       "game_id": "823002",
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 5,
       "home_score": 0,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-04-06T22:40:00Z"
     },
     {
@@ -42,26 +42,26 @@
       "away": "STL",
       "home": "WSH",
       "away_score": 6,
-      "home_score": 8,
-      "state": "B8",
+      "home_score": 9,
+      "state": "FINAL",
       "start_time": "2026-04-06T22:45:00Z"
     },
     {
       "game_id": "824783",
       "away": "MIL",
       "home": "BOS",
-      "away_score": 5,
+      "away_score": 7,
       "home_score": 5,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-04-06T22:45:00Z"
     },
     {
       "game_id": "822832",
       "away": "LAD",
       "home": "TOR",
-      "away_score": 13,
+      "away_score": 14,
       "home_score": 1,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-04-06T23:07:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIN",
       "away_score": 3,
       "home_score": 5,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-06T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-04-06T23:40:00Z"
     },
     {
@@ -87,24 +87,24 @@
       "away": "SEA",
       "home": "TEX",
       "away_score": 1,
-      "home_score": 1,
-      "state": "T6",
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-04-07T00:05:00Z"
     },
     {
       "game_id": "824376",
       "away": "HOU",
       "home": "COL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B3",
+      "state": "T5",
       "start_time": "2026-04-07T00:40:00Z"
     },
     {
       "game_id": "824052",
       "away": "ATL",
       "home": "LAA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-04-07T01:38:00Z"
