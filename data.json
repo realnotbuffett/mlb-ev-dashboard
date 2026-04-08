@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T18:00:16.023087+00:00",
+  "last_updated": "2026-04-08T18:15:14.334886+00:00",
   "scoreboard": [
     {
       "game_id": "823403",
@@ -7,16 +7,16 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-08T16:35:00Z"
     },
     {
       "game_id": "824455",
       "away": "KC",
       "home": "CLE",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 4,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-04-08T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-08T17:35:00Z"
     },
     {
@@ -41,9 +41,9 @@
       "game_id": "822915",
       "away": "SEA",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-08T18:35:00Z"
     },
     {
@@ -475,16 +475,16 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:07",
+      "time": "14:15:05",
       "game_id": "822833",
       "home_team": "Toronto Blue Jays",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.4229",
-      "away_prob": "0.5771",
+      "home_prob": "0.4194",
+      "away_prob": "0.5806",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "0.0069",
-      "away_ev": "-0.0218",
+      "home_ev": "-0.0015",
+      "away_ev": "-0.0159",
       "home_pitcher": "Dylan Cease",
       "away_pitcher": "Shohei Ohtani",
       "pitchers_confirmed": "yes",
@@ -497,7 +497,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:08",
+      "time": "14:15:06",
       "game_id": "824374",
       "home_team": "Colorado Rockies",
       "away_team": "Houston Astros",
@@ -519,16 +519,16 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:09",
+      "time": "14:15:07",
       "game_id": "823234",
       "home_team": "San Francisco Giants",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.4520",
-      "away_prob": "0.5480",
+      "home_prob": "0.4509",
+      "away_prob": "0.5491",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0173",
-      "away_ev": "-0.0037",
+      "home_ev": "-0.0198",
+      "away_ev": "-0.0016",
       "home_pitcher": "Tyler Mahle",
       "away_pitcher": "Aaron Nola",
       "pitchers_confirmed": "yes",
@@ -541,7 +541,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:10",
+      "time": "14:15:08",
       "game_id": "822753",
       "home_team": "Washington Nationals",
       "away_team": "St. Louis Cardinals",
@@ -563,7 +563,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:10",
+      "time": "14:15:09",
       "game_id": "824050",
       "home_team": "Los Angeles Angels",
       "away_team": "Atlanta Braves",
@@ -585,7 +585,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:11",
+      "time": "14:15:10",
       "game_id": "823646",
       "home_team": "New York Mets",
       "away_team": "Arizona Diamondbacks",
@@ -607,7 +607,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:12",
+      "time": "14:15:11",
       "game_id": "823000",
       "home_team": "Tampa Bay Rays",
       "away_team": "Chicago Cubs",
@@ -629,7 +629,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:13",
+      "time": "14:15:12",
       "game_id": "823885",
       "home_team": "Miami Marlins",
       "away_team": "Cincinnati Reds",
@@ -651,7 +651,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:14",
+      "time": "14:15:13",
       "game_id": "823564",
       "home_team": "New York Yankees",
       "away_team": "Athletics",
@@ -673,7 +673,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "14:00:15",
+      "time": "14:15:14",
       "game_id": "823726",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
@@ -698,6 +698,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 5427
+    "total_games_scanned_all": 5437
   }
 }
