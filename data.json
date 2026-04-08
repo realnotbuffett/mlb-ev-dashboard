@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T22:45:05.200489+00:00",
+  "last_updated": "2026-04-08T23:15:05.204232+00:00",
   "scoreboard": [
     {
       "game_id": "823403",
@@ -79,7 +79,7 @@
       "home": "WSH",
       "away_score": 6,
       "home_score": 1,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-08T20:05:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "LAA",
       "away_score": 8,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-08T20:07:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "NYM",
       "away_score": 7,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-08T20:10:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B3",
       "start_time": "2026-04-08T22:40:00Z"
     },
     {
       "game_id": "823885",
       "away": "CIN",
       "home": "MIA",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "away_score": 2,
+      "home_score": 2,
+      "state": "B1",
       "start_time": "2026-04-08T22:40:00Z"
     },
     {
@@ -673,16 +673,16 @@
     },
     {
       "date": "2026-04-08",
-      "time": "18:45:05",
+      "time": "19:15:05",
       "game_id": "823726",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.4214",
-      "away_prob": "0.5786",
+      "home_prob": "0.4239",
+      "away_prob": "0.5761",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0199",
-      "away_ev": "-0.0025",
+      "home_ev": "-0.0141",
+      "away_ev": "-0.0068",
       "home_pitcher": "Bailey Ober",
       "away_pitcher": "Framber Valdez",
       "pitchers_confirmed": "yes",
@@ -698,6 +698,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 5523
+    "total_games_scanned_all": 5524
   }
 }
