@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T21:00:08.165997+00:00",
+  "last_updated": "2026-04-08T21:15:08.082527+00:00",
   "scoreboard": [
     {
       "game_id": "823403",
@@ -34,7 +34,7 @@
       "home": "CWS",
       "away_score": 5,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-08T18:10:00Z"
     },
     {
@@ -50,9 +50,9 @@
       "game_id": "822833",
       "away": "LAD",
       "home": "TOR",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 1,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-04-08T19:07:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "COL",
       "away_score": 1,
       "home_score": 7,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-08T19:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-08T19:45:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "WSH",
       "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-08T20:05:00Z"
     },
     {
       "game_id": "824050",
       "away": "ATL",
       "home": "LAA",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 2,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-04-08T20:07:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "NYM",
       "away_score": 5,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-08T20:10:00Z"
     },
     {
@@ -607,7 +607,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "17:00:05",
+      "time": "17:15:05",
       "game_id": "823000",
       "home_team": "Tampa Bay Rays",
       "away_team": "Chicago Cubs",
@@ -629,7 +629,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "17:00:06",
+      "time": "17:15:06",
       "game_id": "823885",
       "home_team": "Miami Marlins",
       "away_team": "Cincinnati Reds",
@@ -651,7 +651,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "17:00:07",
+      "time": "17:15:07",
       "game_id": "823564",
       "home_team": "New York Yankees",
       "away_team": "Athletics",
@@ -673,7 +673,7 @@
     },
     {
       "date": "2026-04-08",
-      "time": "17:00:08",
+      "time": "17:15:08",
       "game_id": "823726",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
@@ -698,6 +698,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 5500
+    "total_games_scanned_all": 5504
   }
 }
