@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T22:45:07.065799+00:00",
+  "last_updated": "2026-04-09T23:00:06.280515+00:00",
   "scoreboard": [
     {
       "game_id": "823884",
@@ -32,9 +32,9 @@
       "game_id": "823645",
       "away": "ARI",
       "home": "NYM",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-09T23:10:00Z"
     },
     {
@@ -372,7 +372,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "18:45:06",
+      "time": "19:00:05",
       "game_id": "824130",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
@@ -394,7 +394,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "18:45:07",
+      "time": "19:00:06",
       "game_id": "823319",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -419,6 +419,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 5669
+    "total_games_scanned_all": 5671
   }
 }
