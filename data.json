@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T01:15:04.394484+00:00",
+  "last_updated": "2026-04-09T01:30:04.379084+00:00",
   "scoreboard": [
     {
       "game_id": "823403",
@@ -115,7 +115,7 @@
       "home": "MIA",
       "away_score": 4,
       "home_score": 7,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-04-08T22:40:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "NYY",
       "away_score": 2,
       "home_score": 2,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-04-08T23:05:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 7,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-08T23:40:00Z"
     }
   ],
