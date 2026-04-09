@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-09T18:15:07.119838+00:00",
+  "last_updated": "2026-04-09T18:30:07.483894+00:00",
   "scoreboard": [
     {
       "game_id": "823884",
       "away": "CIN",
       "home": "MIA",
       "away_score": 1,
-      "home_score": 5,
-      "state": "B7",
+      "home_score": 6,
+      "state": "B8",
       "start_time": "2026-04-09T16:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-04-09T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-09T17:40:00Z"
     },
     {
@@ -350,7 +350,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:05",
+      "time": "14:30:05",
       "game_id": "823645",
       "home_team": "New York Mets",
       "away_team": "Arizona Diamondbacks",
@@ -372,7 +372,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:06",
+      "time": "14:30:06",
       "game_id": "824130",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
@@ -394,7 +394,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "14:15:07",
+      "time": "14:30:07",
       "game_id": "823319",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -419,6 +419,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 5615
+    "total_games_scanned_all": 5618
   }
 }
