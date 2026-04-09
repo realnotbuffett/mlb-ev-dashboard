@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T13:00:08.438550+00:00",
+  "last_updated": "2026-04-09T13:15:09.166040+00:00",
   "scoreboard": [
     {
       "game_id": "823884",
@@ -284,16 +284,16 @@
   "today_games": [
     {
       "date": "2026-04-09",
-      "time": "09:00:04",
+      "time": "09:15:05",
       "game_id": "823884",
       "home_team": "Miami Marlins",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5204",
-      "away_prob": "0.4796",
+      "home_prob": "0.5191",
+      "away_prob": "0.4809",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0008",
-      "away_ev": "-0.0212",
+      "home_ev": "-0.0018",
+      "away_ev": "-0.0185",
       "home_pitcher": "Max Meyer",
       "away_pitcher": "Rhett Lowder",
       "pitchers_confirmed": "yes",
@@ -306,7 +306,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "09:00:05",
+      "time": "09:15:06",
       "game_id": "823565",
       "home_team": "New York Yankees",
       "away_team": "Athletics",
@@ -328,16 +328,16 @@
     },
     {
       "date": "2026-04-09",
-      "time": "09:00:06",
+      "time": "09:15:07",
       "game_id": "823724",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.4557",
-      "away_prob": "0.5443",
+      "home_prob": "0.4582",
+      "away_prob": "0.5418",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0094",
-      "away_ev": "-0.0104",
+      "home_ev": "-0.0039",
+      "away_ev": "-0.0150",
       "home_pitcher": "Mick Abel",
       "away_pitcher": "Jack Flaherty",
       "pitchers_confirmed": "yes",
@@ -350,7 +350,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "09:00:07",
+      "time": "09:15:08",
       "game_id": "823645",
       "home_team": "New York Mets",
       "away_team": "Arizona Diamondbacks",
@@ -372,7 +372,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "09:00:08",
+      "time": "09:15:09",
       "game_id": "824130",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
@@ -397,6 +397,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 5529
+    "total_games_scanned_all": 5534
   }
 }
