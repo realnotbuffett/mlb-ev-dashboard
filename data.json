@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T14:00:09.320642+00:00",
+  "last_updated": "2026-04-09T14:15:08.858916+00:00",
   "scoreboard": [
     {
       "game_id": "823884",
@@ -284,16 +284,16 @@
   "today_games": [
     {
       "date": "2026-04-09",
-      "time": "10:00:05",
+      "time": "10:15:05",
       "game_id": "823884",
       "home_team": "Miami Marlins",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5305",
-      "away_prob": "0.4695",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "0.0201",
-      "away_ev": "-0.0417",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "-0.0062",
+      "away_ev": "-0.0140",
       "home_pitcher": "Max Meyer",
       "away_pitcher": "Rhett Lowder",
       "pitchers_confirmed": "yes",
@@ -306,16 +306,16 @@
     },
     {
       "date": "2026-04-09",
-      "time": "10:00:06",
+      "time": "10:15:06",
       "game_id": "823565",
       "home_team": "New York Yankees",
       "away_team": "Athletics",
-      "home_prob": "0.6651",
-      "away_prob": "0.3349",
+      "home_prob": "0.6575",
+      "away_prob": "0.3425",
       "poly_home_price": "0.6700",
       "poly_away_price": "0.3400",
-      "home_ev": "-0.0072",
-      "away_ev": "-0.0151",
+      "home_ev": "-0.0187",
+      "away_ev": "0.0074",
       "home_pitcher": "Ryan Weathers",
       "away_pitcher": "Jeffrey Springs",
       "pitchers_confirmed": "yes",
@@ -328,7 +328,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "10:00:07",
+      "time": "10:15:06",
       "game_id": "823724",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
@@ -350,16 +350,16 @@
     },
     {
       "date": "2026-04-09",
-      "time": "10:00:08",
+      "time": "10:15:07",
       "game_id": "823645",
       "home_team": "New York Mets",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.6039",
-      "away_prob": "0.3961",
+      "home_prob": "0.6029",
+      "away_prob": "0.3971",
       "poly_home_price": "0.6100",
       "poly_away_price": "0.4000",
-      "home_ev": "-0.0100",
-      "away_ev": "-0.0098",
+      "home_ev": "-0.0116",
+      "away_ev": "-0.0074",
       "home_pitcher": "Nolan McLean",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -372,7 +372,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "10:00:09",
+      "time": "10:15:08",
       "game_id": "824130",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
@@ -397,6 +397,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 5549
+    "total_games_scanned_all": 5554
   }
 }
