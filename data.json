@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T20:00:07.236119+00:00",
+  "last_updated": "2026-04-09T20:15:07.073968+00:00",
   "scoreboard": [
     {
       "game_id": "823884",
@@ -24,7 +24,7 @@
       "away": "DET",
       "home": "MIN",
       "away_score": 1,
-      "home_score": 1,
+      "home_score": 3,
       "state": "B8",
       "start_time": "2026-04-09T17:40:00Z"
     },
@@ -350,16 +350,16 @@
     },
     {
       "date": "2026-04-09",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "823645",
       "home_team": "New York Mets",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.6211",
-      "away_prob": "0.3789",
-      "poly_home_price": "0.6200",
-      "poly_away_price": "0.3900",
-      "home_ev": "0.0018",
-      "away_ev": "-0.0285",
+      "home_prob": "0.6268",
+      "away_prob": "0.3732",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0051",
+      "away_ev": "-0.0179",
       "home_pitcher": "Nolan McLean",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -372,7 +372,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "824130",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
@@ -394,7 +394,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "16:00:07",
+      "time": "16:15:07",
       "game_id": "823319",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -419,6 +419,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 5636
+    "total_games_scanned_all": 5639
   }
 }
