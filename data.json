@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T19:00:08.919755+00:00",
+  "last_updated": "2026-04-09T19:15:07.120189+00:00",
   "scoreboard": [
     {
       "game_id": "823884",
@@ -14,9 +14,9 @@
       "game_id": "823565",
       "away": "OAK",
       "home": "NYY",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-04-09T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-09T17:40:00Z"
     },
     {
@@ -350,16 +350,16 @@
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:06",
+      "time": "15:15:05",
       "game_id": "823645",
       "home_team": "New York Mets",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.6211",
-      "away_prob": "0.3789",
+      "home_prob": "0.6226",
+      "away_prob": "0.3774",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "0.0018",
-      "away_ev": "-0.0285",
+      "home_ev": "0.0042",
+      "away_ev": "-0.0323",
       "home_pitcher": "Nolan McLean",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -372,7 +372,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:07",
+      "time": "15:15:06",
       "game_id": "824130",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
@@ -394,16 +394,16 @@
     },
     {
       "date": "2026-04-09",
-      "time": "15:00:08",
+      "time": "15:15:07",
       "game_id": "823319",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
       "home_prob": "0.6383",
       "away_prob": "0.3617",
-      "poly_home_price": "0.6400",
-      "poly_away_price": "0.3700",
-      "home_ev": "-0.0027",
-      "away_ev": "-0.0224",
+      "poly_home_price": "0.6500",
+      "poly_away_price": "0.3600",
+      "home_ev": "-0.0180",
+      "away_ev": "0.0047",
       "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher": "Jimmy Herget",
       "pitchers_confirmed": "yes",
@@ -419,6 +419,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 5624
+    "total_games_scanned_all": 5627
   }
 }
