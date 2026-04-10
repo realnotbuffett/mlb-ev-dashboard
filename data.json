@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T23:30:08.059708+00:00",
+  "last_updated": "2026-04-10T23:45:08.917083+00:00",
   "scoreboard": [
     {
       "game_id": "824695",
@@ -16,7 +16,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 4,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-04-10T22:40:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-10T22:40:00Z"
     },
     {
       "game_id": "824534",
       "away": "LAA",
       "home": "CIN",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-10T22:45:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 3,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-10T23:07:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-04-10T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TB",
       "away_score": 2,
       "home_score": 2,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-10T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-10T23:15:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-04-10T23:15:00Z"
     },
     {
@@ -95,7 +95,7 @@
       "game_id": "823808",
       "away": "WSH",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-04-10T23:40:00Z"
@@ -360,6 +360,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "13.81"
+    },
+    {
+      "date": "2026-04-10",
+      "time": "19:45:08",
+      "game_id": "823968",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Texas Rangers",
+      "bet_side": "away",
+      "model_prob": "0.3717",
+      "polymarket_price": "0.3400",
+      "ev_pct": "9.32%",
+      "bet_size": "$10.00",
+      "order_id": "0xbfea42cbfa7bf4e41c",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -607,16 +624,16 @@
     },
     {
       "date": "2026-04-10",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "823076",
       "home_team": "St. Louis Cardinals",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.4458",
-      "away_prob": "0.5542",
+      "home_prob": "0.4419",
+      "away_prob": "0.5581",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0092",
-      "away_ev": "-0.0104",
+      "home_ev": "-0.0180",
+      "away_ev": "-0.0034",
       "home_pitcher": "Dustin May",
       "away_pitcher": "Connelly Early",
       "pitchers_confirmed": "yes",
@@ -629,7 +646,7 @@
     },
     {
       "date": "2026-04-10",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "823318",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -651,16 +668,16 @@
     },
     {
       "date": "2026-04-10",
-      "time": "19:30:07",
+      "time": "19:45:06",
       "game_id": "823156",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
-      "home_prob": "0.5603",
-      "away_prob": "0.4397",
+      "home_prob": "0.5606",
+      "away_prob": "0.4394",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0170",
-      "away_ev": "-0.0007",
+      "home_ev": "-0.0165",
+      "away_ev": "-0.0014",
       "home_pitcher": "Emerson Hancock",
       "away_pitcher": "Tatsuya Imai",
       "pitchers_confirmed": "yes",
@@ -673,21 +690,21 @@
     },
     {
       "date": "2026-04-10",
-      "time": "19:30:08",
+      "time": "19:45:08",
       "game_id": "823968",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
-      "home_prob": "0.6497",
-      "away_prob": "0.3503",
+      "home_prob": "0.6283",
+      "away_prob": "0.3717",
       "poly_home_price": "0.6700",
       "poly_away_price": "0.3400",
-      "home_ev": "-0.0304",
-      "away_ev": "0.0304",
+      "home_ev": "-0.0622",
+      "away_ev": "0.0932",
       "home_pitcher": "Tyler Glasnow",
       "away_pitcher": "Kumar Rocker",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -695,9 +712,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 13,
+    "total_bets_today": 1,
+    "total_bets_all_time": 14,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6214
+    "total_games_scanned_all": 6218
   }
 }
