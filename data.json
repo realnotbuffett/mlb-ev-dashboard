@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T01:00:05.632962+00:00",
+  "last_updated": "2026-04-10T01:15:06.202649+00:00",
   "scoreboard": [
     {
       "game_id": "823884",
@@ -32,9 +32,9 @@
       "game_id": "823645",
       "away": "ARI",
       "home": "NYM",
-      "away_score": 0,
+      "away_score": 4,
       "home_score": 1,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-04-09T23:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "KC",
       "away_score": 1,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-09T23:40:00Z"
     },
     {
@@ -394,7 +394,7 @@
     },
     {
       "date": "2026-04-09",
-      "time": "21:00:05",
+      "time": "21:15:06",
       "game_id": "823319",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -419,6 +419,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 13,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 5680
+    "total_games_scanned_all": 5681
   }
 }
