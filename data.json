@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T23:00:06.853864+00:00",
+  "last_updated": "2026-04-11T23:15:07.081074+00:00",
   "scoreboard": [
     {
       "game_id": "823480",
@@ -42,8 +42,8 @@
       "away": "LAA",
       "home": "CIN",
       "away_score": 3,
-      "home_score": 5,
-      "state": "B8",
+      "home_score": 7,
+      "state": "T9",
       "start_time": "2026-04-11T20:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 11,
       "home_score": 6,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-04-11T20:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 1,
-      "state": "B3",
+      "state": "T5",
       "start_time": "2026-04-11T22:10:00Z"
     },
     {
@@ -646,16 +646,16 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:00:05",
+      "time": "19:15:05",
       "game_id": "823316",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6049",
-      "away_prob": "0.3951",
+      "home_prob": "0.6039",
+      "away_prob": "0.3961",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "0.0081",
-      "away_ev": "-0.0363",
+      "home_ev": "0.0065",
+      "away_ev": "-0.0339",
       "home_pitcher": "Germ\u00e1n M\u00e1rquez",
       "away_pitcher": "Ryan Feltner",
       "pitchers_confirmed": "yes",
@@ -668,7 +668,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:00:05",
+      "time": "19:15:06",
       "game_id": "823967",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
@@ -690,16 +690,16 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:00:06",
+      "time": "19:15:07",
       "game_id": "823155",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
-      "home_prob": "0.5796",
-      "away_prob": "0.4204",
+      "home_prob": "0.5786",
+      "away_prob": "0.4214",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0176",
-      "away_ev": "0.0009",
+      "home_ev": "-0.0194",
+      "away_ev": "0.0034",
       "home_pitcher": "Luis Castillo",
       "away_pitcher": "Lance McCullers Jr.",
       "pitchers_confirmed": "yes",
@@ -715,6 +715,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 14,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6678
+    "total_games_scanned_all": 6681
   }
 }
