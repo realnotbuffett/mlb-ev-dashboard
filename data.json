@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T23:15:07.081074+00:00",
+  "last_updated": "2026-04-11T23:30:07.274728+00:00",
   "scoreboard": [
     {
       "game_id": "823480",
@@ -43,7 +43,7 @@
       "home": "CIN",
       "away_score": 3,
       "home_score": 7,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-11T20:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 11,
       "home_score": 6,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-04-11T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-11T23:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -97,16 +97,16 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
       "game_id": "824939",
       "away": "CLE",
       "home": "ATL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -646,7 +646,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:15:05",
+      "time": "19:30:05",
       "game_id": "823316",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -668,7 +668,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:15:06",
+      "time": "19:30:06",
       "game_id": "823967",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
@@ -690,7 +690,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:15:07",
+      "time": "19:30:07",
       "game_id": "823155",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
@@ -715,6 +715,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 14,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6681
+    "total_games_scanned_all": 6684
   }
 }
