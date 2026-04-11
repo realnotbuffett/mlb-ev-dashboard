@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T22:45:10.390061+00:00",
+  "last_updated": "2026-04-11T23:00:06.853864+00:00",
   "scoreboard": [
     {
       "game_id": "823480",
@@ -43,16 +43,16 @@
       "home": "CIN",
       "away_score": 3,
       "home_score": 5,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-04-11T20:10:00Z"
     },
     {
       "game_id": "823644",
       "away": "OAK",
       "home": "NYM",
-      "away_score": 7,
+      "away_score": 11,
       "home_score": 6,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-04-11T20:10:00Z"
     },
     {
@@ -70,43 +70,43 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-11T22:10:00Z"
     },
     {
       "game_id": "823805",
       "away": "WSH",
       "home": "MIL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-11T23:10:00Z"
     },
     {
       "game_id": "824857",
       "away": "SF",
       "home": "BAL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
       "game_id": "823074",
       "away": "BOS",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
       "game_id": "824939",
       "away": "CLE",
       "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -646,7 +646,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "18:45:08",
+      "time": "19:00:05",
       "game_id": "823316",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -668,7 +668,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "18:45:09",
+      "time": "19:00:05",
       "game_id": "823967",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
@@ -690,7 +690,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "18:45:10",
+      "time": "19:00:06",
       "game_id": "823155",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
@@ -715,6 +715,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 14,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6675
+    "total_games_scanned_all": 6678
   }
 }
