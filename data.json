@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T18:30:10.381588+00:00",
+  "last_updated": "2026-04-12T18:45:09.051390+00:00",
   "scoreboard": [
     {
       "game_id": "824859",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 2,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-12T17:35:00Z"
     },
     {
@@ -16,25 +16,25 @@
       "home": "PHI",
       "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-12T17:35:00Z"
     },
     {
       "game_id": "822828",
       "away": "MIN",
       "home": "TOR",
-      "away_score": 4,
+      "away_score": 8,
       "home_score": 1,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-04-12T17:37:00Z"
     },
     {
       "game_id": "824533",
       "away": "LAA",
       "home": "CIN",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 3,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 3,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-04-12T18:10:00Z"
     },
     {
       "game_id": "823075",
       "away": "BOS",
       "home": "STL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-04-12T18:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-12T18:20:00Z"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:30:06",
+      "time": "14:45:05",
       "game_id": "824126",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
@@ -641,7 +641,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:30:07",
+      "time": "14:45:06",
       "game_id": "823317",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -663,7 +663,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:30:09",
+      "time": "14:45:08",
       "game_id": "823966",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
@@ -685,16 +685,16 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:30:10",
+      "time": "14:45:09",
       "game_id": "824938",
       "home_team": "Atlanta Braves",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.6359",
-      "away_prob": "0.3641",
+      "home_prob": "0.6351",
+      "away_prob": "0.3649",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3700",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0160",
+      "home_ev": "-0.0077",
+      "away_ev": "-0.0137",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Tanner Bibee",
       "pitchers_confirmed": "yes",
@@ -707,7 +707,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "14:30:08",
+      "time": "14:45:07",
       "game_id": "823154",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
@@ -732,6 +732,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 15,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6949
+    "total_games_scanned_all": 6954
   }
 }
