@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T21:30:05.470648+00:00",
+  "last_updated": "2026-04-12T21:45:06.099896+00:00",
   "scoreboard": [
     {
       "game_id": "824859",
@@ -70,7 +70,7 @@
       "home": "KC",
       "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-04-12T18:10:00Z"
     },
     {
@@ -104,18 +104,18 @@
       "game_id": "823317",
       "away": "COL",
       "home": "SD",
-      "away_score": 0,
-      "home_score": 3,
-      "state": "T5",
+      "away_score": 2,
+      "home_score": 4,
+      "state": "B5",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
       "game_id": "823154",
       "away": "HOU",
       "home": "SEA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAD",
       "away_score": 2,
       "home_score": 1,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
@@ -702,16 +702,16 @@
     },
     {
       "date": "2026-04-12",
-      "time": "17:30:05",
+      "time": "17:45:06",
       "game_id": "824938",
       "home_team": "Atlanta Braves",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.6351",
-      "away_prob": "0.3649",
+      "home_prob": "0.6327",
+      "away_prob": "0.3673",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0230",
-      "away_ev": "0.0137",
+      "home_ev": "-0.0266",
+      "away_ev": "0.0203",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Tanner Bibee",
       "pitchers_confirmed": "yes",
@@ -749,6 +749,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 16,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6982
+    "total_games_scanned_all": 6983
   }
 }
