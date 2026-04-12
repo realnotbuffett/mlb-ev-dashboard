@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T19:00:09.051096+00:00",
+  "last_updated": "2026-04-12T19:15:09.004963+00:00",
   "scoreboard": [
     {
       "game_id": "824859",
@@ -7,16 +7,16 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 4,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-12T17:35:00Z"
     },
     {
       "game_id": "823479",
       "away": "ARI",
       "home": "PHI",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-12T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TOR",
       "away_score": 8,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-12T17:37:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CIN",
       "away_score": 7,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "MIA",
       "home": "DET",
       "away_score": 0,
-      "home_score": 4,
-      "state": "B6",
+      "home_score": 7,
+      "state": "T7",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 3,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-12T17:40:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "823804",
       "away": "WSH",
       "home": "MIL",
-      "away_score": 1,
-      "home_score": 1,
-      "state": "T4",
+      "away_score": 2,
+      "home_score": 2,
+      "state": "T5",
       "start_time": "2026-04-12T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "STL",
       "away_score": 3,
       "home_score": 1,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-04-12T18:15:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "PIT",
       "home": "CHC",
       "away_score": 5,
-      "home_score": 0,
-      "state": "B2",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-04-12T18:20:00Z"
     },
     {
@@ -553,16 +553,16 @@
     },
     {
       "date": "2026-04-12",
-      "time": "15:00:05",
+      "time": "15:15:05",
       "game_id": "824126",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.6117",
-      "away_prob": "0.3883",
-      "poly_home_price": "0.6200",
-      "poly_away_price": "0.3900",
-      "home_ev": "-0.0135",
-      "away_ev": "-0.0042",
+      "home_prob": "0.6126",
+      "away_prob": "0.3874",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0276",
+      "away_ev": "0.0195",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Grant Taylor",
       "pitchers_confirmed": "yes",
@@ -641,7 +641,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "15:00:06",
+      "time": "15:15:06",
       "game_id": "823317",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -663,16 +663,16 @@
     },
     {
       "date": "2026-04-12",
-      "time": "15:00:08",
+      "time": "15:15:08",
       "game_id": "823966",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5330",
-      "away_prob": "0.4670",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0130",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0118",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Jacob deGrom",
       "pitchers_confirmed": "yes",
@@ -685,7 +685,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "15:00:09",
+      "time": "15:15:08",
       "game_id": "824938",
       "home_team": "Atlanta Braves",
       "away_team": "Cleveland Guardians",
@@ -707,16 +707,16 @@
     },
     {
       "date": "2026-04-12",
-      "time": "15:00:07",
+      "time": "15:15:07",
       "game_id": "823154",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
-      "home_prob": "0.6286",
-      "away_prob": "0.3714",
+      "home_prob": "0.6235",
+      "away_prob": "0.3765",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3700",
-      "home_ev": "-0.0179",
-      "away_ev": "0.0039",
+      "home_ev": "-0.0258",
+      "away_ev": "0.0176",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "Cody Bolton",
       "pitchers_confirmed": "yes",
@@ -732,6 +732,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 15,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6959
+    "total_games_scanned_all": 6964
   }
 }
