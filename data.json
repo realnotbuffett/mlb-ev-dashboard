@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T23:45:06.788457+00:00",
+  "last_updated": "2026-04-12T00:15:05.889278+00:00",
   "scoreboard": [
     {
       "game_id": "823480",
@@ -69,8 +69,8 @@
       "away": "NYY",
       "home": "TB",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B6",
+      "home_score": 2,
+      "state": "T8",
       "start_time": "2026-04-11T22:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-04-11T23:10:00Z"
     },
     {
@@ -87,17 +87,17 @@
       "away": "SF",
       "home": "BAL",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B2",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
       "game_id": "823074",
       "away": "BOS",
       "home": "STL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "ATL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B4",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
       "game_id": "823316",
       "away": "COL",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-12T00:40:00Z"
     },
     {
@@ -668,16 +668,16 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:45:05",
+      "time": "20:15:04",
       "game_id": "823967",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
-      "home_prob": "0.6117",
-      "away_prob": "0.3883",
-      "poly_home_price": "0.6300",
-      "poly_away_price": "0.3800",
-      "home_ev": "-0.0291",
-      "away_ev": "0.0220",
+      "home_prob": "0.6126",
+      "away_prob": "0.3874",
+      "poly_home_price": "0.6200",
+      "poly_away_price": "0.3900",
+      "home_ev": "-0.0120",
+      "away_ev": "-0.0066",
       "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Jack Leiter",
       "pitchers_confirmed": "yes",
@@ -690,16 +690,16 @@
     },
     {
       "date": "2026-04-11",
-      "time": "19:45:06",
+      "time": "20:15:05",
       "game_id": "823155",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
-      "home_prob": "0.5786",
-      "away_prob": "0.4214",
+      "home_prob": "0.5796",
+      "away_prob": "0.4204",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0194",
-      "away_ev": "0.0034",
+      "home_ev": "-0.0176",
+      "away_ev": "0.0009",
       "home_pitcher": "Luis Castillo",
       "away_pitcher": "Lance McCullers Jr.",
       "pitchers_confirmed": "yes",
@@ -715,6 +715,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 14,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6687
+    "total_games_scanned_all": 6689
   }
 }
