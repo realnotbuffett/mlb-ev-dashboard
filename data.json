@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T23:00:04.689441+00:00",
+  "last_updated": "2026-04-12T23:15:04.905371+00:00",
   "scoreboard": [
     {
       "game_id": "824859",
@@ -70,7 +70,7 @@
       "home": "KC",
       "away_score": 5,
       "home_score": 5,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-04-12T18:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SD",
       "away_score": 2,
       "home_score": 7,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAD",
       "away_score": 5,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
