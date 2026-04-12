@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T22:00:06.334783+00:00",
+  "last_updated": "2026-04-12T22:15:06.329869+00:00",
   "scoreboard": [
     {
       "game_id": "824859",
@@ -68,9 +68,9 @@
       "game_id": "824126",
       "away": "CWS",
       "home": "KC",
-      "away_score": 2,
-      "home_score": 2,
-      "state": "B3",
+      "away_score": 4,
+      "home_score": 4,
+      "state": "B4",
       "start_time": "2026-04-12T18:10:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "COL",
       "home": "SD",
       "away_score": 2,
-      "home_score": 4,
-      "state": "B6",
+      "home_score": 6,
+      "state": "T7",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
@@ -114,8 +114,8 @@
       "away": "HOU",
       "home": "SEA",
       "away_score": 1,
-      "home_score": 4,
-      "state": "B6",
+      "home_score": 6,
+      "state": "B7",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAD",
       "away_score": 3,
       "home_score": 1,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-12T20:10:00Z"
     },
     {
@@ -702,7 +702,7 @@
     },
     {
       "date": "2026-04-12",
-      "time": "18:00:06",
+      "time": "18:15:06",
       "game_id": "824938",
       "home_team": "Atlanta Braves",
       "away_team": "Cleveland Guardians",
@@ -749,6 +749,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 16,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6984
+    "total_games_scanned_all": 6985
   }
 }
