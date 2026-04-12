@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T00:30:05.920021+00:00",
+  "last_updated": "2026-04-12T00:45:04.956204+00:00",
   "scoreboard": [
     {
       "game_id": "823480",
@@ -70,7 +70,7 @@
       "home": "TB",
       "away_score": 3,
       "home_score": 3,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-04-11T22:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T5",
+      "state": "B6",
       "start_time": "2026-04-11T23:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "SF",
       "home": "BAL",
       "away_score": 2,
-      "home_score": 2,
-      "state": "B4",
+      "home_score": 4,
+      "state": "T5",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "STL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ATL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -122,9 +122,9 @@
       "game_id": "823967",
       "away": "TEX",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-12T01:10:00Z"
     },
     {
@@ -690,7 +690,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "20:30:05",
+      "time": "20:45:04",
       "game_id": "823155",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
@@ -715,6 +715,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 14,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6691
+    "total_games_scanned_all": 6692
   }
 }
