@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T23:15:04.905371+00:00",
+  "last_updated": "2026-04-12T23:30:04.509035+00:00",
   "scoreboard": [
     {
       "game_id": "824859",
@@ -68,9 +68,9 @@
       "game_id": "824126",
       "away": "CWS",
       "home": "KC",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 5,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-04-12T18:10:00Z"
     },
     {
