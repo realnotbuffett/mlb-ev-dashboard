@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T00:15:05.889278+00:00",
+  "last_updated": "2026-04-12T00:30:05.920021+00:00",
   "scoreboard": [
     {
       "game_id": "823480",
@@ -68,27 +68,27 @@
       "game_id": "822996",
       "away": "NYY",
       "home": "TB",
-      "away_score": 1,
-      "home_score": 2,
-      "state": "T8",
+      "away_score": 3,
+      "home_score": 3,
+      "state": "T9",
       "start_time": "2026-04-11T22:10:00Z"
     },
     {
       "game_id": "823805",
       "away": "WSH",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-04-11T23:10:00Z"
     },
     {
       "game_id": "824857",
       "away": "SF",
       "home": "BAL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 2,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "STL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ATL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-11T23:15:00Z"
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "20:15:04",
+      "time": "20:30:05",
       "game_id": "823967",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Texas Rangers",
@@ -690,7 +690,7 @@
     },
     {
       "date": "2026-04-11",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "823155",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
@@ -715,6 +715,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 14,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 6689
+    "total_games_scanned_all": 6691
   }
 }
