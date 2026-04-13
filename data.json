@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T00:30:05.230784+00:00",
+  "last_updated": "2026-04-13T00:45:05.204501+00:00",
   "scoreboard": [
     {
       "game_id": "824859",
@@ -132,8 +132,8 @@
       "away": "CLE",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 3,
-      "state": "T4",
+      "home_score": 5,
+      "state": "T5",
       "start_time": "2026-04-12T23:20:00Z"
     }
   ],
