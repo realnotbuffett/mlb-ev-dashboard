@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T19:15:13.226863+00:00",
+  "last_updated": "2026-04-13T19:30:14.082513+00:00",
   "scoreboard": [
     {
       "game_id": "823153",
@@ -371,7 +371,7 @@
   "today_games": [
     {
       "date": "2026-04-13",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "823153",
       "home_team": "Seattle Mariners",
       "away_team": "Houston Astros",
@@ -393,7 +393,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:06",
+      "time": "15:30:07",
       "game_id": "823400",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Washington Nationals",
@@ -415,7 +415,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:07",
+      "time": "15:30:08",
       "game_id": "823481",
       "home_team": "Philadelphia Phillies",
       "away_team": "Chicago Cubs",
@@ -437,7 +437,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:08",
+      "time": "15:30:09",
       "game_id": "823563",
       "home_team": "New York Yankees",
       "away_team": "Los Angeles Angels",
@@ -459,7 +459,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:09",
+      "time": "15:30:10",
       "game_id": "824937",
       "home_team": "Atlanta Braves",
       "away_team": "Miami Marlins",
@@ -481,7 +481,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:10",
+      "time": "15:30:10",
       "game_id": "823725",
       "home_team": "Minnesota Twins",
       "away_team": "Boston Red Sox",
@@ -503,7 +503,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:11",
+      "time": "15:30:11",
       "game_id": "823073",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cleveland Guardians",
@@ -525,7 +525,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:12",
+      "time": "15:30:12",
       "game_id": "825024",
       "home_team": "Athletics",
       "away_team": "Texas Rangers",
@@ -547,7 +547,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:13",
+      "time": "15:30:14",
       "game_id": "823964",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
@@ -569,7 +569,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "15:15:06",
+      "time": "15:30:06",
       "game_id": "824856",
       "home_team": "Baltimore Orioles",
       "away_team": "Arizona Diamondbacks",
@@ -594,6 +594,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 16,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 7196
+    "total_games_scanned_all": 7206
   }
 }
