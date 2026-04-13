@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T21:30:12.540087+00:00",
+  "last_updated": "2026-04-13T21:45:12.334291+00:00",
   "scoreboard": [
     {
       "game_id": "823153",
@@ -7,7 +7,7 @@
       "home": "SEA",
       "away_score": 2,
       "home_score": 6,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-13T20:10:00Z"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:06",
+      "time": "17:45:05",
       "game_id": "823400",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Washington Nationals",
@@ -415,16 +415,16 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:06",
+      "time": "17:45:06",
       "game_id": "823481",
       "home_team": "Philadelphia Phillies",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.6184",
-      "away_prob": "0.3816",
+      "home_prob": "0.6193",
+      "away_prob": "0.3807",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0185",
-      "away_ev": "0.0043",
+      "home_ev": "-0.0170",
+      "away_ev": "0.0019",
       "home_pitcher": "Cristopher S\u00e1nchez",
       "away_pitcher": "Javier Assad",
       "pitchers_confirmed": "yes",
@@ -437,7 +437,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:07",
+      "time": "17:45:07",
       "game_id": "823563",
       "home_team": "New York Yankees",
       "away_team": "Los Angeles Angels",
@@ -459,16 +459,16 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:08",
+      "time": "17:45:08",
       "game_id": "824937",
       "home_team": "Atlanta Braves",
       "away_team": "Miami Marlins",
-      "home_prob": "0.5806",
-      "away_prob": "0.4194",
+      "home_prob": "0.5761",
+      "away_prob": "0.4239",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "0.0011",
-      "away_ev": "-0.0248",
+      "home_ev": "-0.0068",
+      "away_ev": "-0.0141",
       "home_pitcher": "Grant Holmes",
       "away_pitcher": "Eury P\u00e9rez",
       "pitchers_confirmed": "yes",
@@ -481,7 +481,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:09",
+      "time": "17:45:09",
       "game_id": "823725",
       "home_team": "Minnesota Twins",
       "away_team": "Boston Red Sox",
@@ -503,7 +503,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:10",
+      "time": "17:45:10",
       "game_id": "823073",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cleveland Guardians",
@@ -525,7 +525,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:11",
+      "time": "17:45:11",
       "game_id": "825024",
       "home_team": "Athletics",
       "away_team": "Texas Rangers",
@@ -547,7 +547,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:12",
+      "time": "17:45:12",
       "game_id": "823964",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
@@ -569,7 +569,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "17:30:05",
+      "time": "17:45:05",
       "game_id": "824856",
       "home_team": "Baltimore Orioles",
       "away_team": "Arizona Diamondbacks",
@@ -594,6 +594,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 16,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 7279
+    "total_games_scanned_all": 7288
   }
 }
