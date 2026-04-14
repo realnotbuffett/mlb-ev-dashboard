@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T21:00:19.171170+00:00",
+  "last_updated": "2026-04-14T21:15:20.097072+00:00",
   "scoreboard": [
     {
       "game_id": "824853",
@@ -450,7 +450,7 @@
   "today_games": [
     {
       "date": "2026-04-14",
-      "time": "17:00:05",
+      "time": "17:15:07",
       "game_id": "824853",
       "home_team": "Baltimore Orioles",
       "away_team": "Arizona Diamondbacks",
@@ -472,7 +472,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:07",
+      "time": "17:15:08",
       "game_id": "824292",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
@@ -494,7 +494,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:07",
+      "time": "17:15:09",
       "game_id": "823398",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Washington Nationals",
@@ -516,7 +516,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:08",
+      "time": "17:15:10",
       "game_id": "824531",
       "home_team": "Cincinnati Reds",
       "away_team": "San Francisco Giants",
@@ -538,7 +538,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:09",
+      "time": "17:15:11",
       "game_id": "823478",
       "home_team": "Philadelphia Phillies",
       "away_team": "Chicago Cubs",
@@ -560,7 +560,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:10",
+      "time": "17:15:12",
       "game_id": "823562",
       "home_team": "New York Yankees",
       "away_team": "Los Angeles Angels",
@@ -582,7 +582,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:11",
+      "time": "17:15:13",
       "game_id": "824935",
       "home_team": "Atlanta Braves",
       "away_team": "Miami Marlins",
@@ -604,16 +604,16 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:12",
+      "time": "17:15:13",
       "game_id": "823723",
       "home_team": "Minnesota Twins",
       "away_team": "Boston Red Sox",
       "home_prob": "0.4397",
       "away_prob": "0.5603",
-      "poly_home_price": "0.4600",
-      "poly_away_price": "0.5500",
-      "home_ev": "-0.0441",
-      "away_ev": "0.0187",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "-0.0229",
+      "away_ev": "0.0005",
       "home_pitcher": "Mick Abel",
       "away_pitcher": "Sonny Gray",
       "pitchers_confirmed": "yes",
@@ -626,7 +626,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:13",
+      "time": "17:15:14",
       "game_id": "824616",
       "home_team": "Chicago White Sox",
       "away_team": "Tampa Bay Rays",
@@ -648,7 +648,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:14",
+      "time": "17:15:15",
       "game_id": "823802",
       "home_team": "Milwaukee Brewers",
       "away_team": "Toronto Blue Jays",
@@ -670,7 +670,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:15",
+      "time": "17:15:16",
       "game_id": "823072",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cleveland Guardians",
@@ -692,7 +692,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:17",
+      "time": "17:15:18",
       "game_id": "823315",
       "home_team": "San Diego Padres",
       "away_team": "Seattle Mariners",
@@ -714,7 +714,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:18",
+      "time": "17:15:19",
       "game_id": "825022",
       "home_team": "Athletics",
       "away_team": "Texas Rangers",
@@ -736,7 +736,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:19",
+      "time": "17:15:20",
       "game_id": "823965",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
@@ -758,7 +758,7 @@
     },
     {
       "date": "2026-04-14",
-      "time": "17:00:16",
+      "time": "17:15:17",
       "game_id": "824210",
       "home_team": "Houston Astros",
       "away_team": "Colorado Rockies",
@@ -783,6 +783,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 18,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 7795
+    "total_games_scanned_all": 7810
   }
 }
