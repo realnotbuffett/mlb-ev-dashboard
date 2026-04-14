@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T00:15:06.776918+00:00",
+  "last_updated": "2026-04-14T00:30:06.884074+00:00",
   "scoreboard": [
     {
       "game_id": "823153",
@@ -14,9 +14,9 @@
       "game_id": "824856",
       "away": "ARI",
       "home": "BAL",
-      "away_score": 4,
+      "away_score": 7,
       "home_score": 1,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-13T22:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 1,
       "home_score": 5,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-13T22:40:00Z"
     },
     {
@@ -34,14 +34,14 @@
       "home": "PHI",
       "away_score": 2,
       "home_score": 9,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-13T22:40:00Z"
     },
     {
       "game_id": "823563",
       "away": "LAA",
       "home": "NYY",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 4,
       "state": "T4",
       "start_time": "2026-04-13T23:05:00Z"
@@ -51,8 +51,8 @@
       "away": "MIA",
       "home": "ATL",
       "away_score": 3,
-      "home_score": 0,
-      "state": "B4",
+      "home_score": 3,
+      "state": "T5",
       "start_time": "2026-04-13T23:15:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "BOS",
       "home": "MIN",
       "away_score": 0,
-      "home_score": 4,
-      "state": "B2",
+      "home_score": 11,
+      "state": "T3",
       "start_time": "2026-04-13T23:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "STL",
       "away_score": 1,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-13T23:45:00Z"
     },
     {
@@ -559,7 +559,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "825024",
       "home_team": "Athletics",
       "away_team": "Texas Rangers",
@@ -581,7 +581,7 @@
     },
     {
       "date": "2026-04-13",
-      "time": "20:15:06",
+      "time": "20:30:06",
       "game_id": "823964",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
@@ -628,6 +628,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 18,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 7332
+    "total_games_scanned_all": 7334
   }
 }
