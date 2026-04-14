@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T03:15:04.926265+00:00",
+  "last_updated": "2026-04-14T03:30:06.648266+00:00",
   "scoreboard": [
     {
       "game_id": "823153",
@@ -79,7 +79,7 @@
       "home": "OAK",
       "away_score": 4,
       "home_score": 0,
-      "state": "B6",
+      "state": "T8",
       "start_time": "2026-04-14T01:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-14T02:10:00Z"
     }
   ],
