@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T01:30:06.103762+00:00",
+  "last_updated": "2026-04-14T01:45:05.900676+00:00",
   "scoreboard": [
     {
       "game_id": "823153",
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 5,
       "home_score": 16,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-04-13T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 7,
       "home_score": 13,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-13T22:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "LAA",
       "home": "NYY",
       "away_score": 7,
-      "home_score": 7,
-      "state": "B6",
+      "home_score": 8,
+      "state": "T7",
       "start_time": "2026-04-13T23:05:00Z"
     },
     {
@@ -52,25 +52,25 @@
       "home": "ATL",
       "away_score": 9,
       "home_score": 4,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-04-13T23:15:00Z"
     },
     {
       "game_id": "823725",
       "away": "BOS",
       "home": "MIN",
-      "away_score": 4,
+      "away_score": 6,
       "home_score": 13,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-04-13T23:40:00Z"
     },
     {
       "game_id": "823073",
       "away": "CLE",
       "home": "STL",
-      "away_score": 4,
-      "home_score": 1,
-      "state": "T6",
+      "away_score": 6,
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-04-13T23:45:00Z"
     },
     {
@@ -581,16 +581,16 @@
     },
     {
       "date": "2026-04-13",
-      "time": "21:30:06",
+      "time": "21:45:05",
       "game_id": "823964",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
       "home_prob": "0.6316",
       "away_prob": "0.3684",
-      "poly_home_price": "0.6000",
-      "poly_away_price": "0.4100",
-      "home_ev": "0.0526",
-      "away_ev": "-0.1014",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "0.0705",
+      "away_ev": "-0.1228",
       "home_pitcher": "Justin Wrobleski",
       "away_pitcher": "David Peterson",
       "pitchers_confirmed": "yes",
@@ -628,6 +628,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 18,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 7341
+    "total_games_scanned_all": 7342
   }
 }
