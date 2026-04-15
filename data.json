@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-15T00:00:07.375922+00:00",
+  "last_updated": "2026-04-15T00:15:09.918959+00:00",
   "scoreboard": [
     {
       "game_id": "824853",
       "away": "ARI",
       "home": "BAL",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-14T22:35:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-14T22:40:00Z"
     },
     {
       "game_id": "823398",
       "away": "WSH",
       "home": "PIT",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 1,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-04-14T22:40:00Z"
     },
     {
@@ -34,25 +34,25 @@
       "home": "CIN",
       "away_score": 1,
       "home_score": 2,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-14T22:40:00Z"
     },
     {
       "game_id": "823478",
       "away": "CHC",
       "home": "PHI",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-14T22:40:00Z"
     },
     {
       "game_id": "823562",
       "away": "LAA",
       "home": "NYY",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-14T23:05:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "MIA",
       "home": "ATL",
       "away_score": 4,
-      "home_score": 1,
-      "state": "B2",
+      "home_score": 3,
+      "state": "B3",
       "start_time": "2026-04-14T23:15:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-14T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CWS",
       "away_score": 3,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-14T23:40:00Z"
     },
     {
@@ -88,23 +88,23 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-14T23:40:00Z"
     },
     {
       "game_id": "823072",
       "away": "CLE",
       "home": "STL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-04-14T23:45:00Z"
     },
     {
       "game_id": "824210",
       "away": "COL",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-04-15T00:10:00Z"
@@ -445,6 +445,40 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "6.67"
+    },
+    {
+      "date": "2026-04-14",
+      "time": "20:15:06",
+      "game_id": "823315",
+      "home_team": "San Diego Padres",
+      "away_team": "Seattle Mariners",
+      "bet_side": "home",
+      "model_prob": "0.5051",
+      "polymarket_price": "0.4800",
+      "ev_pct": "5.24%",
+      "bet_size": "$10.00",
+      "order_id": "0x32785a2391a675cb4a",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
+    },
+    {
+      "date": "2026-04-14",
+      "time": "20:15:08",
+      "game_id": "825022",
+      "home_team": "Athletics",
+      "away_team": "Texas Rangers",
+      "bet_side": "home",
+      "model_prob": "0.5090",
+      "polymarket_price": "0.4600",
+      "ev_pct": "10.64%",
+      "bet_size": "$10.00",
+      "order_id": "0x52b9cf24c5abdd9685",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -692,21 +726,21 @@
     },
     {
       "date": "2026-04-14",
-      "time": "20:00:05",
+      "time": "20:15:06",
       "game_id": "823315",
       "home_team": "San Diego Padres",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4758",
-      "away_prob": "0.5242",
+      "home_prob": "0.5051",
+      "away_prob": "0.4949",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0087",
-      "away_ev": "-0.0110",
+      "home_ev": "0.0524",
+      "away_ev": "-0.0663",
       "home_pitcher": "Michael King",
       "away_pitcher": "Bryan Woo",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -714,21 +748,21 @@
     },
     {
       "date": "2026-04-14",
-      "time": "20:00:06",
+      "time": "20:15:08",
       "game_id": "825022",
       "home_team": "Athletics",
       "away_team": "Texas Rangers",
-      "home_prob": "0.4571",
-      "away_prob": "0.5429",
+      "home_prob": "0.5090",
+      "away_prob": "0.4910",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0129",
+      "home_ev": "0.1064",
+      "away_ev": "-0.1072",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "MacKenzie Gore",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -736,16 +770,16 @@
     },
     {
       "date": "2026-04-14",
-      "time": "20:00:07",
+      "time": "20:15:09",
       "game_id": "823965",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
-      "home_prob": "0.6351",
-      "away_prob": "0.3649",
+      "home_prob": "0.6613",
+      "away_prob": "0.3387",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0230",
-      "away_ev": "0.0137",
+      "home_ev": "0.0174",
+      "away_ev": "-0.0591",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Nolan McLean",
       "pitchers_confirmed": "yes",
@@ -780,9 +814,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 18,
+    "total_bets_today": 2,
+    "total_bets_all_time": 20,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 7905
+    "total_games_scanned_all": 7908
   }
 }
