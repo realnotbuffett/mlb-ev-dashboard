@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T22:45:10.768547+00:00",
+  "last_updated": "2026-04-15T23:00:09.115001+00:00",
   "scoreboard": [
     {
       "game_id": "824855",
@@ -34,7 +34,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B2",
       "start_time": "2026-04-15T22:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "WSH",
       "home": "PIT",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "B1",
       "start_time": "2026-04-15T22:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "SF",
       "home": "CIN",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 4,
+      "state": "B1",
       "start_time": "2026-04-15T22:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "CHC",
       "home": "PHI",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-04-15T22:40:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "824936",
       "away": "MIA",
       "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-15T23:15:00Z"
     },
     {
@@ -677,7 +677,7 @@
     },
     {
       "date": "2026-04-15",
-      "time": "18:45:06",
+      "time": "19:00:04",
       "game_id": "824615",
       "home_team": "Chicago White Sox",
       "away_team": "Tampa Bay Rays",
@@ -699,16 +699,16 @@
     },
     {
       "date": "2026-04-15",
-      "time": "18:45:06",
+      "time": "19:00:05",
       "game_id": "823803",
       "home_team": "Milwaukee Brewers",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4809",
-      "away_prob": "0.5191",
+      "home_prob": "0.4758",
+      "away_prob": "0.5242",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0185",
-      "away_ev": "-0.0018",
+      "home_ev": "-0.0289",
+      "away_ev": "0.0080",
       "home_pitcher": "Chad Patrick",
       "away_pitcher": "Dylan Cease",
       "pitchers_confirmed": "yes",
@@ -721,7 +721,7 @@
     },
     {
       "date": "2026-04-15",
-      "time": "18:45:07",
+      "time": "19:00:06",
       "game_id": "824209",
       "home_team": "Houston Astros",
       "away_team": "Colorado Rockies",
@@ -743,7 +743,7 @@
     },
     {
       "date": "2026-04-15",
-      "time": "18:45:08",
+      "time": "19:00:07",
       "game_id": "823314",
       "home_team": "San Diego Padres",
       "away_team": "Seattle Mariners",
@@ -765,16 +765,16 @@
     },
     {
       "date": "2026-04-15",
-      "time": "18:45:09",
+      "time": "19:00:08",
       "game_id": "825021",
       "home_team": "Athletics",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5293",
-      "away_prob": "0.4707",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0014",
-      "away_ev": "-0.0193",
+      "home_prob": "0.5279",
+      "away_prob": "0.4721",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0224",
+      "away_ev": "0.0044",
       "home_pitcher": "J.T. Ginn",
       "away_pitcher": "Kumar Rocker",
       "pitchers_confirmed": "yes",
@@ -787,16 +787,16 @@
     },
     {
       "date": "2026-04-15",
-      "time": "18:45:10",
+      "time": "19:00:09",
       "game_id": "823963",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
-      "home_prob": "0.6327",
-      "away_prob": "0.3673",
-      "poly_home_price": "0.6300",
-      "poly_away_price": "0.3800",
-      "home_ev": "0.0043",
-      "away_ev": "-0.0334",
+      "home_prob": "0.6432",
+      "away_prob": "0.3568",
+      "poly_home_price": "0.6400",
+      "poly_away_price": "0.3700",
+      "home_ev": "0.0050",
+      "away_ev": "-0.0357",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Clay Holmes",
       "pitchers_confirmed": "yes",
@@ -834,6 +834,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 21,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 8405
+    "total_games_scanned_all": 8411
   }
 }
