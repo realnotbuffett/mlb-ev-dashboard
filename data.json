@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T01:15:07.103463+00:00",
+  "last_updated": "2026-04-16T01:30:05.958022+00:00",
   "scoreboard": [
     {
       "game_id": "824855",
@@ -61,7 +61,7 @@
       "home": "PHI",
       "away_score": 11,
       "home_score": 2,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-04-15T22:40:00Z"
     },
     {
@@ -70,25 +70,25 @@
       "home": "NYY",
       "away_score": 4,
       "home_score": 3,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-04-15T23:05:00Z"
     },
     {
       "game_id": "824936",
       "away": "MIA",
       "home": "ATL",
-      "away_score": 0,
-      "home_score": 3,
-      "state": "B7",
+      "away_score": 2,
+      "home_score": 6,
+      "state": "T8",
       "start_time": "2026-04-15T23:15:00Z"
     },
     {
       "game_id": "824615",
       "away": "TB",
       "home": "CWS",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-15T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-04-15T23:40:00Z"
     },
     {
@@ -106,25 +106,25 @@
       "home": "HOU",
       "away_score": 1,
       "home_score": 3,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-04-16T00:10:00Z"
     },
     {
       "game_id": "823314",
       "away": "SEA",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-16T01:40:00Z"
     },
     {
       "game_id": "825021",
       "away": "TEX",
       "home": "OAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-16T01:40:00Z"
     },
     {
@@ -509,8 +509,8 @@
       "ev_pct": "4.86%",
       "bet_size": "$10.00",
       "order_id": "0x05f1da032c909f6e75",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -526,8 +526,8 @@
       "ev_pct": "8.16%",
       "bet_size": "$10.00",
       "order_id": "0x2f3db8a814181657f1",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     }
@@ -821,16 +821,16 @@
     },
     {
       "date": "2026-04-15",
-      "time": "21:15:07",
+      "time": "21:30:05",
       "game_id": "823963",
       "home_team": "Los Angeles Dodgers",
       "away_team": "New York Mets",
-      "home_prob": "0.6286",
-      "away_prob": "0.3714",
-      "poly_home_price": "0.6400",
-      "poly_away_price": "0.3700",
-      "home_ev": "-0.0179",
-      "away_ev": "0.0039",
+      "home_prob": "0.6277",
+      "away_prob": "0.3723",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0037",
+      "away_ev": "-0.0202",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Clay Holmes",
       "pitchers_confirmed": "yes",
@@ -868,6 +868,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 23,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 8443
+    "total_games_scanned_all": 8444
   }
 }
