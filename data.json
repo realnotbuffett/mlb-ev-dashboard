@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T19:15:06.613229+00:00",
+  "last_updated": "2026-04-16T19:30:06.847400+00:00",
   "scoreboard": [
     {
       "game_id": "823396",
@@ -7,7 +7,7 @@
       "home": "PIT",
       "away_score": 7,
       "home_score": 6,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-04-16T16:35:00Z"
     },
     {
@@ -24,15 +24,15 @@
       "away": "KC",
       "home": "DET",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B4",
+      "home_score": 2,
+      "state": "T5",
       "start_time": "2026-04-16T17:10:00Z"
     },
     {
       "game_id": "823560",
       "away": "LAA",
       "home": "NYY",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 3,
       "state": "T6",
       "start_time": "2026-04-16T17:35:00Z"
@@ -42,17 +42,17 @@
       "away": "TOR",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 1,
-      "state": "T7",
+      "home_score": 2,
+      "state": "B7",
       "start_time": "2026-04-16T17:40:00Z"
     },
     {
       "game_id": "824614",
       "away": "TB",
       "home": "CWS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-16T18:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "OAK",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-16T19:05:00Z"
     },
     {
@@ -622,16 +622,16 @@
     },
     {
       "date": "2026-04-16",
-      "time": "15:15:04",
+      "time": "15:30:04",
       "game_id": "824453",
       "home_team": "Cleveland Guardians",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5355",
-      "away_prob": "0.4645",
+      "home_prob": "0.5305",
+      "away_prob": "0.4695",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0083",
-      "away_ev": "-0.0118",
+      "home_ev": "-0.0177",
+      "away_ev": "-0.0010",
       "home_pitcher": "Parker Messick",
       "away_pitcher": "Shane Baz",
       "pitchers_confirmed": "yes",
@@ -644,7 +644,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "824208",
       "home_team": "Houston Astros",
       "away_team": "Colorado Rockies",
@@ -666,7 +666,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "15:15:06",
+      "time": "15:30:06",
       "game_id": "823313",
       "home_team": "San Diego Padres",
       "away_team": "Seattle Mariners",
@@ -713,6 +713,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 23,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 8627
+    "total_games_scanned_all": 8630
   }
 }
