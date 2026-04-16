@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T20:30:07.575359+00:00",
+  "last_updated": "2026-04-16T20:45:07.274403+00:00",
   "scoreboard": [
     {
       "game_id": "823396",
@@ -23,7 +23,7 @@
       "game_id": "824289",
       "away": "KC",
       "home": "DET",
-      "away_score": 5,
+      "away_score": 8,
       "home_score": 6,
       "state": "T7",
       "start_time": "2026-04-16T17:10:00Z"
@@ -34,7 +34,7 @@
       "home": "NYY",
       "away_score": 11,
       "home_score": 4,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-04-16T17:35:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "TB",
       "home": "CWS",
       "away_score": 2,
-      "home_score": 2,
-      "state": "B7",
+      "home_score": 3,
+      "state": "B8",
       "start_time": "2026-04-16T18:10:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "TEX",
       "home": "OAK",
       "away_score": 2,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 3,
+      "state": "T6",
       "start_time": "2026-04-16T19:05:00Z"
     },
     {
@@ -622,16 +622,16 @@
     },
     {
       "date": "2026-04-16",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "824453",
       "home_team": "Cleveland Guardians",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5330",
-      "away_prob": "0.4670",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0130",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0118",
       "home_pitcher": "Parker Messick",
       "away_pitcher": "Shane Baz",
       "pitchers_confirmed": "yes",
@@ -644,7 +644,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "16:30:06",
+      "time": "16:45:06",
       "game_id": "824208",
       "home_team": "Houston Astros",
       "away_team": "Colorado Rockies",
@@ -666,7 +666,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "16:30:07",
+      "time": "16:45:07",
       "game_id": "823313",
       "home_team": "San Diego Padres",
       "away_team": "Seattle Mariners",
@@ -713,6 +713,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 23,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 8639
+    "total_games_scanned_all": 8642
   }
 }
