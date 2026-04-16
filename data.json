@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T21:15:07.153337+00:00",
+  "last_updated": "2026-04-16T21:30:07.576960+00:00",
   "scoreboard": [
     {
       "game_id": "823396",
@@ -24,8 +24,8 @@
       "away": "KC",
       "home": "DET",
       "away_score": 8,
-      "home_score": 6,
-      "state": "T7",
+      "home_score": 7,
+      "state": "B7",
       "start_time": "2026-04-16T17:10:00Z"
     },
     {
@@ -52,16 +52,16 @@
       "home": "CWS",
       "away_score": 5,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-16T18:10:00Z"
     },
     {
       "game_id": "825023",
       "away": "TEX",
       "home": "OAK",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 3,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-04-16T19:05:00Z"
     },
     {
@@ -622,16 +622,16 @@
     },
     {
       "date": "2026-04-16",
-      "time": "17:15:05",
+      "time": "17:30:05",
       "game_id": "824453",
       "home_team": "Cleveland Guardians",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5355",
-      "away_prob": "0.4645",
+      "home_prob": "0.5406",
+      "away_prob": "0.4594",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0083",
-      "away_ev": "-0.0118",
+      "home_ev": "0.0011",
+      "away_ev": "-0.0226",
       "home_pitcher": "Parker Messick",
       "away_pitcher": "Shane Baz",
       "pitchers_confirmed": "yes",
@@ -644,7 +644,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "17:15:06",
+      "time": "17:30:06",
       "game_id": "824208",
       "home_team": "Houston Astros",
       "away_team": "Colorado Rockies",
@@ -666,16 +666,16 @@
     },
     {
       "date": "2026-04-16",
-      "time": "17:15:07",
+      "time": "17:30:07",
       "game_id": "823313",
       "home_team": "San Diego Padres",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4784",
-      "away_prob": "0.5216",
+      "home_prob": "0.4796",
+      "away_prob": "0.5204",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0034",
-      "away_ev": "-0.0158",
+      "home_ev": "-0.0009",
+      "away_ev": "-0.0181",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Luis Castillo",
       "pitchers_confirmed": "yes",
@@ -713,6 +713,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 23,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 8648
+    "total_games_scanned_all": 8651
   }
 }
