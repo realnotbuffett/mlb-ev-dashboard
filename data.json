@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T02:45:03.732517+00:00",
+  "last_updated": "2026-04-17T03:00:16.302667+00:00",
   "scoreboard": [
     {
       "game_id": "823396",
@@ -79,7 +79,7 @@
       "home": "HOU",
       "away_score": 3,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-04-17T00:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "SEA",
       "home": "SD",
       "away_score": 2,
-      "home_score": 4,
-      "state": "T7",
+      "home_score": 5,
+      "state": "T8",
       "start_time": "2026-04-17T00:40:00Z"
     }
   ],
