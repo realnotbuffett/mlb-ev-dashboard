@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T23:45:05.723721+00:00",
+  "last_updated": "2026-04-17T00:00:05.115197+00:00",
   "scoreboard": [
     {
       "game_id": "823396",
@@ -70,16 +70,16 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 4,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-04-16T22:10:00Z"
     },
     {
       "game_id": "824208",
       "away": "COL",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-17T00:10:00Z"
     },
     {
@@ -666,7 +666,7 @@
     },
     {
       "date": "2026-04-16",
-      "time": "19:45:05",
+      "time": "20:00:05",
       "game_id": "823313",
       "home_team": "San Diego Padres",
       "away_team": "Seattle Mariners",
@@ -713,6 +713,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 23,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 8669
+    "total_games_scanned_all": 8670
   }
 }
