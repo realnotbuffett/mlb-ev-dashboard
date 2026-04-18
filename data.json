@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T21:45:12.953438+00:00",
+  "last_updated": "2026-04-18T22:00:09.123889+00:00",
   "scoreboard": [
     {
       "game_id": "823558",
@@ -41,9 +41,9 @@
       "game_id": "822751",
       "away": "SF",
       "home": "WSH",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 5,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-18T20:05:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "CWS",
       "home": "OAK",
       "away_score": 5,
-      "home_score": 3,
-      "state": "T6",
+      "home_score": 4,
+      "state": "T7",
       "start_time": "2026-04-18T20:05:00Z"
     },
     {
@@ -61,14 +61,14 @@
       "home": "BOS",
       "away_score": 4,
       "home_score": 1,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-18T20:10:00Z"
     },
     {
       "game_id": "823882",
       "away": "MIL",
       "home": "MIA",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 1,
       "state": "T6",
       "start_time": "2026-04-18T20:10:00Z"
@@ -77,9 +77,9 @@
       "game_id": "824451",
       "away": "BAL",
       "home": "CLE",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-18T22:10:00Z"
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "17:45:07",
+      "time": "18:00:04",
       "game_id": "824206",
       "home_team": "Houston Astros",
       "away_team": "St. Louis Cardinals",
@@ -823,7 +823,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "17:45:08",
+      "time": "18:00:05",
       "game_id": "823151",
       "home_team": "Seattle Mariners",
       "away_team": "Texas Rangers",
@@ -845,7 +845,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "17:45:09",
+      "time": "18:00:06",
       "game_id": "823474",
       "home_team": "Philadelphia Phillies",
       "away_team": "Atlanta Braves",
@@ -867,7 +867,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "17:45:10",
+      "time": "18:00:07",
       "game_id": "824372",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
@@ -889,7 +889,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "17:45:11",
+      "time": "18:00:08",
       "game_id": "825098",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Toronto Blue Jays",
@@ -911,7 +911,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "17:45:12",
+      "time": "18:00:09",
       "game_id": "824049",
       "home_team": "Los Angeles Angels",
       "away_team": "San Diego Padres",
@@ -936,6 +936,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 27,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 9649
+    "total_games_scanned_all": 9655
   }
 }
