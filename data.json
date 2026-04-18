@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T00:15:07.875015+00:00",
+  "last_updated": "2026-04-18T00:30:21.274202+00:00",
   "scoreboard": [
     {
       "game_id": "824693",
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-04-17T22:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PHI",
       "away_score": 7,
       "home_score": 0,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-17T22:40:00Z"
     },
     {
@@ -34,16 +34,16 @@
       "home": "WSH",
       "away_score": 8,
       "home_score": 3,
-      "state": "T5",
+      "state": "B6",
       "start_time": "2026-04-17T22:45:00Z"
     },
     {
       "game_id": "823397",
       "away": "TB",
       "home": "PIT",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-17T22:45:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-17T23:05:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "MIL",
       "home": "MIA",
       "away_score": 3,
-      "home_score": 0,
-      "state": "T4",
+      "home_score": 1,
+      "state": "T5",
       "start_time": "2026-04-17T23:10:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-17T23:15:00Z"
     },
     {
       "game_id": "824207",
       "away": "STL",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-18T00:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-18T00:10:00Z"
     },
     {
@@ -547,6 +547,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-04-17",
+      "time": "20:30:19",
+      "game_id": "823152",
+      "home_team": "Seattle Mariners",
+      "away_team": "Texas Rangers",
+      "bet_side": "home",
+      "model_prob": "0.5764",
+      "polymarket_price": "0.5500",
+      "ev_pct": "4.81%",
+      "bet_size": "$10.00",
+      "order_id": "0x25a674aba4f065630a",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -772,16 +789,16 @@
     },
     {
       "date": "2026-04-17",
-      "time": "20:15:04",
+      "time": "20:30:17",
       "game_id": "824048",
       "home_team": "Los Angeles Angels",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5367",
-      "away_prob": "0.4633",
+      "home_prob": "0.5330",
+      "away_prob": "0.4670",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0061",
-      "away_ev": "-0.0143",
+      "home_ev": "-0.0130",
+      "away_ev": "-0.0064",
       "home_pitcher": "Jos\u00e9 Soriano",
       "away_pitcher": "Matt Waldron",
       "pitchers_confirmed": "yes",
@@ -794,21 +811,21 @@
     },
     {
       "date": "2026-04-17",
-      "time": "20:15:06",
+      "time": "20:30:19",
       "game_id": "823152",
       "home_team": "Seattle Mariners",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5764",
+      "away_prob": "0.4236",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0094",
+      "home_ev": "0.0481",
+      "away_ev": "-0.0792",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "Jacob deGrom",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -816,7 +833,7 @@
     },
     {
       "date": "2026-04-17",
-      "time": "20:15:06",
+      "time": "20:30:20",
       "game_id": "825101",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Toronto Blue Jays",
@@ -838,7 +855,7 @@
     },
     {
       "date": "2026-04-17",
-      "time": "20:15:07",
+      "time": "20:30:21",
       "game_id": "825019",
       "home_team": "Athletics",
       "away_team": "Chicago White Sox",
@@ -882,9 +899,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 24,
+    "total_bets_today": 2,
+    "total_bets_all_time": 25,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 9222
+    "total_games_scanned_all": 9226
   }
 }
