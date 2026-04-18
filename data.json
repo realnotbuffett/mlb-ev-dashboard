@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T22:45:09.277892+00:00",
+  "last_updated": "2026-04-18T23:00:06.497154+00:00",
   "scoreboard": [
     {
       "game_id": "823558",
@@ -42,8 +42,8 @@
       "away": "SF",
       "home": "WSH",
       "away_score": 6,
-      "home_score": 5,
-      "state": "T9",
+      "home_score": 6,
+      "state": "T10",
       "start_time": "2026-04-18T20:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "OAK",
       "away_score": 6,
       "home_score": 6,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-04-18T20:05:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIA",
       "away_score": 5,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-04-18T20:10:00Z"
     },
     {
@@ -79,34 +79,34 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-18T22:10:00Z"
     },
     {
       "game_id": "824206",
       "away": "STL",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-18T23:10:00Z"
     },
     {
       "game_id": "823151",
       "away": "TEX",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-18T23:15:00Z"
     },
     {
       "game_id": "823474",
       "away": "ATL",
       "home": "PHI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-18T23:15:00Z"
     },
     {
@@ -867,7 +867,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "18:45:07",
+      "time": "19:00:04",
       "game_id": "824372",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
@@ -889,16 +889,16 @@
     },
     {
       "date": "2026-04-18",
-      "time": "18:45:08",
+      "time": "19:00:05",
       "game_id": "825098",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5806",
-      "away_prob": "0.4194",
+      "home_prob": "0.5821",
+      "away_prob": "0.4179",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0159",
-      "away_ev": "-0.0015",
+      "home_ev": "-0.0134",
+      "away_ev": "-0.0050",
       "home_pitcher": "Zac Gallen",
       "away_pitcher": "Max Scherzer",
       "pitchers_confirmed": "yes",
@@ -911,7 +911,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "18:45:09",
+      "time": "19:00:06",
       "game_id": "824049",
       "home_team": "Los Angeles Angels",
       "away_team": "San Diego Padres",
@@ -936,6 +936,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 27,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 9673
+    "total_games_scanned_all": 9676
   }
 }
