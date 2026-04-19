@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T00:45:05.080678+00:00",
+  "last_updated": "2026-04-19T01:00:05.046753+00:00",
   "scoreboard": [
     {
       "game_id": "823558",
@@ -34,7 +34,7 @@
       "home": "PIT",
       "away_score": 5,
       "home_score": 5,
-      "state": "T9",
+      "state": "T10",
       "start_time": "2026-04-18T19:30:00Z"
     },
     {
@@ -86,18 +86,18 @@
       "game_id": "824206",
       "away": "STL",
       "home": "HOU",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 1,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-18T23:10:00Z"
     },
     {
       "game_id": "823151",
       "away": "TEX",
       "home": "SEA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-18T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "PHI",
       "away_score": 3,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-18T23:15:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "COL",
       "away_score": 3,
       "home_score": 2,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-19T00:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "ARI",
       "away_score": 1,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-19T00:10:00Z"
     },
     {
@@ -911,7 +911,7 @@
     },
     {
       "date": "2026-04-18",
-      "time": "20:45:05",
+      "time": "21:00:05",
       "game_id": "824049",
       "home_team": "Los Angeles Angels",
       "away_team": "San Diego Padres",
@@ -936,6 +936,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 27,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 9687
+    "total_games_scanned_all": 9688
   }
 }
