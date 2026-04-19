@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T13:00:17.144507+00:00",
+  "last_updated": "2026-04-19T13:15:17.193136+00:00",
   "scoreboard": [
     {
       "game_id": "822750",
@@ -603,16 +603,16 @@
   "today_games": [
     {
       "date": "2026-04-19",
-      "time": "09:00:04",
+      "time": "09:15:05",
       "game_id": "822750",
       "home_team": "Washington Nationals",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.4179",
-      "away_prob": "0.5821",
+      "home_prob": "0.4169",
+      "away_prob": "0.5831",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0050",
-      "away_ev": "-0.0134",
+      "home_ev": "-0.0074",
+      "away_ev": "-0.0116",
       "home_pitcher": "Miles Mikolas",
       "away_pitcher": "Robbie Ray",
       "pitchers_confirmed": "yes",
@@ -625,7 +625,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:05",
+      "time": "09:15:06",
       "game_id": "823393",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Tampa Bay Rays",
@@ -647,7 +647,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:06",
+      "time": "09:15:06",
       "game_id": "823556",
       "home_team": "New York Yankees",
       "away_team": "Kansas City Royals",
@@ -669,7 +669,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:07",
+      "time": "09:15:07",
       "game_id": "824452",
       "home_team": "Cleveland Guardians",
       "away_team": "Baltimore Orioles",
@@ -691,7 +691,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:08",
+      "time": "09:15:08",
       "game_id": "823881",
       "home_team": "Miami Marlins",
       "away_team": "Milwaukee Brewers",
@@ -713,7 +713,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:09",
+      "time": "09:15:09",
       "game_id": "824205",
       "home_team": "Houston Astros",
       "away_team": "St. Louis Cardinals",
@@ -735,7 +735,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:09",
+      "time": "09:15:10",
       "game_id": "823718",
       "home_team": "Minnesota Twins",
       "away_team": "Cincinnati Reds",
@@ -757,7 +757,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:10",
+      "time": "09:15:11",
       "game_id": "824691",
       "home_team": "Chicago Cubs",
       "away_team": "New York Mets",
@@ -779,7 +779,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:11",
+      "time": "09:15:12",
       "game_id": "824371",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
@@ -801,7 +801,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:12",
+      "time": "09:15:12",
       "game_id": "825018",
       "home_team": "Athletics",
       "away_team": "Chicago White Sox",
@@ -823,7 +823,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:13",
+      "time": "09:15:13",
       "game_id": "824047",
       "home_team": "Los Angeles Angels",
       "away_team": "San Diego Padres",
@@ -845,7 +845,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:14",
+      "time": "09:15:14",
       "game_id": "823150",
       "home_team": "Seattle Mariners",
       "away_team": "Texas Rangers",
@@ -867,7 +867,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:15",
+      "time": "09:15:15",
       "game_id": "825100",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Toronto Blue Jays",
@@ -889,16 +889,16 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:16",
+      "time": "09:15:16",
       "game_id": "824777",
       "home_team": "Boston Red Sox",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5628",
-      "away_prob": "0.4372",
+      "home_prob": "0.5614",
+      "away_prob": "0.4386",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0126",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0151",
+      "away_ev": "-0.0032",
       "home_pitcher": "Garrett Crochet",
       "away_pitcher": "Framber Valdez",
       "pitchers_confirmed": "yes",
@@ -911,16 +911,16 @@
     },
     {
       "date": "2026-04-19",
-      "time": "09:00:17",
+      "time": "09:15:17",
       "game_id": "823475",
       "home_team": "Philadelphia Phillies",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5293",
-      "away_prob": "0.4707",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0178",
-      "away_ev": "-0.0393",
+      "home_ev": "0.0129",
+      "away_ev": "-0.0341",
       "home_pitcher": "Andrew Painter",
       "away_pitcher": "Grant Holmes",
       "pitchers_confirmed": "yes",
@@ -936,6 +936,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 27,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 9703
+    "total_games_scanned_all": 9718
   }
 }
