@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T19:45:09.365791+00:00",
+  "last_updated": "2026-04-19T20:00:06.138259+00:00",
   "scoreboard": [
     {
       "game_id": "822750",
@@ -7,25 +7,25 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 3,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-04-19T17:35:00Z"
     },
     {
       "game_id": "823393",
       "away": "TB",
       "home": "PIT",
-      "away_score": 2,
-      "home_score": 5,
-      "state": "T8",
+      "away_score": 3,
+      "home_score": 6,
+      "state": "T9",
       "start_time": "2026-04-19T17:35:00Z"
     },
     {
       "game_id": "823556",
       "away": "KC",
       "home": "NYY",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-19T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CLE",
       "away_score": 4,
       "home_score": 6,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-04-19T17:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 5,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-04-19T17:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "HOU",
       "away_score": 4,
       "home_score": 1,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-19T18:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "MIN",
       "away_score": 1,
       "home_score": 3,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-04-19T18:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 0,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-04-19T18:20:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "COL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-04-19T19:10:00Z"
     },
     {
       "game_id": "825018",
       "away": "CWS",
       "home": "OAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-19T20:05:00Z"
     },
     {
@@ -104,18 +104,18 @@
       "game_id": "823150",
       "away": "TEX",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-19T20:10:00Z"
     },
     {
       "game_id": "825100",
       "away": "TOR",
       "home": "ARI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-19T20:10:00Z"
     },
     {
@@ -923,7 +923,7 @@
     },
     {
       "date": "2026-04-19",
-      "time": "15:45:08",
+      "time": "16:00:05",
       "game_id": "824777",
       "home_team": "Boston Red Sox",
       "away_team": "Detroit Tigers",
@@ -945,16 +945,16 @@
     },
     {
       "date": "2026-04-19",
-      "time": "15:45:09",
+      "time": "16:00:06",
       "game_id": "823475",
       "home_team": "Philadelphia Phillies",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5051",
+      "away_prob": "0.4949",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0046",
-      "away_ev": "-0.0153",
+      "home_ev": "-0.0096",
+      "away_ev": "-0.0102",
       "home_pitcher": "Andrew Painter",
       "away_pitcher": "Grant Holmes",
       "pitchers_confirmed": "yes",
@@ -970,6 +970,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 29,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 10038
+    "total_games_scanned_all": 10040
   }
 }
