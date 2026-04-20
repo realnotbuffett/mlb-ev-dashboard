@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T13:00:14.438532+00:00",
+  "last_updated": "2026-04-20T13:15:12.591650+00:00",
   "scoreboard": [
     {
       "game_id": "824776",
@@ -592,7 +592,7 @@
   "today_games": [
     {
       "date": "2026-04-20",
-      "time": "09:00:07",
+      "time": "09:15:05",
       "game_id": "824776",
       "home_team": "Boston Red Sox",
       "away_team": "Detroit Tigers",
@@ -614,7 +614,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:08",
+      "time": "09:15:06",
       "game_id": "824450",
       "home_team": "Cleveland Guardians",
       "away_team": "Houston Astros",
@@ -636,7 +636,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:09",
+      "time": "09:15:07",
       "game_id": "823879",
       "home_team": "Miami Marlins",
       "away_team": "St. Louis Cardinals",
@@ -658,16 +658,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:10",
+      "time": "09:15:08",
       "game_id": "822749",
       "home_team": "Washington Nationals",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4089",
-      "away_prob": "0.5911",
+      "home_prob": "0.4064",
+      "away_prob": "0.5936",
       "poly_home_price": "0.4100",
       "poly_away_price": "0.6000",
-      "home_ev": "-0.0028",
-      "away_ev": "-0.0148",
+      "home_ev": "-0.0088",
+      "away_ev": "-0.0107",
       "home_pitcher": "Jake Irvin",
       "away_pitcher": "Bryce Elder",
       "pitchers_confirmed": "yes",
@@ -680,16 +680,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:10",
+      "time": "09:15:08",
       "game_id": "824125",
       "home_team": "Kansas City Royals",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4772",
-      "away_prob": "0.5228",
+      "home_prob": "0.4758",
+      "away_prob": "0.5242",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0059",
-      "away_ev": "-0.0135",
+      "home_ev": "-0.0087",
+      "away_ev": "-0.0110",
       "home_pitcher": "Seth Lugo",
       "away_pitcher": "Kyle Bradish",
       "pitchers_confirmed": "yes",
@@ -702,16 +702,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:11",
+      "time": "09:15:09",
       "game_id": "824692",
       "home_team": "Chicago Cubs",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.4949",
-      "away_prob": "0.5051",
+      "home_prob": "0.4962",
+      "away_prob": "0.5038",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0102",
-      "away_ev": "-0.0096",
+      "home_ev": "-0.0077",
+      "away_ev": "-0.0121",
       "home_pitcher": "Colin Rea",
       "away_pitcher": "Aaron Nola",
       "pitchers_confirmed": "yes",
@@ -724,7 +724,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:12",
+      "time": "09:15:10",
       "game_id": "824370",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
@@ -746,7 +746,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:13",
+      "time": "09:15:11",
       "game_id": "824046",
       "home_team": "Los Angeles Angels",
       "away_team": "Toronto Blue Jays",
@@ -768,7 +768,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "09:00:14",
+      "time": "09:15:12",
       "game_id": "823149",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -793,6 +793,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 29,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 10061
+    "total_games_scanned_all": 10070
   }
 }
