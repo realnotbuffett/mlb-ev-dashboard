@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T22:45:09.096088+00:00",
+  "last_updated": "2026-04-20T23:00:09.602913+00:00",
   "scoreboard": [
     {
       "game_id": "824776",
@@ -16,16 +16,16 @@
       "home": "CLE",
       "away_score": 2,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-20T22:10:00Z"
     },
     {
       "game_id": "822994",
       "away": "CIN",
       "home": "TB",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-20T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-20T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-20T22:45:00Z"
     },
     {
@@ -680,16 +680,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "18:45:05",
+      "time": "19:00:05",
       "game_id": "824125",
       "home_team": "Kansas City Royals",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4911",
-      "away_prob": "0.5089",
-      "poly_home_price": "0.5000",
-      "poly_away_price": "0.5100",
-      "home_ev": "-0.0178",
-      "away_ev": "-0.0021",
+      "home_prob": "0.4898",
+      "away_prob": "0.5102",
+      "poly_home_price": "0.4900",
+      "poly_away_price": "0.5200",
+      "home_ev": "-0.0004",
+      "away_ev": "-0.0188",
       "home_pitcher": "Seth Lugo",
       "away_pitcher": "Kyle Bradish",
       "pitchers_confirmed": "yes",
@@ -702,16 +702,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "18:45:06",
+      "time": "19:00:06",
       "game_id": "824692",
       "home_team": "Chicago Cubs",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.5115",
-      "away_prob": "0.4885",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0164",
-      "away_ev": "-0.0030",
+      "home_ev": "-0.0213",
+      "away_ev": "0.0022",
       "home_pitcher": "Colin Rea",
       "away_pitcher": "Aaron Nola",
       "pitchers_confirmed": "yes",
@@ -724,7 +724,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "18:45:07",
+      "time": "19:00:07",
       "game_id": "824370",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
@@ -746,16 +746,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "18:45:08",
+      "time": "19:00:08",
       "game_id": "824046",
       "home_team": "Los Angeles Angels",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4847",
-      "away_prob": "0.5153",
+      "home_prob": "0.4835",
+      "away_prob": "0.5165",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0108",
-      "away_ev": "-0.0090",
+      "home_ev": "-0.0133",
+      "away_ev": "-0.0067",
       "home_pitcher": "Reid Detmers",
       "away_pitcher": "Dylan Cease",
       "pitchers_confirmed": "yes",
@@ -768,7 +768,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "18:45:09",
+      "time": "19:00:09",
       "game_id": "823149",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -815,6 +815,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 29,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 10388
+    "total_games_scanned_all": 10393
   }
 }
