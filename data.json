@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-20T17:30:12.017500+00:00",
+  "last_updated": "2026-04-20T17:45:12.105648+00:00",
   "scoreboard": [
     {
       "game_id": "824776",
       "away": "DET",
       "home": "BOS",
       "away_score": 3,
-      "home_score": 3,
-      "state": "T7",
+      "home_score": 6,
+      "state": "B7",
       "start_time": "2026-04-20T15:10:00Z"
     },
     {
@@ -614,7 +614,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:05",
+      "time": "13:45:05",
       "game_id": "824450",
       "home_team": "Cleveland Guardians",
       "away_team": "Houston Astros",
@@ -636,7 +636,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:06",
+      "time": "13:45:06",
       "game_id": "823879",
       "home_team": "Miami Marlins",
       "away_team": "St. Louis Cardinals",
@@ -658,7 +658,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:07",
+      "time": "13:45:07",
       "game_id": "822749",
       "home_team": "Washington Nationals",
       "away_team": "Atlanta Braves",
@@ -680,7 +680,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:08",
+      "time": "13:45:08",
       "game_id": "824125",
       "home_team": "Kansas City Royals",
       "away_team": "Baltimore Orioles",
@@ -702,16 +702,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:09",
+      "time": "13:45:09",
       "game_id": "824692",
       "home_team": "Chicago Cubs",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "0.0153",
-      "away_ev": "-0.0346",
+      "home_ev": "0.0178",
+      "away_ev": "-0.0371",
       "home_pitcher": "Colin Rea",
       "away_pitcher": "Aaron Nola",
       "pitchers_confirmed": "yes",
@@ -724,16 +724,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:10",
+      "time": "13:45:10",
       "game_id": "824370",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3311",
-      "away_prob": "0.6689",
+      "home_prob": "0.3303",
+      "away_prob": "0.6697",
       "poly_home_price": "0.3400",
       "poly_away_price": "0.6700",
-      "home_ev": "-0.0263",
-      "away_ev": "-0.0016",
+      "home_ev": "-0.0285",
+      "away_ev": "-0.0005",
       "home_pitcher": "Jose Quintana",
       "away_pitcher": "Justin Wrobleski",
       "pitchers_confirmed": "yes",
@@ -746,7 +746,7 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:11",
+      "time": "13:45:11",
       "game_id": "824046",
       "home_team": "Los Angeles Angels",
       "away_team": "Toronto Blue Jays",
@@ -768,16 +768,16 @@
     },
     {
       "date": "2026-04-20",
-      "time": "13:30:11",
+      "time": "13:45:12",
       "game_id": "823149",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
-      "home_prob": "0.5761",
-      "away_prob": "0.4239",
+      "home_prob": "0.5750",
+      "away_prob": "0.4250",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0068",
-      "away_ev": "-0.0141",
+      "home_ev": "-0.0086",
+      "away_ev": "-0.0116",
       "home_pitcher": "Emerson Hancock",
       "away_pitcher": "J.T. Ginn",
       "pitchers_confirmed": "yes",
@@ -793,6 +793,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 29,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 10212
+    "total_games_scanned_all": 10220
   }
 }
