@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-25T00:15:06.819340+00:00",
+  "last_updated": "2026-04-25T00:30:06.000357+00:00",
   "scoreboard": [
     {
       "game_id": "824529",
       "away": "DET",
       "home": "CIN",
       "away_score": 5,
-      "home_score": 0,
-      "state": "T5",
+      "home_score": 2,
+      "state": "B5",
       "start_time": "2026-04-24T22:40:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "BOS",
       "home": "BAL",
       "away_score": 1,
-      "home_score": 6,
-      "state": "T4",
+      "home_score": 8,
+      "state": "T5",
       "start_time": "2026-04-24T23:05:00Z"
     },
     {
@@ -25,25 +25,25 @@
       "home": "TOR",
       "away_score": 7,
       "home_score": 3,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-24T23:07:00Z"
     },
     {
       "game_id": "823638",
       "away": "COL",
       "home": "NYM",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-04-24T23:10:00Z"
     },
     {
       "game_id": "822992",
       "away": "MIN",
       "home": "TB",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-04-24T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "ATL",
       "away_score": 2,
       "home_score": 2,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-04-24T23:15:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-04-24T23:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-24T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-04-24T23:40:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "TEX",
       "away_score": 3,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-25T00:05:00Z"
     },
     {
       "game_id": "824204",
       "away": "NYY",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-25T00:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-25T00:15:00Z"
     },
     {
@@ -816,16 +816,16 @@
     },
     {
       "date": "2026-04-24",
-      "time": "20:15:04",
+      "time": "20:30:04",
       "game_id": "823962",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.5831",
-      "away_prob": "0.4169",
+      "home_prob": "0.5846",
+      "away_prob": "0.4154",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0116",
-      "away_ev": "-0.0074",
+      "home_ev": "-0.0092",
+      "away_ev": "-0.0109",
       "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Jameson Taillon",
       "pitchers_confirmed": "yes",
@@ -838,7 +838,7 @@
     },
     {
       "date": "2026-04-24",
-      "time": "20:15:06",
+      "time": "20:30:05",
       "game_id": "823232",
       "home_team": "San Francisco Giants",
       "away_team": "Miami Marlins",
@@ -851,8 +851,8 @@
       "home_pitcher": "Adrian Houser",
       "away_pitcher": "Sandy Alcantara",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -863,6 +863,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 31,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 10881
+    "total_games_scanned_all": 10883
   }
 }
