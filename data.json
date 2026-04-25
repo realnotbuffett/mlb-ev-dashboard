@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T21:30:11.562142+00:00",
+  "last_updated": "2026-04-25T21:45:11.395318+00:00",
   "scoreboard": [
     {
       "game_id": "824851",
@@ -16,16 +16,16 @@
       "home": "STL",
       "away_score": 11,
       "home_score": 9,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-04-25T18:15:00Z"
     },
     {
       "game_id": "822826",
       "away": "CLE",
       "home": "TOR",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-25T19:07:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "MIA",
       "home": "SF",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B4",
+      "home_score": 1,
+      "state": "B5",
       "start_time": "2026-04-25T20:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 2,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-25T20:10:00Z"
     },
     {
@@ -52,16 +52,16 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-04-25T20:10:00Z"
     },
     {
       "game_id": "825093",
       "away": "SD",
       "home": "ARI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-25T22:05:00Z"
     },
     {
@@ -666,6 +666,23 @@
       "filled_size": "$10.00",
       "result": "loss",
       "profit": "-10.00"
+    },
+    {
+      "date": "2026-04-25",
+      "time": "17:45:11",
+      "game_id": "824933",
+      "home_team": "Atlanta Braves",
+      "away_team": "Philadelphia Phillies",
+      "bet_side": "home",
+      "model_prob": "0.5951",
+      "polymarket_price": "0.5500",
+      "ev_pct": "8.19%",
+      "bet_size": "$10.00",
+      "order_id": "0xbaaf73e156deb6818c",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -825,7 +842,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "17:30:05",
+      "time": "17:45:04",
       "game_id": "822910",
       "home_team": "Texas Rangers",
       "away_team": "Athletics",
@@ -847,7 +864,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "17:30:06",
+      "time": "17:45:05",
       "game_id": "824121",
       "home_team": "Kansas City Royals",
       "away_team": "Los Angeles Angels",
@@ -869,7 +886,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "17:30:07",
+      "time": "17:45:06",
       "game_id": "824203",
       "home_team": "Houston Astros",
       "away_team": "New York Yankees",
@@ -891,7 +908,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "17:30:08",
+      "time": "17:45:07",
       "game_id": "823799",
       "home_team": "Milwaukee Brewers",
       "away_team": "Pittsburgh Pirates",
@@ -913,16 +930,16 @@
     },
     {
       "date": "2026-04-25",
-      "time": "17:30:09",
+      "time": "17:45:08",
       "game_id": "824527",
       "home_team": "Cincinnati Reds",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.4949",
-      "away_prob": "0.5051",
+      "home_prob": "0.4923",
+      "away_prob": "0.5077",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0102",
-      "away_ev": "-0.0096",
+      "home_ev": "-0.0153",
+      "away_ev": "-0.0046",
       "home_pitcher": "Brady Singer",
       "away_pitcher": "Jack Flaherty",
       "pitchers_confirmed": "yes",
@@ -935,7 +952,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "17:30:10",
+      "time": "17:45:09",
       "game_id": "823960",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Chicago Cubs",
@@ -957,21 +974,21 @@
     },
     {
       "date": "2026-04-25",
-      "time": "17:30:11",
+      "time": "17:45:11",
       "game_id": "824933",
       "home_team": "Atlanta Braves",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.5516",
-      "away_prob": "0.4484",
+      "home_prob": "0.5951",
+      "away_prob": "0.4049",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "0.0030",
-      "away_ev": "-0.0253",
+      "home_ev": "0.0819",
+      "away_ev": "-0.1197",
       "home_pitcher": "Bryce Elder",
       "away_pitcher": "Zack Wheeler",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -979,9 +996,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 31,
+    "total_bets_today": 1,
+    "total_bets_all_time": 32,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 11311
+    "total_games_scanned_all": 11318
   }
 }
