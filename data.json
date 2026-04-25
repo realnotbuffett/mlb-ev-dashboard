@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T22:00:11.453744+00:00",
+  "last_updated": "2026-04-25T22:15:10.248287+00:00",
   "scoreboard": [
     {
       "game_id": "824851",
@@ -33,8 +33,8 @@
       "away": "MIA",
       "home": "SF",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B6",
+      "home_score": 4,
+      "state": "T7",
       "start_time": "2026-04-25T20:05:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "MIN",
       "home": "TB",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B7",
+      "home_score": 5,
+      "state": "T8",
       "start_time": "2026-04-25T20:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-04-25T20:10:00Z"
     },
     {
@@ -859,16 +859,16 @@
     },
     {
       "date": "2026-04-25",
-      "time": "18:00:04",
+      "time": "18:15:04",
       "game_id": "822910",
       "home_team": "Texas Rangers",
       "away_team": "Athletics",
       "home_prob": "0.5367",
       "away_prob": "0.4633",
-      "poly_home_price": "0.5400",
-      "poly_away_price": "0.4700",
-      "home_ev": "-0.0061",
-      "away_ev": "-0.0143",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "0.0127",
+      "away_ev": "-0.0348",
       "home_pitcher": "MacKenzie Gore",
       "away_pitcher": "Jeffrey Springs",
       "pitchers_confirmed": "yes",
@@ -881,16 +881,16 @@
     },
     {
       "date": "2026-04-25",
-      "time": "18:00:05",
+      "time": "18:15:05",
       "game_id": "824121",
       "home_team": "Kansas City Royals",
       "away_team": "Los Angeles Angels",
       "home_prob": "0.5578",
       "away_prob": "0.4422",
-      "poly_home_price": "0.5700",
-      "poly_away_price": "0.4400",
-      "home_ev": "-0.0214",
-      "away_ev": "0.0050",
+      "poly_home_price": "0.5600",
+      "poly_away_price": "0.4500",
+      "home_ev": "-0.0039",
+      "away_ev": "-0.0173",
       "home_pitcher": "Cole Ragans",
       "away_pitcher": "Walbert Urena",
       "pitchers_confirmed": "yes",
@@ -903,7 +903,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "18:00:06",
+      "time": "18:15:06",
       "game_id": "824203",
       "home_team": "Houston Astros",
       "away_team": "New York Yankees",
@@ -925,7 +925,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "18:00:08",
+      "time": "18:15:07",
       "game_id": "823799",
       "home_team": "Milwaukee Brewers",
       "away_team": "Pittsburgh Pirates",
@@ -938,8 +938,8 @@
       "home_pitcher": "Jacob Misiorowski",
       "away_pitcher": "Mitch Keller",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -947,7 +947,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "18:00:09",
+      "time": "18:15:08",
       "game_id": "824527",
       "home_team": "Cincinnati Reds",
       "away_team": "Detroit Tigers",
@@ -969,7 +969,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "18:00:10",
+      "time": "18:15:09",
       "game_id": "823960",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Chicago Cubs",
@@ -991,7 +991,7 @@
     },
     {
       "date": "2026-04-25",
-      "time": "18:00:11",
+      "time": "18:15:10",
       "game_id": "824933",
       "home_team": "Atlanta Braves",
       "away_team": "Philadelphia Phillies",
@@ -1016,6 +1016,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 33,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 11325
+    "total_games_scanned_all": 11332
   }
 }
