@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T23:00:09.305165+00:00",
+  "last_updated": "2026-04-25T23:15:04.776952+00:00",
   "scoreboard": [
     {
       "game_id": "824851",
@@ -51,8 +51,8 @@
       "away": "WSH",
       "home": "CWS",
       "away_score": 6,
-      "home_score": 2,
-      "state": "T10",
+      "home_score": 3,
+      "state": "B10",
       "start_time": "2026-04-25T20:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 4,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-25T22:05:00Z"
     },
     {
@@ -113,9 +113,9 @@
       "game_id": "823960",
       "away": "CHC",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-25T23:15:00Z"
     },
     {
@@ -1025,16 +1025,16 @@
     },
     {
       "date": "2026-04-25",
-      "time": "19:00:09",
+      "time": "19:15:04",
       "game_id": "824933",
       "home_team": "Atlanta Braves",
       "away_team": "Philadelphia Phillies",
       "home_prob": "0.5951",
       "away_prob": "0.4049",
-      "poly_home_price": "0.5400",
-      "poly_away_price": "0.4700",
-      "home_ev": "0.1020",
-      "away_ev": "-0.1384",
+      "poly_home_price": "0.5500",
+      "poly_away_price": "0.4600",
+      "home_ev": "0.0819",
+      "away_ev": "-0.1197",
       "home_pitcher": "Bryce Elder",
       "away_pitcher": "Zack Wheeler",
       "pitchers_confirmed": "yes",
@@ -1050,6 +1050,6 @@
     "total_bets_today": 4,
     "total_bets_all_time": 35,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 11348
+    "total_games_scanned_all": 11349
   }
 }
