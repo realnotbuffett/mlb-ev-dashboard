@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T18:15:08.299024+00:00",
+  "last_updated": "2026-04-26T18:30:08.476088+00:00",
   "scoreboard": [
     {
       "game_id": "824852",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-04-26T17:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "PHI",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 5,
-      "state": "B2",
+      "home_score": 6,
+      "state": "T3",
       "start_time": "2026-04-26T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 2,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-26T17:37:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CIN",
       "away_score": 2,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-26T17:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-04-26T17:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "MIN",
       "home": "TB",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-04-26T17:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-26T18:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "NYY",
       "home": "HOU",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "B1",
       "start_time": "2026-04-26T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-26T18:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-26T18:15:00Z"
     },
     {
@@ -1007,7 +1007,7 @@
     },
     {
       "date": "2026-04-26",
-      "time": "14:15:05",
+      "time": "14:30:05",
       "game_id": "825094",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
@@ -1029,7 +1029,7 @@
     },
     {
       "date": "2026-04-26",
-      "time": "14:15:06",
+      "time": "14:30:06",
       "game_id": "823230",
       "home_team": "San Francisco Giants",
       "away_team": "Miami Marlins",
@@ -1051,16 +1051,16 @@
     },
     {
       "date": "2026-04-26",
-      "time": "14:15:08",
+      "time": "14:30:08",
       "game_id": "823959",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Chicago Cubs",
       "home_prob": "0.5242",
       "away_prob": "0.4758",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0110",
-      "away_ev": "-0.0087",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "0.0080",
+      "away_ev": "-0.0289",
       "home_pitcher": "Justin Wrobleski",
       "away_pitcher": "Shota Imanaga",
       "pitchers_confirmed": "yes",
@@ -1073,7 +1073,7 @@
     },
     {
       "date": "2026-04-26",
-      "time": "14:15:07",
+      "time": "14:30:07",
       "game_id": "824122",
       "home_team": "Kansas City Royals",
       "away_team": "Los Angeles Angels",
@@ -1098,6 +1098,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 36,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 11643
+    "total_games_scanned_all": 11647
   }
 }
