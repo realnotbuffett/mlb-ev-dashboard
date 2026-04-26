@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T21:15:04.024253+00:00",
+  "last_updated": "2026-04-26T21:30:03.985516+00:00",
   "scoreboard": [
     {
       "game_id": "824852",
@@ -50,9 +50,9 @@
       "game_id": "823637",
       "away": "COL",
       "home": "NYM",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-04-26T17:45:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "TEX",
       "away_score": 2,
       "home_score": 1,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-26T18:35:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "ARI",
       "away_score": 3,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-26T20:05:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SF",
       "away_score": 3,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-04-26T20:05:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "KC",
       "away_score": 6,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-26T20:10:00Z"
     },
     {
@@ -142,7 +142,7 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 3,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-04-26T20:10:00Z"
     }
   ],
