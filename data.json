@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T17:45:11.686701+00:00",
+  "last_updated": "2026-04-26T18:00:09.339511+00:00",
   "scoreboard": [
     {
       "game_id": "824852",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-26T17:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "PHI",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 3,
+      "state": "T2",
       "start_time": "2026-04-26T17:35:00Z"
     },
     {
@@ -24,17 +24,17 @@
       "away": "CLE",
       "home": "TOR",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "B1",
       "start_time": "2026-04-26T17:37:00Z"
     },
     {
       "game_id": "824528",
       "away": "DET",
       "home": "CIN",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-26T17:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-26T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-26T17:40:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "824202",
       "away": "NYY",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-26T18:10:00Z"
     },
     {
@@ -95,9 +95,9 @@
       "game_id": "823068",
       "away": "SEA",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-26T18:15:00Z"
     },
     {
@@ -985,7 +985,7 @@
     },
     {
       "date": "2026-04-26",
-      "time": "13:45:07",
+      "time": "14:00:05",
       "game_id": "822911",
       "home_team": "Texas Rangers",
       "away_team": "Athletics",
@@ -1007,7 +1007,7 @@
     },
     {
       "date": "2026-04-26",
-      "time": "13:45:08",
+      "time": "14:00:06",
       "game_id": "825094",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
@@ -1029,7 +1029,7 @@
     },
     {
       "date": "2026-04-26",
-      "time": "13:45:09",
+      "time": "14:00:07",
       "game_id": "823230",
       "home_team": "San Francisco Giants",
       "away_team": "Miami Marlins",
@@ -1051,7 +1051,7 @@
     },
     {
       "date": "2026-04-26",
-      "time": "13:45:11",
+      "time": "14:00:09",
       "game_id": "823959",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Chicago Cubs",
@@ -1073,16 +1073,16 @@
     },
     {
       "date": "2026-04-26",
-      "time": "13:45:10",
+      "time": "14:00:08",
       "game_id": "824122",
       "home_team": "Kansas City Royals",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.5115",
-      "away_prob": "0.4885",
+      "home_prob": "0.5102",
+      "away_prob": "0.4898",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0350",
-      "away_ev": "0.0178",
+      "home_ev": "-0.0374",
+      "away_ev": "0.0204",
       "home_pitcher": "Seth Lugo",
       "away_pitcher": "Reid Detmers",
       "pitchers_confirmed": "yes",
@@ -1098,6 +1098,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 36,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 11634
+    "total_games_scanned_all": 11639
   }
 }
