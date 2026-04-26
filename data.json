@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T02:30:03.972231+00:00",
+  "last_updated": "2026-04-26T02:45:03.982618+00:00",
   "scoreboard": [
     {
       "game_id": "824851",
@@ -115,7 +115,7 @@
       "home": "LAD",
       "away_score": 4,
       "home_score": 12,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-04-25T23:15:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "ATL",
       "away_score": 4,
       "home_score": 4,
-      "state": "T9",
+      "state": "T10",
       "start_time": "2026-04-25T23:15:00Z"
     },
     {
