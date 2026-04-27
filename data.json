@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-27T23:15:08.878128+00:00",
+  "last_updated": "2026-04-27T23:30:08.034608+00:00",
   "scoreboard": [
     {
       "game_id": "824446",
       "away": "TB",
       "home": "CLE",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 2,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-04-27T22:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 2,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-27T22:40:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-27T23:07:00Z"
     },
     {
       "game_id": "823719",
       "away": "SEA",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-27T23:40:00Z"
     },
     {
@@ -781,16 +781,16 @@
     },
     {
       "date": "2026-04-27",
-      "time": "19:15:06",
+      "time": "19:30:05",
       "game_id": "824609",
       "home_team": "Chicago White Sox",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.5153",
-      "away_prob": "0.4847",
+      "home_prob": "0.5140",
+      "away_prob": "0.4860",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0090",
-      "away_ev": "-0.0108",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
       "home_pitcher": "Anthony Kay",
       "away_pitcher": "Jack Kochanowicz",
       "pitchers_confirmed": "yes",
@@ -803,7 +803,7 @@
     },
     {
       "date": "2026-04-27",
-      "time": "19:15:07",
+      "time": "19:30:06",
       "game_id": "822906",
       "home_team": "Texas Rangers",
       "away_team": "New York Yankees",
@@ -825,16 +825,16 @@
     },
     {
       "date": "2026-04-27",
-      "time": "19:15:07",
+      "time": "19:30:07",
       "game_id": "823311",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.5293",
-      "away_prob": "0.4707",
+      "home_prob": "0.5191",
+      "away_prob": "0.4809",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0014",
-      "away_ev": "-0.0193",
+      "home_ev": "-0.0206",
+      "away_ev": "0.0019",
       "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher": "Matthew Boyd",
       "pitchers_confirmed": "yes",
@@ -847,7 +847,7 @@
     },
     {
       "date": "2026-04-27",
-      "time": "19:15:08",
+      "time": "19:30:07",
       "game_id": "823961",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Miami Marlins",
@@ -872,6 +872,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 36,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 11988
+    "total_games_scanned_all": 11992
   }
 }
