@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:45:07.363109+00:00",
+  "last_updated": "2026-04-28T00:00:07.536591+00:00",
   "scoreboard": [
     {
       "game_id": "824446",
@@ -7,7 +7,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 2,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-04-27T22:10:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-27T22:40:00Z"
     },
     {
       "game_id": "822825",
       "away": "BOS",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-04-27T23:07:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-27T23:40:00Z"
     },
     {
@@ -781,7 +781,7 @@
     },
     {
       "date": "2026-04-27",
-      "time": "19:45:05",
+      "time": "20:00:05",
       "game_id": "824609",
       "home_team": "Chicago White Sox",
       "away_team": "Los Angeles Angels",
@@ -825,7 +825,7 @@
     },
     {
       "date": "2026-04-27",
-      "time": "19:45:06",
+      "time": "20:00:06",
       "game_id": "823311",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
@@ -847,16 +847,16 @@
     },
     {
       "date": "2026-04-27",
-      "time": "19:45:07",
+      "time": "20:00:07",
       "game_id": "823961",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Miami Marlins",
-      "home_prob": "0.7298",
-      "away_prob": "0.2702",
+      "home_prob": "0.7152",
+      "away_prob": "0.2848",
       "poly_home_price": "0.7300",
       "poly_away_price": "0.2800",
-      "home_ev": "-0.0002",
-      "away_ev": "-0.0351",
+      "home_ev": "-0.0203",
+      "away_ev": "0.0172",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Chris Paddack",
       "pitchers_confirmed": "yes",
@@ -872,6 +872,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 36,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 11995
+    "total_games_scanned_all": 11998
   }
 }
