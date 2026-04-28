@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T15:00:14.663162+00:00",
+  "last_updated": "2026-04-28T15:15:14.824485+00:00",
   "scoreboard": [
     {
       "game_id": "824447",
@@ -790,7 +790,7 @@
   "today_games": [
     {
       "date": "2026-04-28",
-      "time": "11:00:05",
+      "time": "11:15:05",
       "game_id": "824447",
       "home_team": "Cleveland Guardians",
       "away_team": "Tampa Bay Rays",
@@ -812,7 +812,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:06",
+      "time": "11:15:06",
       "game_id": "824849",
       "home_team": "Baltimore Orioles",
       "away_team": "Houston Astros",
@@ -834,7 +834,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:07",
+      "time": "11:15:07",
       "game_id": "823473",
       "home_team": "Philadelphia Phillies",
       "away_team": "San Francisco Giants",
@@ -856,16 +856,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:08",
+      "time": "11:15:08",
       "game_id": "822823",
       "home_team": "Toronto Blue Jays",
       "away_team": "Boston Red Sox",
       "home_prob": "0.5102",
       "away_prob": "0.4898",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "-0.0188",
-      "away_ev": "-0.0004",
+      "poly_home_price": "0.5100",
+      "poly_away_price": "0.5000",
+      "home_ev": "0.0004",
+      "away_ev": "-0.0204",
       "home_pitcher": "Trey Yesavage",
       "away_pitcher": "Payton Tolle",
       "pitchers_confirmed": "yes",
@@ -878,7 +878,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:09",
+      "time": "11:15:09",
       "game_id": "823636",
       "home_team": "New York Mets",
       "away_team": "Washington Nationals",
@@ -900,16 +900,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:09",
+      "time": "11:15:10",
       "game_id": "824931",
       "home_team": "Atlanta Braves",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_ev": "-0.0014",
+      "away_ev": "-0.0193",
       "home_pitcher": "Mart\u00edn P\u00e9rez",
       "away_pitcher": "Casey Mize",
       "pitchers_confirmed": "yes",
@@ -922,7 +922,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:10",
+      "time": "11:15:11",
       "game_id": "823716",
       "home_team": "Minnesota Twins",
       "away_team": "Seattle Mariners",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:11",
+      "time": "11:15:11",
       "game_id": "824610",
       "home_team": "Chicago White Sox",
       "away_team": "Los Angeles Angels",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:12",
+      "time": "11:15:12",
       "game_id": "822908",
       "home_team": "Texas Rangers",
       "away_team": "New York Yankees",
@@ -988,16 +988,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:13",
+      "time": "11:15:13",
       "game_id": "823310",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.4784",
-      "away_prob": "0.5216",
+      "home_prob": "0.4821",
+      "away_prob": "0.5179",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0034",
-      "away_ev": "-0.0158",
+      "home_ev": "0.0045",
+      "away_ev": "-0.0229",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Edward Cabrera",
       "pitchers_confirmed": "yes",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "11:00:14",
+      "time": "11:15:14",
       "game_id": "823956",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Miami Marlins",
@@ -1035,6 +1035,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 12117
+    "total_games_scanned_all": 12128
   }
 }
