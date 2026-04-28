@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T20:30:17.754930+00:00",
+  "last_updated": "2026-04-28T20:45:17.921980+00:00",
   "scoreboard": [
     {
       "game_id": "824447",
@@ -790,7 +790,7 @@
   "today_games": [
     {
       "date": "2026-04-28",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "824447",
       "home_team": "Cleveland Guardians",
       "away_team": "Tampa Bay Rays",
@@ -812,7 +812,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:06",
+      "time": "16:45:06",
       "game_id": "824849",
       "home_team": "Baltimore Orioles",
       "away_team": "Houston Astros",
@@ -834,7 +834,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:09",
+      "time": "16:45:09",
       "game_id": "823473",
       "home_team": "Philadelphia Phillies",
       "away_team": "San Francisco Giants",
@@ -856,7 +856,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:10",
+      "time": "16:45:10",
       "game_id": "822823",
       "home_team": "Toronto Blue Jays",
       "away_team": "Boston Red Sox",
@@ -878,16 +878,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:11",
+      "time": "16:45:11",
       "game_id": "823636",
       "home_team": "New York Mets",
       "away_team": "Washington Nationals",
       "home_prob": "0.6235",
       "away_prob": "0.3765",
-      "poly_home_price": "0.6300",
-      "poly_away_price": "0.3800",
-      "home_ev": "-0.0103",
-      "away_ev": "-0.0092",
+      "poly_home_price": "0.6200",
+      "poly_away_price": "0.3900",
+      "home_ev": "0.0056",
+      "away_ev": "-0.0346",
       "home_pitcher": "Clay Holmes",
       "away_pitcher": "Zack Littell",
       "pitchers_confirmed": "yes",
@@ -900,7 +900,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:12",
+      "time": "16:45:12",
       "game_id": "824931",
       "home_team": "Atlanta Braves",
       "away_team": "Detroit Tigers",
@@ -922,16 +922,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:12",
+      "time": "16:45:13",
       "game_id": "823716",
       "home_team": "Minnesota Twins",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4707",
-      "away_prob": "0.5293",
+      "home_prob": "0.4695",
+      "away_prob": "0.5305",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "0.0016",
-      "away_ev": "-0.0199",
+      "home_ev": "-0.0010",
+      "away_ev": "-0.0177",
       "home_pitcher": "Joe Ryan",
       "away_pitcher": "Logan Gilbert",
       "pitchers_confirmed": "yes",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:13",
+      "time": "16:45:14",
       "game_id": "824610",
       "home_team": "Chicago White Sox",
       "away_team": "Los Angeles Angels",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:15",
+      "time": "16:45:16",
       "game_id": "822908",
       "home_team": "Texas Rangers",
       "away_team": "New York Yankees",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:16",
+      "time": "16:45:16",
       "game_id": "823310",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:17",
+      "time": "16:45:17",
       "game_id": "823956",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Miami Marlins",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:14",
+      "time": "16:45:15",
       "game_id": "823798",
       "home_team": "Milwaukee Brewers",
       "away_team": "Arizona Diamondbacks",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:07",
+      "time": "16:45:07",
       "game_id": "824526",
       "home_team": "Cincinnati Reds",
       "away_team": "Colorado Rockies",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "16:30:08",
+      "time": "16:45:08",
       "game_id": "823390",
       "home_team": "Pittsburgh Pirates",
       "away_team": "St. Louis Cardinals",
@@ -1101,6 +1101,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 12386
+    "total_games_scanned_all": 12400
   }
 }
