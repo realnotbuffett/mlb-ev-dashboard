@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T23:00:13.503977+00:00",
+  "last_updated": "2026-04-28T23:15:10.635109+00:00",
   "scoreboard": [
     {
       "game_id": "824447",
@@ -7,7 +7,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-04-28T22:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 2,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-28T22:35:00Z"
     },
     {
@@ -24,17 +24,17 @@
       "away": "COL",
       "home": "CIN",
       "away_score": 0,
-      "home_score": 1,
-      "state": "B1",
+      "home_score": 3,
+      "state": "B2",
       "start_time": "2026-04-28T22:40:00Z"
     },
     {
       "game_id": "823390",
       "away": "STL",
       "home": "PIT",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-28T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-28T22:40:00Z"
     },
     {
@@ -922,16 +922,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "19:00:08",
+      "time": "19:15:05",
       "game_id": "823716",
       "home_team": "Minnesota Twins",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4695",
-      "away_prob": "0.5305",
+      "home_prob": "0.4582",
+      "away_prob": "0.5418",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0010",
-      "away_ev": "-0.0177",
+      "home_ev": "-0.0250",
+      "away_ev": "0.0033",
       "home_pitcher": "Joe Ryan",
       "away_pitcher": "Logan Gilbert",
       "pitchers_confirmed": "yes",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "19:00:08",
+      "time": "19:15:06",
       "game_id": "824610",
       "home_team": "Chicago White Sox",
       "away_team": "Los Angeles Angels",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "19:00:10",
+      "time": "19:15:07",
       "game_id": "822908",
       "home_team": "Texas Rangers",
       "away_team": "New York Yankees",
@@ -988,16 +988,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "19:00:12",
+      "time": "19:15:09",
       "game_id": "823310",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.4758",
-      "away_prob": "0.5242",
+      "home_prob": "0.4784",
+      "away_prob": "0.5216",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0087",
-      "away_ev": "-0.0110",
+      "home_ev": "-0.0034",
+      "away_ev": "-0.0158",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Edward Cabrera",
       "pitchers_confirmed": "yes",
@@ -1010,16 +1010,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "19:00:13",
+      "time": "19:15:10",
       "game_id": "823956",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Miami Marlins",
-      "home_prob": "0.7128",
-      "away_prob": "0.2872",
+      "home_prob": "0.7064",
+      "away_prob": "0.2936",
       "poly_home_price": "0.7200",
       "poly_away_price": "0.2900",
-      "home_ev": "-0.0100",
-      "away_ev": "-0.0096",
+      "home_ev": "-0.0189",
+      "away_ev": "0.0125",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Janson Junk",
       "pitchers_confirmed": "yes",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "19:00:09",
+      "time": "19:15:07",
       "game_id": "823798",
       "home_team": "Milwaukee Brewers",
       "away_team": "Arizona Diamondbacks",
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "19:00:11",
+      "time": "19:15:08",
       "game_id": "825017",
       "home_team": "Athletics",
       "away_team": "Kansas City Royals",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 12510
+    "total_games_scanned_all": 12517
   }
 }
