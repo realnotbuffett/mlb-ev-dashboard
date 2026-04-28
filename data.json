@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T16:15:14.796498+00:00",
+  "last_updated": "2026-04-28T16:30:15.846319+00:00",
   "scoreboard": [
     {
       "game_id": "824447",
@@ -790,16 +790,16 @@
   "today_games": [
     {
       "date": "2026-04-28",
-      "time": "12:15:05",
+      "time": "12:30:05",
       "game_id": "824447",
       "home_team": "Cleveland Guardians",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.5392",
-      "away_prob": "0.4608",
+      "home_prob": "0.5381",
+      "away_prob": "0.4619",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0196",
-      "away_ev": "0.0017",
+      "home_ev": "-0.0217",
+      "away_ev": "0.0042",
       "home_pitcher": "Tanner Bibee",
       "away_pitcher": "Nick Martinez",
       "pitchers_confirmed": "yes",
@@ -812,7 +812,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:06",
+      "time": "12:30:06",
       "game_id": "824849",
       "home_team": "Baltimore Orioles",
       "away_team": "Houston Astros",
@@ -834,7 +834,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:07",
+      "time": "12:30:07",
       "game_id": "823473",
       "home_team": "Philadelphia Phillies",
       "away_team": "San Francisco Giants",
@@ -856,7 +856,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:08",
+      "time": "12:30:08",
       "game_id": "822823",
       "home_team": "Toronto Blue Jays",
       "away_team": "Boston Red Sox",
@@ -878,16 +878,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:09",
+      "time": "12:30:09",
       "game_id": "823636",
       "home_team": "New York Mets",
       "away_team": "Washington Nationals",
-      "home_prob": "0.6235",
-      "away_prob": "0.3765",
+      "home_prob": "0.6286",
+      "away_prob": "0.3714",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0103",
-      "away_ev": "-0.0092",
+      "home_ev": "-0.0023",
+      "away_ev": "-0.0226",
       "home_pitcher": "Clay Holmes",
       "away_pitcher": "Zack Littell",
       "pitchers_confirmed": "yes",
@@ -900,7 +900,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:10",
+      "time": "12:30:10",
       "game_id": "824931",
       "home_team": "Atlanta Braves",
       "away_team": "Detroit Tigers",
@@ -922,7 +922,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:11",
+      "time": "12:30:11",
       "game_id": "823716",
       "home_team": "Minnesota Twins",
       "away_team": "Seattle Mariners",
@@ -944,16 +944,16 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:12",
+      "time": "12:30:12",
       "game_id": "824610",
       "home_team": "Chicago White Sox",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.4582",
-      "away_prob": "0.5418",
+      "home_prob": "0.4594",
+      "away_prob": "0.5406",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "0.0183",
-      "away_ev": "-0.0325",
+      "home_ev": "0.0209",
+      "away_ev": "-0.0346",
       "home_pitcher": "Davis Martin",
       "away_pitcher": "Jos\u00e9 Soriano",
       "pitchers_confirmed": "yes",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:12",
+      "time": "12:30:13",
       "game_id": "822908",
       "home_team": "Texas Rangers",
       "away_team": "New York Yankees",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:13",
+      "time": "12:30:14",
       "game_id": "823310",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-04-28",
-      "time": "12:15:14",
+      "time": "12:30:15",
       "game_id": "823956",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Miami Marlins",
@@ -1029,12 +1029,34 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-04-28",
+      "time": "12:30:12",
+      "game_id": "823798",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "Arizona Diamondbacks",
+      "home_prob": "0.5140",
+      "away_prob": "0.4860",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
+      "home_pitcher": "Chad Patrick",
+      "away_pitcher": "Merrill Kelly",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 38,
-    "total_games_scanned_today": 11,
-    "total_games_scanned_all": 12172
+    "total_games_scanned_today": 12,
+    "total_games_scanned_all": 12184
   }
 }
