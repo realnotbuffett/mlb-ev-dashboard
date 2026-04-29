@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T22:45:07.741304+00:00",
+  "last_updated": "2026-04-29T23:00:09.134526+00:00",
   "scoreboard": [
     {
       "game_id": "824445",
@@ -61,16 +61,16 @@
       "home": "SD",
       "away_score": 5,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-29T20:10:00Z"
     },
     {
       "game_id": "824525",
       "away": "COL",
       "home": "CIN",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-29T22:40:00Z"
     },
     {
@@ -79,25 +79,25 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-29T22:40:00Z"
     },
     {
       "game_id": "823633",
       "away": "WSH",
       "home": "NYM",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-29T23:10:00Z"
     },
     {
       "game_id": "824930",
       "away": "DET",
       "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-04-29T23:15:00Z"
     },
     {
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "18:45:06",
+      "time": "19:00:08",
       "game_id": "823796",
       "home_team": "Milwaukee Brewers",
       "away_team": "Arizona Diamondbacks",
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "18:45:07",
+      "time": "19:00:09",
       "game_id": "825015",
       "home_team": "Athletics",
       "away_team": "Kansas City Royals",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 12986
+    "total_games_scanned_all": 12988
   }
 }
