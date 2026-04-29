@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T23:15:04.643339+00:00",
+  "last_updated": "2026-04-29T23:30:04.575800+00:00",
   "scoreboard": [
     {
       "game_id": "824445",
@@ -68,27 +68,27 @@
       "game_id": "824525",
       "away": "COL",
       "home": "CIN",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-04-29T22:40:00Z"
     },
     {
       "game_id": "823392",
       "away": "STL",
       "home": "PIT",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-04-29T22:40:00Z"
     },
     {
       "game_id": "823633",
       "away": "WSH",
       "home": "NYM",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-29T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-04-29T23:15:00Z"
     },
     {
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "19:15:04",
+      "time": "19:30:04",
       "game_id": "825015",
       "home_team": "Athletics",
       "away_team": "Kansas City Royals",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 12989
+    "total_games_scanned_all": 12990
   }
 }
