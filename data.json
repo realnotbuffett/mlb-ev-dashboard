@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T18:45:11.620716+00:00",
+  "last_updated": "2026-04-29T19:00:11.575547+00:00",
   "scoreboard": [
     {
       "game_id": "824445",
@@ -7,7 +7,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-04-29T17:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 1,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-04-29T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "MIN",
       "away_score": 1,
       "home_score": 2,
-      "state": "B4",
+      "state": "T6",
       "start_time": "2026-04-29T17:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-04-29T18:35:00Z"
     },
     {
@@ -922,16 +922,16 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:05",
+      "time": "15:00:04",
       "game_id": "823312",
       "home_team": "San Diego Padres",
       "away_team": "Chicago Cubs",
       "home_prob": "0.5153",
       "away_prob": "0.4847",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "-0.0090",
-      "away_ev": "-0.0108",
+      "poly_home_price": "0.5100",
+      "poly_away_price": "0.5000",
+      "home_ev": "0.0104",
+      "away_ev": "-0.0306",
       "home_pitcher": "Matt Waldron",
       "away_pitcher": "Jameson Taillon",
       "pitchers_confirmed": "yes",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:06",
+      "time": "15:00:06",
       "game_id": "824525",
       "home_team": "Cincinnati Reds",
       "away_team": "Colorado Rockies",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:07",
+      "time": "15:00:07",
       "game_id": "823392",
       "home_team": "Pittsburgh Pirates",
       "away_team": "St. Louis Cardinals",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:06",
+      "time": "15:00:05",
       "game_id": "823471",
       "home_team": "Philadelphia Phillies",
       "away_team": "San Francisco Giants",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:08",
+      "time": "15:00:08",
       "game_id": "823633",
       "home_team": "New York Mets",
       "away_team": "Washington Nationals",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:09",
+      "time": "15:00:09",
       "game_id": "824930",
       "home_team": "Atlanta Braves",
       "away_team": "Detroit Tigers",
@@ -1076,16 +1076,16 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:10",
+      "time": "15:00:10",
       "game_id": "823796",
       "home_team": "Milwaukee Brewers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5392",
-      "away_prob": "0.4608",
+      "home_prob": "0.5406",
+      "away_prob": "0.4594",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0196",
-      "away_ev": "0.0017",
+      "home_ev": "-0.0171",
+      "away_ev": "-0.0013",
       "home_pitcher": "Brandon Sproat",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -1098,16 +1098,16 @@
     },
     {
       "date": "2026-04-29",
-      "time": "14:45:11",
+      "time": "15:00:11",
       "game_id": "825015",
       "home_team": "Athletics",
       "away_team": "Kansas City Royals",
       "home_prob": "0.5216",
       "away_prob": "0.4784",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0158",
-      "away_ev": "-0.0034",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "0.0031",
+      "away_ev": "-0.0237",
       "home_pitcher": "Luis Severino",
       "away_pitcher": "Michael Wacha",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 12880
+    "total_games_scanned_all": 12888
   }
 }
