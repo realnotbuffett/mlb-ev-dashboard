@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T02:15:03.730583+00:00",
+  "last_updated": "2026-04-30T02:30:03.664066+00:00",
   "scoreboard": [
     {
       "game_id": "824445",
@@ -104,9 +104,9 @@
       "game_id": "823796",
       "away": "ARI",
       "home": "MIL",
-      "away_score": 4,
+      "away_score": 6,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-04-29T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "OAK",
       "away_score": 1,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-04-30T01:40:00Z"
     },
     {
