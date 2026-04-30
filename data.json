@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T23:00:14.550464+00:00",
+  "last_updated": "2026-04-30T23:15:11.263210+00:00",
   "scoreboard": [
     {
       "game_id": "824929",
@@ -51,8 +51,8 @@
       "away": "SF",
       "home": "PHI",
       "away_score": 2,
-      "home_score": 2,
-      "state": "B5",
+      "home_score": 4,
+      "state": "T6",
       "start_time": "2026-04-30T21:35:00Z"
     },
     {
@@ -930,7 +930,7 @@
     },
     {
       "date": "2026-04-30",
-      "time": "19:00:14",
+      "time": "19:15:11",
       "game_id": "823714",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
@@ -999,6 +999,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 13182
+    "total_games_scanned_all": 13183
   }
 }
