@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T19:00:12.416198+00:00",
+  "last_updated": "2026-04-30T19:15:05.271069+00:00",
   "scoreboard": [
     {
       "game_id": "824929",
@@ -7,7 +7,7 @@
       "home": "ATL",
       "away_score": 5,
       "home_score": 2,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-04-30T16:15:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 3,
       "home_score": 10,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-04-30T16:35:00Z"
     },
     {
@@ -32,9 +32,9 @@
       "game_id": "823391",
       "away": "STL",
       "home": "PIT",
-      "away_score": 5,
+      "away_score": 7,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-04-30T16:35:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "SF",
       "home": "PHI",
       "away_score": 2,
-      "home_score": 1,
-      "state": "B9",
+      "home_score": 3,
+      "state": "FINAL",
       "start_time": "2026-04-30T16:35:00Z"
     },
     {
@@ -68,9 +68,9 @@
       "game_id": "823634",
       "away": "WSH",
       "home": "NYM",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 4,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-04-30T17:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "ARI",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 6,
-      "state": "B4",
+      "home_score": 8,
+      "state": "T5",
       "start_time": "2026-04-30T17:40:00Z"
     },
     {
@@ -930,16 +930,16 @@
     },
     {
       "date": "2026-04-30",
-      "time": "15:00:12",
+      "time": "15:15:05",
       "game_id": "823714",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4520",
-      "away_prob": "0.5480",
+      "home_prob": "0.4532",
+      "away_prob": "0.5468",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0173",
-      "away_ev": "-0.0037",
+      "home_ev": "-0.0149",
+      "away_ev": "-0.0058",
       "home_pitcher": "Bailey Ober",
       "away_pitcher": "Kevin Gausman",
       "pitchers_confirmed": "yes",
@@ -952,16 +952,16 @@
     },
     {
       "date": "2026-04-30",
-      "time": "15:00:11",
+      "time": "15:15:04",
       "game_id": "824850",
       "home_team": "Baltimore Orioles",
       "away_team": "Houston Astros",
       "home_prob": "0.5418",
       "away_prob": "0.4582",
-      "poly_home_price": "0.9980",
-      "poly_away_price": "0.0050",
-      "home_ev": "-0.4571",
-      "away_ev": "90.6456",
+      "poly_home_price": "0.0000",
+      "poly_away_price": "0.0000",
+      "home_ev": "0.0000",
+      "away_ev": "0.0000",
       "home_pitcher": "Brandon Young",
       "away_pitcher": "Lance McCullers Jr.",
       "pitchers_confirmed": "yes",
@@ -977,6 +977,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 13159
+    "total_games_scanned_all": 13161
   }
 }
