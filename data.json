@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T22:15:04.645294+00:00",
+  "last_updated": "2026-04-30T22:30:04.601846+00:00",
   "scoreboard": [
     {
       "game_id": "824929",
@@ -25,7 +25,7 @@
       "home": "BAL",
       "away_score": 11,
       "home_score": 4,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-04-30T16:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 2,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-04-30T21:35:00Z"
     },
     {
@@ -930,16 +930,16 @@
     },
     {
       "date": "2026-04-30",
-      "time": "18:15:04",
+      "time": "18:30:04",
       "game_id": "823714",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4484",
-      "away_prob": "0.5516",
+      "home_prob": "0.4433",
+      "away_prob": "0.5567",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0253",
-      "away_ev": "0.0030",
+      "home_ev": "-0.0363",
+      "away_ev": "0.0121",
       "home_pitcher": "Bailey Ober",
       "away_pitcher": "Kevin Gausman",
       "pitchers_confirmed": "yes",
@@ -999,6 +999,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 13179
+    "total_games_scanned_all": 13180
   }
 }
