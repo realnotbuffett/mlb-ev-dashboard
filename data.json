@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T01:30:03.780923+00:00",
+  "last_updated": "2026-04-30T01:45:03.604603+00:00",
   "scoreboard": [
     {
       "game_id": "824445",
@@ -79,7 +79,7 @@
       "home": "PIT",
       "away_score": 5,
       "home_score": 4,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-04-29T22:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "NYM",
       "away_score": 13,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-04-29T23:10:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "DET",
       "home": "ATL",
       "away_score": 3,
-      "home_score": 2,
-      "state": "T9",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-04-29T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "MIL",
       "away_score": 4,
       "home_score": 2,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-29T23:40:00Z"
     },
     {
