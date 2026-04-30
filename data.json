@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T20:15:05.282499+00:00",
+  "last_updated": "2026-04-30T20:30:05.378165+00:00",
   "scoreboard": [
     {
       "game_id": "824929",
@@ -23,9 +23,9 @@
       "game_id": "824850",
       "away": "HOU",
       "home": "BAL",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-04-30T16:40:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "ARI",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 12,
-      "state": "T8",
+      "home_score": 13,
+      "state": "T9",
       "start_time": "2026-04-30T17:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "OAK",
       "away_score": 2,
       "home_score": 5,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-04-30T19:05:00Z"
     },
     {
@@ -930,7 +930,7 @@
     },
     {
       "date": "2026-04-30",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "823714",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
@@ -974,12 +974,12 @@
     },
     {
       "date": "2026-04-30",
-      "time": "16:15:04",
+      "time": "16:30:04",
       "game_id": "823471",
       "home_team": "Philadelphia Phillies",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5689",
-      "away_prob": "0.4311",
+      "home_prob": "0.5664",
+      "away_prob": "0.4336",
       "poly_home_price": "0.0000",
       "poly_away_price": "0.0000",
       "home_ev": "0.0000",
@@ -999,6 +999,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 13168
+    "total_games_scanned_all": 13170
   }
 }
