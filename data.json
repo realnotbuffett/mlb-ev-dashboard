@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T20:30:05.378165+00:00",
+  "last_updated": "2026-04-30T20:45:05.215157+00:00",
   "scoreboard": [
     {
       "game_id": "824929",
@@ -25,7 +25,7 @@
       "home": "BAL",
       "away_score": 6,
       "home_score": 0,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-04-30T16:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 13,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-04-30T17:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "OAK",
       "away_score": 2,
       "home_score": 5,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-04-30T19:05:00Z"
     },
     {
@@ -930,16 +930,16 @@
     },
     {
       "date": "2026-04-30",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "823714",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4520",
-      "away_prob": "0.5480",
+      "home_prob": "0.4509",
+      "away_prob": "0.5491",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0173",
-      "away_ev": "-0.0037",
+      "home_ev": "-0.0198",
+      "away_ev": "-0.0016",
       "home_pitcher": "Bailey Ober",
       "away_pitcher": "Kevin Gausman",
       "pitchers_confirmed": "yes",
@@ -974,7 +974,7 @@
     },
     {
       "date": "2026-04-30",
-      "time": "16:30:04",
+      "time": "16:45:04",
       "game_id": "823471",
       "home_team": "Philadelphia Phillies",
       "away_team": "San Francisco Giants",
@@ -999,6 +999,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 13170
+    "total_games_scanned_all": 13172
   }
 }
