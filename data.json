@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T16:15:16.602120+00:00",
+  "last_updated": "2026-05-01T16:30:17.031120+00:00",
   "scoreboard": [
     {
       "game_id": "824686",
@@ -790,7 +790,7 @@
   "today_games": [
     {
       "date": "2026-05-01",
-      "time": "12:15:04",
+      "time": "12:30:04",
       "game_id": "824686",
       "home_team": "Chicago Cubs",
       "away_team": "Arizona Diamondbacks",
@@ -812,7 +812,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:05",
+      "time": "12:30:05",
       "game_id": "824287",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
@@ -834,7 +834,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:06",
+      "time": "12:30:06",
       "game_id": "823389",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Cincinnati Reds",
@@ -856,7 +856,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:07",
+      "time": "12:30:07",
       "game_id": "822744",
       "home_team": "Washington Nationals",
       "away_team": "Milwaukee Brewers",
@@ -878,16 +878,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:08",
+      "time": "12:30:08",
       "game_id": "822990",
       "home_team": "Tampa Bay Rays",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5700",
-      "away_prob": "0.4300",
+      "home_prob": "0.5711",
+      "away_prob": "0.4289",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0172",
-      "away_ev": "-0.0000",
+      "home_ev": "-0.0154",
+      "away_ev": "-0.0025",
       "home_pitcher": "Shane McClanahan",
       "away_pitcher": "Robbie Ray",
       "pitchers_confirmed": "yes",
@@ -900,7 +900,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:09",
+      "time": "12:30:09",
       "game_id": "823877",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
@@ -922,7 +922,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:10",
+      "time": "12:30:10",
       "game_id": "823713",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:11",
+      "time": "12:30:11",
       "game_id": "823066",
       "home_team": "St. Louis Cardinals",
       "away_team": "Los Angeles Dodgers",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:12",
+      "time": "12:30:12",
       "game_id": "824366",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:13",
+      "time": "12:30:13",
       "game_id": "824041",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:14",
+      "time": "12:30:14",
       "game_id": "825012",
       "home_team": "Athletics",
       "away_team": "Cleveland Guardians",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:15",
+      "time": "12:30:15",
       "game_id": "823309",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "12:15:16",
+      "time": "12:30:16",
       "game_id": "823146",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
@@ -1079,6 +1079,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 13365
+    "total_games_scanned_all": 13378
   }
 }
