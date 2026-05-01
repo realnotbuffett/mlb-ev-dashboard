@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-01T17:45:15.712906+00:00",
+  "last_updated": "2026-05-01T18:00:15.817444+00:00",
   "scoreboard": [
     {
       "game_id": "824686",
       "away": "ARI",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-01T18:20:00Z"
     },
     {
@@ -812,7 +812,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:05",
+      "time": "14:00:05",
       "game_id": "824287",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
@@ -834,7 +834,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:06",
+      "time": "14:00:05",
       "game_id": "823389",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Cincinnati Reds",
@@ -856,7 +856,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:07",
+      "time": "14:00:06",
       "game_id": "822744",
       "home_team": "Washington Nationals",
       "away_team": "Milwaukee Brewers",
@@ -878,7 +878,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:08",
+      "time": "14:00:07",
       "game_id": "822990",
       "home_team": "Tampa Bay Rays",
       "away_team": "San Francisco Giants",
@@ -900,16 +900,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:09",
+      "time": "14:00:08",
       "game_id": "823877",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.4885",
-      "away_prob": "0.5115",
-      "poly_home_price": "0.4900",
-      "poly_away_price": "0.5200",
-      "home_ev": "-0.0030",
-      "away_ev": "-0.0164",
+      "home_prob": "0.4923",
+      "away_prob": "0.5077",
+      "poly_home_price": "0.5000",
+      "poly_away_price": "0.5100",
+      "home_ev": "-0.0153",
+      "away_ev": "-0.0046",
       "home_pitcher": "Eury P\u00e9rez",
       "away_pitcher": "Zack Wheeler",
       "pitchers_confirmed": "yes",
@@ -922,7 +922,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:09",
+      "time": "14:00:09",
       "game_id": "823713",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:10",
+      "time": "14:00:10",
       "game_id": "823066",
       "home_team": "St. Louis Cardinals",
       "away_team": "Los Angeles Dodgers",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:11",
+      "time": "14:00:11",
       "game_id": "824366",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:12",
+      "time": "14:00:12",
       "game_id": "824041",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1010,16 +1010,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:13",
+      "time": "14:00:13",
       "game_id": "825012",
       "home_team": "Athletics",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.4885",
-      "away_prob": "0.5115",
+      "home_prob": "0.4898",
+      "away_prob": "0.5102",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0030",
-      "away_ev": "-0.0164",
+      "home_ev": "-0.0004",
+      "away_ev": "-0.0188",
       "home_pitcher": "J.T. Ginn",
       "away_pitcher": "Joey Cantillo",
       "pitchers_confirmed": "yes",
@@ -1032,16 +1032,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:14",
+      "time": "14:00:14",
       "game_id": "823309",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
       "home_prob": "0.5771",
       "away_prob": "0.4229",
-      "poly_home_price": "0.5900",
-      "poly_away_price": "0.4200",
-      "home_ev": "-0.0218",
-      "away_ev": "0.0069",
+      "poly_home_price": "0.5800",
+      "poly_away_price": "0.4300",
+      "home_ev": "-0.0050",
+      "away_ev": "-0.0165",
       "home_pitcher": "Germ\u00e1n M\u00e1rquez",
       "away_pitcher": "Noah Schultz",
       "pitchers_confirmed": "yes",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "13:45:15",
+      "time": "14:00:15",
       "game_id": "823146",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
@@ -1079,6 +1079,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 13443
+    "total_games_scanned_all": 13455
   }
 }
