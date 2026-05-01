@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T23:45:03.595362+00:00",
+  "last_updated": "2026-05-01T00:00:03.753244+00:00",
   "scoreboard": [
     {
       "game_id": "824929",
@@ -50,9 +50,9 @@
       "game_id": "823471",
       "away": "SF",
       "home": "PHI",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 4,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-04-30T21:35:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-04-30T23:40:00Z"
     }
   ],
