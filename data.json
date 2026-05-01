@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T23:00:14.695833+00:00",
+  "last_updated": "2026-05-01T23:15:10.982652+00:00",
   "scoreboard": [
     {
       "game_id": "824686",
@@ -16,7 +16,7 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-01T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "WSH",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-01T22:45:00Z"
     },
     {
@@ -834,16 +834,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:07",
+      "time": "19:15:04",
       "game_id": "823389",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Cincinnati Reds",
       "home_prob": "0.5480",
       "away_prob": "0.4520",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "-0.0037",
-      "away_ev": "-0.0173",
+      "poly_home_price": "0.5600",
+      "poly_away_price": "0.4500",
+      "home_ev": "-0.0215",
+      "away_ev": "0.0045",
       "home_pitcher": "Mitch Keller",
       "away_pitcher": "Brady Singer",
       "pitchers_confirmed": "yes",
@@ -922,7 +922,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:08",
+      "time": "19:15:05",
       "game_id": "823713",
       "home_team": "Minnesota Twins",
       "away_team": "Toronto Blue Jays",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:09",
+      "time": "19:15:06",
       "game_id": "823066",
       "home_team": "St. Louis Cardinals",
       "away_team": "Los Angeles Dodgers",
@@ -966,16 +966,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:10",
+      "time": "19:15:07",
       "game_id": "824366",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.3807",
-      "away_prob": "0.6193",
+      "home_prob": "0.3831",
+      "away_prob": "0.6169",
       "poly_home_price": "0.3900",
       "poly_away_price": "0.6200",
-      "home_ev": "-0.0238",
-      "away_ev": "-0.0012",
+      "home_ev": "-0.0176",
+      "away_ev": "-0.0051",
       "home_pitcher": "Jose Quintana",
       "away_pitcher": "Grant Holmes",
       "pitchers_confirmed": "yes",
@@ -988,16 +988,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:11",
+      "time": "19:15:08",
       "game_id": "824041",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
-      "home_prob": "0.4885",
-      "away_prob": "0.5115",
-      "poly_home_price": "0.4900",
-      "poly_away_price": "0.5200",
-      "home_ev": "-0.0030",
-      "away_ev": "-0.0164",
+      "home_prob": "0.4898",
+      "away_prob": "0.5102",
+      "poly_home_price": "0.5000",
+      "poly_away_price": "0.5100",
+      "home_ev": "-0.0204",
+      "away_ev": "0.0004",
       "home_pitcher": "Walbert Urena",
       "away_pitcher": "Christian Scott",
       "pitchers_confirmed": "yes",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:12",
+      "time": "19:15:09",
       "game_id": "825012",
       "home_team": "Athletics",
       "away_team": "Cleveland Guardians",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:13",
+      "time": "19:15:10",
       "game_id": "823309",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
@@ -1054,16 +1054,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "19:00:14",
+      "time": "19:15:10",
       "game_id": "823146",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.5664",
-      "away_prob": "0.4336",
+      "home_prob": "0.5639",
+      "away_prob": "0.4361",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0063",
-      "away_ev": "-0.0146",
+      "home_ev": "-0.0107",
+      "away_ev": "-0.0089",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Cole Ragans",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 13716
+    "total_games_scanned_all": 13724
   }
 }
