@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T19:30:15.309576+00:00",
+  "last_updated": "2026-05-02T19:45:11.221606+00:00",
   "scoreboard": [
     {
       "game_id": "823554",
@@ -7,16 +7,16 @@
       "home": "NYY",
       "away_score": 3,
       "home_score": 6,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-02T17:35:00Z"
     },
     {
       "game_id": "823715",
       "away": "TOR",
       "home": "MIN",
-      "away_score": 2,
-      "home_score": 3,
-      "state": "T5",
+      "away_score": 3,
+      "home_score": 4,
+      "state": "T6",
       "start_time": "2026-05-02T18:10:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "CHC",
       "away_score": 0,
       "home_score": 1,
-      "state": "T5",
+      "state": "B6",
       "start_time": "2026-05-02T18:20:00Z"
     },
     {
       "game_id": "825014",
       "away": "CLE",
       "home": "OAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-02T20:05:00Z"
     },
     {
@@ -50,27 +50,27 @@
       "game_id": "822746",
       "away": "MIL",
       "home": "WSH",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-02T20:05:00Z"
     },
     {
       "game_id": "824771",
       "away": "HOU",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-02T20:10:00Z"
     },
     {
       "game_id": "823876",
       "away": "PHI",
       "home": "MIA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-02T20:10:00Z"
     },
     {
@@ -878,16 +878,16 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:05",
+      "time": "15:45:04",
       "game_id": "823388",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5592",
-      "away_prob": "0.4408",
+      "home_prob": "0.5578",
+      "away_prob": "0.4422",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0014",
-      "away_ev": "-0.0204",
+      "home_ev": "-0.0039",
+      "away_ev": "-0.0173",
       "home_pitcher": "Carmen Mlodzinski",
       "away_pitcher": "Rhett Lowder",
       "pitchers_confirmed": "yes",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:09",
+      "time": "15:45:05",
       "game_id": "822988",
       "home_team": "Tampa Bay Rays",
       "away_team": "San Francisco Giants",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:10",
+      "time": "15:45:06",
       "game_id": "823067",
       "home_team": "St. Louis Cardinals",
       "away_team": "Los Angeles Dodgers",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:11",
+      "time": "15:45:07",
       "game_id": "824284",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:13",
+      "time": "15:45:09",
       "game_id": "823308",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:14",
+      "time": "15:45:10",
       "game_id": "824042",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:15",
+      "time": "15:45:11",
       "game_id": "823144",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "15:30:12",
+      "time": "15:45:08",
       "game_id": "824365",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14129
+    "total_games_scanned_all": 14137
   }
 }
