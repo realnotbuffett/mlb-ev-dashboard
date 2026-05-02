@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T00:30:07.547992+00:00",
+  "last_updated": "2026-05-02T00:45:21.180224+00:00",
   "scoreboard": [
     {
       "game_id": "824686",
@@ -15,8 +15,8 @@
       "away": "TEX",
       "home": "DET",
       "away_score": 4,
-      "home_score": 3,
-      "state": "B5",
+      "home_score": 4,
+      "state": "T6",
       "start_time": "2026-05-01T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-01T22:45:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "WSH",
       "away_score": 4,
       "home_score": 0,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-01T22:45:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 5,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-01T23:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BOS",
       "away_score": 1,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-01T23:10:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "SF",
       "home": "TB",
       "away_score": 0,
-      "home_score": 2,
-      "state": "B6",
+      "home_score": 3,
+      "state": "T7",
       "start_time": "2026-05-01T23:10:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "MIA",
       "away_score": 2,
       "home_score": 1,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-01T23:10:00Z"
     },
     {
       "game_id": "823713",
       "away": "TOR",
       "home": "MIN",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-05-02T00:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "LAD",
       "home": "STL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 3,
+      "state": "T2",
       "start_time": "2026-05-02T00:15:00Z"
     },
     {
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-01",
-      "time": "20:30:04",
+      "time": "20:45:04",
       "game_id": "824041",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1010,16 +1010,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "20:30:05",
+      "time": "20:45:12",
       "game_id": "825012",
       "home_team": "Athletics",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.4885",
-      "away_prob": "0.5115",
+      "home_prob": "0.5519",
+      "away_prob": "0.4481",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0030",
-      "away_ev": "-0.0164",
+      "home_ev": "0.1263",
+      "away_ev": "-0.1383",
       "home_pitcher": "J.T. Ginn",
       "away_pitcher": "Joey Cantillo",
       "pitchers_confirmed": "yes",
@@ -1032,16 +1032,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "20:30:06",
+      "time": "20:45:20",
       "game_id": "823309",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.5639",
-      "away_prob": "0.4361",
+      "home_prob": "0.6495",
+      "away_prob": "0.3505",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0107",
-      "away_ev": "-0.0089",
+      "home_ev": "0.1395",
+      "away_ev": "-0.2035",
       "home_pitcher": "Germ\u00e1n M\u00e1rquez",
       "away_pitcher": "Noah Schultz",
       "pitchers_confirmed": "yes",
@@ -1054,16 +1054,16 @@
     },
     {
       "date": "2026-05-01",
-      "time": "20:30:07",
+      "time": "20:45:21",
       "game_id": "823146",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.5628",
-      "away_prob": "0.4372",
+      "home_prob": "0.5704",
+      "away_prob": "0.4296",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0126",
-      "away_ev": "-0.0064",
+      "home_ev": "0.0006",
+      "away_ev": "-0.0235",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Cole Ragans",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 13754
+    "total_games_scanned_all": 13758
   }
 }
