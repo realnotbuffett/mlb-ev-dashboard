@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-02T18:30:14.927279+00:00",
+  "last_updated": "2026-05-02T18:45:14.704657+00:00",
   "scoreboard": [
     {
       "game_id": "823554",
       "away": "BAL",
       "home": "NYY",
-      "away_score": 0,
-      "home_score": 1,
-      "state": "B3",
+      "away_score": 1,
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-05-02T17:35:00Z"
     },
     {
       "game_id": "823715",
       "away": "TOR",
       "home": "MIN",
-      "away_score": 1,
-      "home_score": 1,
-      "state": "T2",
+      "away_score": 2,
+      "home_score": 3,
+      "state": "B2",
       "start_time": "2026-05-02T18:10:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "ARI",
       "home": "CHC",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-05-02T18:20:00Z"
     },
     {
@@ -856,7 +856,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:04",
+      "time": "14:45:04",
       "game_id": "825014",
       "home_team": "Athletics",
       "away_team": "Cleveland Guardians",
@@ -878,16 +878,16 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:05",
+      "time": "14:45:05",
       "game_id": "823388",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5468",
-      "away_prob": "0.4532",
+      "home_prob": "0.5455",
+      "away_prob": "0.4545",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0235",
-      "away_ev": "0.0070",
+      "home_ev": "-0.0260",
+      "away_ev": "0.0101",
       "home_pitcher": "Carmen Mlodzinski",
       "away_pitcher": "Rhett Lowder",
       "pitchers_confirmed": "yes",
@@ -900,7 +900,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:06",
+      "time": "14:45:06",
       "game_id": "822746",
       "home_team": "Washington Nationals",
       "away_team": "Milwaukee Brewers",
@@ -922,7 +922,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:07",
+      "time": "14:45:07",
       "game_id": "824771",
       "home_team": "Boston Red Sox",
       "away_team": "Houston Astros",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:08",
+      "time": "14:45:08",
       "game_id": "823876",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:09",
+      "time": "14:45:09",
       "game_id": "822988",
       "home_team": "Tampa Bay Rays",
       "away_team": "San Francisco Giants",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:10",
+      "time": "14:45:10",
       "game_id": "823067",
       "home_team": "St. Louis Cardinals",
       "away_team": "Los Angeles Dodgers",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:11",
+      "time": "14:45:10",
       "game_id": "824284",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:12",
+      "time": "14:45:12",
       "game_id": "823308",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:13",
+      "time": "14:45:13",
       "game_id": "824042",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:14",
+      "time": "14:45:14",
       "game_id": "823144",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
@@ -1098,16 +1098,16 @@
     },
     {
       "date": "2026-05-02",
-      "time": "14:30:12",
+      "time": "14:45:11",
       "game_id": "824365",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.3394",
-      "away_prob": "0.6606",
+      "home_prob": "0.3402",
+      "away_prob": "0.6598",
       "poly_home_price": "0.3400",
       "poly_away_price": "0.6700",
-      "home_ev": "-0.0016",
-      "away_ev": "-0.0141",
+      "home_ev": "0.0007",
+      "away_ev": "-0.0153",
       "home_pitcher": "Brennan Bernardino",
       "away_pitcher": "Chris Sale",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14081
+    "total_games_scanned_all": 14093
   }
 }
