@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T02:00:03.695590+00:00",
+  "last_updated": "2026-05-02T02:15:03.767454+00:00",
   "scoreboard": [
     {
       "game_id": "824686",
@@ -23,9 +23,9 @@
       "game_id": "823389",
       "away": "CIN",
       "home": "PIT",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 8,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-01T22:45:00Z"
     },
     {
@@ -69,26 +69,26 @@
       "away": "PHI",
       "home": "MIA",
       "away_score": 6,
-      "home_score": 2,
-      "state": "B8",
+      "home_score": 4,
+      "state": "T9",
       "start_time": "2026-05-01T23:10:00Z"
     },
     {
       "game_id": "823713",
       "away": "TOR",
       "home": "MIN",
-      "away_score": 6,
+      "away_score": 7,
       "home_score": 2,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-02T00:10:00Z"
     },
     {
       "game_id": "823066",
       "away": "LAD",
       "home": "STL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 4,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-02T00:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "COL",
       "away_score": 1,
       "home_score": 6,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-02T00:40:00Z"
     },
     {
@@ -106,25 +106,25 @@
       "home": "LAA",
       "away_score": 0,
       "home_score": 2,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-02T01:38:00Z"
     },
     {
       "game_id": "825012",
       "away": "CLE",
       "home": "OAK",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "away_score": 2,
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-05-02T01:40:00Z"
     },
     {
       "game_id": "823309",
       "away": "CWS",
       "home": "SD",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-05-02T01:40:00Z"
     },
     {
@@ -132,8 +132,8 @@
       "away": "KC",
       "home": "SEA",
       "away_score": 4,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "T2",
       "start_time": "2026-05-02T01:45:00Z"
     }
   ],
