@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T23:30:20.774359+00:00",
+  "last_updated": "2026-05-02T23:45:20.833431+00:00",
   "scoreboard": [
     {
       "game_id": "823554",
@@ -78,7 +78,7 @@
       "away": "SF",
       "home": "TB",
       "away_score": 0,
-      "home_score": 1,
+      "home_score": 4,
       "state": "B5",
       "start_time": "2026-05-02T22:10:00Z"
     },
@@ -88,7 +88,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-05-02T23:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 3,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-02T23:15:00Z"
     },
     {
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "19:30:12",
+      "time": "19:45:12",
       "game_id": "823308",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "19:30:12",
+      "time": "19:45:13",
       "game_id": "824042",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "19:30:20",
+      "time": "19:45:20",
       "game_id": "823144",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "19:30:11",
+      "time": "19:45:11",
       "game_id": "824365",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14228
+    "total_games_scanned_all": 14232
   }
 }
