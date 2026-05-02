@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T21:15:10.528206+00:00",
+  "last_updated": "2026-05-02T21:30:10.369697+00:00",
   "scoreboard": [
     {
       "game_id": "823554",
@@ -32,9 +32,9 @@
       "game_id": "825014",
       "away": "CLE",
       "home": "OAK",
-      "away_score": 2,
-      "home_score": 3,
-      "state": "T5",
+      "away_score": 5,
+      "home_score": 4,
+      "state": "B5",
       "start_time": "2026-05-02T20:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PIT",
       "away_score": 3,
       "home_score": 10,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-05-02T20:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "WSH",
       "away_score": 3,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-02T20:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "BOS",
       "away_score": 5,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-02T20:10:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "PHI",
       "home": "MIA",
       "away_score": 0,
-      "home_score": 2,
-      "state": "B4",
+      "home_score": 3,
+      "state": "B5",
       "start_time": "2026-05-02T20:10:00Z"
     },
     {
@@ -966,16 +966,16 @@
     },
     {
       "date": "2026-05-02",
-      "time": "17:15:04",
+      "time": "17:30:04",
       "game_id": "822988",
       "home_team": "Tampa Bay Rays",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.4784",
-      "away_prob": "0.5216",
+      "home_prob": "0.4772",
+      "away_prob": "0.5228",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0237",
-      "away_ev": "0.0031",
+      "home_ev": "-0.0262",
+      "away_ev": "0.0055",
       "home_pitcher": "Griffin Jax",
       "away_pitcher": "Landen Roupp",
       "pitchers_confirmed": "yes",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "17:15:05",
+      "time": "17:30:05",
       "game_id": "823067",
       "home_team": "St. Louis Cardinals",
       "away_team": "Los Angeles Dodgers",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "17:15:06",
+      "time": "17:30:06",
       "game_id": "824284",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
@@ -1032,16 +1032,16 @@
     },
     {
       "date": "2026-05-02",
-      "time": "17:15:08",
+      "time": "17:30:08",
       "game_id": "823308",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.6235",
-      "away_prob": "0.3765",
+      "home_prob": "0.6244",
+      "away_prob": "0.3756",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0103",
-      "away_ev": "-0.0092",
+      "home_ev": "-0.0089",
+      "away_ev": "-0.0116",
       "home_pitcher": "Michael King",
       "away_pitcher": "Sean Burke",
       "pitchers_confirmed": "yes",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "17:15:09",
+      "time": "17:30:09",
       "game_id": "824042",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1076,15 +1076,15 @@
     },
     {
       "date": "2026-05-02",
-      "time": "17:15:10",
+      "time": "17:30:10",
       "game_id": "823144",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
       "home_prob": "0.5664",
       "away_prob": "0.4336",
-      "poly_home_price": "0.5700",
+      "poly_home_price": "0.5800",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0063",
+      "home_ev": "-0.0234",
       "away_ev": "-0.0146",
       "home_pitcher": "Emerson Hancock",
       "away_pitcher": "Seth Lugo",
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "17:15:07",
+      "time": "17:30:07",
       "game_id": "824365",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14179
+    "total_games_scanned_all": 14186
   }
 }
