@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T21:00:04.879809+00:00",
+  "last_updated": "2026-05-03T21:15:04.500712+00:00",
   "scoreboard": [
     {
       "game_id": "823711",
@@ -16,7 +16,7 @@
       "home": "BOS",
       "away_score": 3,
       "home_score": 1,
-      "state": "B10",
+      "state": "FINAL",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "824687",
       "away": "ARI",
       "home": "CHC",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 8,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-03T18:20:00Z"
     },
     {
@@ -87,35 +87,35 @@
       "away": "ATL",
       "home": "COL",
       "away_score": 6,
-      "home_score": 4,
-      "state": "B5",
+      "home_score": 5,
+      "state": "T6",
       "start_time": "2026-05-03T19:10:00Z"
     },
     {
       "game_id": "825013",
       "away": "CLE",
       "home": "OAK",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-03T20:05:00Z"
     },
     {
       "game_id": "824043",
       "away": "NYM",
       "home": "LAA",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-03T20:07:00Z"
     },
     {
       "game_id": "823145",
       "away": "KC",
       "home": "SEA",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "CWS",
       "home": "SD",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T4",
+      "home_score": 2,
+      "state": "B4",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -1076,16 +1076,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "17:00:04",
+      "time": "17:15:04",
       "game_id": "824285",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5279",
-      "away_prob": "0.4721",
+      "home_prob": "0.5242",
+      "away_prob": "0.4758",
       "poly_home_price": "0.5310",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0058",
-      "away_ev": "0.0044",
+      "home_ev": "-0.0129",
+      "away_ev": "0.0124",
       "home_pitcher": "Tyler Holton",
       "away_pitcher": "Jack Leiter",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14565
+    "total_games_scanned_all": 14566
   }
 }
