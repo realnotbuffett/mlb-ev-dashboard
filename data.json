@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-03T18:30:09.550343+00:00",
+  "last_updated": "2026-05-03T18:45:08.669320+00:00",
   "scoreboard": [
     {
       "game_id": "823711",
       "away": "TOR",
       "home": "MIN",
-      "away_score": 0,
-      "home_score": 3,
-      "state": "B5",
+      "away_score": 1,
+      "home_score": 4,
+      "state": "T6",
       "start_time": "2026-05-03T16:45:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -33,17 +33,17 @@
       "away": "BAL",
       "home": "NYY",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B3",
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
       "game_id": "822742",
       "away": "MIL",
       "home": "WSH",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -52,43 +52,43 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-03T17:40:00Z"
     },
     {
       "game_id": "823875",
       "away": "PHI",
       "home": "MIA",
-      "away_score": 6,
+      "away_score": 7,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-05-03T17:40:00Z"
     },
     {
       "game_id": "823065",
       "away": "LAD",
       "home": "STL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-05-03T18:15:00Z"
     },
     {
       "game_id": "824687",
       "away": "ARI",
       "home": "CHC",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-03T18:20:00Z"
     },
     {
       "game_id": "824364",
       "away": "ATL",
       "home": "COL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-03T19:10:00Z"
     },
     {
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:30:05",
+      "time": "14:45:04",
       "game_id": "825013",
       "home_team": "Athletics",
       "away_team": "Cleveland Guardians",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:30:06",
+      "time": "14:45:05",
       "game_id": "824043",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1032,16 +1032,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:30:07",
+      "time": "14:45:06",
       "game_id": "823145",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.5191",
-      "away_prob": "0.4809",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0206",
-      "away_ev": "0.0019",
+      "home_prob": "0.5077",
+      "away_prob": "0.4923",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "-0.0237",
+      "away_ev": "0.0048",
       "home_pitcher": "Luis Castillo",
       "away_pitcher": "Kris Bubic",
       "pitchers_confirmed": "yes",
@@ -1054,16 +1054,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:30:08",
+      "time": "14:45:07",
       "game_id": "823307",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.6117",
-      "away_prob": "0.3883",
+      "home_prob": "0.5980",
+      "away_prob": "0.4020",
       "poly_home_price": "0.6100",
       "poly_away_price": "0.4000",
-      "home_ev": "0.0027",
-      "away_ev": "-0.0291",
+      "home_ev": "-0.0196",
+      "away_ev": "0.0049",
       "home_pitcher": "Griffin Canning",
       "away_pitcher": "Anthony Kay",
       "pitchers_confirmed": "yes",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:30:09",
+      "time": "14:45:08",
       "game_id": "824285",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14537
+    "total_games_scanned_all": 14542
   }
 }
