@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T21:15:04.500712+00:00",
+  "last_updated": "2026-05-03T21:30:04.515912+00:00",
   "scoreboard": [
     {
       "game_id": "823711",
@@ -86,9 +86,9 @@
       "game_id": "824364",
       "away": "ATL",
       "home": "COL",
-      "away_score": 6,
+      "away_score": 8,
       "home_score": 5,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-03T19:10:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "CLE",
       "home": "OAK",
       "away_score": 1,
-      "home_score": 1,
-      "state": "T5",
+      "home_score": 4,
+      "state": "B5",
       "start_time": "2026-05-03T20:05:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "LAA",
       "away_score": 2,
       "home_score": 1,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-03T20:07:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 3,
       "home_score": 1,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "CWS",
       "home": "SD",
       "away_score": 1,
-      "home_score": 2,
-      "state": "B4",
+      "home_score": 3,
+      "state": "T5",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -1076,16 +1076,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "17:15:04",
+      "time": "17:30:04",
       "game_id": "824285",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5242",
-      "away_prob": "0.4758",
-      "poly_home_price": "0.5310",
-      "poly_away_price": "0.4700",
-      "home_ev": "-0.0129",
-      "away_ev": "0.0124",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
+      "poly_home_price": "0.5320",
+      "poly_away_price": "0.4690",
+      "home_ev": "-0.0099",
+      "away_ev": "0.0091",
       "home_pitcher": "Tyler Holton",
       "away_pitcher": "Jack Leiter",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14566
+    "total_games_scanned_all": 14567
   }
 }
