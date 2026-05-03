@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T21:30:04.515912+00:00",
+  "last_updated": "2026-05-03T21:45:04.675487+00:00",
   "scoreboard": [
     {
       "game_id": "823711",
@@ -88,7 +88,7 @@
       "home": "COL",
       "away_score": 8,
       "home_score": 5,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-03T19:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "OAK",
       "away_score": 1,
       "home_score": 4,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-05-03T20:05:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "LAA",
       "away_score": 2,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-05-03T20:07:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 3,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SD",
       "away_score": 1,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-03",
-      "time": "17:30:04",
+      "time": "17:45:04",
       "game_id": "824285",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14567
+    "total_games_scanned_all": 14568
   }
 }
