@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T01:00:12.463638+00:00",
+  "last_updated": "2026-05-03T01:15:11.320149+00:00",
   "scoreboard": [
     {
       "game_id": "823554",
@@ -88,7 +88,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 3,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-02T23:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 5,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-02T23:15:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "ATL",
       "home": "COL",
       "away_score": 3,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 1,
+      "state": "T4",
       "start_time": "2026-05-03T00:10:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "SD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-05-03T00:40:00Z"
     },
     {
       "game_id": "824042",
       "away": "NYM",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-03T01:38:00Z"
     },
     {
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "21:00:12",
+      "time": "21:15:11",
       "game_id": "823144",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14244
+    "total_games_scanned_all": 14245
   }
 }
