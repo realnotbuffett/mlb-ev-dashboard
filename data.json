@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T18:00:09.768145+00:00",
+  "last_updated": "2026-05-03T18:15:09.452394+00:00",
   "scoreboard": [
     {
       "game_id": "823711",
@@ -7,7 +7,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-03T16:45:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-05-03T17:35:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-05-03T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "MIA",
       "away_score": 6,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-03T17:40:00Z"
     },
     {
@@ -966,16 +966,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:00:04",
+      "time": "14:15:04",
       "game_id": "824364",
       "home_team": "Colorado Rockies",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4386",
-      "away_prob": "0.5614",
+      "home_prob": "0.4397",
+      "away_prob": "0.5603",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "-0.0032",
-      "away_ev": "-0.0151",
+      "home_ev": "-0.0007",
+      "away_ev": "-0.0170",
       "home_pitcher": "Kyle Freeland",
       "away_pitcher": "Spencer Strider",
       "pitchers_confirmed": "yes",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:00:05",
+      "time": "14:15:05",
       "game_id": "825013",
       "home_team": "Athletics",
       "away_team": "Cleveland Guardians",
@@ -1010,16 +1010,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:00:06",
+      "time": "14:15:06",
       "game_id": "824043",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
-      "home_prob": "0.4545",
-      "away_prob": "0.5455",
+      "home_prob": "0.4532",
+      "away_prob": "0.5468",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0119",
-      "away_ev": "-0.0083",
+      "home_ev": "-0.0149",
+      "away_ev": "-0.0058",
       "home_pitcher": "Jack Kochanowicz",
       "away_pitcher": "Clay Holmes",
       "pitchers_confirmed": "yes",
@@ -1032,16 +1032,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:00:07",
+      "time": "14:15:07",
       "game_id": "823145",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5191",
+      "away_prob": "0.4809",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_ev": "-0.0206",
+      "away_ev": "0.0019",
       "home_pitcher": "Luis Castillo",
       "away_pitcher": "Kris Bubic",
       "pitchers_confirmed": "yes",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:00:08",
+      "time": "14:15:08",
       "game_id": "823307",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
@@ -1076,16 +1076,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "14:00:09",
+      "time": "14:15:09",
       "game_id": "824285",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
       "home_prob": "0.5429",
       "away_prob": "0.4571",
       "poly_home_price": "0.5450",
-      "poly_away_price": "0.4580",
+      "poly_away_price": "0.4560",
       "home_ev": "-0.0038",
-      "away_ev": "-0.0020",
+      "away_ev": "0.0023",
       "home_pitcher": "Tyler Holton",
       "away_pitcher": "Jack Leiter",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14525
+    "total_games_scanned_all": 14531
   }
 }
