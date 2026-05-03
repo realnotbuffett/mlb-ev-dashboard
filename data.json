@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T23:45:20.833431+00:00",
+  "last_updated": "2026-05-03T00:00:13.282665+00:00",
   "scoreboard": [
     {
       "game_id": "823554",
@@ -77,9 +77,9 @@
       "game_id": "822988",
       "away": "SF",
       "home": "TB",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 4,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-02T22:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-02T23:15:00Z"
     },
     {
@@ -96,17 +96,17 @@
       "away": "TEX",
       "home": "DET",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B2",
+      "home_score": 5,
+      "state": "T3",
       "start_time": "2026-05-02T23:15:00Z"
     },
     {
       "game_id": "824365",
       "away": "ATL",
       "home": "COL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-03T00:10:00Z"
     },
     {
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "19:45:12",
+      "time": "20:00:04",
       "game_id": "823308",
       "home_team": "San Diego Padres",
       "away_team": "Chicago White Sox",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "19:45:13",
+      "time": "20:00:05",
       "game_id": "824042",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Mets",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-02",
-      "time": "19:45:20",
+      "time": "20:00:13",
       "game_id": "823144",
       "home_team": "Seattle Mariners",
       "away_team": "Kansas City Royals",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14232
+    "total_games_scanned_all": 14235
   }
 }
