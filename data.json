@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T03:30:03.673718+00:00",
+  "last_updated": "2026-05-03T03:45:03.739562+00:00",
   "scoreboard": [
     {
       "game_id": "823554",
@@ -124,7 +124,7 @@
       "home": "LAA",
       "away_score": 3,
       "home_score": 3,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-05-03T01:38:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "SEA",
       "away_score": 1,
       "home_score": 2,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-03T01:40:00Z"
     }
   ],
