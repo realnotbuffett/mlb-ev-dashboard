@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T22:30:04.698745+00:00",
+  "last_updated": "2026-05-03T22:45:04.575425+00:00",
   "scoreboard": [
     {
       "game_id": "823711",
@@ -106,7 +106,7 @@
       "home": "LAA",
       "away_score": 5,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-05-03T20:07:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 4,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "CWS",
       "home": "SD",
       "away_score": 3,
-      "home_score": 3,
-      "state": "B8",
+      "home_score": 4,
+      "state": "T9",
       "start_time": "2026-05-03T20:10:00Z"
     },
     {
@@ -1076,16 +1076,16 @@
     },
     {
       "date": "2026-05-03",
-      "time": "18:30:04",
+      "time": "18:45:04",
       "game_id": "824285",
       "home_team": "Detroit Tigers",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5254",
-      "away_prob": "0.4746",
-      "poly_home_price": "0.5320",
-      "poly_away_price": "0.4690",
-      "home_ev": "-0.0124",
-      "away_ev": "0.0120",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
+      "poly_home_price": "0.5310",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0081",
+      "away_ev": "0.0070",
       "home_pitcher": "Tyler Holton",
       "away_pitcher": "Jack Leiter",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 14571
+    "total_games_scanned_all": 14572
   }
 }
