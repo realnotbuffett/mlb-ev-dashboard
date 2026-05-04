@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T19:15:15.267734+00:00",
+  "last_updated": "2026-05-04T19:30:15.995196+00:00",
   "scoreboard": [
     {
       "game_id": "824363",
@@ -763,16 +763,16 @@
   "today_games": [
     {
       "date": "2026-05-04",
-      "time": "15:15:06",
+      "time": "15:30:06",
       "game_id": "824283",
       "home_team": "Detroit Tigers",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.5089",
-      "away_prob": "0.4911",
-      "poly_home_price": "0.5100",
-      "poly_away_price": "0.5000",
-      "home_ev": "-0.0021",
-      "away_ev": "-0.0178",
+      "home_prob": "0.4923",
+      "away_prob": "0.5077",
+      "poly_home_price": "0.5000",
+      "poly_away_price": "0.5100",
+      "home_ev": "-0.0153",
+      "away_ev": "-0.0046",
       "home_pitcher": "Tyler Holton",
       "away_pitcher": "Payton Tolle",
       "pitchers_confirmed": "yes",
@@ -785,7 +785,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:07",
+      "time": "15:30:08",
       "game_id": "823874",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
@@ -807,7 +807,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:08",
+      "time": "15:30:09",
       "game_id": "823552",
       "home_team": "New York Yankees",
       "away_team": "Baltimore Orioles",
@@ -829,7 +829,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:09",
+      "time": "15:30:10",
       "game_id": "824684",
       "home_team": "Chicago Cubs",
       "away_team": "Cincinnati Reds",
@@ -851,7 +851,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:10",
+      "time": "15:30:11",
       "game_id": "824120",
       "home_team": "Kansas City Royals",
       "away_team": "Cleveland Guardians",
@@ -873,7 +873,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:11",
+      "time": "15:30:12",
       "game_id": "823064",
       "home_team": "St. Louis Cardinals",
       "away_team": "Milwaukee Brewers",
@@ -895,7 +895,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:12",
+      "time": "15:30:13",
       "game_id": "824201",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Dodgers",
@@ -917,7 +917,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:13",
+      "time": "15:30:13",
       "game_id": "824039",
       "home_team": "Los Angeles Angels",
       "away_team": "Chicago White Sox",
@@ -939,16 +939,16 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:14",
+      "time": "15:30:14",
       "game_id": "823143",
       "home_team": "Seattle Mariners",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5628",
-      "away_prob": "0.4372",
+      "home_prob": "0.5639",
+      "away_prob": "0.4361",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0126",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0107",
+      "away_ev": "-0.0089",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "JR Ritchie",
       "pitchers_confirmed": "yes",
@@ -961,7 +961,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:15",
+      "time": "15:30:15",
       "game_id": "823228",
       "home_team": "San Francisco Giants",
       "away_team": "San Diego Padres",
@@ -983,7 +983,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "824363",
       "home_team": "Colorado Rockies",
       "away_team": "New York Mets",
@@ -1002,12 +1002,34 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-05-04",
+      "time": "15:30:07",
+      "game_id": "822984",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Toronto Blue Jays",
+      "home_prob": "0.5305",
+      "away_prob": "0.4695",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0177",
+      "away_ev": "-0.0010",
+      "home_pitcher": "Nick Martinez",
+      "away_pitcher": "Eric Lauer",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 38,
-    "total_games_scanned_today": 11,
-    "total_games_scanned_all": 14843
+    "total_games_scanned_today": 12,
+    "total_games_scanned_all": 14855
   }
 }
