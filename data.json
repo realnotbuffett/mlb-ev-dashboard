@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T03:15:04.012615+00:00",
+  "last_updated": "2026-05-05T03:30:03.880304+00:00",
   "scoreboard": [
     {
       "game_id": "824363",
@@ -51,8 +51,8 @@
       "away": "CIN",
       "home": "CHC",
       "away_score": 4,
-      "home_score": 3,
-      "state": "B9",
+      "home_score": 5,
+      "state": "FINAL",
       "start_time": "2026-05-04T23:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "LAA",
       "away_score": 5,
       "home_score": 0,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-05-05T01:38:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "ATL",
       "home": "SEA",
       "away_score": 4,
-      "home_score": 0,
-      "state": "T6",
+      "home_score": 5,
+      "state": "B6",
       "start_time": "2026-05-05T01:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SF",
       "away_score": 1,
       "home_score": 3,
-      "state": "B6",
+      "state": "T8",
       "start_time": "2026-05-05T01:45:00Z"
     }
   ],
