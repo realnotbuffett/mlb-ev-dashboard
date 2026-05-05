@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T01:15:06.650970+00:00",
+  "last_updated": "2026-05-05T01:30:03.837879+00:00",
   "scoreboard": [
     {
       "game_id": "824363",
@@ -16,7 +16,7 @@
       "home": "DET",
       "away_score": 5,
       "home_score": 4,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-05-04T22:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 0,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-05-04T22:40:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 6,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-04T23:05:00Z"
     },
     {
       "game_id": "824684",
       "away": "CIN",
       "home": "CHC",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-04T23:10:00Z"
     },
     {
@@ -60,17 +60,17 @@
       "away": "CLE",
       "home": "KC",
       "away_score": 2,
-      "home_score": 5,
-      "state": "T7",
+      "home_score": 6,
+      "state": "B7",
       "start_time": "2026-05-04T23:40:00Z"
     },
     {
       "game_id": "823064",
       "away": "MIL",
       "home": "STL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 4,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-04T23:45:00Z"
     },
     {
@@ -79,34 +79,34 @@
       "home": "HOU",
       "away_score": 7,
       "home_score": 2,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-05T00:10:00Z"
     },
     {
       "game_id": "824039",
       "away": "CWS",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-05T01:38:00Z"
     },
     {
       "game_id": "823143",
       "away": "ATL",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-05T01:40:00Z"
     },
     {
       "game_id": "823228",
       "away": "SD",
       "home": "SF",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-05T01:45:00Z"
     }
   ],
