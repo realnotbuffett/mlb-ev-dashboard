@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T00:30:07.303287+00:00",
+  "last_updated": "2026-05-05T00:45:06.741786+00:00",
   "scoreboard": [
     {
       "game_id": "824363",
@@ -25,7 +25,7 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 5,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-04T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-04T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-04T23:05:00Z"
     },
     {
@@ -60,7 +60,7 @@
       "away": "CLE",
       "home": "KC",
       "away_score": 2,
-      "home_score": 2,
+      "home_score": 4,
       "state": "B4",
       "start_time": "2026-05-04T23:40:00Z"
     },
@@ -70,16 +70,16 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-04T23:45:00Z"
     },
     {
       "game_id": "824201",
       "away": "LAD",
       "home": "HOU",
-      "away_score": 1,
-      "home_score": 0,
-      "state": "B1",
+      "away_score": 2,
+      "home_score": 2,
+      "state": "T2",
       "start_time": "2026-05-05T00:10:00Z"
     },
     {
@@ -917,7 +917,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "20:30:05",
+      "time": "20:45:04",
       "game_id": "824039",
       "home_team": "Los Angeles Angels",
       "away_team": "Chicago White Sox",
@@ -939,16 +939,16 @@
     },
     {
       "date": "2026-05-04",
-      "time": "20:30:06",
+      "time": "20:45:05",
       "game_id": "823143",
       "home_team": "Seattle Mariners",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5542",
-      "away_prob": "0.4458",
+      "home_prob": "0.5714",
+      "away_prob": "0.4286",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0092",
+      "home_ev": "0.0204",
+      "away_ev": "-0.0476",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "JR Ritchie",
       "pitchers_confirmed": "yes",
@@ -961,7 +961,7 @@
     },
     {
       "date": "2026-05-04",
-      "time": "20:30:07",
+      "time": "20:45:06",
       "game_id": "823228",
       "home_team": "San Francisco Giants",
       "away_team": "San Diego Padres",
@@ -1030,6 +1030,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 15029
+    "total_games_scanned_all": 15032
   }
 }
