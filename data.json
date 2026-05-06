@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T01:00:08.155275+00:00",
+  "last_updated": "2026-05-06T01:15:13.809654+00:00",
   "scoreboard": [
     {
       "game_id": "824281",
@@ -7,7 +7,7 @@
       "home": "DET",
       "away_score": 10,
       "home_score": 3,
-      "state": "T8",
+      "state": "B9",
       "start_time": "2026-05-05T22:40:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "TOR",
       "home": "TB",
       "away_score": 3,
-      "home_score": 3,
-      "state": "B8",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-05-05T22:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "OAK",
       "home": "PHI",
       "away_score": 0,
-      "home_score": 7,
-      "state": "B8",
+      "home_score": 9,
+      "state": "T9",
       "start_time": "2026-05-05T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIA",
       "away_score": 7,
       "home_score": 6,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-05-05T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 10,
       "home_score": 3,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-05T22:45:00Z"
     },
     {
@@ -51,17 +51,17 @@
       "away": "TEX",
       "home": "NYY",
       "away_score": 3,
-      "home_score": 4,
-      "state": "T7",
+      "home_score": 6,
+      "state": "B7",
       "start_time": "2026-05-05T23:05:00Z"
     },
     {
       "game_id": "824682",
       "away": "CIN",
       "home": "CHC",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-05T23:40:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "CLE",
       "home": "KC",
       "away_score": 3,
-      "home_score": 4,
-      "state": "T6",
+      "home_score": 5,
+      "state": "T7",
       "start_time": "2026-05-05T23:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 2,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-06T00:10:00Z"
     },
     {
       "game_id": "824040",
       "away": "CWS",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-06T01:38:00Z"
     },
     {
@@ -1054,16 +1054,16 @@
     },
     {
       "date": "2026-05-05",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "825092",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5567",
-      "away_prob": "0.4433",
+      "home_prob": "0.5556",
+      "away_prob": "0.4444",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0059",
-      "away_ev": "-0.0148",
+      "home_ev": "-0.0079",
+      "away_ev": "-0.0123",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Bubba Chandler",
       "pitchers_confirmed": "yes",
@@ -1076,16 +1076,16 @@
     },
     {
       "date": "2026-05-05",
-      "time": "21:00:07",
+      "time": "21:15:06",
       "game_id": "823142",
       "home_team": "Seattle Mariners",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5614",
-      "away_prob": "0.4386",
+      "home_prob": "0.5494",
+      "away_prob": "0.4506",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "0.0025",
-      "away_ev": "-0.0253",
+      "home_ev": "-0.0190",
+      "away_ev": "0.0014",
       "home_pitcher": "George Kirby",
       "away_pitcher": "Bryce Elder",
       "pitchers_confirmed": "yes",
@@ -1098,16 +1098,16 @@
     },
     {
       "date": "2026-05-05",
-      "time": "21:00:08",
+      "time": "21:15:13",
       "game_id": "823227",
       "home_team": "San Francisco Giants",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5639",
-      "away_prob": "0.4361",
+      "home_prob": "0.4834",
+      "away_prob": "0.5166",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0107",
-      "away_ev": "-0.0089",
+      "home_ev": "-0.1520",
+      "away_ev": "0.1741",
       "home_pitcher": "Logan Webb",
       "away_pitcher": "Walker Buehler",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 15637
+    "total_games_scanned_all": 15640
   }
 }
