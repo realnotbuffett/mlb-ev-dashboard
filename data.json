@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T21:15:07.830831+00:00",
+  "last_updated": "2026-05-07T21:30:07.673842+00:00",
   "scoreboard": [
     {
       "game_id": "823551",
@@ -25,7 +25,7 @@
       "home": "KC",
       "away_score": 8,
       "home_score": 5,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-05-07T18:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CHC",
       "away_score": 3,
       "home_score": 8,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-07T18:20:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "COL",
       "away_score": 2,
       "home_score": 2,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-07T19:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "ARI",
       "away_score": 4,
       "home_score": 2,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-05-07T19:40:00Z"
     },
     {
@@ -877,7 +877,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "17:15:04",
+      "time": "17:30:04",
       "game_id": "823467",
       "home_team": "Philadelphia Phillies",
       "away_team": "Athletics",
@@ -899,7 +899,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "17:15:05",
+      "time": "17:30:05",
       "game_id": "823870",
       "home_team": "Miami Marlins",
       "away_team": "Baltimore Orioles",
@@ -921,7 +921,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "17:15:06",
+      "time": "17:30:06",
       "game_id": "824767",
       "home_team": "Boston Red Sox",
       "away_team": "Tampa Bay Rays",
@@ -943,7 +943,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "17:15:07",
+      "time": "17:30:07",
       "game_id": "823306",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
@@ -968,6 +968,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 16398
+    "total_games_scanned_all": 16402
   }
 }
