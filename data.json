@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T20:30:07.867796+00:00",
+  "last_updated": "2026-05-07T20:45:08.394090+00:00",
   "scoreboard": [
     {
       "game_id": "823551",
@@ -24,8 +24,8 @@
       "away": "CLE",
       "home": "KC",
       "away_score": 8,
-      "home_score": 3,
-      "state": "B7",
+      "home_score": 4,
+      "state": "B8",
       "start_time": "2026-05-07T18:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 8,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-07T18:20:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "COL",
       "away_score": 2,
       "home_score": 1,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-07T19:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "ARI",
       "away_score": 1,
       "home_score": 2,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-07T19:40:00Z"
     },
     {
@@ -877,16 +877,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "16:30:04",
+      "time": "16:45:04",
       "game_id": "823467",
       "home_team": "Philadelphia Phillies",
       "away_team": "Athletics",
-      "home_prob": "0.5418",
-      "away_prob": "0.4582",
+      "home_prob": "0.5406",
+      "away_prob": "0.4594",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0150",
-      "away_ev": "-0.0039",
+      "home_ev": "-0.0171",
+      "away_ev": "-0.0013",
       "home_pitcher": "Andrew Painter",
       "away_pitcher": "J.T. Ginn",
       "pitchers_confirmed": "yes",
@@ -899,16 +899,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "823870",
       "home_team": "Miami Marlins",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5330",
-      "away_prob": "0.4670",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0309",
-      "away_ev": "0.0152",
+      "home_ev": "-0.0263",
+      "away_ev": "0.0097",
       "home_pitcher": "Max Meyer",
       "away_pitcher": "Cade Povich",
       "pitchers_confirmed": "yes",
@@ -921,16 +921,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "16:30:06",
+      "time": "16:45:06",
       "game_id": "824767",
       "home_team": "Boston Red Sox",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5115",
+      "away_prob": "0.4885",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0046",
-      "away_ev": "-0.0153",
+      "home_ev": "0.0028",
+      "away_ev": "-0.0229",
       "home_pitcher": "Jake Bennett",
       "away_pitcher": "Griffin Jax",
       "pitchers_confirmed": "yes",
@@ -943,7 +943,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "16:30:07",
+      "time": "16:45:08",
       "game_id": "823306",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
@@ -968,6 +968,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 16386
+    "total_games_scanned_all": 16390
   }
 }
