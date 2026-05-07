@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T01:00:04.783392+00:00",
+  "last_updated": "2026-05-07T01:15:04.818524+00:00",
   "scoreboard": [
     {
       "game_id": "822985",
@@ -61,7 +61,7 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-05-06T22:40:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "OAK",
       "home": "PHI",
       "away_score": 3,
-      "home_score": 2,
-      "state": "B8",
+      "home_score": 6,
+      "state": "T9",
       "start_time": "2026-05-06T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIA",
       "away_score": 7,
       "home_score": 4,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-06T22:40:00Z"
     },
     {
@@ -87,7 +87,7 @@
       "away": "MIN",
       "home": "WSH",
       "away_score": 2,
-      "home_score": 8,
+      "home_score": 15,
       "state": "B8",
       "start_time": "2026-05-06T22:45:00Z"
     },
@@ -97,7 +97,7 @@
       "home": "NYY",
       "away_score": 6,
       "home_score": 1,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-06T23:05:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CHC",
       "away_score": 2,
       "home_score": 4,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-06T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "KC",
       "away_score": 2,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-06T23:40:00Z"
     },
     {
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-05-06",
-      "time": "21:00:04",
+      "time": "21:15:04",
       "game_id": "825091",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Pittsburgh Pirates",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 16144
+    "total_games_scanned_all": 16145
   }
 }
