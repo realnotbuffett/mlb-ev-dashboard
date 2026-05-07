@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T17:45:11.474197+00:00",
+  "last_updated": "2026-05-07T18:00:10.176015+00:00",
   "scoreboard": [
     {
       "game_id": "823551",
@@ -7,7 +7,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-07T16:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "MIN",
       "home": "WSH",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-05-07T17:05:00Z"
     },
     {
@@ -32,9 +32,9 @@
       "game_id": "824681",
       "away": "CIN",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-07T18:20:00Z"
     },
     {
@@ -833,16 +833,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "13:45:06",
+      "time": "14:00:05",
       "game_id": "824362",
       "home_team": "Colorado Rockies",
       "away_team": "New York Mets",
-      "home_prob": "0.4325",
-      "away_prob": "0.5675",
+      "home_prob": "0.4311",
+      "away_prob": "0.5689",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "0.0058",
-      "away_ev": "-0.0216",
+      "home_ev": "0.0025",
+      "away_ev": "-0.0191",
       "home_pitcher": "Jose Quintana",
       "away_pitcher": "Christian Scott",
       "pitchers_confirmed": "yes",
@@ -855,16 +855,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "13:45:07",
+      "time": "14:00:06",
       "game_id": "825090",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5242",
-      "away_prob": "0.4758",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0080",
-      "away_ev": "-0.0289",
+      "home_ev": "-0.0213",
+      "away_ev": "0.0022",
       "home_pitcher": "Zac Gallen",
       "away_pitcher": "Mitch Keller",
       "pitchers_confirmed": "yes",
@@ -877,16 +877,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "13:45:08",
+      "time": "14:00:07",
       "game_id": "823467",
       "home_team": "Philadelphia Phillies",
       "away_team": "Athletics",
-      "home_prob": "0.5418",
-      "away_prob": "0.4582",
+      "home_prob": "0.5480",
+      "away_prob": "0.4520",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0150",
-      "away_ev": "-0.0039",
+      "home_ev": "-0.0037",
+      "away_ev": "-0.0173",
       "home_pitcher": "Andrew Painter",
       "away_pitcher": "J.T. Ginn",
       "pitchers_confirmed": "yes",
@@ -899,16 +899,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "13:45:09",
+      "time": "14:00:08",
       "game_id": "823870",
       "home_team": "Miami Marlins",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5480",
-      "away_prob": "0.4520",
+      "home_prob": "0.5505",
+      "away_prob": "0.4495",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0037",
-      "away_ev": "-0.0173",
+      "home_ev": "0.0009",
+      "away_ev": "-0.0228",
       "home_pitcher": "Max Meyer",
       "away_pitcher": "Cade Povich",
       "pitchers_confirmed": "yes",
@@ -921,7 +921,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "13:45:10",
+      "time": "14:00:09",
       "game_id": "824767",
       "home_team": "Boston Red Sox",
       "away_team": "Tampa Bay Rays",
@@ -943,7 +943,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "13:45:11",
+      "time": "14:00:10",
       "game_id": "823306",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
@@ -968,6 +968,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 16332
+    "total_games_scanned_all": 16338
   }
 }
