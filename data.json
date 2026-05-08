@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T01:45:11.661121+00:00",
+  "last_updated": "2026-05-08T02:00:03.944125+00:00",
   "scoreboard": [
     {
       "game_id": "823551",
@@ -79,16 +79,16 @@
       "home": "BOS",
       "away_score": 8,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-07T23:10:00Z"
     },
     {
       "game_id": "823306",
       "away": "STL",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-08T02:10:00Z"
     }
   ],
