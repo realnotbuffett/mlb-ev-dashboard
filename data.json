@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T01:30:04.760834+00:00",
+  "last_updated": "2026-05-08T01:45:11.661121+00:00",
   "scoreboard": [
     {
       "game_id": "823551",
@@ -77,9 +77,9 @@
       "game_id": "824767",
       "away": "TB",
       "home": "BOS",
-      "away_score": 6,
-      "home_score": 3,
-      "state": "T8",
+      "away_score": 8,
+      "home_score": 4,
+      "state": "T9",
       "start_time": "2026-05-07T23:10:00Z"
     },
     {
@@ -943,16 +943,16 @@
     },
     {
       "date": "2026-05-07",
-      "time": "21:30:04",
+      "time": "21:45:11",
       "game_id": "823306",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.6039",
-      "away_prob": "0.3961",
-      "poly_home_price": "0.6000",
-      "poly_away_price": "0.4100",
-      "home_ev": "0.0065",
-      "away_ev": "-0.0339",
+      "home_prob": "0.5739",
+      "away_prob": "0.4261",
+      "poly_home_price": "0.6100",
+      "poly_away_price": "0.4000",
+      "home_ev": "-0.0591",
+      "away_ev": "0.0652",
       "home_pitcher": "Michael King",
       "away_pitcher": "Matthew Liberatore",
       "pitchers_confirmed": "yes",
@@ -968,6 +968,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 16429
+    "total_games_scanned_all": 16430
   }
 }
