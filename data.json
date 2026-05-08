@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T01:15:04.917701+00:00",
+  "last_updated": "2026-05-08T01:30:04.760834+00:00",
   "scoreboard": [
     {
       "game_id": "823551",
@@ -69,17 +69,17 @@
       "away": "BAL",
       "home": "MIA",
       "away_score": 3,
-      "home_score": 3,
-      "state": "B9",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-05-07T22:40:00Z"
     },
     {
       "game_id": "824767",
       "away": "TB",
       "home": "BOS",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 3,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-05-07T23:10:00Z"
     },
     {
@@ -943,7 +943,7 @@
     },
     {
       "date": "2026-05-07",
-      "time": "21:15:04",
+      "time": "21:30:04",
       "game_id": "823306",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
@@ -968,6 +968,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 16428
+    "total_games_scanned_all": 16429
   }
 }
