@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T22:30:04.659652+00:00",
+  "last_updated": "2026-05-10T22:45:04.759455+00:00",
   "scoreboard": [
     {
       "game_id": "823868",
@@ -97,7 +97,7 @@
       "home": "SF",
       "away_score": 4,
       "home_score": 4,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-05-10T20:05:00Z"
     },
     {
@@ -114,8 +114,8 @@
       "away": "STL",
       "home": "SD",
       "away_score": 2,
-      "home_score": 0,
-      "state": "B9",
+      "home_score": 2,
+      "state": "T10",
       "start_time": "2026-05-10T20:10:00Z"
     },
     {
@@ -1098,16 +1098,16 @@
     },
     {
       "date": "2026-05-10",
-      "time": "18:30:04",
+      "time": "18:45:04",
       "game_id": "824113",
       "home_team": "Kansas City Royals",
       "away_team": "Detroit Tigers",
       "home_prob": "0.5355",
       "away_prob": "0.4645",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "0.0104",
-      "away_ev": "-0.0324",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0118",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Brenan Hanifee",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 17899
+    "total_games_scanned_all": 17900
   }
 }
