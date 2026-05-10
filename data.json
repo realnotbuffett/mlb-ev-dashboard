@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T17:15:14.655102+00:00",
+  "last_updated": "2026-05-10T17:30:11.799844+00:00",
   "scoreboard": [
     {
       "game_id": "823868",
@@ -7,7 +7,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 2,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-10T16:15:00Z"
     },
     {
@@ -41,27 +41,27 @@
       "game_id": "822819",
       "away": "LAA",
       "home": "TOR",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-10T17:37:00Z"
     },
     {
       "game_id": "824520",
       "away": "HOU",
       "home": "CIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-10T17:40:00Z"
     },
     {
       "game_id": "824440",
       "away": "MIN",
       "home": "CLE",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-10T17:40:00Z"
     },
     {
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:07",
+      "time": "13:30:04",
       "game_id": "824605",
       "home_team": "Chicago White Sox",
       "away_team": "Seattle Mariners",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:08",
+      "time": "13:30:05",
       "game_id": "823793",
       "home_team": "Milwaukee Brewers",
       "away_team": "New York Yankees",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:09",
+      "time": "13:30:06",
       "game_id": "822902",
       "home_team": "Texas Rangers",
       "away_team": "Chicago Cubs",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:10",
+      "time": "13:30:07",
       "game_id": "823221",
       "home_team": "San Francisco Giants",
       "away_team": "Pittsburgh Pirates",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:11",
+      "time": "13:30:08",
       "game_id": "825085",
       "home_team": "Arizona Diamondbacks",
       "away_team": "New York Mets",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:12",
+      "time": "13:30:09",
       "game_id": "823305",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:13",
+      "time": "13:30:10",
       "game_id": "823954",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Atlanta Braves",
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:15:14",
+      "time": "13:30:11",
       "game_id": "824113",
       "home_team": "Kansas City Royals",
       "away_team": "Detroit Tigers",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 17835
+    "total_games_scanned_all": 17843
   }
 }
