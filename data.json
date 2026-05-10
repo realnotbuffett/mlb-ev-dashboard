@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T17:45:10.236770+00:00",
+  "last_updated": "2026-05-10T18:00:10.933343+00:00",
   "scoreboard": [
     {
       "game_id": "823868",
@@ -7,16 +7,16 @@
       "home": "MIA",
       "away_score": 2,
       "home_score": 2,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-05-10T16:15:00Z"
     },
     {
       "game_id": "824845",
       "away": "OAK",
       "home": "BAL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-10T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "BOS",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-10T17:35:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "COL",
       "home": "PHI",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 2,
+      "state": "T2",
       "start_time": "2026-05-10T17:35:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "LAA",
       "home": "TOR",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-05-10T17:37:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-10T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-10T17:40:00Z"
     },
     {
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:45:05",
+      "time": "14:00:04",
       "game_id": "822902",
       "home_team": "Texas Rangers",
       "away_team": "Chicago Cubs",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:45:06",
+      "time": "14:00:05",
       "game_id": "823221",
       "home_team": "San Francisco Giants",
       "away_team": "Pittsburgh Pirates",
@@ -1032,16 +1032,16 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:45:07",
+      "time": "14:00:07",
       "game_id": "825085",
       "home_team": "Arizona Diamondbacks",
       "away_team": "New York Mets",
-      "home_prob": "0.5089",
-      "away_prob": "0.4911",
+      "home_prob": "0.5115",
+      "away_prob": "0.4885",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0213",
-      "away_ev": "0.0022",
+      "home_ev": "-0.0164",
+      "away_ev": "-0.0030",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Huascar Brazob\u00e1n",
       "pitchers_confirmed": "yes",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:45:08",
+      "time": "14:00:08",
       "game_id": "823305",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
@@ -1076,7 +1076,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:45:09",
+      "time": "14:00:09",
       "game_id": "823954",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Atlanta Braves",
@@ -1098,7 +1098,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "13:45:10",
+      "time": "14:00:10",
       "game_id": "824113",
       "home_team": "Kansas City Royals",
       "away_team": "Detroit Tigers",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 17850
+    "total_games_scanned_all": 17856
   }
 }
