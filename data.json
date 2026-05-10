@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T23:15:03.809674+00:00",
+  "last_updated": "2026-05-10T23:30:03.884831+00:00",
   "scoreboard": [
     {
       "game_id": "823868",
@@ -96,8 +96,8 @@
       "away": "PIT",
       "home": "SF",
       "away_score": 6,
-      "home_score": 4,
-      "state": "B10",
+      "home_score": 6,
+      "state": "T11",
       "start_time": "2026-05-10T20:05:00Z"
     },
     {
