@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T02:30:03.987429+00:00",
+  "last_updated": "2026-05-10T02:45:03.993943+00:00",
   "scoreboard": [
     {
       "game_id": "822820",
@@ -52,7 +52,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 1,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-09T22:10:00Z"
     },
     {
@@ -113,18 +113,18 @@
       "game_id": "823224",
       "away": "PIT",
       "home": "SF",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-10T01:05:00Z"
     },
     {
       "game_id": "823955",
       "away": "ATL",
       "home": "LAD",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-10T01:10:00Z"
     },
     {
