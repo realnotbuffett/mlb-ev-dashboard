@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T19:00:08.616720+00:00",
+  "last_updated": "2026-05-10T19:15:08.414324+00:00",
   "scoreboard": [
     {
       "game_id": "823868",
@@ -7,7 +7,7 @@
       "home": "MIA",
       "away_score": 2,
       "home_score": 5,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-05-10T16:15:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 1,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-10T17:35:00Z"
     },
     {
       "game_id": "824765",
       "away": "TB",
       "home": "BOS",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-10T17:35:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "COL",
       "home": "PHI",
       "away_score": 0,
-      "home_score": 5,
-      "state": "T6",
+      "home_score": 6,
+      "state": "B6",
       "start_time": "2026-05-10T17:35:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 5,
       "home_score": 1,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-05-10T17:37:00Z"
     },
     {
@@ -52,16 +52,16 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 3,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-10T17:40:00Z"
     },
     {
       "game_id": "824440",
       "away": "MIN",
       "home": "CLE",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 1,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-10T17:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-10T18:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-05-10T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-10T18:35:00Z"
     },
     {
@@ -1010,16 +1010,16 @@
     },
     {
       "date": "2026-05-10",
-      "time": "15:00:04",
+      "time": "15:15:04",
       "game_id": "823221",
       "home_team": "San Francisco Giants",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5355",
-      "away_prob": "0.4645",
+      "home_prob": "0.5367",
+      "away_prob": "0.4633",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0083",
-      "away_ev": "-0.0118",
+      "home_ev": "-0.0061",
+      "away_ev": "-0.0143",
       "home_pitcher": "Tyler Mahle",
       "away_pitcher": "Bubba Chandler",
       "pitchers_confirmed": "yes",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "15:00:05",
+      "time": "15:15:05",
       "game_id": "825085",
       "home_team": "Arizona Diamondbacks",
       "away_team": "New York Mets",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-10",
-      "time": "15:00:06",
+      "time": "15:15:06",
       "game_id": "823305",
       "home_team": "San Diego Padres",
       "away_team": "St. Louis Cardinals",
@@ -1076,16 +1076,16 @@
     },
     {
       "date": "2026-05-10",
-      "time": "15:00:07",
+      "time": "15:15:07",
       "game_id": "823954",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5614",
-      "away_prob": "0.4386",
+      "home_prob": "0.5650",
+      "away_prob": "0.4350",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0151",
-      "away_ev": "-0.0032",
+      "home_ev": "-0.0088",
+      "away_ev": "-0.0114",
       "home_pitcher": "Justin Wrobleski",
       "away_pitcher": "Bryce Elder",
       "pitchers_confirmed": "yes",
@@ -1098,16 +1098,16 @@
     },
     {
       "date": "2026-05-10",
-      "time": "15:00:08",
+      "time": "15:15:08",
       "game_id": "824113",
       "home_team": "Kansas City Royals",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5293",
-      "away_prob": "0.4707",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0014",
-      "away_ev": "-0.0193",
+      "home_ev": "-0.0062",
+      "away_ev": "-0.0140",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Brenan Hanifee",
       "pitchers_confirmed": "yes",
@@ -1123,6 +1123,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 17876
+    "total_games_scanned_all": 17881
   }
 }
