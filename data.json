@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T23:30:03.884831+00:00",
+  "last_updated": "2026-05-10T23:45:03.865766+00:00",
   "scoreboard": [
     {
       "game_id": "823868",
@@ -97,7 +97,7 @@
       "home": "SF",
       "away_score": 6,
       "home_score": 6,
-      "state": "T11",
+      "state": "T12",
       "start_time": "2026-05-10T20:05:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-10T23:20:00Z"
     }
   ],
