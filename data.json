@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T22:30:07.554806+00:00",
+  "last_updated": "2026-05-11T22:45:07.006475+00:00",
   "scoreboard": [
     {
       "game_id": "824441",
@@ -7,7 +7,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-05-11T22:10:00Z"
     },
     {
@@ -23,9 +23,9 @@
       "game_id": "822818",
       "away": "TB",
       "home": "TOR",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-11T23:07:00Z"
     },
     {
@@ -753,16 +753,16 @@
     },
     {
       "date": "2026-05-11",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "822901",
       "home_team": "Texas Rangers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5026",
-      "away_prob": "0.4974",
+      "home_prob": "0.5051",
+      "away_prob": "0.4949",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0146",
-      "away_ev": "-0.0051",
+      "home_ev": "-0.0096",
+      "away_ev": "-0.0102",
       "home_pitcher": "Jakob Junis",
       "away_pitcher": "Michael Soroka",
       "pitchers_confirmed": "yes",
@@ -775,7 +775,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "18:30:06",
+      "time": "18:45:06",
       "game_id": "824199",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -797,7 +797,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "18:30:07",
+      "time": "18:45:06",
       "game_id": "823953",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
@@ -844,6 +844,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 18106
+    "total_games_scanned_all": 18109
   }
 }
