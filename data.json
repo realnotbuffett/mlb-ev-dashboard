@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T18:15:08.416464+00:00",
+  "last_updated": "2026-05-11T18:30:09.147069+00:00",
   "scoreboard": [
     {
       "game_id": "824441",
@@ -709,16 +709,16 @@
   "today_games": [
     {
       "date": "2026-05-11",
-      "time": "14:15:04",
+      "time": "14:30:05",
       "game_id": "824844",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
-      "home_prob": "0.4194",
-      "away_prob": "0.5806",
+      "home_prob": "0.4179",
+      "away_prob": "0.5821",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0248",
-      "away_ev": "0.0011",
+      "home_ev": "-0.0281",
+      "away_ev": "0.0036",
       "home_pitcher": "Brandon Young",
       "away_pitcher": "Ryan Weathers",
       "pitchers_confirmed": "yes",
@@ -731,16 +731,16 @@
     },
     {
       "date": "2026-05-11",
-      "time": "14:15:05",
+      "time": "14:30:06",
       "game_id": "822818",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.5293",
-      "away_prob": "0.4707",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "-0.0377",
-      "away_ev": "0.0233",
+      "home_prob": "0.5305",
+      "away_prob": "0.4695",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0177",
+      "away_ev": "-0.0010",
       "home_pitcher": "Kevin Gausman",
       "away_pitcher": "Drew Rasmussen",
       "pitchers_confirmed": "yes",
@@ -753,7 +753,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "14:15:06",
+      "time": "14:30:07",
       "game_id": "822901",
       "home_team": "Texas Rangers",
       "away_team": "Arizona Diamondbacks",
@@ -775,7 +775,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "14:15:07",
+      "time": "14:30:08",
       "game_id": "824199",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -797,16 +797,16 @@
     },
     {
       "date": "2026-05-11",
-      "time": "14:15:08",
+      "time": "14:30:09",
       "game_id": "823953",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
       "home_prob": "0.6277",
       "away_prob": "0.3723",
-      "poly_home_price": "0.6400",
-      "poly_away_price": "0.3700",
-      "home_ev": "-0.0192",
-      "away_ev": "0.0063",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0037",
+      "away_ev": "-0.0202",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Trevor McDonald",
       "pitchers_confirmed": "yes",
@@ -822,6 +822,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 18011
+    "total_games_scanned_all": 18016
   }
 }
