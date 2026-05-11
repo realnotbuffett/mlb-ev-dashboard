@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T20:00:09.629188+00:00",
+  "last_updated": "2026-05-11T20:15:09.912473+00:00",
   "scoreboard": [
     {
       "game_id": "824441",
@@ -709,16 +709,16 @@
   "today_games": [
     {
       "date": "2026-05-11",
-      "time": "16:00:05",
+      "time": "16:15:06",
       "game_id": "824844",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
-      "home_prob": "0.4264",
-      "away_prob": "0.5736",
+      "home_prob": "0.4204",
+      "away_prob": "0.5796",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0083",
-      "away_ev": "-0.0111",
+      "home_ev": "-0.0223",
+      "away_ev": "-0.0007",
       "home_pitcher": "Brandon Young",
       "away_pitcher": "Ryan Weathers",
       "pitchers_confirmed": "yes",
@@ -731,7 +731,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "16:00:06",
+      "time": "16:15:07",
       "game_id": "822818",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
@@ -753,7 +753,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "16:00:07",
+      "time": "16:15:08",
       "game_id": "822901",
       "home_team": "Texas Rangers",
       "away_team": "Arizona Diamondbacks",
@@ -775,7 +775,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "16:00:08",
+      "time": "16:15:08",
       "game_id": "824199",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -797,7 +797,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "16:00:09",
+      "time": "16:15:09",
       "game_id": "823953",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
@@ -819,16 +819,16 @@
     },
     {
       "date": "2026-05-11",
-      "time": "16:00:04",
+      "time": "16:15:05",
       "game_id": "824441",
       "home_team": "Cleveland Guardians",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6015",
-      "away_prob": "0.3985",
+      "home_prob": "0.5971",
+      "away_prob": "0.4029",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "0.0024",
-      "away_ev": "-0.0280",
+      "home_ev": "-0.0049",
+      "away_ev": "-0.0172",
       "home_pitcher": "Joey Cantillo",
       "away_pitcher": "Brent Suter",
       "pitchers_confirmed": "yes",
@@ -844,6 +844,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 18051
+    "total_games_scanned_all": 18057
   }
 }
