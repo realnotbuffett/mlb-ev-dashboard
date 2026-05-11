@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T16:30:08.924935+00:00",
+  "last_updated": "2026-05-11T16:45:08.815154+00:00",
   "scoreboard": [
     {
       "game_id": "824441",
@@ -709,16 +709,16 @@
   "today_games": [
     {
       "date": "2026-05-11",
-      "time": "12:30:05",
+      "time": "12:45:05",
       "game_id": "824844",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
-      "home_prob": "0.4179",
-      "away_prob": "0.5821",
-      "poly_home_price": "0.4100",
-      "poly_away_price": "0.6000",
-      "home_ev": "0.0193",
-      "away_ev": "-0.0299",
+      "home_prob": "0.4194",
+      "away_prob": "0.5806",
+      "poly_home_price": "0.4200",
+      "poly_away_price": "0.5900",
+      "home_ev": "-0.0015",
+      "away_ev": "-0.0159",
       "home_pitcher": "Brandon Young",
       "away_pitcher": "Ryan Weathers",
       "pitchers_confirmed": "yes",
@@ -731,7 +731,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "12:30:06",
+      "time": "12:45:05",
       "game_id": "822818",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
@@ -753,7 +753,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "12:30:06",
+      "time": "12:45:06",
       "game_id": "822901",
       "home_team": "Texas Rangers",
       "away_team": "Arizona Diamondbacks",
@@ -775,7 +775,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "12:30:07",
+      "time": "12:45:07",
       "game_id": "824199",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -797,16 +797,16 @@
     },
     {
       "date": "2026-05-11",
-      "time": "12:30:08",
+      "time": "12:45:08",
       "game_id": "823953",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.6268",
-      "away_prob": "0.3732",
+      "home_prob": "0.6277",
+      "away_prob": "0.3723",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0051",
-      "away_ev": "-0.0179",
+      "home_ev": "-0.0037",
+      "away_ev": "-0.0202",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Trevor McDonald",
       "pitchers_confirmed": "yes",
@@ -822,6 +822,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 17976
+    "total_games_scanned_all": 17981
   }
 }
