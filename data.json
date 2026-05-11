@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T13:45:08.531331+00:00",
+  "last_updated": "2026-05-11T14:00:08.458506+00:00",
   "scoreboard": [
     {
       "game_id": "824441",
@@ -709,16 +709,16 @@
   "today_games": [
     {
       "date": "2026-05-11",
-      "time": "09:45:04",
+      "time": "10:00:04",
       "game_id": "824844",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
-      "home_prob": "0.3908",
-      "away_prob": "0.6092",
+      "home_prob": "0.3898",
+      "away_prob": "0.6102",
       "poly_home_price": "0.4000",
       "poly_away_price": "0.6100",
-      "home_ev": "-0.0231",
-      "away_ev": "-0.0013",
+      "home_ev": "-0.0254",
+      "away_ev": "0.0003",
       "home_pitcher": "Brandon Young",
       "away_pitcher": "Ryan Weathers",
       "pitchers_confirmed": "yes",
@@ -731,16 +731,16 @@
     },
     {
       "date": "2026-05-11",
-      "time": "09:45:05",
+      "time": "10:00:05",
       "game_id": "822818",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.5305",
-      "away_prob": "0.4695",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0355",
-      "away_ev": "0.0207",
+      "home_ev": "-0.0263",
+      "away_ev": "0.0097",
       "home_pitcher": "Kevin Gausman",
       "away_pitcher": "Drew Rasmussen",
       "pitchers_confirmed": "yes",
@@ -753,16 +753,16 @@
     },
     {
       "date": "2026-05-11",
-      "time": "09:45:06",
+      "time": "10:00:06",
       "game_id": "822901",
       "home_team": "Texas Rangers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5418",
+      "away_prob": "0.4582",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "0.0080",
-      "away_ev": "-0.0304",
+      "home_ev": "0.0033",
+      "away_ev": "-0.0250",
       "home_pitcher": "Nathan Eovaldi",
       "away_pitcher": "Michael Soroka",
       "pitchers_confirmed": "yes",
@@ -775,7 +775,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "09:45:07",
+      "time": "10:00:07",
       "game_id": "824199",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -797,7 +797,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "09:45:08",
+      "time": "10:00:08",
       "game_id": "823953",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
@@ -822,6 +822,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 17921
+    "total_games_scanned_all": 17926
   }
 }
