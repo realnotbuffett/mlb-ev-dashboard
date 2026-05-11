@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T01:00:03.911155+00:00",
+  "last_updated": "2026-05-11T01:15:03.840779+00:00",
   "scoreboard": [
     {
       "game_id": "823868",
@@ -131,9 +131,9 @@
       "game_id": "824113",
       "away": "DET",
       "home": "KC",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 3,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-10T23:20:00Z"
     }
   ],
