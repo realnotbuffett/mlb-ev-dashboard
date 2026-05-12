@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-12T01:00:11.561386+00:00",
+  "last_updated": "2026-05-12T01:15:11.552138+00:00",
   "scoreboard": [
     {
       "game_id": "824441",
       "away": "LAA",
       "home": "CLE",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 7,
-      "state": "T8",
+      "state": "FINAL",
       "start_time": "2026-05-11T22:10:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "BAL",
       "away_score": 2,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-11T22:35:00Z"
     },
     {
       "game_id": "822818",
       "away": "TB",
       "home": "TOR",
-      "away_score": 7,
+      "away_score": 8,
       "home_score": 3,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-11T23:07:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "TEX",
       "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-05-12T00:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "HOU",
       "away_score": 3,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-05-12T00:10:00Z"
     },
     {
@@ -797,7 +797,7 @@
     },
     {
       "date": "2026-05-11",
-      "time": "21:00:11",
+      "time": "21:15:11",
       "game_id": "823953",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
@@ -844,6 +844,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 38,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 18125
+    "total_games_scanned_all": 18126
   }
 }
