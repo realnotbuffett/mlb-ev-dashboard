@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T18:00:17.096464+00:00",
+  "last_updated": "2026-05-12T18:15:17.429493+00:00",
   "scoreboard": [
     {
       "game_id": "824442",
@@ -807,7 +807,7 @@
   "today_games": [
     {
       "date": "2026-05-12",
-      "time": "14:00:04",
+      "time": "14:15:05",
       "game_id": "824442",
       "home_team": "Cleveland Guardians",
       "away_team": "Los Angeles Angels",
@@ -829,7 +829,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:06",
+      "time": "14:15:07",
       "game_id": "824521",
       "home_team": "Cincinnati Reds",
       "away_team": "Washington Nationals",
@@ -851,7 +851,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:07",
+      "time": "14:15:07",
       "game_id": "823385",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Colorado Rockies",
@@ -873,7 +873,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:08",
+      "time": "14:15:08",
       "game_id": "822817",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
@@ -895,7 +895,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:09",
+      "time": "14:15:09",
       "game_id": "823632",
       "home_team": "New York Mets",
       "away_team": "Detroit Tigers",
@@ -917,16 +917,16 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:10",
+      "time": "14:15:10",
       "game_id": "824927",
       "home_team": "Atlanta Braves",
       "away_team": "Chicago Cubs",
       "home_prob": "0.5279",
       "away_prob": "0.4721",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0039",
-      "away_ev": "-0.0165",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0224",
+      "away_ev": "0.0044",
       "home_pitcher": "Grant Holmes",
       "away_pitcher": "Colin Rea",
       "pitchers_confirmed": "yes",
@@ -939,7 +939,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:11",
+      "time": "14:15:11",
       "game_id": "824604",
       "home_team": "Chicago White Sox",
       "away_team": "Kansas City Royals",
@@ -961,7 +961,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:12",
+      "time": "14:15:12",
       "game_id": "823712",
       "home_team": "Minnesota Twins",
       "away_team": "Miami Marlins",
@@ -983,7 +983,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:13",
+      "time": "14:15:13",
       "game_id": "823790",
       "home_team": "Milwaukee Brewers",
       "away_team": "San Diego Padres",
@@ -1005,7 +1005,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:14",
+      "time": "14:15:14",
       "game_id": "822903",
       "home_team": "Texas Rangers",
       "away_team": "Arizona Diamondbacks",
@@ -1027,7 +1027,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:15",
+      "time": "14:15:15",
       "game_id": "824197",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -1049,7 +1049,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:16",
+      "time": "14:15:16",
       "game_id": "825011",
       "home_team": "Athletics",
       "away_team": "St. Louis Cardinals",
@@ -1071,16 +1071,16 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:17",
+      "time": "14:15:17",
       "game_id": "823951",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.7293",
-      "away_prob": "0.2707",
+      "home_prob": "0.7298",
+      "away_prob": "0.2702",
       "poly_home_price": "0.7500",
       "poly_away_price": "0.2600",
-      "home_ev": "-0.0276",
-      "away_ev": "0.0412",
+      "home_ev": "-0.0269",
+      "away_ev": "0.0391",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Adrian Houser",
       "pitchers_confirmed": "yes",
@@ -1093,7 +1093,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "14:00:05",
+      "time": "14:15:06",
       "game_id": "824843",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
@@ -1118,6 +1118,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 18394
+    "total_games_scanned_all": 18408
   }
 }
