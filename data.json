@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T17:00:17.526866+00:00",
+  "last_updated": "2026-05-12T17:15:17.549183+00:00",
   "scoreboard": [
     {
       "game_id": "824442",
@@ -807,7 +807,7 @@
   "today_games": [
     {
       "date": "2026-05-12",
-      "time": "13:00:04",
+      "time": "13:15:04",
       "game_id": "824442",
       "home_team": "Cleveland Guardians",
       "away_team": "Los Angeles Angels",
@@ -829,7 +829,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:06",
+      "time": "13:15:06",
       "game_id": "824521",
       "home_team": "Cincinnati Reds",
       "away_team": "Washington Nationals",
@@ -851,7 +851,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:07",
+      "time": "13:15:07",
       "game_id": "823385",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Colorado Rockies",
@@ -873,16 +873,16 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:08",
+      "time": "13:15:08",
       "game_id": "822817",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4835",
-      "away_prob": "0.5165",
+      "home_prob": "0.4847",
+      "away_prob": "0.5153",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0133",
-      "away_ev": "-0.0067",
+      "home_ev": "-0.0108",
+      "away_ev": "-0.0090",
       "home_pitcher": "Patrick Corbin",
       "away_pitcher": "Shane McClanahan",
       "pitchers_confirmed": "yes",
@@ -895,7 +895,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:09",
+      "time": "13:15:09",
       "game_id": "823632",
       "home_team": "New York Mets",
       "away_team": "Detroit Tigers",
@@ -917,7 +917,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:10",
+      "time": "13:15:10",
       "game_id": "824927",
       "home_team": "Atlanta Braves",
       "away_team": "Chicago Cubs",
@@ -939,7 +939,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:11",
+      "time": "13:15:11",
       "game_id": "824604",
       "home_team": "Chicago White Sox",
       "away_team": "Kansas City Royals",
@@ -961,7 +961,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:12",
+      "time": "13:15:12",
       "game_id": "823712",
       "home_team": "Minnesota Twins",
       "away_team": "Miami Marlins",
@@ -983,7 +983,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:13",
+      "time": "13:15:13",
       "game_id": "823790",
       "home_team": "Milwaukee Brewers",
       "away_team": "San Diego Padres",
@@ -1005,7 +1005,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:14",
+      "time": "13:15:14",
       "game_id": "822903",
       "home_team": "Texas Rangers",
       "away_team": "Arizona Diamondbacks",
@@ -1027,7 +1027,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:15",
+      "time": "13:15:15",
       "game_id": "824197",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -1049,7 +1049,7 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:16",
+      "time": "13:15:16",
       "game_id": "825011",
       "home_team": "Athletics",
       "away_team": "St. Louis Cardinals",
@@ -1071,16 +1071,16 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:17",
+      "time": "13:15:17",
       "game_id": "823951",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.7271",
-      "away_prob": "0.2729",
+      "home_prob": "0.7276",
+      "away_prob": "0.2724",
       "poly_home_price": "0.7500",
       "poly_away_price": "0.2600",
-      "home_ev": "-0.0305",
-      "away_ev": "0.0497",
+      "home_ev": "-0.0298",
+      "away_ev": "0.0475",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Adrian Houser",
       "pitchers_confirmed": "yes",
@@ -1093,16 +1093,16 @@
     },
     {
       "date": "2026-05-12",
-      "time": "13:00:05",
+      "time": "13:15:05",
       "game_id": "824843",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
-      "home_prob": "0.4229",
-      "away_prob": "0.5771",
-      "poly_home_price": "0.4300",
-      "poly_away_price": "0.5800",
-      "home_ev": "-0.0165",
-      "away_ev": "-0.0050",
+      "home_prob": "0.4275",
+      "away_prob": "0.5725",
+      "poly_home_price": "0.4400",
+      "poly_away_price": "0.5700",
+      "home_ev": "-0.0284",
+      "away_ev": "0.0044",
       "home_pitcher": "Trevor Rogers",
       "away_pitcher": "Will Warren",
       "pitchers_confirmed": "yes",
@@ -1118,6 +1118,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 18338
+    "total_games_scanned_all": 18352
   }
 }
