@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T03:00:04.156530+00:00",
+  "last_updated": "2026-05-13T03:15:04.069485+00:00",
   "scoreboard": [
     {
       "game_id": "824442",
@@ -115,7 +115,7 @@
       "home": "HOU",
       "away_score": 10,
       "home_score": 2,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-05-13T00:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "OAK",
       "away_score": 4,
       "home_score": 3,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-13T01:40:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "LAD",
       "away_score": 1,
       "home_score": 2,
-      "state": "B3",
+      "state": "T5",
       "start_time": "2026-05-13T02:10:00Z"
     }
   ],
