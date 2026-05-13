@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T01:45:04.616644+00:00",
+  "last_updated": "2026-05-13T02:00:03.855079+00:00",
   "scoreboard": [
     {
       "game_id": "824442",
@@ -24,8 +24,8 @@
       "away": "WSH",
       "home": "CIN",
       "away_score": 10,
-      "home_score": 2,
-      "state": "B9",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-05-12T22:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TOR",
       "away_score": 5,
       "home_score": 5,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-12T23:07:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "DET",
       "home": "NYM",
       "away_score": 2,
-      "home_score": 8,
-      "state": "T8",
+      "home_score": 9,
+      "state": "B8",
       "start_time": "2026-05-12T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CWS",
       "away_score": 5,
       "home_score": 5,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-12T23:40:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 3,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-05-12T23:40:00Z"
     },
     {
       "game_id": "823790",
       "away": "SD",
       "home": "MIL",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 6,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-05-12T23:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "TEX",
       "away_score": 1,
       "home_score": 7,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-13T00:05:00Z"
     },
     {
@@ -115,25 +115,25 @@
       "home": "HOU",
       "away_score": 7,
       "home_score": 2,
-      "state": "T5",
+      "state": "B6",
       "start_time": "2026-05-13T00:10:00Z"
     },
     {
       "game_id": "825011",
       "away": "STL",
       "home": "OAK",
-      "away_score": 0,
+      "away_score": 4,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-13T01:40:00Z"
     },
     {
       "game_id": "823951",
       "away": "SF",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-13T02:10:00Z"
     }
   ],
