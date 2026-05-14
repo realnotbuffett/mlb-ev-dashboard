@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T21:00:08.185709+00:00",
+  "last_updated": "2026-05-14T21:15:07.840523+00:00",
   "scoreboard": [
     {
       "game_id": "823383",
@@ -52,7 +52,7 @@
       "home": "HOU",
       "away_score": 8,
       "home_score": 3,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-05-14T18:10:00Z"
     },
     {
@@ -60,7 +60,7 @@
       "away": "STL",
       "home": "OAK",
       "away_score": 3,
-      "home_score": 1,
+      "home_score": 4,
       "state": "B7",
       "start_time": "2026-05-14T19:05:00Z"
     },
@@ -903,16 +903,16 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:00:05",
+      "time": "17:15:05",
       "game_id": "824762",
       "home_team": "Boston Red Sox",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.5128",
-      "away_prob": "0.4872",
+      "home_prob": "0.5140",
+      "away_prob": "0.4860",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0139",
-      "away_ev": "-0.0056",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
       "home_pitcher": "Ranger Suarez",
       "away_pitcher": "Jes\u00fas Luzardo",
       "pitchers_confirmed": "yes",
@@ -925,16 +925,16 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:00:06",
+      "time": "17:15:05",
       "game_id": "824926",
       "home_team": "Atlanta Braves",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.6226",
-      "away_prob": "0.3774",
+      "home_prob": "0.6235",
+      "away_prob": "0.3765",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0118",
-      "away_ev": "-0.0068",
+      "home_ev": "-0.0103",
+      "away_ev": "-0.0092",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Ben Brown",
       "pitchers_confirmed": "yes",
@@ -947,7 +947,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:00:07",
+      "time": "17:15:06",
       "game_id": "824602",
       "home_team": "Chicago White Sox",
       "away_team": "Kansas City Royals",
@@ -969,16 +969,16 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:00:08",
+      "time": "17:15:07",
       "game_id": "823950",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.6184",
-      "away_prob": "0.3816",
+      "home_prob": "0.6202",
+      "away_prob": "0.3798",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0185",
-      "away_ev": "0.0043",
+      "home_ev": "-0.0156",
+      "away_ev": "-0.0005",
       "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Landen Roupp",
       "pitchers_confirmed": "yes",
@@ -1016,6 +1016,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 19518
+    "total_games_scanned_all": 19522
   }
 }
