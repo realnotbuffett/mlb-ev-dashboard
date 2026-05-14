@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T20:30:08.219715+00:00",
+  "last_updated": "2026-05-14T20:45:07.762697+00:00",
   "scoreboard": [
     {
       "game_id": "823383",
@@ -41,27 +41,27 @@
       "game_id": "823789",
       "away": "SD",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 7,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-05-14T17:40:00Z"
     },
     {
       "game_id": "824196",
       "away": "SEA",
       "home": "HOU",
-      "away_score": 7,
+      "away_score": 8,
       "home_score": 3,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-05-14T18:10:00Z"
     },
     {
       "game_id": "825008",
       "away": "STL",
       "home": "OAK",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-14T19:05:00Z"
     },
     {
@@ -903,16 +903,16 @@
     },
     {
       "date": "2026-05-14",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "824762",
       "home_team": "Boston Red Sox",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.5115",
-      "away_prob": "0.4885",
+      "home_prob": "0.5128",
+      "away_prob": "0.4872",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0164",
-      "away_ev": "-0.0030",
+      "home_ev": "-0.0139",
+      "away_ev": "-0.0056",
       "home_pitcher": "Ranger Suarez",
       "away_pitcher": "Jes\u00fas Luzardo",
       "pitchers_confirmed": "yes",
@@ -925,7 +925,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "16:30:06",
+      "time": "16:45:05",
       "game_id": "824926",
       "home_team": "Atlanta Braves",
       "away_team": "Chicago Cubs",
@@ -947,16 +947,16 @@
     },
     {
       "date": "2026-05-14",
-      "time": "16:30:07",
+      "time": "16:45:06",
       "game_id": "824602",
       "home_team": "Chicago White Sox",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.4532",
-      "away_prob": "0.5468",
+      "home_prob": "0.4520",
+      "away_prob": "0.5480",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "0.0070",
-      "away_ev": "-0.0235",
+      "home_ev": "0.0045",
+      "away_ev": "-0.0215",
       "home_pitcher": "Anthony Kay",
       "away_pitcher": "Kris Bubic",
       "pitchers_confirmed": "yes",
@@ -969,7 +969,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "16:30:08",
+      "time": "16:45:07",
       "game_id": "823950",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
@@ -1016,6 +1016,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 19510
+    "total_games_scanned_all": 19514
   }
 }
