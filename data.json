@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T19:00:07.903426+00:00",
+  "last_updated": "2026-05-14T19:15:07.980653+00:00",
   "scoreboard": [
     {
       "game_id": "823383",
@@ -7,7 +7,7 @@
       "home": "PIT",
       "away_score": 2,
       "home_score": 7,
-      "state": "T8",
+      "state": "FINAL",
       "start_time": "2026-05-14T16:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "WSH",
       "home": "CIN",
       "away_score": 1,
-      "home_score": 14,
-      "state": "B8",
+      "home_score": 15,
+      "state": "FINAL",
       "start_time": "2026-05-14T16:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "DET",
       "home": "NYM",
       "away_score": 3,
-      "home_score": 7,
-      "state": "B6",
+      "home_score": 8,
+      "state": "B7",
       "start_time": "2026-05-14T17:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 6,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-14T17:40:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 6,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-14T17:40:00Z"
     },
     {
       "game_id": "824196",
       "away": "SEA",
       "home": "HOU",
-      "away_score": 3,
-      "home_score": 0,
-      "state": "B3",
+      "away_score": 5,
+      "home_score": 1,
+      "state": "B4",
       "start_time": "2026-05-14T18:10:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "STL",
       "home": "OAK",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "B1",
       "start_time": "2026-05-14T19:05:00Z"
     },
     {
@@ -903,7 +903,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "15:00:05",
+      "time": "15:15:05",
       "game_id": "824762",
       "home_team": "Boston Red Sox",
       "away_team": "Philadelphia Phillies",
@@ -925,7 +925,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "15:00:06",
+      "time": "15:15:06",
       "game_id": "824926",
       "home_team": "Atlanta Braves",
       "away_team": "Chicago Cubs",
@@ -947,7 +947,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "15:00:06",
+      "time": "15:15:07",
       "game_id": "824602",
       "home_team": "Chicago White Sox",
       "away_team": "Kansas City Royals",
@@ -969,7 +969,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "15:00:07",
+      "time": "15:15:07",
       "game_id": "823950",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
@@ -1016,6 +1016,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 19486
+    "total_games_scanned_all": 19490
   }
 }
