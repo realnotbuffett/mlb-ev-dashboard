@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T21:45:08.183760+00:00",
+  "last_updated": "2026-05-14T22:00:08.089463+00:00",
   "scoreboard": [
     {
       "game_id": "823383",
@@ -59,9 +59,9 @@
       "game_id": "825008",
       "away": "STL",
       "home": "OAK",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 4,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-05-14T19:05:00Z"
     },
     {
@@ -903,16 +903,16 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:45:05",
+      "time": "18:00:05",
       "game_id": "824762",
       "home_team": "Boston Red Sox",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "0.0178",
+      "away_ev": "-0.0393",
       "home_pitcher": "Ranger Suarez",
       "away_pitcher": "Jes\u00fas Luzardo",
       "pitchers_confirmed": "yes",
@@ -925,7 +925,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:45:06",
+      "time": "18:00:06",
       "game_id": "824926",
       "home_team": "Atlanta Braves",
       "away_team": "Chicago Cubs",
@@ -947,7 +947,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:45:07",
+      "time": "18:00:07",
       "game_id": "824602",
       "home_team": "Chicago White Sox",
       "away_team": "Kansas City Royals",
@@ -969,7 +969,7 @@
     },
     {
       "date": "2026-05-14",
-      "time": "17:45:08",
+      "time": "18:00:08",
       "game_id": "823950",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Francisco Giants",
@@ -1016,6 +1016,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 19530
+    "total_games_scanned_all": 19534
   }
 }
