@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T17:30:17.635837+00:00",
+  "last_updated": "2026-05-15T17:45:17.413676+00:00",
   "scoreboard": [
     {
       "game_id": "823384",
@@ -807,7 +807,7 @@
   "today_games": [
     {
       "date": "2026-05-15",
-      "time": "13:30:05",
+      "time": "13:45:05",
       "game_id": "823384",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Philadelphia Phillies",
@@ -829,16 +829,16 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:06",
+      "time": "13:45:06",
       "game_id": "822739",
       "home_team": "Washington Nationals",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4408",
-      "away_prob": "0.5592",
+      "home_prob": "0.4422",
+      "away_prob": "0.5578",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0204",
-      "away_ev": "-0.0014",
+      "home_ev": "-0.0173",
+      "away_ev": "-0.0039",
       "home_pitcher": "Zack Littell",
       "away_pitcher": "Shane Baz",
       "pitchers_confirmed": "yes",
@@ -851,7 +851,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:07",
+      "time": "13:45:07",
       "game_id": "824280",
       "home_team": "Detroit Tigers",
       "away_team": "Toronto Blue Jays",
@@ -873,7 +873,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:08",
+      "time": "13:45:08",
       "game_id": "824439",
       "home_team": "Cleveland Guardians",
       "away_team": "Cincinnati Reds",
@@ -895,7 +895,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:09",
+      "time": "13:45:08",
       "game_id": "822983",
       "home_team": "Tampa Bay Rays",
       "away_team": "Miami Marlins",
@@ -917,7 +917,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:09",
+      "time": "13:45:09",
       "game_id": "824925",
       "home_team": "Atlanta Braves",
       "away_team": "Boston Red Sox",
@@ -939,7 +939,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:10",
+      "time": "13:45:10",
       "game_id": "823629",
       "home_team": "New York Mets",
       "away_team": "New York Yankees",
@@ -961,7 +961,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:11",
+      "time": "13:45:11",
       "game_id": "824601",
       "home_team": "Chicago White Sox",
       "away_team": "Chicago Cubs",
@@ -983,7 +983,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:12",
+      "time": "13:45:12",
       "game_id": "824194",
       "home_team": "Houston Astros",
       "away_team": "Texas Rangers",
@@ -1005,7 +1005,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:13",
+      "time": "13:45:13",
       "game_id": "823061",
       "home_team": "St. Louis Cardinals",
       "away_team": "Kansas City Royals",
@@ -1027,7 +1027,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:14",
+      "time": "13:45:14",
       "game_id": "824360",
       "home_team": "Colorado Rockies",
       "away_team": "Arizona Diamondbacks",
@@ -1049,7 +1049,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:15",
+      "time": "13:45:15",
       "game_id": "824037",
       "home_team": "Los Angeles Angels",
       "away_team": "Los Angeles Dodgers",
@@ -1071,7 +1071,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:16",
+      "time": "13:45:16",
       "game_id": "823140",
       "home_team": "Seattle Mariners",
       "away_team": "San Diego Padres",
@@ -1093,16 +1093,16 @@
     },
     {
       "date": "2026-05-15",
-      "time": "13:30:17",
+      "time": "13:45:17",
       "game_id": "825009",
       "home_team": "Athletics",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5455",
-      "away_prob": "0.4545",
+      "home_prob": "0.5443",
+      "away_prob": "0.4557",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0083",
-      "away_ev": "-0.0119",
+      "home_ev": "-0.0104",
+      "away_ev": "-0.0094",
       "home_pitcher": "Aaron Civale",
       "away_pitcher": "Tyler Mahle",
       "pitchers_confirmed": "yes",
@@ -1118,6 +1118,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 19824
+    "total_games_scanned_all": 19838
   }
 }
