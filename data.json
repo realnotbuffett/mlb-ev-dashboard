@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-15T23:30:09.941846+00:00",
+  "last_updated": "2026-05-15T23:45:10.136333+00:00",
   "scoreboard": [
     {
       "game_id": "823384",
       "away": "PHI",
       "home": "PIT",
       "away_score": 0,
-      "home_score": 2,
-      "state": "B3",
+      "home_score": 6,
+      "state": "T4",
       "start_time": "2026-05-15T22:40:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "BAL",
       "home": "WSH",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 1,
+      "state": "B4",
       "start_time": "2026-05-15T22:45:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "DET",
       "away_score": 2,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-05-15T22:45:00Z"
     },
     {
       "game_id": "824439",
       "away": "CIN",
       "home": "CLE",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-05-15T23:10:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "MIA",
       "home": "TB",
       "away_score": 1,
-      "home_score": 2,
-      "state": "T2",
+      "home_score": 4,
+      "state": "T3",
       "start_time": "2026-05-15T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIN",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-05-15T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-05-15T23:15:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-15T23:15:00Z"
     },
     {
@@ -95,9 +95,9 @@
       "game_id": "823061",
       "away": "KC",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-16T00:15:00Z"
     },
     {
@@ -983,7 +983,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "824194",
       "home_team": "Houston Astros",
       "away_team": "Texas Rangers",
@@ -1005,7 +1005,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "823061",
       "home_team": "St. Louis Cardinals",
       "away_team": "Kansas City Royals",
@@ -1027,7 +1027,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "824360",
       "home_team": "Colorado Rockies",
       "away_team": "Arizona Diamondbacks",
@@ -1049,16 +1049,16 @@
     },
     {
       "date": "2026-05-15",
-      "time": "19:30:07",
+      "time": "19:45:08",
       "game_id": "824037",
       "home_team": "Los Angeles Angels",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3723",
-      "away_prob": "0.6277",
+      "home_prob": "0.3705",
+      "away_prob": "0.6295",
       "poly_home_price": "0.3700",
       "poly_away_price": "0.6400",
-      "home_ev": "0.0063",
-      "away_ev": "-0.0192",
+      "home_ev": "0.0015",
+      "away_ev": "-0.0165",
       "home_pitcher": "Jack Kochanowicz",
       "away_pitcher": "Will Klein",
       "pitchers_confirmed": "yes",
@@ -1071,16 +1071,16 @@
     },
     {
       "date": "2026-05-15",
-      "time": "19:30:08",
+      "time": "19:45:09",
       "game_id": "823140",
       "home_team": "Seattle Mariners",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5542",
+      "away_prob": "0.4458",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0094",
+      "home_ev": "0.0076",
+      "away_ev": "-0.0308",
       "home_pitcher": "Emerson Hancock",
       "away_pitcher": "Randy V\u00e1squez",
       "pitchers_confirmed": "yes",
@@ -1093,7 +1093,7 @@
     },
     {
       "date": "2026-05-15",
-      "time": "19:30:09",
+      "time": "19:45:10",
       "game_id": "825009",
       "home_team": "Athletics",
       "away_team": "San Francisco Giants",
@@ -1140,6 +1140,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 20145
+    "total_games_scanned_all": 20151
   }
 }
