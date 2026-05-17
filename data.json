@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T21:30:05.276776+00:00",
+  "last_updated": "2026-05-17T21:45:05.360838+00:00",
   "scoreboard": [
     {
       "game_id": "822982",
@@ -79,7 +79,7 @@
       "home": "CWS",
       "away_score": 8,
       "home_score": 9,
-      "state": "B10",
+      "state": "FINAL",
       "start_time": "2026-05-17T18:10:00Z"
     },
     {
@@ -104,9 +104,9 @@
       "game_id": "824358",
       "away": "ARI",
       "home": "COL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-05-17T19:10:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "OAK",
       "away_score": 2,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-05-17T20:05:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAA",
       "away_score": 7,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-17T20:07:00Z"
     },
     {
@@ -1115,7 +1115,7 @@
     },
     {
       "date": "2026-05-17",
-      "time": "17:30:05",
+      "time": "17:45:05",
       "game_id": "823138",
       "home_team": "Seattle Mariners",
       "away_team": "San Diego Padres",
@@ -1140,6 +1140,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 21006
+    "total_games_scanned_all": 21007
   }
 }
