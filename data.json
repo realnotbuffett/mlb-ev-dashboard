@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-17T17:30:12.326651+00:00",
+  "last_updated": "2026-05-17T17:45:11.758623+00:00",
   "scoreboard": [
     {
       "game_id": "822982",
       "away": "MIA",
       "home": "TB",
       "away_score": 2,
-      "home_score": 1,
-      "state": "B4",
+      "home_score": 4,
+      "state": "T5",
       "start_time": "2026-05-17T16:15:00Z"
     },
     {
       "game_id": "822738",
       "away": "BAL",
       "home": "WSH",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-05-17T17:35:00Z"
@@ -34,7 +34,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-17T17:35:00Z"
     },
     {
@@ -50,7 +50,7 @@
       "game_id": "824279",
       "away": "TOR",
       "home": "DET",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-05-17T17:40:00Z"
@@ -961,7 +961,7 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:05",
+      "time": "13:45:05",
       "game_id": "824192",
       "home_team": "Houston Astros",
       "away_team": "Texas Rangers",
@@ -983,7 +983,7 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:06",
+      "time": "13:45:06",
       "game_id": "824599",
       "home_team": "Chicago White Sox",
       "away_team": "Chicago Cubs",
@@ -1005,16 +1005,16 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:07",
+      "time": "13:45:06",
       "game_id": "823708",
       "home_team": "Minnesota Twins",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4422",
-      "away_prob": "0.5578",
+      "home_prob": "0.4433",
+      "away_prob": "0.5567",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0173",
-      "away_ev": "-0.0039",
+      "home_ev": "-0.0148",
+      "away_ev": "-0.0059",
       "home_pitcher": "Bailey Ober",
       "away_pitcher": "Robert Gasser",
       "pitchers_confirmed": "yes",
@@ -1027,7 +1027,7 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:08",
+      "time": "13:45:07",
       "game_id": "823058",
       "home_team": "St. Louis Cardinals",
       "away_team": "Kansas City Royals",
@@ -1049,7 +1049,7 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:09",
+      "time": "13:45:08",
       "game_id": "824358",
       "home_team": "Colorado Rockies",
       "away_team": "Arizona Diamondbacks",
@@ -1071,16 +1071,16 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:10",
+      "time": "13:45:09",
       "game_id": "825006",
       "home_team": "Athletics",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5664",
-      "away_prob": "0.4336",
+      "home_prob": "0.5689",
+      "away_prob": "0.4311",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0234",
-      "away_ev": "0.0083",
+      "home_ev": "-0.0191",
+      "away_ev": "0.0025",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Adrian Houser",
       "pitchers_confirmed": "yes",
@@ -1093,16 +1093,16 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:11",
+      "time": "13:45:10",
       "game_id": "824034",
       "home_team": "Los Angeles Angels",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.4286",
-      "away_prob": "0.5714",
+      "home_prob": "0.4275",
+      "away_prob": "0.5725",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "-0.0260",
-      "away_ev": "0.0025",
+      "home_ev": "-0.0284",
+      "away_ev": "0.0044",
       "home_pitcher": "Grayson Rodriguez",
       "away_pitcher": "Roki Sasaki",
       "pitchers_confirmed": "yes",
@@ -1115,7 +1115,7 @@
     },
     {
       "date": "2026-05-17",
-      "time": "13:30:12",
+      "time": "13:45:11",
       "game_id": "823138",
       "home_team": "Seattle Mariners",
       "away_team": "San Diego Padres",
@@ -1140,6 +1140,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 20959
+    "total_games_scanned_all": 20967
   }
 }
