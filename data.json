@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T01:00:06.120568+00:00",
+  "last_updated": "2026-05-17T01:15:05.218317+00:00",
   "scoreboard": [
     {
       "game_id": "824278",
@@ -61,7 +61,7 @@
       "home": "CLE",
       "away_score": 4,
       "home_score": 7,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-16T22:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 1,
       "home_score": 4,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-16T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 8,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-16T23:10:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 1,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-05-16T23:10:00Z"
     },
     {
       "game_id": "823139",
       "away": "SD",
       "home": "SEA",
-      "away_score": 5,
+      "away_score": 7,
       "home_score": 2,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-16T23:15:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 2,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-05-16T23:15:00Z"
     },
     {
@@ -114,17 +114,17 @@
       "away": "NYY",
       "home": "NYM",
       "away_score": 2,
-      "home_score": 3,
-      "state": "T5",
+      "home_score": 5,
+      "state": "B5",
       "start_time": "2026-05-16T23:15:00Z"
     },
     {
       "game_id": "824038",
       "away": "LAD",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-17T01:38:00Z"
     },
     {
@@ -1115,16 +1115,16 @@
     },
     {
       "date": "2026-05-16",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "825007",
       "home_team": "Athletics",
       "away_team": "San Francisco Giants",
       "home_prob": "0.5704",
       "away_prob": "0.4296",
-      "poly_home_price": "0.5600",
-      "poly_away_price": "0.4500",
-      "home_ev": "0.0185",
-      "away_ev": "-0.0452",
+      "poly_home_price": "0.5700",
+      "poly_away_price": "0.4400",
+      "home_ev": "0.0006",
+      "away_ev": "-0.0235",
       "home_pitcher": "Luis Severino",
       "away_pitcher": "Trevor McDonald",
       "pitchers_confirmed": "yes",
@@ -1140,6 +1140,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 39,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 20689
+    "total_games_scanned_all": 20690
   }
 }
