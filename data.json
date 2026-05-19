@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-19T00:00:09.141343+00:00",
+  "last_updated": "2026-05-19T00:15:09.972352+00:00",
   "scoreboard": [
     {
       "game_id": "824277",
       "away": "CLE",
       "home": "DET",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-05-18T22:40:00Z"
     },
     {
       "game_id": "822980",
       "away": "BAL",
       "home": "TB",
-      "away_score": 1,
+      "away_score": 4,
       "home_score": 8,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-18T22:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "CIN",
       "home": "PHI",
       "away_score": 2,
-      "home_score": 2,
-      "state": "T6",
+      "home_score": 3,
+      "state": "B6",
       "start_time": "2026-05-18T22:40:00Z"
     },
     {
@@ -33,7 +33,7 @@
       "away": "ATL",
       "home": "MIA",
       "away_score": 0,
-      "home_score": 1,
+      "home_score": 6,
       "state": "B4",
       "start_time": "2026-05-18T22:40:00Z"
     },
@@ -43,16 +43,16 @@
       "home": "WSH",
       "away_score": 2,
       "home_score": 3,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-05-18T22:45:00Z"
     },
     {
       "game_id": "823549",
       "away": "TOR",
       "home": "NYY",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-18T23:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-18T23:10:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "HOU",
       "home": "MIN",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "T3",
       "start_time": "2026-05-18T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-18T23:40:00Z"
     },
     {
@@ -793,6 +793,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "28.46"
+    },
+    {
+      "date": "2026-05-18",
+      "time": "20:15:09",
+      "game_id": "825087",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "San Francisco Giants",
+      "bet_side": "away",
+      "model_prob": "0.4783",
+      "polymarket_price": "0.4500",
+      "ev_pct": "6.28%",
+      "bet_size": "$10.00",
+      "order_id": "0x1db1e17f1f27a02dd3",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -996,7 +1013,7 @@
     },
     {
       "date": "2026-05-18",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "824357",
       "home_team": "Colorado Rockies",
       "away_team": "Texas Rangers",
@@ -1018,7 +1035,7 @@
     },
     {
       "date": "2026-05-18",
-      "time": "20:00:06",
+      "time": "20:15:06",
       "game_id": "824035",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -1040,16 +1057,16 @@
     },
     {
       "date": "2026-05-18",
-      "time": "20:00:07",
+      "time": "20:15:07",
       "game_id": "823301",
       "home_team": "San Diego Padres",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.4397",
-      "away_prob": "0.5603",
+      "home_prob": "0.4165",
+      "away_prob": "0.5835",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "-0.0007",
-      "away_ev": "-0.0170",
+      "home_ev": "-0.0535",
+      "away_ev": "0.0238",
       "home_pitcher": "Michael King",
       "away_pitcher": "Yoshinobu Yamamoto",
       "pitchers_confirmed": "yes",
@@ -1062,21 +1079,21 @@
     },
     {
       "date": "2026-05-18",
-      "time": "20:00:08",
+      "time": "20:15:09",
       "game_id": "825087",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5592",
-      "away_prob": "0.4408",
+      "home_prob": "0.5217",
+      "away_prob": "0.4783",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0014",
-      "away_ev": "-0.0204",
+      "home_ev": "-0.0683",
+      "away_ev": "0.0628",
       "home_pitcher": "Zac Gallen",
       "away_pitcher": "Robbie Ray",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1084,7 +1101,7 @@
     },
     {
       "date": "2026-05-18",
-      "time": "20:00:09",
+      "time": "20:15:09",
       "game_id": "823137",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago White Sox",
@@ -1106,9 +1123,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 39,
+    "total_bets_today": 1,
+    "total_bets_all_time": 40,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 21590
+    "total_games_scanned_all": 21595
   }
 }
