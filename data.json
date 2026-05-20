@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-20T19:30:13.110977+00:00",
+  "last_updated": "2026-05-20T19:45:12.450396+00:00",
   "scoreboard": [
     {
       "game_id": "823462",
       "away": "CIN",
       "home": "PHI",
-      "away_score": 7,
+      "away_score": 9,
       "home_score": 4,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-20T17:05:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "BAL",
       "home": "TB",
       "away_score": 3,
-      "home_score": 3,
-      "state": "B8",
+      "home_score": 5,
+      "state": "FINAL",
       "start_time": "2026-05-20T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "MIN",
       "away_score": 1,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-05-20T17:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "COL",
       "away_score": 0,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-20T19:10:00Z"
     },
     {
@@ -963,7 +963,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:05",
+      "time": "15:45:05",
       "game_id": "823134",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago White Sox",
@@ -985,16 +985,16 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:06",
+      "time": "15:45:06",
       "game_id": "823866",
       "home_team": "Miami Marlins",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.3690",
-      "away_prob": "0.6310",
+      "home_prob": "0.3714",
+      "away_prob": "0.6286",
       "poly_home_price": "0.3700",
       "poly_away_price": "0.6400",
-      "home_ev": "-0.0026",
-      "away_ev": "-0.0141",
+      "home_ev": "0.0039",
+      "away_ev": "-0.0179",
       "home_pitcher": "Janson Junk",
       "away_pitcher": "Chris Sale",
       "pitchers_confirmed": "yes",
@@ -1007,7 +1007,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:07",
+      "time": "15:45:07",
       "game_id": "822735",
       "home_team": "Washington Nationals",
       "away_team": "New York Mets",
@@ -1029,7 +1029,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:08",
+      "time": "15:45:07",
       "game_id": "823547",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -1051,7 +1051,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:08",
+      "time": "15:45:08",
       "game_id": "824111",
       "home_team": "Kansas City Royals",
       "away_team": "Boston Red Sox",
@@ -1073,7 +1073,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:09",
+      "time": "15:45:09",
       "game_id": "824678",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
@@ -1095,16 +1095,16 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:10",
+      "time": "15:45:10",
       "game_id": "823057",
       "home_team": "St. Louis Cardinals",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5204",
-      "away_prob": "0.4796",
+      "home_prob": "0.5179",
+      "away_prob": "0.4821",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0008",
-      "away_ev": "-0.0212",
+      "home_ev": "-0.0041",
+      "away_ev": "-0.0160",
       "home_pitcher": "Michael McGreevy",
       "away_pitcher": "Carmen Mlodzinski",
       "pitchers_confirmed": "yes",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:11",
+      "time": "15:45:11",
       "game_id": "823299",
       "home_team": "San Diego Padres",
       "away_team": "Los Angeles Dodgers",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "15:30:13",
+      "time": "15:45:12",
       "game_id": "824032",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -1186,6 +1186,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 22584
+    "total_games_scanned_all": 22593
   }
 }
