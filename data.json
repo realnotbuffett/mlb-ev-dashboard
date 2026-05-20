@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T23:30:07.902120+00:00",
+  "last_updated": "2026-05-20T23:45:07.200687+00:00",
   "scoreboard": [
     {
       "game_id": "823462",
@@ -61,7 +61,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 0,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "MIA",
       "away_score": 3,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
       "game_id": "822735",
       "away": "NYM",
       "home": "WSH",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 4,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-05-20T22:45:00Z"
     },
     {
@@ -1029,16 +1029,16 @@
     },
     {
       "date": "2026-05-20",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "823547",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.6073",
-      "away_prob": "0.3927",
+      "home_prob": "0.6039",
+      "away_prob": "0.3961",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0205",
-      "away_ev": "0.0069",
+      "home_ev": "-0.0259",
+      "away_ev": "0.0156",
       "home_pitcher": "Cam Schlittler",
       "away_pitcher": "Trey Yesavage",
       "pitchers_confirmed": "yes",
@@ -1117,16 +1117,16 @@
     },
     {
       "date": "2026-05-20",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "823299",
       "home_team": "San Diego Padres",
       "away_team": "Los Angeles Dodgers",
       "home_prob": "0.3608",
       "away_prob": "0.6392",
-      "poly_home_price": "0.3700",
-      "poly_away_price": "0.6400",
-      "home_ev": "-0.0247",
-      "away_ev": "-0.0013",
+      "poly_home_price": "0.3600",
+      "poly_away_price": "0.6500",
+      "home_ev": "0.0024",
+      "away_ev": "-0.0167",
       "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher": "Shohei Ohtani",
       "pitchers_confirmed": "yes",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "824032",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -1186,6 +1186,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 22698
+    "total_games_scanned_all": 22701
   }
 }
