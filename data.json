@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T22:00:12.447619+00:00",
+  "last_updated": "2026-05-20T22:15:14.732542+00:00",
   "scoreboard": [
     {
       "game_id": "823462",
@@ -34,7 +34,7 @@
       "home": "COL",
       "away_score": 5,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-20T19:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "ARI",
       "away_score": 3,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-20T19:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "CWS",
       "home": "SEA",
       "away_score": 2,
-      "home_score": 2,
-      "state": "B6",
+      "home_score": 3,
+      "state": "B7",
       "start_time": "2026-05-20T20:10:00Z"
     },
     {
@@ -68,9 +68,9 @@
       "game_id": "823866",
       "away": "ATL",
       "home": "MIA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
@@ -1007,7 +1007,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "18:00:06",
+      "time": "18:15:09",
       "game_id": "822735",
       "home_team": "Washington Nationals",
       "away_team": "New York Mets",
@@ -1029,7 +1029,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "18:00:07",
+      "time": "18:15:10",
       "game_id": "823547",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -1051,7 +1051,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "18:00:08",
+      "time": "18:15:11",
       "game_id": "824111",
       "home_team": "Kansas City Royals",
       "away_team": "Boston Red Sox",
@@ -1073,7 +1073,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "18:00:09",
+      "time": "18:15:11",
       "game_id": "824678",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
@@ -1095,7 +1095,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "18:00:10",
+      "time": "18:15:12",
       "game_id": "823057",
       "home_team": "St. Louis Cardinals",
       "away_team": "Pittsburgh Pirates",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "18:00:11",
+      "time": "18:15:13",
       "game_id": "823299",
       "home_team": "San Diego Padres",
       "away_team": "Los Angeles Dodgers",
@@ -1139,16 +1139,16 @@
     },
     {
       "date": "2026-05-20",
-      "time": "18:00:12",
+      "time": "18:15:14",
       "game_id": "824032",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
       "home_prob": "0.4594",
       "away_prob": "0.5406",
-      "poly_home_price": "0.4700",
-      "poly_away_price": "0.5400",
-      "home_ev": "-0.0226",
-      "away_ev": "0.0011",
+      "poly_home_price": "0.4600",
+      "poly_away_price": "0.5500",
+      "home_ev": "-0.0013",
+      "away_ev": "-0.0171",
       "home_pitcher": "Jack Kochanowicz",
       "away_pitcher": "Aaron Civale",
       "pitchers_confirmed": "yes",
@@ -1186,6 +1186,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 22665
+    "total_games_scanned_all": 22672
   }
 }
