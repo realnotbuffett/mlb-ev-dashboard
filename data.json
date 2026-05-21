@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T17:00:09.627145+00:00",
+  "last_updated": "2026-05-21T17:15:09.419628+00:00",
   "scoreboard": [
     {
       "game_id": "824274",
@@ -847,7 +847,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "13:00:05",
+      "time": "13:15:05",
       "game_id": "822733",
       "home_team": "Washington Nationals",
       "away_team": "New York Mets",
@@ -869,16 +869,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "13:00:06",
+      "time": "13:15:06",
       "game_id": "823864",
       "home_team": "Miami Marlins",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4408",
-      "away_prob": "0.5592",
+      "home_prob": "0.4386",
+      "away_prob": "0.5614",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "0.0018",
-      "away_ev": "-0.0190",
+      "home_ev": "-0.0032",
+      "away_ev": "-0.0151",
       "home_pitcher": "Sandy Alcantara",
       "away_pitcher": "Spencer Strider",
       "pitchers_confirmed": "yes",
@@ -891,7 +891,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "13:00:07",
+      "time": "13:15:07",
       "game_id": "823545",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -913,7 +913,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "13:00:08",
+      "time": "13:15:08",
       "game_id": "824031",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -935,16 +935,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "13:00:09",
+      "time": "13:15:09",
       "game_id": "825083",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6383",
-      "away_prob": "0.3617",
+      "home_prob": "0.6408",
+      "away_prob": "0.3592",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0329",
-      "away_ev": "0.0334",
+      "home_ev": "-0.0290",
+      "away_ev": "0.0262",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Zach Agnos",
       "pitchers_confirmed": "yes",
@@ -960,6 +960,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 22827
+    "total_games_scanned_all": 22832
   }
 }
