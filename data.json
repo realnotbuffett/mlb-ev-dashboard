@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T20:00:07.902401+00:00",
+  "last_updated": "2026-05-21T20:15:08.464781+00:00",
   "scoreboard": [
     {
       "game_id": "824274",
@@ -25,7 +25,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-21T20:05:00Z"
     },
     {
@@ -869,7 +869,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "823864",
       "home_team": "Miami Marlins",
       "away_team": "Atlanta Braves",
@@ -891,16 +891,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "823545",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5675",
-      "away_prob": "0.4325",
+      "home_prob": "0.5664",
+      "away_prob": "0.4336",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0044",
-      "away_ev": "-0.0170",
+      "home_ev": "-0.0063",
+      "away_ev": "-0.0146",
       "home_pitcher": "Carlos Rod\u00f3n",
       "away_pitcher": "Braydon Fisher",
       "pitchers_confirmed": "yes",
@@ -913,16 +913,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "16:00:06",
+      "time": "16:15:07",
       "game_id": "824031",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
-      "home_prob": "0.5242",
-      "away_prob": "0.4758",
+      "home_prob": "0.5228",
+      "away_prob": "0.4772",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0293",
-      "away_ev": "0.0124",
+      "home_ev": "-0.0318",
+      "away_ev": "0.0152",
       "home_pitcher": "Jos\u00e9 Soriano",
       "away_pitcher": "Luis Severino",
       "pitchers_confirmed": "yes",
@@ -935,7 +935,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "16:00:07",
+      "time": "16:15:08",
       "game_id": "825083",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -960,6 +960,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 22885
+    "total_games_scanned_all": 22889
   }
 }
