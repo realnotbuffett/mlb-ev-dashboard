@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T16:00:10.938016+00:00",
+  "last_updated": "2026-05-21T16:15:11.567185+00:00",
   "scoreboard": [
     {
       "game_id": "824274",
@@ -803,7 +803,7 @@
   "today_games": [
     {
       "date": "2026-05-21",
-      "time": "12:00:05",
+      "time": "12:15:05",
       "game_id": "824274",
       "home_team": "Detroit Tigers",
       "away_team": "Cleveland Guardians",
@@ -825,7 +825,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "12:00:06",
+      "time": "12:15:06",
       "game_id": "823056",
       "home_team": "St. Louis Cardinals",
       "away_team": "Pittsburgh Pirates",
@@ -847,16 +847,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "12:00:07",
+      "time": "12:15:07",
       "game_id": "822733",
       "home_team": "Washington Nationals",
       "away_team": "New York Mets",
-      "home_prob": "0.5026",
-      "away_prob": "0.4974",
+      "home_prob": "0.5000",
+      "away_prob": "0.5000",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "0.0051",
-      "away_ev": "-0.0246",
+      "home_ev": "0.0000",
+      "away_ev": "-0.0196",
       "home_pitcher": "Cade Cavalli",
       "away_pitcher": "David Peterson",
       "pitchers_confirmed": "yes",
@@ -869,7 +869,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "12:00:07",
+      "time": "12:15:08",
       "game_id": "823864",
       "home_team": "Miami Marlins",
       "away_team": "Atlanta Braves",
@@ -891,7 +891,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "12:00:08",
+      "time": "12:15:09",
       "game_id": "823545",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -913,7 +913,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "12:00:09",
+      "time": "12:15:10",
       "game_id": "824031",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -935,16 +935,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "12:00:10",
+      "time": "12:15:11",
       "game_id": "825083",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6383",
-      "away_prob": "0.3617",
+      "home_prob": "0.6408",
+      "away_prob": "0.3592",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0329",
-      "away_ev": "0.0334",
+      "home_ev": "-0.0290",
+      "away_ev": "0.0262",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Zach Agnos",
       "pitchers_confirmed": "yes",
@@ -960,6 +960,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 22802
+    "total_games_scanned_all": 22809
   }
 }
