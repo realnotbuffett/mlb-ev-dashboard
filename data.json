@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T00:30:06.462718+00:00",
+  "last_updated": "2026-05-21T00:45:06.301363+00:00",
   "scoreboard": [
     {
       "game_id": "823462",
@@ -61,25 +61,25 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 1,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
       "game_id": "823866",
       "away": "ATL",
       "home": "MIA",
-      "away_score": 8,
+      "away_score": 9,
       "home_score": 1,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
       "game_id": "822735",
       "away": "NYM",
       "home": "WSH",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 6,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-20T22:45:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "T5",
       "start_time": "2026-05-20T23:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CHC",
       "away_score": 4,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-05-20T23:40:00Z"
     },
     {
@@ -115,14 +115,14 @@
       "home": "STL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-05-20T23:45:00Z"
     },
     {
       "game_id": "823299",
       "away": "LAD",
       "home": "SD",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-05-21T00:40:00Z"
@@ -1029,7 +1029,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "20:30:05",
+      "time": "20:45:05",
       "game_id": "823547",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -1139,16 +1139,16 @@
     },
     {
       "date": "2026-05-20",
-      "time": "20:30:06",
+      "time": "20:45:06",
       "game_id": "824032",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
-      "home_prob": "0.4557",
-      "away_prob": "0.5443",
+      "home_prob": "0.4520",
+      "away_prob": "0.5480",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0304",
-      "away_ev": "0.0080",
+      "home_ev": "-0.0383",
+      "away_ev": "0.0148",
       "home_pitcher": "Jack Kochanowicz",
       "away_pitcher": "Aaron Civale",
       "pitchers_confirmed": "yes",
@@ -1186,6 +1186,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 22708
+    "total_games_scanned_all": 22710
   }
 }
