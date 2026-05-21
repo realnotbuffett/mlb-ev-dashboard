@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T22:15:08.320423+00:00",
+  "last_updated": "2026-05-21T22:30:07.359003+00:00",
   "scoreboard": [
     {
       "game_id": "824274",
@@ -25,16 +25,16 @@
       "home": "WSH",
       "away_score": 2,
       "home_score": 1,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-05-21T20:05:00Z"
     },
     {
       "game_id": "823864",
       "away": "ATL",
       "home": "MIA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-21T22:40:00Z"
     },
     {
@@ -891,7 +891,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "18:15:06",
+      "time": "18:30:05",
       "game_id": "823545",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -913,7 +913,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "18:15:07",
+      "time": "18:30:06",
       "game_id": "824031",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -935,16 +935,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "18:15:08",
+      "time": "18:30:07",
       "game_id": "825083",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6472",
-      "away_prob": "0.3528",
+      "home_prob": "0.6480",
+      "away_prob": "0.3520",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0194",
-      "away_ev": "0.0080",
+      "home_ev": "-0.0182",
+      "away_ev": "0.0057",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Zach Agnos",
       "pitchers_confirmed": "yes",
@@ -960,6 +960,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 22921
+    "total_games_scanned_all": 22924
   }
 }
