@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T22:45:07.183471+00:00",
+  "last_updated": "2026-05-21T23:00:07.693447+00:00",
   "scoreboard": [
     {
       "game_id": "824274",
@@ -32,18 +32,18 @@
       "game_id": "823864",
       "away": "ATL",
       "home": "MIA",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-21T22:40:00Z"
     },
     {
       "game_id": "823545",
       "away": "TOR",
       "home": "NYY",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-21T23:05:00Z"
     },
     {
@@ -798,6 +798,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "12.73"
+    },
+    {
+      "date": "2026-05-21",
+      "time": "19:00:07",
+      "game_id": "825083",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Colorado Rockies",
+      "bet_side": "away",
+      "model_prob": "0.3643",
+      "polymarket_price": "0.3500",
+      "ev_pct": "4.08%",
+      "bet_size": "$10.00",
+      "order_id": "0x7afd252bf2811a94c6",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -913,16 +930,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "18:45:06",
+      "time": "19:00:05",
       "game_id": "824031",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
-      "home_prob": "0.5216",
-      "away_prob": "0.4784",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0340",
-      "away_ev": "0.0178",
+      "home_ev": "-0.0199",
+      "away_ev": "0.0016",
       "home_pitcher": "Jos\u00e9 Soriano",
       "away_pitcher": "Luis Severino",
       "pitchers_confirmed": "yes",
@@ -935,21 +952,21 @@
     },
     {
       "date": "2026-05-21",
-      "time": "18:45:07",
+      "time": "19:00:07",
       "game_id": "825083",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6480",
-      "away_prob": "0.3520",
+      "home_prob": "0.6357",
+      "away_prob": "0.3643",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0182",
-      "away_ev": "0.0057",
+      "home_ev": "-0.0368",
+      "away_ev": "0.0408",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Zach Agnos",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -957,9 +974,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 43,
+    "total_bets_today": 1,
+    "total_bets_all_time": 44,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 22927
+    "total_games_scanned_all": 22929
   }
 }
