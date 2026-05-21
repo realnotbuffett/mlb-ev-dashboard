@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T00:15:07.085130+00:00",
+  "last_updated": "2026-05-21T00:30:06.462718+00:00",
   "scoreboard": [
     {
       "game_id": "823462",
@@ -60,8 +60,8 @@
       "away": "CLE",
       "home": "DET",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B7",
+      "home_score": 1,
+      "state": "T8",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIA",
       "away_score": 8,
       "home_score": 1,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "NYM",
       "home": "WSH",
       "away_score": 2,
-      "home_score": 4,
-      "state": "B6",
+      "home_score": 6,
+      "state": "T7",
       "start_time": "2026-05-20T22:45:00Z"
     },
     {
@@ -97,16 +97,16 @@
       "home": "KC",
       "away_score": 2,
       "home_score": 1,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-05-20T23:40:00Z"
     },
     {
       "game_id": "824678",
       "away": "MIL",
       "home": "CHC",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-05-20T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "STL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-20T23:45:00Z"
     },
     {
@@ -1029,16 +1029,16 @@
     },
     {
       "date": "2026-05-20",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "823547",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.6049",
-      "away_prob": "0.3951",
+      "home_prob": "0.6058",
+      "away_prob": "0.3942",
       "poly_home_price": "0.6100",
       "poly_away_price": "0.4000",
-      "home_ev": "-0.0084",
-      "away_ev": "-0.0122",
+      "home_ev": "-0.0068",
+      "away_ev": "-0.0146",
       "home_pitcher": "Cam Schlittler",
       "away_pitcher": "Trey Yesavage",
       "pitchers_confirmed": "yes",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-05-20",
-      "time": "20:15:07",
+      "time": "20:30:06",
       "game_id": "824032",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -1186,6 +1186,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 43,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 22706
+    "total_games_scanned_all": 22708
   }
 }
