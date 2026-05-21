@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T01:15:08.580734+00:00",
+  "last_updated": "2026-05-21T01:30:04.563559+00:00",
   "scoreboard": [
     {
       "game_id": "823462",
@@ -60,8 +60,8 @@
       "away": "CLE",
       "home": "DET",
       "away_score": 3,
-      "home_score": 1,
-      "state": "T10",
+      "home_score": 2,
+      "state": "FINAL",
       "start_time": "2026-05-20T22:40:00Z"
     },
     {
@@ -88,25 +88,25 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-20T23:05:00Z"
     },
     {
       "game_id": "824111",
       "away": "BOS",
       "home": "KC",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 3,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-20T23:40:00Z"
     },
     {
       "game_id": "824678",
       "away": "MIL",
       "home": "CHC",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 0,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-20T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "STL",
       "away_score": 2,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-20T23:45:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SD",
       "away_score": 2,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-21T00:40:00Z"
     },
     {
