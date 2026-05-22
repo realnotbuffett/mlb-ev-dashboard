@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T00:00:06.354656+00:00",
+  "last_updated": "2026-05-22T00:15:06.491996+00:00",
   "scoreboard": [
     {
       "game_id": "824274",
@@ -32,9 +32,9 @@
       "game_id": "823864",
       "away": "ATL",
       "home": "MIA",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 2,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-05-21T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-21T23:05:00Z"
     },
     {
@@ -930,16 +930,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "824031",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
       "home_prob": "0.5267",
       "away_prob": "0.4733",
-      "poly_home_price": "0.5400",
-      "poly_away_price": "0.4700",
-      "home_ev": "-0.0246",
-      "away_ev": "0.0070",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "-0.0062",
+      "away_ev": "-0.0140",
       "home_pitcher": "Jos\u00e9 Soriano",
       "away_pitcher": "Luis Severino",
       "pitchers_confirmed": "yes",
@@ -952,16 +952,16 @@
     },
     {
       "date": "2026-05-21",
-      "time": "20:00:06",
+      "time": "20:15:06",
       "game_id": "825083",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
       "home_prob": "0.6357",
       "away_prob": "0.3643",
-      "poly_home_price": "0.6600",
-      "poly_away_price": "0.3500",
-      "home_ev": "-0.0368",
-      "away_ev": "0.0408",
+      "poly_home_price": "0.6700",
+      "poly_away_price": "0.3400",
+      "home_ev": "-0.0512",
+      "away_ev": "0.0714",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Zach Agnos",
       "pitchers_confirmed": "yes",
@@ -977,6 +977,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 44,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 22937
+    "total_games_scanned_all": 22939
   }
 }
