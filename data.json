@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T23:00:10.409626+00:00",
+  "last_updated": "2026-05-22T23:15:09.368351+00:00",
   "scoreboard": [
     {
       "game_id": "824679",
@@ -16,7 +16,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-22T22:40:00Z"
     },
     {
@@ -32,7 +32,7 @@
       "game_id": "822816",
       "away": "PIT",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-05-22T23:07:00Z"
@@ -86,9 +86,9 @@
       "game_id": "823788",
       "away": "LAD",
       "home": "MIL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-22T23:40:00Z"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "date": "2026-05-22",
-      "time": "19:00:05",
+      "time": "19:15:05",
       "game_id": "824110",
       "home_team": "Kansas City Royals",
       "away_team": "Seattle Mariners",
@@ -1129,7 +1129,7 @@
     },
     {
       "date": "2026-05-22",
-      "time": "19:00:07",
+      "time": "19:15:06",
       "game_id": "824029",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1151,7 +1151,7 @@
     },
     {
       "date": "2026-05-22",
-      "time": "19:00:08",
+      "time": "19:15:07",
       "game_id": "825082",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1173,16 +1173,16 @@
     },
     {
       "date": "2026-05-22",
-      "time": "19:00:09",
+      "time": "19:15:08",
       "game_id": "823298",
       "home_team": "San Diego Padres",
       "away_team": "Athletics",
-      "home_prob": "0.5330",
-      "away_prob": "0.4670",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0130",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0118",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Jeffrey Springs",
       "pitchers_confirmed": "yes",
@@ -1195,7 +1195,7 @@
     },
     {
       "date": "2026-05-22",
-      "time": "19:00:10",
+      "time": "19:15:09",
       "game_id": "823223",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago White Sox",
@@ -1242,6 +1242,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 45,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 23484
+    "total_games_scanned_all": 23489
   }
 }
