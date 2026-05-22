@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T23:45:06.767007+00:00",
+  "last_updated": "2026-05-22T00:00:06.354656+00:00",
   "scoreboard": [
     {
       "game_id": "824274",
@@ -32,9 +32,9 @@
       "game_id": "823864",
       "away": "ATL",
       "home": "MIA",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 2,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-21T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-21T23:05:00Z"
     },
     {
@@ -930,7 +930,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "19:45:05",
+      "time": "20:00:05",
       "game_id": "824031",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -952,7 +952,7 @@
     },
     {
       "date": "2026-05-21",
-      "time": "19:45:06",
+      "time": "20:00:06",
       "game_id": "825083",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -977,6 +977,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 44,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 22935
+    "total_games_scanned_all": 22937
   }
 }
