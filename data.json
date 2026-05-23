@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T21:45:13.116273+00:00",
+  "last_updated": "2026-05-23T22:00:09.782718+00:00",
   "scoreboard": [
     {
       "game_id": "824518",
@@ -34,7 +34,7 @@
       "home": "TOR",
       "away_score": 2,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-23T19:07:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "CWS",
       "home": "SF",
       "away_score": 3,
-      "home_score": 5,
-      "state": "B5",
+      "home_score": 9,
+      "state": "T6",
       "start_time": "2026-05-23T20:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 5,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "BOS",
       "away_score": 4,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
       "game_id": "824920",
       "away": "WSH",
       "home": "ATL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 4,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
@@ -964,6 +964,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "18:00:07",
+      "game_id": "823300",
+      "home_team": "San Diego Padres",
+      "away_team": "Athletics",
+      "bet_side": "home",
+      "model_prob": "0.6029",
+      "polymarket_price": "0.4900",
+      "ev_pct": "23.05%",
+      "bet_size": "$10.00",
+      "order_id": "0x8ee6d8ae964ac9549a",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -991,21 +1008,21 @@
     },
     {
       "date": "2026-05-23",
-      "time": "17:45:07",
+      "time": "18:00:04",
       "game_id": "824516",
       "home_team": "Cincinnati Reds",
       "away_team": "St. Louis Cardinals",
       "home_prob": "0.5217",
       "away_prob": "0.4783",
-      "poly_home_price": "0.5000",
-      "poly_away_price": "0.5100",
-      "home_ev": "0.0435",
-      "away_ev": "-0.0622",
+      "poly_home_price": "0.5100",
+      "poly_away_price": "0.5000",
+      "home_ev": "0.0230",
+      "away_ev": "-0.0435",
       "home_pitcher": "Chase Petty",
       "away_pitcher": "Kyle Leahy",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1211,7 +1228,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "17:45:10",
+      "time": "18:00:05",
       "game_id": "823787",
       "home_team": "Milwaukee Brewers",
       "away_team": "Los Angeles Dodgers",
@@ -1224,28 +1241,6 @@
       "home_pitcher": "Robert Gasser",
       "away_pitcher": "Roki Sasaki",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
-    },
-    {
-      "date": "2026-05-23",
-      "time": "17:45:11",
-      "game_id": "823300",
-      "home_team": "San Diego Padres",
-      "away_team": "Athletics",
-      "home_prob": "0.4784",
-      "away_prob": "0.5216",
-      "poly_home_price": "0.4900",
-      "poly_away_price": "0.5200",
-      "home_ev": "-0.0237",
-      "away_ev": "0.0031",
-      "home_pitcher": "Lucas Giolito",
-      "away_pitcher": "J.T. Ginn",
-      "pitchers_confirmed": "yes",
       "bet_placed": "no",
       "bet_side": "",
       "home_score": "",
@@ -1255,16 +1250,38 @@
     },
     {
       "date": "2026-05-23",
-      "time": "17:45:12",
+      "time": "18:00:07",
+      "game_id": "823300",
+      "home_team": "San Diego Padres",
+      "away_team": "Athletics",
+      "home_prob": "0.6029",
+      "away_prob": "0.3971",
+      "poly_home_price": "0.4900",
+      "poly_away_price": "0.5200",
+      "home_ev": "0.2305",
+      "away_ev": "-0.2364",
+      "home_pitcher": "Lucas Giolito",
+      "away_pitcher": "J.T. Ginn",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "yes",
+      "bet_side": "home",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
+    },
+    {
+      "date": "2026-05-23",
+      "time": "18:00:08",
       "game_id": "824030",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_prob": "0.4372",
-      "away_prob": "0.5628",
+      "home_prob": "0.4361",
+      "away_prob": "0.5639",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0126",
+      "home_ev": "-0.0089",
+      "away_ev": "-0.0107",
       "home_pitcher": "Walbert Ure\u00f1a",
       "away_pitcher": "Nathan Eovaldi",
       "pitchers_confirmed": "yes",
@@ -1277,7 +1294,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "17:45:12",
+      "time": "18:00:09",
       "game_id": "825080",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1299,9 +1316,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 2,
-    "total_bets_all_time": 48,
+    "total_bets_today": 3,
+    "total_bets_all_time": 49,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 23950
+    "total_games_scanned_all": 23955
   }
 }
