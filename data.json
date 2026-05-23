@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T02:45:04.983469+00:00",
+  "last_updated": "2026-05-23T03:00:05.212874+00:00",
   "scoreboard": [
     {
       "game_id": "824679",
@@ -95,18 +95,18 @@
       "game_id": "824029",
       "away": "TEX",
       "home": "LAA",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 6,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-23T01:38:00Z"
     },
     {
       "game_id": "825082",
       "away": "COL",
       "home": "ARI",
-      "away_score": 0,
-      "home_score": 1,
-      "state": "B4",
+      "away_score": 1,
+      "home_score": 2,
+      "state": "B5",
       "start_time": "2026-05-23T01:40:00Z"
     },
     {
@@ -114,8 +114,8 @@
       "away": "OAK",
       "home": "SD",
       "away_score": 3,
-      "home_score": 2,
-      "state": "T5",
+      "home_score": 3,
+      "state": "B5",
       "start_time": "2026-05-23T01:40:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-05-23T02:15:00Z"
     },
     {
