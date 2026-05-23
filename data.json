@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T22:00:09.782718+00:00",
+  "last_updated": "2026-05-23T22:15:08.344292+00:00",
   "scoreboard": [
     {
       "game_id": "824518",
@@ -43,7 +43,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-23T20:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "SF",
       "away_score": 3,
       "home_score": 9,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-23T20:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 5,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BOS",
       "away_score": 4,
       "home_score": 1,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "ATL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 4,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-05-23T20:10:00Z"
     },
     {
@@ -1008,7 +1008,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "18:00:04",
+      "time": "18:15:04",
       "game_id": "824516",
       "home_team": "Cincinnati Reds",
       "away_team": "St. Louis Cardinals",
@@ -1228,7 +1228,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "18:00:05",
+      "time": "18:15:05",
       "game_id": "823787",
       "home_team": "Milwaukee Brewers",
       "away_team": "Los Angeles Dodgers",
@@ -1250,21 +1250,21 @@
     },
     {
       "date": "2026-05-23",
-      "time": "18:00:07",
+      "time": "18:15:06",
       "game_id": "823300",
       "home_team": "San Diego Padres",
       "away_team": "Athletics",
       "home_prob": "0.6029",
       "away_prob": "0.3971",
-      "poly_home_price": "0.4900",
-      "poly_away_price": "0.5200",
-      "home_ev": "0.2305",
-      "away_ev": "-0.2364",
+      "poly_home_price": "0.4700",
+      "poly_away_price": "0.5400",
+      "home_ev": "0.2829",
+      "away_ev": "-0.2647",
       "home_pitcher": "Lucas Giolito",
       "away_pitcher": "J.T. Ginn",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1272,7 +1272,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "18:00:08",
+      "time": "18:15:07",
       "game_id": "824030",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1294,7 +1294,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "18:00:09",
+      "time": "18:15:08",
       "game_id": "825080",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1319,6 +1319,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 49,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 23955
+    "total_games_scanned_all": 23960
   }
 }
