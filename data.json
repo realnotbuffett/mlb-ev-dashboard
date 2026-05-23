@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T18:00:14.530246+00:00",
+  "last_updated": "2026-05-23T18:15:15.308087+00:00",
   "scoreboard": [
     {
       "game_id": "824518",
@@ -7,7 +7,7 @@
       "home": "CIN",
       "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-23T17:10:00Z"
     },
     {
@@ -957,7 +957,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:04",
+      "time": "14:15:04",
       "game_id": "824516",
       "home_team": "Cincinnati Reds",
       "away_team": "St. Louis Cardinals",
@@ -1001,16 +1001,16 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:05",
+      "time": "14:15:06",
       "game_id": "822814",
       "home_team": "Toronto Blue Jays",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.4300",
-      "away_prob": "0.5700",
+      "home_prob": "0.4275",
+      "away_prob": "0.5725",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0000",
-      "away_ev": "-0.0172",
+      "home_ev": "-0.0058",
+      "away_ev": "-0.0129",
       "home_pitcher": "Patrick Corbin",
       "away_pitcher": "Paul Skenes",
       "pitchers_confirmed": "yes",
@@ -1045,7 +1045,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:06",
+      "time": "14:15:06",
       "game_id": "823458",
       "home_team": "Philadelphia Phillies",
       "away_team": "Cleveland Guardians",
@@ -1067,16 +1067,16 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:07",
+      "time": "14:15:07",
       "game_id": "823222",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago White Sox",
       "home_prob": "0.5089",
       "away_prob": "0.4911",
       "poly_home_price": "0.5200",
-      "poly_away_price": "0.5000",
+      "poly_away_price": "0.4900",
       "home_ev": "-0.0213",
-      "away_ev": "-0.0178",
+      "away_ev": "0.0022",
       "home_pitcher": "Adrian Houser",
       "away_pitcher": "Bryan Hudson",
       "pitchers_confirmed": "yes",
@@ -1089,7 +1089,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:08",
+      "time": "14:15:08",
       "game_id": "824109",
       "home_team": "Kansas City Royals",
       "away_team": "Seattle Mariners",
@@ -1111,7 +1111,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:09",
+      "time": "14:15:09",
       "game_id": "824760",
       "home_team": "Boston Red Sox",
       "away_team": "Minnesota Twins",
@@ -1133,16 +1133,16 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:09",
+      "time": "14:15:10",
       "game_id": "824920",
       "home_team": "Atlanta Braves",
       "away_team": "Washington Nationals",
-      "home_prob": "0.6049",
-      "away_prob": "0.3951",
+      "home_prob": "0.5936",
+      "away_prob": "0.4064",
       "poly_home_price": "0.6100",
       "poly_away_price": "0.4000",
-      "home_ev": "-0.0084",
-      "away_ev": "-0.0122",
+      "home_ev": "-0.0269",
+      "away_ev": "0.0160",
       "home_pitcher": "Grant Holmes",
       "away_pitcher": "Jake Irvin",
       "pitchers_confirmed": "yes",
@@ -1155,7 +1155,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:10",
+      "time": "14:15:11",
       "game_id": "823862",
       "home_team": "Miami Marlins",
       "away_team": "New York Mets",
@@ -1177,7 +1177,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:11",
+      "time": "14:15:12",
       "game_id": "823787",
       "home_team": "Milwaukee Brewers",
       "away_team": "Los Angeles Dodgers",
@@ -1199,7 +1199,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:12",
+      "time": "14:15:13",
       "game_id": "823300",
       "home_team": "San Diego Padres",
       "away_team": "Athletics",
@@ -1221,16 +1221,16 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:13",
+      "time": "14:15:14",
       "game_id": "824030",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_prob": "0.4397",
-      "away_prob": "0.5603",
+      "home_prob": "0.4386",
+      "away_prob": "0.5614",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "-0.0007",
-      "away_ev": "-0.0170",
+      "home_ev": "-0.0032",
+      "away_ev": "-0.0151",
       "home_pitcher": "Walbert Ure\u00f1a",
       "away_pitcher": "Nathan Eovaldi",
       "pitchers_confirmed": "yes",
@@ -1243,7 +1243,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "14:00:14",
+      "time": "14:15:15",
       "game_id": "825080",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1268,6 +1268,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 46,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 23825
+    "total_games_scanned_all": 23837
   }
 }
