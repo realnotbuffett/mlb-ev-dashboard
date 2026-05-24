@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T22:00:04.695012+00:00",
+  "last_updated": "2026-05-24T22:15:04.859384+00:00",
   "scoreboard": [
     {
       "game_id": "822813",
@@ -23,9 +23,9 @@
       "game_id": "824840",
       "away": "DET",
       "home": "BAL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-24T22:05:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "SF",
       "away_score": 4,
       "home_score": 8,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-05-24T20:05:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 9,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-24T20:10:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SD",
       "away_score": 4,
       "home_score": 1,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-24T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "ATL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-24T20:10:00Z"
     },
     {
@@ -1294,16 +1294,16 @@
     },
     {
       "date": "2026-05-24",
-      "time": "18:00:04",
+      "time": "18:15:04",
       "game_id": "824028",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5305",
-      "away_prob": "0.4695",
+      "home_prob": "0.5330",
+      "away_prob": "0.4670",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0177",
-      "away_ev": "-0.0010",
+      "home_ev": "-0.0130",
+      "away_ev": "-0.0064",
       "home_pitcher": "Reid Detmers",
       "away_pitcher": "MacKenzie Gore",
       "pitchers_confirmed": "yes",
@@ -1341,6 +1341,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 49,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 24334
+    "total_games_scanned_all": 24335
   }
 }
