@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T00:15:06.948072+00:00",
+  "last_updated": "2026-05-24T00:30:06.952847+00:00",
   "scoreboard": [
     {
       "game_id": "824518",
@@ -15,8 +15,8 @@
       "away": "STL",
       "home": "CIN",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B4",
+      "home_score": 3,
+      "state": "B5",
       "start_time": "2026-05-23T23:15:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 3,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-05-23T20:05:00Z"
     },
     {
@@ -95,9 +95,9 @@
       "game_id": "823787",
       "away": "LAD",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 4,
       "home_score": 3,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-23T23:15:00Z"
     },
     {
@@ -1250,7 +1250,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "823300",
       "home_team": "San Diego Padres",
       "away_team": "Athletics",
@@ -1272,16 +1272,16 @@
     },
     {
       "date": "2026-05-23",
-      "time": "20:15:05",
+      "time": "20:30:06",
       "game_id": "824030",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_prob": "0.4311",
-      "away_prob": "0.5689",
+      "home_prob": "0.4300",
+      "away_prob": "0.5700",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "0.0025",
-      "away_ev": "-0.0191",
+      "home_ev": "-0.0000",
+      "away_ev": "-0.0172",
       "home_pitcher": "Walbert Ure\u00f1a",
       "away_pitcher": "Nathan Eovaldi",
       "pitchers_confirmed": "yes",
@@ -1294,7 +1294,7 @@
     },
     {
       "date": "2026-05-23",
-      "time": "20:15:06",
+      "time": "20:30:06",
       "game_id": "825080",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1319,6 +1319,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 49,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 23988
+    "total_games_scanned_all": 23991
   }
 }
