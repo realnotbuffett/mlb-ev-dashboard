@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T23:15:04.746391+00:00",
+  "last_updated": "2026-05-24T23:30:04.235741+00:00",
   "scoreboard": [
     {
       "game_id": "822813",
@@ -23,9 +23,9 @@
       "game_id": "824840",
       "away": "DET",
       "home": "BAL",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-24T22:05:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SD",
       "away_score": 5,
       "home_score": 2,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-05-24T20:10:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "LAA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-24T23:20:00Z"
     },
     {
