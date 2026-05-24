@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-24T18:00:09.221352+00:00",
+  "last_updated": "2026-05-24T18:15:08.318692+00:00",
   "scoreboard": [
     {
       "game_id": "822813",
       "away": "PIT",
       "home": "TOR",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-24T16:15:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "DET",
       "home": "BAL",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T6",
+      "home_score": 1,
+      "state": "T7",
       "start_time": "2026-05-24T16:35:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "MIN",
       "home": "BOS",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-05-24T17:35:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-24T17:35:00Z"
     },
     {
@@ -52,17 +52,8 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-24T17:35:00Z"
-    },
-    {
-      "game_id": "824514",
-      "away": "STL",
-      "home": "CIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
-      "start_time": "2026-05-24T17:40:00Z"
     },
     {
       "game_id": "823861",
@@ -70,14 +61,14 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-24T17:40:00Z"
     },
     {
       "game_id": "824108",
       "away": "SEA",
       "home": "KC",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-05-24T18:10:00Z"
@@ -144,6 +135,15 @@
       "home_score": null,
       "state": "UPCOMING",
       "start_time": "2026-05-24T23:20:00Z"
+    },
+    {
+      "game_id": "824514",
+      "away": "STL",
+      "home": "CIN",
+      "away_score": null,
+      "home_score": null,
+      "state": "FINAL",
+      "start_time": "2026-05-24T17:40:00Z"
     }
   ],
   "today": "2026-05-24",
@@ -1206,7 +1206,7 @@
     },
     {
       "date": "2026-05-24",
-      "time": "14:00:05",
+      "time": "14:15:04",
       "game_id": "823220",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago White Sox",
@@ -1228,7 +1228,7 @@
     },
     {
       "date": "2026-05-24",
-      "time": "14:00:06",
+      "time": "14:15:05",
       "game_id": "825081",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1250,7 +1250,7 @@
     },
     {
       "date": "2026-05-24",
-      "time": "14:00:07",
+      "time": "14:15:06",
       "game_id": "823297",
       "home_team": "San Diego Padres",
       "away_team": "Athletics",
@@ -1272,7 +1272,7 @@
     },
     {
       "date": "2026-05-24",
-      "time": "14:00:08",
+      "time": "14:15:07",
       "game_id": "824921",
       "home_team": "Atlanta Braves",
       "away_team": "Washington Nationals",
@@ -1294,16 +1294,16 @@
     },
     {
       "date": "2026-05-24",
-      "time": "14:00:09",
+      "time": "14:15:08",
       "game_id": "824028",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
       "home_prob": "0.5191",
       "away_prob": "0.4809",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0206",
-      "away_ev": "0.0019",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "-0.0018",
+      "away_ev": "-0.0185",
       "home_pitcher": "Reid Detmers",
       "away_pitcher": "MacKenzie Gore",
       "pitchers_confirmed": "yes",
@@ -1319,6 +1319,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 49,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 24283
+    "total_games_scanned_all": 24288
   }
 }
