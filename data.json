@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T21:45:09.320173+00:00",
+  "last_updated": "2026-05-25T22:00:10.094305+00:00",
   "scoreboard": [
     {
       "game_id": "823380",
@@ -15,8 +15,8 @@
       "away": "TB",
       "home": "BAL",
       "away_score": 7,
-      "home_score": 6,
-      "state": "B13",
+      "home_score": 9,
+      "state": "FINAL",
       "start_time": "2026-05-25T17:35:00Z"
     },
     {
@@ -41,9 +41,9 @@
       "game_id": "824107",
       "away": "NYY",
       "home": "KC",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 3,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-05-25T19:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 7,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-25T20:10:00Z"
     },
     {
@@ -61,16 +61,16 @@
       "home": "SF",
       "away_score": 1,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-05-25T21:05:00Z"
     },
     {
       "game_id": "824437",
       "away": "WSH",
       "home": "CLE",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-25T22:10:00Z"
     },
     {
@@ -122,23 +122,6 @@
   "today": "2026-05-25",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-03-26",
-      "time": "20:45:05",
-      "game_id": "823163",
-      "home_team": "Seattle Mariners",
-      "away_team": "Cleveland Guardians",
-      "bet_side": "away",
-      "model_prob": "0.3980",
-      "polymarket_price": "0.3800",
-      "ev_pct": "4.75%",
-      "bet_size": "$1.00",
-      "order_id": "0x0e7aba06d81fee37de",
-      "order_status": "filled",
-      "filled_size": "$1.00",
-      "result": "win",
-      "profit": "1.63"
-    },
     {
       "date": "2026-03-27",
       "time": "20:15:05",
@@ -971,6 +954,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "18:00:08",
+      "game_id": "823948",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Colorado Rockies",
+      "bet_side": "away",
+      "model_prob": "0.2707",
+      "polymarket_price": "0.2600",
+      "ev_pct": "4.12%",
+      "bet_size": "$10.00",
+      "order_id": "0xc1c0839a162af58b77",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:45:05",
+      "time": "18:00:04",
       "game_id": "823296",
       "home_team": "San Diego Padres",
       "away_team": "Philadelphia Phillies",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:45:06",
+      "time": "18:00:05",
       "game_id": "822899",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1196,16 +1196,16 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:45:07",
+      "time": "18:00:06",
       "game_id": "822812",
       "home_team": "Toronto Blue Jays",
       "away_team": "Miami Marlins",
-      "home_prob": "0.5771",
-      "away_prob": "0.4229",
+      "home_prob": "0.5786",
+      "away_prob": "0.4214",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0218",
-      "away_ev": "0.0069",
+      "home_ev": "-0.0194",
+      "away_ev": "0.0034",
       "home_pitcher": "Trey Yesavage",
       "away_pitcher": "Janson Junk",
       "pitchers_confirmed": "yes",
@@ -1218,21 +1218,21 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:45:08",
+      "time": "18:00:08",
       "game_id": "823948",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.7446",
-      "away_prob": "0.2554",
+      "home_prob": "0.7293",
+      "away_prob": "0.2707",
       "poly_home_price": "0.7500",
       "poly_away_price": "0.2600",
-      "home_ev": "-0.0071",
-      "away_ev": "-0.0178",
+      "home_ev": "-0.0276",
+      "away_ev": "0.0412",
       "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Tanner Gordon",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:45:09",
+      "time": "18:00:10",
       "game_id": "825005",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1262,9 +1262,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 50,
+    "total_bets_today": 2,
+    "total_bets_all_time": 51,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 24712
+    "total_games_scanned_all": 24717
   }
 }
