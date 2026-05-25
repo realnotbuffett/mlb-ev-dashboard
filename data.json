@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T21:00:09.651837+00:00",
+  "last_updated": "2026-05-25T21:15:09.329351+00:00",
   "scoreboard": [
     {
       "game_id": "823380",
@@ -15,8 +15,8 @@
       "away": "TB",
       "home": "BAL",
       "away_score": 4,
-      "home_score": 2,
-      "state": "T11",
+      "home_score": 4,
+      "state": "T12",
       "start_time": "2026-05-25T17:35:00Z"
     },
     {
@@ -42,17 +42,17 @@
       "away": "NYY",
       "home": "KC",
       "away_score": 2,
-      "home_score": 1,
-      "state": "B5",
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-05-25T19:40:00Z"
     },
     {
       "game_id": "823625",
       "away": "CIN",
       "home": "NYM",
-      "away_score": 3,
+      "away_score": 7,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-25T20:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-25T21:05:00Z"
     },
     {
@@ -1130,7 +1130,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:00:05",
+      "time": "17:15:04",
       "game_id": "824437",
       "home_team": "Cleveland Guardians",
       "away_team": "Washington Nationals",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:00:05",
+      "time": "17:15:05",
       "game_id": "823296",
       "home_team": "San Diego Padres",
       "away_team": "Philadelphia Phillies",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:00:06",
+      "time": "17:15:06",
       "game_id": "822899",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:00:07",
+      "time": "17:15:07",
       "game_id": "822812",
       "home_team": "Toronto Blue Jays",
       "away_team": "Miami Marlins",
@@ -1218,7 +1218,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:00:08",
+      "time": "17:15:08",
       "game_id": "823948",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "17:00:09",
+      "time": "17:15:09",
       "game_id": "825005",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1265,6 +1265,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 50,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 24694
+    "total_games_scanned_all": 24700
   }
 }
