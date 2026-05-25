@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-25T18:15:12.079258+00:00",
+  "last_updated": "2026-05-25T18:30:12.295584+00:00",
   "scoreboard": [
     {
       "game_id": "823380",
       "away": "CHC",
       "home": "PIT",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 1,
+      "state": "B3",
       "start_time": "2026-05-25T17:35:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-25T17:35:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "MIN",
       "home": "CWS",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-05-25T18:10:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "STL",
       "home": "MIL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 3,
+      "state": "B1",
       "start_time": "2026-05-25T18:10:00Z"
     },
     {
@@ -1064,16 +1064,16 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:04",
+      "time": "14:30:04",
       "game_id": "824107",
       "home_team": "Kansas City Royals",
       "away_team": "New York Yankees",
-      "home_prob": "0.4582",
-      "away_prob": "0.5418",
+      "home_prob": "0.4645",
+      "away_prob": "0.5355",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0250",
-      "away_ev": "0.0033",
+      "home_ev": "-0.0118",
+      "away_ev": "-0.0083",
       "home_pitcher": "Michael Wacha",
       "away_pitcher": "Will Warren",
       "pitchers_confirmed": "yes",
@@ -1086,16 +1086,16 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:05",
+      "time": "14:30:05",
       "game_id": "823625",
       "home_team": "New York Mets",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5455",
-      "away_prob": "0.4545",
+      "home_prob": "0.5491",
+      "away_prob": "0.4509",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0431",
-      "away_ev": "0.0331",
+      "home_ev": "-0.0366",
+      "away_ev": "0.0247",
       "home_pitcher": "Nolan McLean",
       "away_pitcher": "Nick Lodolo",
       "pitchers_confirmed": "yes",
@@ -1108,7 +1108,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:06",
+      "time": "14:30:06",
       "game_id": "823219",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1130,7 +1130,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:07",
+      "time": "14:30:07",
       "game_id": "824437",
       "home_team": "Cleveland Guardians",
       "away_team": "Washington Nationals",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:08",
+      "time": "14:30:08",
       "game_id": "823296",
       "home_team": "San Diego Padres",
       "away_team": "Philadelphia Phillies",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:09",
+      "time": "14:30:09",
       "game_id": "822899",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:10",
+      "time": "14:30:10",
       "game_id": "822812",
       "home_team": "Toronto Blue Jays",
       "away_team": "Miami Marlins",
@@ -1218,7 +1218,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:11",
+      "time": "14:30:11",
       "game_id": "823948",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "14:15:11",
+      "time": "14:30:12",
       "game_id": "825005",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1265,6 +1265,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 50,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 24610
+    "total_games_scanned_all": 24619
   }
 }
