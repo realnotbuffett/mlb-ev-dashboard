@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T00:45:06.122420+00:00",
+  "last_updated": "2026-05-26T01:00:05.280273+00:00",
   "scoreboard": [
     {
       "game_id": "823380",
@@ -79,7 +79,7 @@
       "home": "SD",
       "away_score": 3,
       "home_score": 0,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-05-25T22:40:00Z"
     },
     {
@@ -88,25 +88,25 @@
       "home": "TEX",
       "away_score": 4,
       "home_score": 0,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-25T23:05:00Z"
     },
     {
       "game_id": "822812",
       "away": "MIA",
       "home": "TOR",
-      "away_score": 3,
-      "home_score": 1,
-      "state": "T6",
+      "away_score": 5,
+      "home_score": 2,
+      "state": "T7",
       "start_time": "2026-05-25T23:07:00Z"
     },
     {
       "game_id": "823948",
       "away": "COL",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-26T01:10:00Z"
     },
     {
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "20:45:06",
+      "time": "21:00:05",
       "game_id": "825005",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1265,6 +1265,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 51,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 24744
+    "total_games_scanned_all": 24745
   }
 }
