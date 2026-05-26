@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T00:00:06.031030+00:00",
+  "last_updated": "2026-05-26T00:15:05.987919+00:00",
   "scoreboard": [
     {
       "game_id": "823380",
@@ -70,7 +70,7 @@
       "home": "CLE",
       "away_score": 10,
       "home_score": 2,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-25T22:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "SD",
       "away_score": 1,
       "home_score": 0,
-      "state": "B5",
+      "state": "T7",
       "start_time": "2026-05-25T22:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "TEX",
       "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-25T23:05:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-25T23:07:00Z"
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "823948",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-05-25",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "825005",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1265,6 +1265,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 51,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 24738
+    "total_games_scanned_all": 24740
   }
 }
