@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T23:30:08.847603+00:00",
+  "last_updated": "2026-05-27T23:45:05.560135+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -60,8 +60,8 @@
       "away": "TB",
       "home": "BAL",
       "away_score": 0,
-      "home_score": 5,
-      "state": "B3",
+      "home_score": 6,
+      "state": "B4",
       "start_time": "2026-05-27T22:35:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 2,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
       "game_id": "823376",
       "away": "CHC",
       "home": "PIT",
-      "away_score": 3,
-      "home_score": 0,
-      "state": "B3",
+      "away_score": 4,
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-27T22:45:00Z"
     },
     {
@@ -96,15 +96,15 @@
       "away": "CIN",
       "home": "NYM",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T2",
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-05-27T23:10:00Z"
     },
     {
       "game_id": "824596",
       "away": "MIN",
       "home": "CWS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-05-27T23:40:00Z"
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "19:30:04",
+      "time": "19:45:04",
       "game_id": "822897",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "19:30:08",
+      "time": "19:45:05",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1271,8 +1271,8 @@
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Tomoyuki Sugano",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25821
+    "total_games_scanned_all": 25823
   }
 }
