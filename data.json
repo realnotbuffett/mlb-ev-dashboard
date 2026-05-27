@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T00:15:07.384350+00:00",
+  "last_updated": "2026-05-27T00:30:07.475897+00:00",
   "scoreboard": [
     {
       "game_id": "824434",
@@ -7,7 +7,7 @@
       "home": "CLE",
       "away_score": 4,
       "home_score": 1,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-05-26T22:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 6,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-26T22:35:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "LAA",
       "home": "DET",
       "away_score": 4,
-      "home_score": 5,
-      "state": "T6",
+      "home_score": 6,
+      "state": "B6",
       "start_time": "2026-05-26T22:40:00Z"
     },
     {
@@ -33,35 +33,35 @@
       "away": "CHC",
       "home": "PIT",
       "away_score": 1,
-      "home_score": 8,
-      "state": "T6",
+      "home_score": 9,
+      "state": "T7",
       "start_time": "2026-05-26T22:40:00Z"
     },
     {
       "game_id": "824758",
       "away": "ATL",
       "home": "BOS",
-      "away_score": 2,
+      "away_score": 5,
       "home_score": 2,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-26T22:45:00Z"
     },
     {
       "game_id": "822811",
       "away": "MIA",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 2,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-26T23:07:00Z"
     },
     {
       "game_id": "823624",
       "away": "CIN",
       "home": "NYM",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-26T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "KC",
       "away_score": 5,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "HOU",
       "home": "TEX",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 5,
+      "state": "B1",
       "start_time": "2026-05-27T00:05:00Z"
     },
     {
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:15:04",
+      "time": "20:30:04",
       "game_id": "825004",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "823294",
       "home_team": "San Diego Padres",
       "away_team": "Philadelphia Phillies",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:15:06",
+      "time": "20:30:06",
       "game_id": "823216",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5153",
-      "away_prob": "0.4847",
+      "home_prob": "0.5140",
+      "away_prob": "0.4860",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0090",
-      "away_ev": "-0.0108",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
       "home_pitcher": "Tyler Mahle",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:15:07",
+      "time": "20:30:07",
       "game_id": "823949",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 52,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25340
+    "total_games_scanned_all": 25344
   }
 }
