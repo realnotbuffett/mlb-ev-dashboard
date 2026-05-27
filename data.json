@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T23:00:07.487943+00:00",
+  "last_updated": "2026-05-27T23:15:06.508229+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -61,7 +61,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 5,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-27T22:35:00Z"
     },
     {
@@ -69,17 +69,17 @@
       "away": "LAA",
       "home": "DET",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T2",
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
       "game_id": "823376",
       "away": "CHC",
       "home": "PIT",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-05-27T22:45:00Z"
     },
     {
@@ -104,9 +104,9 @@
       "game_id": "824596",
       "away": "MIN",
       "home": "CWS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-05-27",
-      "time": "19:00:05",
+      "time": "19:15:04",
       "game_id": "824104",
       "home_team": "Kansas City Royals",
       "away_team": "New York Yankees",
-      "home_prob": "0.4158",
-      "away_prob": "0.5842",
+      "home_prob": "0.4123",
+      "away_prob": "0.5877",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0099",
-      "away_ev": "-0.0099",
+      "home_ev": "-0.0182",
+      "away_ev": "-0.0040",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Gerrit Cole",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "19:00:06",
+      "time": "19:15:05",
       "game_id": "822897",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-05-27",
-      "time": "19:00:07",
+      "time": "19:15:06",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.7805",
-      "away_prob": "0.2195",
+      "home_prob": "0.7807",
+      "away_prob": "0.2193",
       "poly_home_price": "0.7900",
       "poly_away_price": "0.2200",
-      "home_ev": "-0.0120",
-      "away_ev": "-0.0024",
+      "home_ev": "-0.0118",
+      "away_ev": "-0.0032",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Tomoyuki Sugano",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 4,
     "total_bets_all_time": 56,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25816
+    "total_games_scanned_all": 25819
   }
 }
