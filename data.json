@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-27T00:45:07.595168+00:00",
+  "last_updated": "2026-05-27T01:00:07.575553+00:00",
   "scoreboard": [
     {
       "game_id": "824434",
       "away": "WSH",
       "home": "CLE",
-      "away_score": 4,
-      "home_score": 1,
-      "state": "T9",
+      "away_score": 6,
+      "home_score": 3,
+      "state": "FINAL",
       "start_time": "2026-05-26T22:10:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 6,
-      "state": "B7",
+      "state": "T9",
       "start_time": "2026-05-26T22:35:00Z"
     },
     {
       "game_id": "824275",
       "away": "LAA",
       "home": "DET",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 6,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-26T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PIT",
       "away_score": 1,
       "home_score": 10,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-05-26T22:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "ATL",
       "home": "BOS",
       "away_score": 5,
-      "home_score": 3,
-      "state": "B6",
+      "home_score": 4,
+      "state": "B7",
       "start_time": "2026-05-26T22:45:00Z"
     },
     {
@@ -51,17 +51,17 @@
       "away": "MIA",
       "home": "TOR",
       "away_score": 1,
-      "home_score": 2,
-      "state": "T6",
+      "home_score": 8,
+      "state": "B6",
       "start_time": "2026-05-26T23:07:00Z"
     },
     {
       "game_id": "823624",
       "away": "CIN",
       "home": "NYM",
-      "away_score": 5,
-      "home_score": 0,
-      "state": "T6",
+      "away_score": 6,
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-05-26T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "KC",
       "away_score": 9,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 1,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 8,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-05-27T00:05:00Z"
     },
     {
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:45:04",
+      "time": "21:00:04",
       "game_id": "825004",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:45:05",
+      "time": "21:00:05",
       "game_id": "823294",
       "home_team": "San Diego Padres",
       "away_team": "Philadelphia Phillies",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:45:06",
+      "time": "21:00:06",
       "game_id": "823216",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:45:07",
+      "time": "21:00:07",
       "game_id": "823949",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 52,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25348
+    "total_games_scanned_all": 25352
   }
 }
