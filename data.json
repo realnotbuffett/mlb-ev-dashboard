@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T22:15:14.829946+00:00",
+  "last_updated": "2026-05-27T22:30:09.836981+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -50,9 +50,9 @@
       "game_id": "823295",
       "away": "PHI",
       "home": "SD",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-05-27T20:10:00Z"
     },
     {
@@ -68,18 +68,18 @@
       "game_id": "824270",
       "away": "LAA",
       "home": "DET",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
       "game_id": "823376",
       "away": "CHC",
       "home": "PIT",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -951,8 +951,8 @@
       "ev_pct": "5.77%",
       "bet_size": "$10.00",
       "order_id": "0x234e3d16c94d830776",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -968,8 +968,8 @@
       "ev_pct": "14.41%",
       "bet_size": "$10.00",
       "order_id": "0xcaecb36520f31e38f2",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:15:10",
+      "time": "18:30:05",
       "game_id": "824756",
       "home_team": "Boston Red Sox",
       "away_team": "Atlanta Braves",
@@ -1161,8 +1161,8 @@
       "home_pitcher": "Connelly Early",
       "away_pitcher": "Bryce Elder",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:15:11",
+      "time": "18:30:06",
       "game_id": "823626",
       "home_team": "New York Mets",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5179",
-      "away_prob": "0.4821",
+      "home_prob": "0.5242",
+      "away_prob": "0.4758",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0229",
-      "away_ev": "0.0045",
+      "home_ev": "-0.0110",
+      "away_ev": "-0.0087",
       "home_pitcher": "Huascar Brazob\u00e1n",
       "away_pitcher": "Andrew Abbott",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:15:12",
+      "time": "18:30:07",
       "game_id": "824596",
       "home_team": "Chicago White Sox",
       "away_team": "Minnesota Twins",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:15:13",
+      "time": "18:30:07",
       "game_id": "824104",
       "home_team": "Kansas City Royals",
       "away_team": "New York Yankees",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:15:13",
+      "time": "18:30:08",
       "game_id": "822897",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:15:14",
+      "time": "18:30:09",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 4,
     "total_bets_all_time": 56,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25801
+    "total_games_scanned_all": 25807
   }
 }
