@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T22:30:09.836981+00:00",
+  "last_updated": "2026-05-27T22:45:09.024431+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -52,7 +52,7 @@
       "home": "SD",
       "away_score": 3,
       "home_score": 0,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-05-27T20:10:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "824756",
       "away": "ATL",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-27T22:45:00Z"
     },
     {
@@ -985,8 +985,8 @@
       "ev_pct": "13.89%",
       "bet_size": "$10.00",
       "order_id": "0x123db2424a709b0366",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     }
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:30:06",
+      "time": "18:45:05",
       "game_id": "823626",
       "home_team": "New York Mets",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5242",
-      "away_prob": "0.4758",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0110",
-      "away_ev": "-0.0087",
+      "home_ev": "-0.0062",
+      "away_ev": "-0.0140",
       "home_pitcher": "Huascar Brazob\u00e1n",
       "away_pitcher": "Andrew Abbott",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:30:07",
+      "time": "18:45:06",
       "game_id": "824596",
       "home_team": "Chicago White Sox",
       "away_team": "Minnesota Twins",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:30:07",
+      "time": "18:45:07",
       "game_id": "824104",
       "home_team": "Kansas City Royals",
       "away_team": "New York Yankees",
-      "home_prob": "0.4204",
-      "away_prob": "0.5796",
+      "home_prob": "0.4179",
+      "away_prob": "0.5821",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "0.0009",
-      "away_ev": "-0.0176",
+      "home_ev": "-0.0050",
+      "away_ev": "-0.0134",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Gerrit Cole",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:30:08",
+      "time": "18:45:08",
       "game_id": "822897",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-05-27",
-      "time": "18:30:09",
+      "time": "18:45:08",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.7805",
-      "away_prob": "0.2195",
+      "home_prob": "0.7809",
+      "away_prob": "0.2191",
       "poly_home_price": "0.7900",
       "poly_away_price": "0.2200",
-      "home_ev": "-0.0120",
-      "away_ev": "-0.0024",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0042",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Tomoyuki Sugano",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 4,
     "total_bets_all_time": 56,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25807
+    "total_games_scanned_all": 25812
   }
 }
