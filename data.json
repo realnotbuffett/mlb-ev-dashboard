@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T00:30:07.475897+00:00",
+  "last_updated": "2026-05-27T00:45:07.595168+00:00",
   "scoreboard": [
     {
       "game_id": "824434",
@@ -7,7 +7,7 @@
       "home": "CLE",
       "away_score": 4,
       "home_score": 1,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-05-26T22:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 6,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-26T22:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 6,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-05-26T22:40:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "CHC",
       "home": "PIT",
       "away_score": 1,
-      "home_score": 9,
-      "state": "T7",
+      "home_score": 10,
+      "state": "B7",
       "start_time": "2026-05-26T22:40:00Z"
     },
     {
@@ -42,7 +42,7 @@
       "away": "ATL",
       "home": "BOS",
       "away_score": 5,
-      "home_score": 2,
+      "home_score": 3,
       "state": "B6",
       "start_time": "2026-05-26T22:45:00Z"
     },
@@ -52,7 +52,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 2,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-05-26T23:07:00Z"
     },
     {
@@ -61,25 +61,25 @@
       "home": "NYM",
       "away_score": 5,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-26T23:10:00Z"
     },
     {
       "game_id": "824597",
       "away": "MIN",
       "home": "CWS",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
       "game_id": "824106",
       "away": "NYY",
       "home": "KC",
-      "away_score": 5,
-      "home_score": 0,
-      "state": "T3",
+      "away_score": 9,
+      "home_score": 1,
+      "state": "B3",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "STL",
       "home": "MIL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 1,
+      "state": "B4",
       "start_time": "2026-05-26T23:40:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "HOU",
       "home": "TEX",
       "away_score": 0,
-      "home_score": 5,
-      "state": "B1",
+      "home_score": 8,
+      "state": "B2",
       "start_time": "2026-05-27T00:05:00Z"
     },
     {
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:30:04",
+      "time": "20:45:04",
       "game_id": "825004",
       "home_team": "Athletics",
       "away_team": "Seattle Mariners",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:30:05",
+      "time": "20:45:05",
       "game_id": "823294",
       "home_team": "San Diego Padres",
       "away_team": "Philadelphia Phillies",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:30:06",
+      "time": "20:45:06",
       "game_id": "823216",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5140",
-      "away_prob": "0.4860",
+      "home_prob": "0.5165",
+      "away_prob": "0.4835",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0115",
-      "away_ev": "-0.0082",
+      "home_ev": "-0.0067",
+      "away_ev": "-0.0133",
       "home_pitcher": "Tyler Mahle",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-05-26",
-      "time": "20:30:07",
+      "time": "20:45:07",
       "game_id": "823949",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 52,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25344
+    "total_games_scanned_all": 25348
   }
 }
