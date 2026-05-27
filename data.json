@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T23:15:06.508229+00:00",
+  "last_updated": "2026-05-27T23:30:08.847603+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -61,7 +61,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 5,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-27T22:35:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 2,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "PIT",
       "away_score": 3,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-05-27T22:45:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "CIN",
       "home": "NYM",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-05-27T23:10:00Z"
     },
     {
@@ -113,9 +113,9 @@
       "game_id": "824104",
       "away": "NYY",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-05-27",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-04-04",
-      "time": "19:45:06",
-      "game_id": "824378",
-      "home_team": "Colorado Rockies",
-      "away_team": "Philadelphia Phillies",
-      "bet_side": "home",
-      "model_prob": "0.3912",
-      "polymarket_price": "0.3100",
-      "ev_pct": "26.19%",
-      "bet_size": "$10.00",
-      "order_id": "0xdb7751ce5b8625c050",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-04-05",
       "time": "14:00:06",
@@ -989,6 +972,23 @@
       "filled_size": "$10.00",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "19:30:08",
+      "game_id": "823947",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Colorado Rockies",
+      "bet_side": "away",
+      "model_prob": "0.2201",
+      "polymarket_price": "0.2100",
+      "ev_pct": "4.80%",
+      "bet_size": "$10.00",
+      "order_id": "0x46249c411770130107",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "19:15:05",
+      "time": "19:30:04",
       "game_id": "822897",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1258,21 +1258,21 @@
     },
     {
       "date": "2026-05-27",
-      "time": "19:15:06",
+      "time": "19:30:08",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.7807",
-      "away_prob": "0.2193",
-      "poly_home_price": "0.7900",
-      "poly_away_price": "0.2200",
-      "home_ev": "-0.0118",
-      "away_ev": "-0.0032",
+      "home_prob": "0.7799",
+      "away_prob": "0.2201",
+      "poly_home_price": "0.8000",
+      "poly_away_price": "0.2100",
+      "home_ev": "-0.0251",
+      "away_ev": "0.0480",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Tomoyuki Sugano",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1324,9 +1324,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 4,
-    "total_bets_all_time": 56,
+    "total_bets_today": 5,
+    "total_bets_all_time": 57,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25819
+    "total_games_scanned_all": 25821
   }
 }
