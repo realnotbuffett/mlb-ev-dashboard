@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T01:30:05.627423+00:00",
+  "last_updated": "2026-05-28T01:45:05.999003+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -79,7 +79,7 @@
       "home": "PIT",
       "away_score": 10,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "CIN",
       "home": "NYM",
       "away_score": 2,
-      "home_score": 3,
-      "state": "B7",
+      "home_score": 4,
+      "state": "T8",
       "start_time": "2026-05-27T23:10:00Z"
     },
     {
@@ -105,17 +105,17 @@
       "away": "MIN",
       "home": "CWS",
       "away_score": 1,
-      "home_score": 9,
-      "state": "B7",
+      "home_score": 14,
+      "state": "T8",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
       "game_id": "824104",
       "away": "NYY",
       "home": "KC",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "TEX",
       "away_score": 2,
       "home_score": 2,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-28T00:05:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "21:30:05",
+      "time": "21:45:05",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25830
+    "total_games_scanned_all": 25831
   }
 }
