@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T14:30:09.102019+00:00",
+  "last_updated": "2026-05-28T14:45:09.961415+00:00",
   "scoreboard": [
     {
       "game_id": "824272",
@@ -913,7 +913,7 @@
   "today_games": [
     {
       "date": "2026-05-28",
-      "time": "10:30:04",
+      "time": "10:45:05",
       "game_id": "824272",
       "home_team": "Detroit Tigers",
       "away_team": "Los Angeles Angels",
@@ -935,7 +935,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "10:30:05",
+      "time": "10:45:06",
       "game_id": "824595",
       "home_team": "Chicago White Sox",
       "away_team": "Minnesota Twins",
@@ -957,7 +957,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "10:30:06",
+      "time": "10:45:07",
       "game_id": "824757",
       "home_team": "Boston Red Sox",
       "away_team": "Atlanta Braves",
@@ -979,7 +979,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "10:30:07",
+      "time": "10:45:08",
       "game_id": "824834",
       "home_team": "Baltimore Orioles",
       "away_team": "Toronto Blue Jays",
@@ -1001,7 +1001,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "10:30:08",
+      "time": "10:45:08",
       "game_id": "823378",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Chicago Cubs",
@@ -1023,7 +1023,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "10:30:09",
+      "time": "10:45:09",
       "game_id": "822896",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1048,6 +1048,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 25873
+    "total_games_scanned_all": 25879
   }
 }
