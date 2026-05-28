@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T00:30:04.699024+00:00",
+  "last_updated": "2026-05-28T00:45:04.908835+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -60,8 +60,8 @@
       "away": "TB",
       "home": "BAL",
       "away_score": 1,
-      "home_score": 9,
-      "state": "B6",
+      "home_score": 11,
+      "state": "B7",
       "start_time": "2026-05-27T22:35:00Z"
     },
     {
@@ -69,15 +69,15 @@
       "away": "LAA",
       "home": "DET",
       "away_score": 0,
-      "home_score": 3,
-      "state": "T7",
+      "home_score": 4,
+      "state": "T8",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
       "game_id": "823376",
       "away": "CHC",
       "home": "PIT",
-      "away_score": 4,
+      "away_score": 9,
       "home_score": 4,
       "state": "T7",
       "start_time": "2026-05-27T22:40:00Z"
@@ -88,7 +88,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 6,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-05-27T22:45:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 2,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-27T23:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 3,
-      "state": "B3",
+      "state": "T5",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "KC",
       "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "TEX",
       "away_score": 1,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-05-28T00:05:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-05-27",
-      "time": "20:30:04",
+      "time": "20:45:04",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25826
+    "total_games_scanned_all": 25827
   }
 }
