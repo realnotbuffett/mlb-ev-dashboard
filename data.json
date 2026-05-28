@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T20:00:06.480141+00:00",
+  "last_updated": "2026-05-28T20:15:06.516079+00:00",
   "scoreboard": [
     {
       "game_id": "824272",
@@ -14,9 +14,9 @@
       "game_id": "824595",
       "away": "MIN",
       "home": "CWS",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 6,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-05-28T18:10:00Z"
     },
     {
@@ -979,16 +979,16 @@
     },
     {
       "date": "2026-05-28",
-      "time": "16:00:04",
+      "time": "16:15:04",
       "game_id": "824834",
       "home_team": "Baltimore Orioles",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5418",
-      "away_prob": "0.4582",
+      "home_prob": "0.5406",
+      "away_prob": "0.4594",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "0.0033",
-      "away_ev": "-0.0250",
+      "home_ev": "0.0011",
+      "away_ev": "-0.0226",
       "home_pitcher": "Chris Bassitt",
       "away_pitcher": "Patrick Corbin",
       "pitchers_confirmed": "yes",
@@ -1001,7 +1001,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "823378",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Chicago Cubs",
@@ -1023,7 +1023,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "822896",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1048,6 +1048,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 25982
+    "total_games_scanned_all": 25985
   }
 }
