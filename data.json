@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T17:00:08.535799+00:00",
+  "last_updated": "2026-05-28T17:15:08.921445+00:00",
   "scoreboard": [
     {
       "game_id": "824272",
@@ -935,16 +935,16 @@
     },
     {
       "date": "2026-05-28",
-      "time": "13:00:04",
+      "time": "13:15:05",
       "game_id": "824595",
       "home_team": "Chicago White Sox",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.6039",
-      "away_prob": "0.3961",
+      "home_prob": "0.6049",
+      "away_prob": "0.3951",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "0.0065",
-      "away_ev": "-0.0339",
+      "home_ev": "0.0081",
+      "away_ev": "-0.0363",
       "home_pitcher": "Davis Martin",
       "away_pitcher": "Kendry Rojas",
       "pitchers_confirmed": "yes",
@@ -957,16 +957,16 @@
     },
     {
       "date": "2026-05-28",
-      "time": "13:00:05",
+      "time": "13:15:06",
       "game_id": "824757",
       "home_team": "Boston Red Sox",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4408",
-      "away_prob": "0.5592",
+      "home_prob": "0.4422",
+      "away_prob": "0.5578",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0204",
-      "away_ev": "-0.0014",
+      "home_ev": "-0.0173",
+      "away_ev": "-0.0039",
       "home_pitcher": "Payton Tolle",
       "away_pitcher": "Chris Sale",
       "pitchers_confirmed": "yes",
@@ -979,7 +979,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "13:00:06",
+      "time": "13:15:07",
       "game_id": "824834",
       "home_team": "Baltimore Orioles",
       "away_team": "Toronto Blue Jays",
@@ -1001,7 +1001,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "13:00:07",
+      "time": "13:15:07",
       "game_id": "823378",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Chicago Cubs",
@@ -1023,7 +1023,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "13:00:08",
+      "time": "13:15:08",
       "game_id": "822896",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
@@ -1048,6 +1048,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 25932
+    "total_games_scanned_all": 25937
   }
 }
