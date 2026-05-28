@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-28T19:30:07.347468+00:00",
+  "last_updated": "2026-05-28T19:45:07.336287+00:00",
   "scoreboard": [
     {
       "game_id": "824272",
       "away": "LAA",
       "home": "DET",
-      "away_score": 5,
+      "away_score": 7,
       "home_score": 1,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-05-28T17:10:00Z"
     },
     {
       "game_id": "824595",
       "away": "MIN",
       "home": "CWS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 6,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-05-28T18:10:00Z"
     },
     {
@@ -957,16 +957,16 @@
     },
     {
       "date": "2026-05-28",
-      "time": "15:30:04",
+      "time": "15:45:04",
       "game_id": "824757",
       "home_team": "Boston Red Sox",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4557",
-      "away_prob": "0.5443",
+      "home_prob": "0.4582",
+      "away_prob": "0.5418",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0094",
-      "away_ev": "-0.0104",
+      "home_ev": "-0.0039",
+      "away_ev": "-0.0150",
       "home_pitcher": "Payton Tolle",
       "away_pitcher": "Chris Sale",
       "pitchers_confirmed": "yes",
@@ -979,7 +979,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "15:30:05",
+      "time": "15:45:05",
       "game_id": "824834",
       "home_team": "Baltimore Orioles",
       "away_team": "Toronto Blue Jays",
@@ -1001,7 +1001,7 @@
     },
     {
       "date": "2026-05-28",
-      "time": "15:30:06",
+      "time": "15:45:06",
       "game_id": "823378",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Chicago Cubs",
@@ -1023,16 +1023,16 @@
     },
     {
       "date": "2026-05-28",
-      "time": "15:30:07",
+      "time": "15:45:07",
       "game_id": "822896",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
-      "home_prob": "0.5468",
-      "away_prob": "0.4532",
+      "home_prob": "0.5480",
+      "away_prob": "0.4520",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0058",
-      "away_ev": "-0.0149",
+      "home_ev": "-0.0037",
+      "away_ev": "-0.0173",
       "home_pitcher": "Nathan Eovaldi",
       "away_pitcher": "Spencer Arrighetti",
       "pitchers_confirmed": "yes",
@@ -1048,6 +1048,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 25975
+    "total_games_scanned_all": 25979
   }
 }
