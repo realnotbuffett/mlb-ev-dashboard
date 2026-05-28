@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T00:15:04.835066+00:00",
+  "last_updated": "2026-05-28T00:30:04.699024+00:00",
   "scoreboard": [
     {
       "game_id": "822809",
@@ -59,9 +59,9 @@
       "game_id": "824836",
       "away": "TB",
       "home": "BAL",
-      "away_score": 0,
-      "home_score": 8,
-      "state": "T6",
+      "away_score": 1,
+      "home_score": 9,
+      "state": "B6",
       "start_time": "2026-05-27T22:35:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 3,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "PIT",
       "away_score": 4,
       "home_score": 4,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-05-27T22:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 6,
-      "state": "T5",
+      "state": "B6",
       "start_time": "2026-05-27T22:45:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 2,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-05-27T23:10:00Z"
     },
     {
@@ -105,26 +105,26 @@
       "away": "MIN",
       "home": "CWS",
       "away_score": 1,
-      "home_score": 2,
-      "state": "B2",
+      "home_score": 3,
+      "state": "B3",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
       "game_id": "824104",
       "away": "NYY",
       "home": "KC",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-27T23:40:00Z"
     },
     {
       "game_id": "822897",
       "away": "HOU",
       "home": "TEX",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "away_score": 1,
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-05-28T00:05:00Z"
     },
     {
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-05-27",
-      "time": "20:15:04",
+      "time": "20:30:04",
       "game_id": "823947",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.7826",
-      "away_prob": "0.2174",
+      "home_prob": "0.7830",
+      "away_prob": "0.2170",
       "poly_home_price": "0.8000",
       "poly_away_price": "0.2100",
-      "home_ev": "-0.0217",
-      "away_ev": "0.0352",
+      "home_ev": "-0.0213",
+      "away_ev": "0.0334",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Tomoyuki Sugano",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 57,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 25825
+    "total_games_scanned_all": 25826
   }
 }
