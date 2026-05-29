@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T00:30:04.453330+00:00",
+  "last_updated": "2026-05-29T00:45:04.903472+00:00",
   "scoreboard": [
     {
       "game_id": "824272",
@@ -34,7 +34,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 1,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-05-28T22:35:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "CHC",
       "home": "PIT",
       "away_score": 3,
-      "home_score": 1,
-      "state": "B6",
+      "home_score": 2,
+      "state": "T7",
       "start_time": "2026-05-28T22:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "HOU",
       "home": "TEX",
       "away_score": 3,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-05-29T00:05:00Z"
     }
   ],
