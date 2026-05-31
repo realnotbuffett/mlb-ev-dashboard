@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T21:30:05.201527+00:00",
+  "last_updated": "2026-05-31T21:45:05.264247+00:00",
   "scoreboard": [
     {
       "game_id": "824832",
@@ -95,9 +95,9 @@
       "game_id": "824354",
       "away": "SF",
       "home": "COL",
-      "away_score": 11,
+      "away_score": 12,
       "home_score": 5,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-31T19:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "OAK",
       "away_score": 13,
       "home_score": 3,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-05-31T20:05:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-05-31T20:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "PHI",
       "home": "LAD",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B4",
+      "home_score": 4,
+      "state": "T5",
       "start_time": "2026-05-31T20:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-05-31",
-      "time": "17:30:05",
+      "time": "17:45:05",
       "game_id": "823053",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5204",
+      "away_prob": "0.4796",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_ev": "-0.0181",
+      "away_ev": "-0.0009",
       "home_pitcher": "Matthew Liberatore",
       "away_pitcher": "Jordan Wicks",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 62,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 27477
+    "total_games_scanned_all": 27478
   }
 }
