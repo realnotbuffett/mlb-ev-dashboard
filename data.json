@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T21:00:04.973216+00:00",
+  "last_updated": "2026-05-31T21:15:05.523005+00:00",
   "scoreboard": [
     {
       "game_id": "824832",
@@ -88,14 +88,14 @@
       "home": "TEX",
       "away_score": 3,
       "home_score": 6,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-31T18:35:00Z"
     },
     {
       "game_id": "824354",
       "away": "SF",
       "home": "COL",
-      "away_score": 4,
+      "away_score": 11,
       "home_score": 3,
       "state": "T5",
       "start_time": "2026-05-31T19:10:00Z"
@@ -104,7 +104,7 @@
       "game_id": "825001",
       "away": "NYY",
       "home": "OAK",
-      "away_score": 4,
+      "away_score": 10,
       "home_score": 3,
       "state": "T3",
       "start_time": "2026-05-31T20:05:00Z"
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 1,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-05-31T20:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "PHI",
       "home": "LAD",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-05-31T20:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-05-31",
-      "time": "17:00:04",
+      "time": "17:15:05",
       "game_id": "823053",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.5204",
-      "away_prob": "0.4796",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0181",
-      "away_ev": "-0.0009",
+      "home_ev": "-0.0014",
+      "away_ev": "-0.0193",
       "home_pitcher": "Matthew Liberatore",
       "away_pitcher": "Jordan Wicks",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 62,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 27475
+    "total_games_scanned_all": 27476
   }
 }
