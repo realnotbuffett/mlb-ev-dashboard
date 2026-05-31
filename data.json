@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T17:45:10.957984+00:00",
+  "last_updated": "2026-05-31T18:00:09.309709+00:00",
   "scoreboard": [
     {
       "game_id": "824832",
       "away": "TOR",
       "home": "BAL",
       "away_score": 0,
-      "home_score": 6,
+      "home_score": 8,
       "state": "B6",
       "start_time": "2026-05-31T16:15:00Z"
     },
@@ -16,7 +16,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-05-31T17:35:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "MIN",
       "home": "PIT",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-05-31T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "LAA",
       "home": "TB",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "ATL",
       "home": "CIN",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
@@ -60,26 +60,26 @@
       "away": "MIA",
       "home": "NYM",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
       "game_id": "824592",
       "away": "DET",
       "home": "CWS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-31T18:10:00Z"
     },
     {
       "game_id": "824187",
       "away": "MIL",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-05-31T18:10:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-05-31",
-      "time": "13:45:06",
+      "time": "14:00:04",
       "game_id": "822895",
       "home_team": "Texas Rangers",
       "away_team": "Kansas City Royals",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-05-31",
-      "time": "13:45:07",
+      "time": "14:00:05",
       "game_id": "824354",
       "home_team": "Colorado Rockies",
       "away_team": "San Francisco Giants",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-05-31",
-      "time": "13:45:08",
+      "time": "14:00:06",
       "game_id": "825001",
       "home_team": "Athletics",
       "away_team": "New York Yankees",
-      "home_prob": "0.3816",
-      "away_prob": "0.6184",
+      "home_prob": "0.3789",
+      "away_prob": "0.6211",
       "poly_home_price": "0.3900",
       "poly_away_price": "0.6200",
-      "home_ev": "-0.0214",
-      "away_ev": "-0.0026",
+      "home_ev": "-0.0285",
+      "away_ev": "0.0018",
       "home_pitcher": "Jacob Lopez",
       "away_pitcher": "Will Warren",
       "pitchers_confirmed": "yes",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-05-31",
-      "time": "13:45:09",
+      "time": "14:00:07",
       "game_id": "823133",
       "home_team": "Seattle Mariners",
       "away_team": "Arizona Diamondbacks",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-05-31",
-      "time": "13:45:09",
+      "time": "14:00:08",
       "game_id": "823944",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.6807",
-      "away_prob": "0.3193",
+      "home_prob": "0.6829",
+      "away_prob": "0.3171",
       "poly_home_price": "0.6900",
       "poly_away_price": "0.3200",
-      "home_ev": "-0.0135",
-      "away_ev": "-0.0022",
+      "home_ev": "-0.0103",
+      "away_ev": "-0.0091",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Andrew Painter",
       "pitchers_confirmed": "yes",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-05-31",
-      "time": "13:45:10",
+      "time": "14:00:09",
       "game_id": "823053",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 62,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 27436
+    "total_games_scanned_all": 27442
   }
 }
