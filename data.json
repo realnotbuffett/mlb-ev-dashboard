@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T20:15:05.459262+00:00",
+  "last_updated": "2026-05-31T20:30:05.152999+00:00",
   "scoreboard": [
     {
       "game_id": "824832",
@@ -34,7 +34,7 @@
       "home": "CLE",
       "away_score": 9,
       "home_score": 4,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TB",
       "away_score": 2,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CIN",
       "away_score": 4,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 10,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-05-31T17:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 2,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-31T18:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 0,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-05-31T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 6,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-05-31T18:35:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "COL",
       "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-05-31T19:10:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "NYY",
       "home": "OAK",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 3,
+      "state": "T2",
       "start_time": "2026-05-31T20:05:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-31T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-05-31T20:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-05-31",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "823053",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
       "home_prob": "0.5204",
       "away_prob": "0.4796",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "0.0008",
-      "away_ev": "-0.0212",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "-0.0181",
+      "away_ev": "-0.0009",
       "home_pitcher": "Matthew Liberatore",
       "away_pitcher": "Jordan Wicks",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 62,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 27472
+    "total_games_scanned_all": 27473
   }
 }
