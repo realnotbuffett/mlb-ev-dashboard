@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T00:30:07.521536+00:00",
+  "last_updated": "2026-05-31T00:45:07.477164+00:00",
   "scoreboard": [
     {
       "game_id": "824593",
@@ -88,7 +88,7 @@
       "home": "STL",
       "away_score": 1,
       "home_score": 1,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-30T23:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "CIN",
       "away_score": 3,
       "home_score": 2,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-05-30T23:15:00Z"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-05-30",
-      "time": "20:30:04",
+      "time": "20:45:04",
       "game_id": "824352",
       "home_team": "Colorado Rockies",
       "away_team": "San Francisco Giants",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-05-30",
-      "time": "20:30:05",
+      "time": "20:45:05",
       "game_id": "825000",
       "home_team": "Athletics",
       "away_team": "New York Yankees",
-      "home_prob": "0.4204",
-      "away_prob": "0.5796",
+      "home_prob": "0.4194",
+      "away_prob": "0.5806",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "0.0009",
-      "away_ev": "-0.0176",
+      "home_ev": "-0.0015",
+      "away_ev": "-0.0159",
       "home_pitcher": "J.T. Ginn",
       "away_pitcher": "Ryan Weathers",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-05-30",
-      "time": "20:30:06",
+      "time": "20:45:06",
       "game_id": "823132",
       "home_team": "Seattle Mariners",
       "away_team": "Arizona Diamondbacks",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-05-30",
-      "time": "20:30:07",
+      "time": "20:45:07",
       "game_id": "823945",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Philadelphia Phillies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 60,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 27143
+    "total_games_scanned_all": 27147
   }
 }
