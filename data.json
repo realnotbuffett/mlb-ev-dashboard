@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-01T23:30:08.324470+00:00",
+  "last_updated": "2026-06-01T23:45:08.912580+00:00",
   "scoreboard": [
     {
       "game_id": "822974",
       "away": "DET",
       "home": "TB",
       "away_score": 6,
-      "home_score": 0,
-      "state": "T4",
+      "home_score": 2,
+      "state": "B4",
       "start_time": "2026-06-01T22:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "WSH",
       "away_score": 1,
       "home_score": 2,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-06-01T22:45:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "CIN",
       "away_score": 4,
       "home_score": 1,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-01T23:10:00Z"
     },
     {
@@ -86,23 +86,6 @@
   "today": "2026-06-01",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-04-10",
-      "time": "19:45:08",
-      "game_id": "823968",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Texas Rangers",
-      "bet_side": "away",
-      "model_prob": "0.3717",
-      "polymarket_price": "0.3400",
-      "ev_pct": "9.32%",
-      "bet_size": "$10.00",
-      "order_id": "0xbfea42cbfa7bf4e41c",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-04-12",
       "time": "14:15:09",
@@ -935,6 +918,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-06-01",
+      "time": "19:45:07",
+      "game_id": "825078",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Los Angeles Dodgers",
+      "bet_side": "home",
+      "model_prob": "0.4731",
+      "polymarket_price": "0.4100",
+      "ev_pct": "15.40%",
+      "bet_size": "$10.00",
+      "order_id": "0x529f2ac266513ee540",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-01",
-      "time": "19:30:06",
+      "time": "19:45:05",
       "game_id": "824027",
       "home_team": "Los Angeles Angels",
       "away_team": "Colorado Rockies",
@@ -1072,21 +1072,21 @@
     },
     {
       "date": "2026-06-01",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "825078",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.4020",
-      "away_prob": "0.5980",
+      "home_prob": "0.4731",
+      "away_prob": "0.5269",
       "poly_home_price": "0.4100",
       "poly_away_price": "0.6000",
-      "home_ev": "-0.0196",
-      "away_ev": "-0.0033",
+      "home_ev": "0.1540",
+      "away_ev": "-0.1219",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Emmet Sheehan",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-01",
-      "time": "19:30:08",
+      "time": "19:45:08",
       "game_id": "823131",
       "home_team": "Seattle Mariners",
       "away_team": "New York Mets",
@@ -1138,9 +1138,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 63,
+    "total_bets_today": 2,
+    "total_bets_all_time": 64,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 27819
+    "total_games_scanned_all": 27822
   }
 }
