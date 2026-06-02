@@ -1,40 +1,40 @@
 {
-  "last_updated": "2026-06-02T00:15:08.378073+00:00",
+  "last_updated": "2026-06-02T00:30:07.765609+00:00",
   "scoreboard": [
     {
       "game_id": "822974",
       "away": "DET",
       "home": "TB",
       "away_score": 8,
-      "home_score": 2,
-      "state": "T6",
+      "home_score": 5,
+      "state": "B6",
       "start_time": "2026-06-01T22:40:00Z"
     },
     {
       "game_id": "822730",
       "away": "MIA",
       "home": "WSH",
-      "away_score": 1,
+      "away_score": 4,
       "home_score": 3,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-06-01T22:45:00Z"
     },
     {
       "game_id": "824510",
       "away": "KC",
       "home": "CIN",
-      "away_score": 4,
+      "away_score": 6,
       "home_score": 1,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-06-01T23:10:00Z"
     },
     {
       "game_id": "823702",
       "away": "CWS",
       "home": "MIN",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-01T23:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "SF",
       "home": "MIL",
       "away_score": 2,
-      "home_score": 4,
-      "state": "B2",
+      "home_score": 7,
+      "state": "T3",
       "start_time": "2026-06-01T23:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-06-01T23:45:00Z"
     },
     {
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-01",
-      "time": "20:15:06",
+      "time": "20:30:05",
       "game_id": "824027",
       "home_team": "Los Angeles Angels",
       "away_team": "Colorado Rockies",
@@ -1063,8 +1063,8 @@
       "home_pitcher": "Jos\u00e9 Soriano",
       "away_pitcher": "Kyle Freeland",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-06-01",
-      "time": "20:15:07",
+      "time": "20:30:06",
       "game_id": "825078",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-06-01",
-      "time": "20:15:08",
+      "time": "20:30:07",
       "game_id": "823131",
       "home_team": "Seattle Mariners",
       "away_team": "New York Mets",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5468",
+      "away_prob": "0.4532",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0094",
+      "home_ev": "-0.0058",
+      "away_ev": "-0.0149",
       "home_pitcher": "Emerson Hancock",
       "away_pitcher": "Austin Warren",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 65,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 27828
+    "total_games_scanned_all": 27831
   }
 }
