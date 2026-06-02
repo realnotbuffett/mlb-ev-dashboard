@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-02T01:15:05.612718+00:00",
+  "last_updated": "2026-06-02T01:30:05.282611+00:00",
   "scoreboard": [
     {
       "game_id": "822974",
       "away": "DET",
       "home": "TB",
       "away_score": 10,
-      "home_score": 5,
+      "home_score": 9,
       "state": "B8",
       "start_time": "2026-06-01T22:40:00Z"
     },
@@ -14,9 +14,9 @@
       "game_id": "822730",
       "away": "MIA",
       "home": "WSH",
-      "away_score": 4,
+      "away_score": 7,
       "home_score": 3,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-01T22:45:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "CIN",
       "away_score": 8,
       "home_score": 1,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-01T23:10:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "CWS",
       "home": "MIN",
       "away_score": 4,
-      "home_score": 5,
-      "state": "B5",
+      "home_score": 9,
+      "state": "T6",
       "start_time": "2026-06-01T23:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "MIL",
       "away_score": 2,
       "home_score": 8,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-06-01T23:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "TEX",
       "home": "STL",
       "away_score": 2,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 1,
+      "state": "B6",
       "start_time": "2026-06-01T23:45:00Z"
     },
     {
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-06-01",
-      "time": "21:15:05",
+      "time": "21:30:05",
       "game_id": "823131",
       "home_team": "Seattle Mariners",
       "away_team": "New York Mets",
-      "home_prob": "0.5429",
-      "away_prob": "0.4571",
+      "home_prob": "0.5455",
+      "away_prob": "0.4545",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0129",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0119",
       "home_pitcher": "Emerson Hancock",
       "away_pitcher": "Austin Warren",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 65,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 27838
+    "total_games_scanned_all": 27839
   }
 }
