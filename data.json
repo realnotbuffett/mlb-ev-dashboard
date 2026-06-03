@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T01:00:08.907794+00:00",
+  "last_updated": "2026-06-03T01:15:05.805493+00:00",
   "scoreboard": [
     {
       "game_id": "822971",
@@ -7,7 +7,7 @@
       "home": "TB",
       "away_score": 8,
       "home_score": 0,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-02T22:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "PHI",
       "away_score": 2,
       "home_score": 3,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-02T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "BOS",
       "away_score": 4,
       "home_score": 2,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-02T22:45:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "WSH",
       "away_score": 4,
       "home_score": 3,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-02T22:45:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYY",
       "away_score": 5,
       "home_score": 4,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-06-02T23:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CIN",
       "away_score": 3,
       "home_score": 1,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-02T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 4,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-02T23:15:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "CWS",
       "home": "MIN",
       "away_score": 3,
-      "home_score": 5,
-      "state": "T5",
+      "home_score": 6,
+      "state": "T6",
       "start_time": "2026-06-02T23:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-02T23:40:00Z"
     },
     {
       "game_id": "823052",
       "away": "TEX",
       "home": "STL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 2,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-06-02T23:45:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "CHC",
       "away_score": 2,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-06-03T00:05:00Z"
     },
     {
@@ -105,17 +105,17 @@
       "away": "PIT",
       "home": "HOU",
       "away_score": 2,
-      "home_score": 2,
-      "state": "B3",
+      "home_score": 3,
+      "state": "B4",
       "start_time": "2026-06-03T00:10:00Z"
     },
     {
       "game_id": "824026",
       "away": "COL",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-03T01:38:00Z"
     },
     {
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-02",
-      "time": "21:00:07",
+      "time": "21:15:04",
       "game_id": "825079",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
@@ -1293,8 +1293,8 @@
       "home_pitcher": "Michael Soroka",
       "away_pitcher": "Eric Lauer",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-02",
-      "time": "21:00:08",
+      "time": "21:15:05",
       "game_id": "823129",
       "home_team": "Seattle Mariners",
       "away_team": "New York Mets",
-      "home_prob": "0.5786",
-      "away_prob": "0.4214",
+      "home_prob": "0.5693",
+      "away_prob": "0.4307",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "0.0150",
-      "away_ev": "-0.0422",
+      "home_ev": "-0.0013",
+      "away_ev": "-0.0211",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "Huascar Brazob\u00e1n",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 66,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 28421
+    "total_games_scanned_all": 28423
   }
 }
