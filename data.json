@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T20:00:08.359239+00:00",
+  "last_updated": "2026-06-04T20:15:08.520240+00:00",
   "scoreboard": [
     {
       "game_id": "823457",
@@ -16,7 +16,7 @@
       "home": "BOS",
       "away_score": 8,
       "home_score": 1,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-04T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-04T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIL",
       "away_score": 6,
       "home_score": 3,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-06-04T18:10:00Z"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "823698",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-06-04",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "824672",
       "home_team": "Chicago Cubs",
       "away_team": "Athletics",
-      "home_prob": "0.5578",
-      "away_prob": "0.4422",
+      "home_prob": "0.5567",
+      "away_prob": "0.4433",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0039",
-      "away_ev": "-0.0173",
+      "home_ev": "-0.0059",
+      "away_ev": "-0.0148",
       "home_pitcher": "Shota Imanaga",
       "away_pitcher": "J.T. Ginn",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "16:00:07",
+      "time": "16:15:07",
       "game_id": "824185",
       "home_team": "Houston Astros",
       "away_team": "Pittsburgh Pirates",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "16:00:08",
+      "time": "16:15:08",
       "game_id": "825076",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-06-04",
-      "time": "16:00:04",
+      "time": "16:15:04",
       "game_id": "824919",
       "home_team": "Atlanta Braves",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.6970",
-      "away_prob": "0.3030",
+      "home_prob": "0.6983",
+      "away_prob": "0.3017",
       "poly_home_price": "0.7000",
       "poly_away_price": "0.3100",
-      "home_ev": "-0.0043",
-      "away_ev": "-0.0225",
+      "home_ev": "-0.0025",
+      "away_ev": "-0.0267",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Mason Fluharty",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 29127
+    "total_games_scanned_all": 29132
   }
 }
