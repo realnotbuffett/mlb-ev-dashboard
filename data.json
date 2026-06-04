@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T01:00:05.827284+00:00",
+  "last_updated": "2026-06-04T01:15:06.480563+00:00",
   "scoreboard": [
     {
       "game_id": "822727",
@@ -50,9 +50,9 @@
       "game_id": "824755",
       "away": "BAL",
       "home": "BOS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 8,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-03T22:45:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYY",
       "away_score": 4,
       "home_score": 3,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-06-03T23:05:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CIN",
       "away_score": 2,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-03T23:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "TOR",
       "home": "ATL",
       "away_score": 2,
-      "home_score": 4,
-      "state": "T7",
+      "home_score": 7,
+      "state": "T8",
       "start_time": "2026-06-03T23:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-06-03T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "STL",
       "away_score": 1,
       "home_score": 3,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-06-03T23:45:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "OAK",
       "home": "CHC",
       "away_score": 2,
-      "home_score": 3,
-      "state": "T4",
+      "home_score": 4,
+      "state": "B4",
       "start_time": "2026-06-04T00:05:00Z"
     },
     {
@@ -114,17 +114,17 @@
       "away": "PIT",
       "home": "HOU",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-06-04T00:10:00Z"
     },
     {
       "game_id": "824024",
       "away": "COL",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-04T01:38:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-06-03",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-04-13",
-      "time": "18:45:06",
-      "game_id": "823725",
-      "home_team": "Minnesota Twins",
-      "away_team": "Boston Red Sox",
-      "bet_side": "home",
-      "model_prob": "0.4456",
-      "polymarket_price": "0.4100",
-      "ev_pct": "8.68%",
-      "bet_size": "$10.00",
-      "order_id": "0xe5e1a2897e1ef65d2d",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "win",
-      "profit": "14.39"
-    },
     {
       "date": "2026-04-13",
       "time": "18:45:10",
@@ -989,6 +972,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "8.87"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "21:15:06",
+      "game_id": "825077",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Los Angeles Dodgers",
+      "bet_side": "home",
+      "model_prob": "0.4271",
+      "polymarket_price": "0.3500",
+      "ev_pct": "22.04%",
+      "bet_size": "$10.00",
+      "order_id": "0xc6885e711d1b18e59b",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1280,21 +1280,21 @@
     },
     {
       "date": "2026-06-03",
-      "time": "21:00:05",
+      "time": "21:15:06",
       "game_id": "825077",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3456",
-      "away_prob": "0.6544",
+      "home_prob": "0.4271",
+      "away_prob": "0.5729",
       "poly_home_price": "0.3500",
       "poly_away_price": "0.6600",
-      "home_ev": "-0.0125",
-      "away_ev": "-0.0085",
+      "home_ev": "0.2204",
+      "away_ev": "-0.1320",
       "home_pitcher": "Zac Gallen",
       "away_pitcher": "Shohei Ohtani",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1324,9 +1324,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 66,
+    "total_bets_today": 1,
+    "total_bets_all_time": 67,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 28933
+    "total_games_scanned_all": 28934
   }
 }
