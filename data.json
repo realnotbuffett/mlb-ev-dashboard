@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T22:15:09.462939+00:00",
+  "last_updated": "2026-06-04T22:30:08.574152+00:00",
   "scoreboard": [
     {
       "game_id": "823457",
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "18:15:06",
+      "time": "18:30:05",
       "game_id": "823698",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-06-04",
-      "time": "18:15:07",
+      "time": "18:30:06",
       "game_id": "824672",
       "home_team": "Chicago Cubs",
       "away_team": "Athletics",
-      "home_prob": "0.5761",
-      "away_prob": "0.4239",
+      "home_prob": "0.5736",
+      "away_prob": "0.4264",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0068",
-      "away_ev": "-0.0141",
+      "home_ev": "-0.0111",
+      "away_ev": "-0.0083",
       "home_pitcher": "Shota Imanaga",
       "away_pitcher": "J.T. Ginn",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "18:15:08",
+      "time": "18:30:07",
       "game_id": "824185",
       "home_team": "Houston Astros",
       "away_team": "Pittsburgh Pirates",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "18:15:09",
+      "time": "18:30:08",
       "game_id": "825076",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "18:15:05",
+      "time": "18:30:04",
       "game_id": "824919",
       "home_team": "Atlanta Braves",
       "away_team": "Toronto Blue Jays",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 29172
+    "total_games_scanned_all": 29177
   }
 }
