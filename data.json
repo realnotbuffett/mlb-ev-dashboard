@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-04T19:15:08.489813+00:00",
+  "last_updated": "2026-06-04T19:30:08.485138+00:00",
   "scoreboard": [
     {
       "game_id": "823457",
       "away": "SD",
       "home": "PHI",
       "away_score": 2,
-      "home_score": 5,
-      "state": "B7",
+      "home_score": 6,
+      "state": "T8",
       "start_time": "2026-06-04T17:05:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "BAL",
       "home": "BOS",
       "away_score": 8,
-      "home_score": 0,
-      "state": "T6",
+      "home_score": 1,
+      "state": "B6",
       "start_time": "2026-06-04T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 1,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-06-04T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "MIL",
       "away_score": 6,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-06-04T18:10:00Z"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "823698",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "15:15:06",
+      "time": "15:30:06",
       "game_id": "824672",
       "home_team": "Chicago Cubs",
       "away_team": "Athletics",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "15:15:07",
+      "time": "15:30:07",
       "game_id": "824185",
       "home_team": "Houston Astros",
       "away_team": "Pittsburgh Pirates",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "15:15:08",
+      "time": "15:30:08",
       "game_id": "825076",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "15:15:04",
+      "time": "15:30:04",
       "game_id": "824919",
       "home_team": "Atlanta Braves",
       "away_team": "Toronto Blue Jays",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 29112
+    "total_games_scanned_all": 29117
   }
 }
