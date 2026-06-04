@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T21:30:09.177091+00:00",
+  "last_updated": "2026-06-04T21:45:08.951488+00:00",
   "scoreboard": [
     {
       "game_id": "823457",
@@ -33,8 +33,8 @@
       "away": "SF",
       "home": "MIL",
       "away_score": 12,
-      "home_score": 7,
-      "state": "B9",
+      "home_score": 9,
+      "state": "FINAL",
       "start_time": "2026-06-04T18:10:00Z"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "17:30:06",
+      "time": "17:45:06",
       "game_id": "823698",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-04",
-      "time": "17:30:07",
+      "time": "17:45:07",
       "game_id": "824672",
       "home_team": "Chicago Cubs",
       "away_team": "Athletics",
@@ -1072,16 +1072,16 @@
     },
     {
       "date": "2026-06-04",
-      "time": "17:30:08",
+      "time": "17:45:07",
       "game_id": "824185",
       "home_team": "Houston Astros",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5216",
-      "away_prob": "0.4784",
+      "home_prob": "0.5204",
+      "away_prob": "0.4796",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0031",
-      "away_ev": "-0.0237",
+      "home_ev": "0.0008",
+      "away_ev": "-0.0212",
       "home_pitcher": "Kai-Wei Teng",
       "away_pitcher": "Jared Jones",
       "pitchers_confirmed": "yes",
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-06-04",
-      "time": "17:30:09",
+      "time": "17:45:08",
       "game_id": "825076",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
       "home_prob": "0.4361",
       "away_prob": "0.5639",
-      "poly_home_price": "0.4400",
-      "poly_away_price": "0.5700",
-      "home_ev": "-0.0089",
-      "away_ev": "-0.0107",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "-0.0309",
+      "away_ev": "0.0070",
       "home_pitcher": "Ryne Nelson",
       "away_pitcher": "Justin Wrobleski",
       "pitchers_confirmed": "yes",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-06-04",
-      "time": "17:30:05",
+      "time": "17:45:05",
       "game_id": "824919",
       "home_team": "Atlanta Braves",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.7017",
-      "away_prob": "0.2983",
+      "home_prob": "0.6976",
+      "away_prob": "0.3024",
       "poly_home_price": "0.7000",
       "poly_away_price": "0.3100",
-      "home_ev": "0.0025",
-      "away_ev": "-0.0378",
+      "home_ev": "-0.0034",
+      "away_ev": "-0.0246",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Mason Fluharty",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 29157
+    "total_games_scanned_all": 29162
   }
 }
