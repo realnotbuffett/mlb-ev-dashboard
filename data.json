@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T01:15:06.480563+00:00",
+  "last_updated": "2026-06-04T01:30:04.628392+00:00",
   "scoreboard": [
     {
       "game_id": "822727",
@@ -52,25 +52,25 @@
       "home": "BOS",
       "away_score": 1,
       "home_score": 8,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-03T22:45:00Z"
     },
     {
       "game_id": "823540",
       "away": "CLE",
       "home": "NYY",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 3,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-03T23:05:00Z"
     },
     {
       "game_id": "824509",
       "away": "KC",
       "home": "CIN",
-      "away_score": 2,
+      "away_score": 5,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-03T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "ATL",
       "away_score": 2,
       "home_score": 7,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-03T23:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-03T23:40:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "TEX",
       "home": "STL",
       "away_score": 1,
-      "home_score": 3,
-      "state": "T5",
+      "home_score": 4,
+      "state": "B5",
       "start_time": "2026-06-03T23:45:00Z"
     },
     {
@@ -106,14 +106,14 @@
       "home": "CHC",
       "away_score": 2,
       "home_score": 4,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-06-04T00:05:00Z"
     },
     {
       "game_id": "824188",
       "away": "PIT",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 4,
       "home_score": 2,
       "state": "T4",
       "start_time": "2026-06-04T00:10:00Z"
@@ -131,9 +131,9 @@
       "game_id": "825077",
       "away": "LAD",
       "home": "ARI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-04T01:40:00Z"
     }
   ],
@@ -985,8 +985,8 @@
       "ev_pct": "22.04%",
       "bet_size": "$10.00",
       "order_id": "0xc6885e711d1b18e59b",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     }
