@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T03:30:05.035134+00:00",
+  "last_updated": "2026-06-05T03:45:04.588151+00:00",
   "scoreboard": [
     {
       "game_id": "823457",
@@ -50,9 +50,9 @@
       "game_id": "823698",
       "away": "KC",
       "home": "MIN",
-      "away_score": 6,
+      "away_score": 8,
       "home_score": 6,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-06-04T23:40:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "LAD",
       "home": "ARI",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T8",
+      "home_score": 1,
+      "state": "B8",
       "start_time": "2026-06-05T01:40:00Z"
     }
   ],
