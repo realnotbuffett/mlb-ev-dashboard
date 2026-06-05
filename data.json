@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T22:30:14.131114+00:00",
+  "last_updated": "2026-06-05T22:45:11.924986+00:00",
   "scoreboard": [
     {
       "game_id": "824673",
@@ -32,18 +32,18 @@
       "game_id": "823538",
       "away": "BOS",
       "home": "NYY",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-05T23:05:00Z"
     },
     {
       "game_id": "822810",
       "away": "BAL",
       "home": "TOR",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-05T23:07:00Z"
     },
     {
@@ -1104,16 +1104,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:06",
+      "time": "18:45:04",
       "game_id": "823860",
       "home_team": "Miami Marlins",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4582",
-      "away_prob": "0.5418",
-      "poly_home_price": "0.4600",
-      "poly_away_price": "0.5500",
-      "home_ev": "-0.0039",
-      "away_ev": "-0.0150",
+      "home_prob": "0.4571",
+      "away_prob": "0.5429",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "0.0157",
+      "away_ev": "-0.0305",
       "home_pitcher": "Ryan Gusto",
       "away_pitcher": "Drew Rasmussen",
       "pitchers_confirmed": "yes",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:07",
+      "time": "18:45:05",
       "game_id": "824914",
       "home_team": "Atlanta Braves",
       "away_team": "Pittsburgh Pirates",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:08",
+      "time": "18:45:06",
       "game_id": "824186",
       "home_team": "Houston Astros",
       "away_team": "Athletics",
-      "home_prob": "0.5000",
-      "away_prob": "0.5000",
+      "home_prob": "0.5026",
+      "away_prob": "0.4974",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "0.0000",
-      "away_ev": "-0.0196",
+      "home_ev": "0.0051",
+      "away_ev": "-0.0246",
       "home_pitcher": "Peter Lambert",
       "away_pitcher": "Jack Perkins",
       "pitchers_confirmed": "yes",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:09",
+      "time": "18:45:07",
       "game_id": "823049",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cincinnati Reds",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:10",
+      "time": "18:45:08",
       "game_id": "822892",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:11",
+      "time": "18:45:09",
       "game_id": "823699",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:12",
+      "time": "18:45:10",
       "game_id": "824350",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:13",
+      "time": "18:45:10",
       "game_id": "825073",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Washington Nationals",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "18:30:14",
+      "time": "18:45:11",
       "game_id": "823293",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
-      "home_prob": "0.5355",
-      "away_prob": "0.4645",
+      "home_prob": "0.5480",
+      "away_prob": "0.4520",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0263",
-      "away_ev": "0.0097",
+      "home_ev": "-0.0037",
+      "away_ev": "-0.0173",
       "home_pitcher": "Michael King",
       "away_pitcher": "Christian Scott",
       "pitchers_confirmed": "yes",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 29730
+    "total_games_scanned_all": 29739
   }
 }
