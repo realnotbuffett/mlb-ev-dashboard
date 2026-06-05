@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T15:30:16.564270+00:00",
+  "last_updated": "2026-06-05T15:45:16.829370+00:00",
   "scoreboard": [
     {
       "game_id": "824673",
@@ -994,7 +994,7 @@
   "today_games": [
     {
       "date": "2026-06-05",
-      "time": "11:30:04",
+      "time": "11:45:04",
       "game_id": "824673",
       "home_team": "Chicago Cubs",
       "away_team": "San Francisco Giants",
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:05",
+      "time": "11:45:05",
       "game_id": "824271",
       "home_team": "Detroit Tigers",
       "away_team": "Seattle Mariners",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:06",
+      "time": "11:45:06",
       "game_id": "823455",
       "home_team": "Philadelphia Phillies",
       "away_team": "Chicago White Sox",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:07",
+      "time": "11:45:07",
       "game_id": "823538",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:08",
+      "time": "11:45:08",
       "game_id": "822810",
       "home_team": "Toronto Blue Jays",
       "away_team": "Baltimore Orioles",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:09",
+      "time": "11:45:09",
       "game_id": "823860",
       "home_team": "Miami Marlins",
       "away_team": "Tampa Bay Rays",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:10",
+      "time": "11:45:10",
       "game_id": "824914",
       "home_team": "Atlanta Braves",
       "away_team": "Pittsburgh Pirates",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:11",
+      "time": "11:45:11",
       "game_id": "824186",
       "home_team": "Houston Astros",
       "away_team": "Athletics",
@@ -1170,15 +1170,15 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:12",
+      "time": "11:45:12",
       "game_id": "823049",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cincinnati Reds",
       "home_prob": "0.5664",
       "away_prob": "0.4336",
-      "poly_home_price": "0.5700",
+      "poly_home_price": "0.5800",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0063",
+      "home_ev": "-0.0234",
       "away_ev": "-0.0146",
       "home_pitcher": "Kyle Leahy",
       "away_pitcher": "Brady Singer",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:12",
+      "time": "11:45:13",
       "game_id": "822892",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.4571",
-      "away_prob": "0.5429",
+      "home_prob": "0.4582",
+      "away_prob": "0.5418",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0129",
+      "home_ev": "-0.0039",
+      "away_ev": "-0.0150",
       "home_pitcher": "Kumar Rocker",
       "away_pitcher": "Parker Messick",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:13",
+      "time": "11:45:14",
       "game_id": "823699",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:14",
+      "time": "11:45:15",
       "game_id": "824350",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:15",
+      "time": "11:45:15",
       "game_id": "825073",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Washington Nationals",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "11:30:16",
+      "time": "11:45:16",
       "game_id": "823293",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
-      "home_prob": "0.5367",
-      "away_prob": "0.4633",
+      "home_prob": "0.5392",
+      "away_prob": "0.4608",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0242",
-      "away_ev": "0.0072",
+      "home_ev": "-0.0196",
+      "away_ev": "0.0017",
       "home_pitcher": "Michael King",
       "away_pitcher": "Christian Scott",
       "pitchers_confirmed": "yes",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 29355
+    "total_games_scanned_all": 29369
   }
 }
