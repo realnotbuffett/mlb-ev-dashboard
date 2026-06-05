@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-05T20:15:16.123782+00:00",
+  "last_updated": "2026-06-05T20:30:15.584109+00:00",
   "scoreboard": [
     {
       "game_id": "824673",
       "away": "SF",
       "home": "CHC",
-      "away_score": 2,
+      "away_score": 6,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-05T18:20:00Z"
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:04",
+      "time": "16:30:04",
       "game_id": "824271",
       "home_team": "Detroit Tigers",
       "away_team": "Seattle Mariners",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "823455",
       "home_team": "Philadelphia Phillies",
       "away_team": "Chicago White Sox",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:06",
+      "time": "16:30:06",
       "game_id": "823538",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:07",
+      "time": "16:30:07",
       "game_id": "822810",
       "home_team": "Toronto Blue Jays",
       "away_team": "Baltimore Orioles",
@@ -1104,16 +1104,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:08",
+      "time": "16:30:08",
       "game_id": "823860",
       "home_team": "Miami Marlins",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4458",
-      "away_prob": "0.5542",
+      "home_prob": "0.4444",
+      "away_prob": "0.5556",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0092",
-      "away_ev": "-0.0104",
+      "home_ev": "-0.0123",
+      "away_ev": "-0.0079",
       "home_pitcher": "Ryan Gusto",
       "away_pitcher": "Drew Rasmussen",
       "pitchers_confirmed": "yes",
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:09",
+      "time": "16:30:09",
       "game_id": "824914",
       "home_team": "Atlanta Braves",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5750",
-      "away_prob": "0.4250",
+      "home_prob": "0.5736",
+      "away_prob": "0.4264",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0086",
-      "away_ev": "-0.0116",
+      "home_ev": "-0.0111",
+      "away_ev": "-0.0083",
       "home_pitcher": "Mart\u00edn P\u00e9rez",
       "away_pitcher": "Mitch Keller",
       "pitchers_confirmed": "yes",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:10",
+      "time": "16:30:10",
       "game_id": "824186",
       "home_team": "Houston Astros",
       "away_team": "Athletics",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:11",
+      "time": "16:30:10",
       "game_id": "823049",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cincinnati Reds",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:12",
+      "time": "16:30:11",
       "game_id": "822892",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:13",
+      "time": "16:30:12",
       "game_id": "823699",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:14",
+      "time": "16:30:13",
       "game_id": "824350",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:15",
+      "time": "16:30:14",
       "game_id": "825073",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Washington Nationals",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "16:15:16",
+      "time": "16:30:15",
       "game_id": "823293",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 29615
+    "total_games_scanned_all": 29628
   }
 }
