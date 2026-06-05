@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T01:30:04.170887+00:00",
+  "last_updated": "2026-06-05T01:45:04.856688+00:00",
   "scoreboard": [
     {
       "game_id": "823457",
@@ -42,8 +42,8 @@
       "away": "TOR",
       "home": "ATL",
       "away_score": 3,
-      "home_score": 1,
-      "state": "T8",
+      "home_score": 2,
+      "state": "T9",
       "start_time": "2026-06-04T23:15:00Z"
     },
     {
@@ -59,18 +59,18 @@
       "game_id": "824672",
       "away": "OAK",
       "home": "CHC",
-      "away_score": 4,
-      "home_score": 0,
-      "state": "B6",
+      "away_score": 6,
+      "home_score": 1,
+      "state": "T7",
       "start_time": "2026-06-05T00:05:00Z"
     },
     {
       "game_id": "824185",
       "away": "PIT",
       "home": "HOU",
-      "away_score": 1,
+      "away_score": 4,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-05T00:10:00Z"
     },
     {
