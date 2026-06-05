@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T23:30:11.733100+00:00",
+  "last_updated": "2026-06-05T23:45:10.712392+00:00",
   "scoreboard": [
     {
       "game_id": "824673",
@@ -15,26 +15,26 @@
       "away": "SEA",
       "home": "DET",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-06-05T22:40:00Z"
     },
     {
       "game_id": "823455",
       "away": "CWS",
       "home": "PHI",
-      "away_score": 2,
-      "home_score": 3,
-      "state": "B2",
+      "away_score": 3,
+      "home_score": 5,
+      "state": "B3",
       "start_time": "2026-06-05T22:40:00Z"
     },
     {
       "game_id": "823538",
       "away": "BOS",
       "home": "NYY",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-06-05T23:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-05T23:07:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIA",
       "away_score": 3,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-05T23:10:00Z"
     },
     {
@@ -61,16 +61,16 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-05T23:15:00Z"
     },
     {
       "game_id": "824186",
       "away": "OAK",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-06T00:10:00Z"
     },
     {
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "19:30:06",
+      "time": "19:45:05",
       "game_id": "823049",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5614",
-      "away_prob": "0.4386",
+      "home_prob": "0.5628",
+      "away_prob": "0.4372",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0151",
-      "away_ev": "-0.0032",
+      "home_ev": "-0.0126",
+      "away_ev": "-0.0064",
       "home_pitcher": "Kyle Leahy",
       "away_pitcher": "Brady Singer",
       "pitchers_confirmed": "yes",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "19:30:07",
+      "time": "19:45:06",
       "game_id": "822892",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.4608",
-      "away_prob": "0.5392",
+      "home_prob": "0.4619",
+      "away_prob": "0.5381",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0197",
-      "away_ev": "-0.0014",
+      "home_ev": "-0.0172",
+      "away_ev": "-0.0036",
       "home_pitcher": "Kumar Rocker",
       "away_pitcher": "Parker Messick",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "19:30:08",
+      "time": "19:45:07",
       "game_id": "823699",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "19:30:09",
+      "time": "19:45:08",
       "game_id": "824350",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "19:30:09",
+      "time": "19:45:08",
       "game_id": "825073",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Washington Nationals",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-05",
-      "time": "19:30:10",
+      "time": "19:45:09",
       "game_id": "823293",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-05",
-      "time": "19:30:11",
+      "time": "19:45:10",
       "game_id": "823943",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
       "home_prob": "0.6392",
       "away_prob": "0.3608",
-      "poly_home_price": "0.6500",
-      "poly_away_price": "0.3600",
-      "home_ev": "-0.0167",
-      "away_ev": "0.0024",
+      "poly_home_price": "0.6400",
+      "poly_away_price": "0.3700",
+      "home_ev": "-0.0013",
+      "away_ev": "-0.0247",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Reid Detmers",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 67,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 29763
+    "total_games_scanned_all": 29770
   }
 }
