@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T23:00:33.005512+00:00",
+  "last_updated": "2026-06-06T23:15:29.396579+00:00",
   "scoreboard": [
     {
       "game_id": "824269",
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 13,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIA",
       "away_score": 3,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "19:00:04",
+      "time": "19:15:04",
       "game_id": "822891",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "19:00:15",
+      "time": "19:15:12",
       "game_id": "823539",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
       "home_prob": "0.6122",
       "away_prob": "0.3878",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "0.1773",
-      "away_ev": "-0.2086",
+      "poly_home_price": "0.5100",
+      "poly_away_price": "0.5000",
+      "home_ev": "0.2004",
+      "away_ev": "-0.2244",
       "home_pitcher": "Will Warren",
       "away_pitcher": "Ranger Suarez",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "19:00:31",
+      "time": "19:15:28",
       "game_id": "823942",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "19:00:32",
+      "time": "19:15:29",
       "game_id": "823292",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
-      "home_prob": "0.4645",
-      "away_prob": "0.5355",
+      "home_prob": "0.4656",
+      "away_prob": "0.5344",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0118",
-      "away_ev": "-0.0083",
+      "home_ev": "-0.0093",
+      "away_ev": "-0.0105",
       "home_pitcher": "Griffin Canning",
       "away_pitcher": "Nolan McLean",
       "pitchers_confirmed": "yes",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "19:00:23",
+      "time": "19:15:20",
       "game_id": "824351",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
       "home_prob": "0.3835",
       "away_prob": "0.6165",
-      "poly_home_price": "0.2800",
-      "poly_away_price": "0.7300",
-      "home_ev": "0.3696",
-      "away_ev": "-0.1555",
+      "poly_home_price": "0.2700",
+      "poly_away_price": "0.7400",
+      "home_ev": "0.4204",
+      "away_ev": "-0.1669",
       "home_pitcher": "Zach Agnos",
       "away_pitcher": "Jacob Misiorowski",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30196
+    "total_games_scanned_all": 30201
   }
 }
