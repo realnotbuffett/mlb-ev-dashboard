@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T19:00:12.377796+00:00",
+  "last_updated": "2026-06-06T19:15:12.493176+00:00",
   "scoreboard": [
     {
       "game_id": "824269",
@@ -7,7 +7,7 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-06T17:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "MIN",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-06-06T18:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "STL",
       "away_score": 3,
       "home_score": 3,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-06T18:15:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CHC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-06T18:20:00Z"
     },
     {
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:04",
+      "time": "15:15:04",
       "game_id": "823454",
       "home_team": "Philadelphia Phillies",
       "away_team": "Chicago White Sox",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:05",
+      "time": "15:15:05",
       "game_id": "825075",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Washington Nationals",
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:06",
+      "time": "15:15:06",
       "game_id": "824184",
       "home_team": "Houston Astros",
       "away_team": "Athletics",
-      "home_prob": "0.5392",
-      "away_prob": "0.4608",
+      "home_prob": "0.5418",
+      "away_prob": "0.4582",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0014",
-      "away_ev": "-0.0197",
+      "home_ev": "0.0033",
+      "away_ev": "-0.0250",
       "home_pitcher": "Tatsuya Imai",
       "away_pitcher": "Kade Morris",
       "pitchers_confirmed": "yes",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:07",
+      "time": "15:15:07",
       "game_id": "824915",
       "home_team": "Atlanta Braves",
       "away_team": "Pittsburgh Pirates",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:08",
+      "time": "15:15:08",
       "game_id": "823859",
       "home_team": "Miami Marlins",
       "away_team": "Tampa Bay Rays",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:09",
+      "time": "15:15:09",
       "game_id": "822891",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:10",
+      "time": "15:15:10",
       "game_id": "823539",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
       "home_prob": "0.5140",
       "away_prob": "0.4860",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "-0.0302",
-      "away_ev": "0.0125",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
       "home_pitcher": "Will Warren",
       "away_pitcher": "Ranger Suarez",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:11",
+      "time": "15:15:11",
       "game_id": "823942",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "15:00:12",
+      "time": "15:15:12",
       "game_id": "823292",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
-      "home_prob": "0.4670",
-      "away_prob": "0.5330",
+      "home_prob": "0.4695",
+      "away_prob": "0.5305",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0130",
+      "home_ev": "-0.0010",
+      "away_ev": "-0.0177",
       "home_pitcher": "Griffin Canning",
       "away_pitcher": "Nolan McLean",
       "pitchers_confirmed": "yes",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 69,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 30105
+    "total_games_scanned_all": 30114
   }
 }
