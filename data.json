@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T21:30:29.564975+00:00",
+  "last_updated": "2026-06-06T21:45:29.361658+00:00",
   "scoreboard": [
     {
       "game_id": "824269",
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 4,
       "home_score": 6,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-06T19:07:00Z"
     },
     {
@@ -52,16 +52,16 @@
       "home": "PHI",
       "away_score": 6,
       "home_score": 1,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-06-06T20:05:00Z"
     },
     {
       "game_id": "825075",
       "away": "WSH",
       "home": "ARI",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 7,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "PIT",
       "home": "ATL",
       "away_score": 3,
-      "home_score": 3,
-      "state": "T5",
+      "home_score": 6,
+      "state": "T6",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "TB",
       "home": "MIA",
       "away_score": 0,
-      "home_score": 2,
-      "state": "T6",
+      "home_score": 3,
+      "state": "B6",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "17:30:04",
+      "time": "17:45:04",
       "game_id": "822891",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "17:30:12",
+      "time": "17:45:12",
       "game_id": "823539",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "17:30:28",
+      "time": "17:45:28",
       "game_id": "823942",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "17:30:29",
+      "time": "17:45:29",
       "game_id": "823292",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "17:30:20",
+      "time": "17:45:20",
       "game_id": "824351",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30166
+    "total_games_scanned_all": 30171
   }
 }
