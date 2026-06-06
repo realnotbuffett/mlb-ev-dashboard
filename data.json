@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T22:30:29.452688+00:00",
+  "last_updated": "2026-06-06T22:45:29.416215+00:00",
   "scoreboard": [
     {
       "game_id": "824269",
@@ -52,7 +52,7 @@
       "home": "PHI",
       "away_score": 6,
       "home_score": 3,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-06T20:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ARI",
       "away_score": 6,
       "home_score": 1,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 13,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 6,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 4,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:30:04",
+      "time": "18:45:04",
       "game_id": "822891",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:30:12",
+      "time": "18:45:12",
       "game_id": "823539",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:30:28",
+      "time": "18:45:28",
       "game_id": "823942",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:30:29",
+      "time": "18:45:29",
       "game_id": "823292",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:30:20",
+      "time": "18:45:20",
       "game_id": "824351",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.3844",
-      "away_prob": "0.6156",
-      "poly_home_price": "0.2900",
-      "poly_away_price": "0.7200",
-      "home_ev": "0.3256",
-      "away_ev": "-0.1450",
+      "home_prob": "0.3835",
+      "away_prob": "0.6165",
+      "poly_home_price": "0.2800",
+      "poly_away_price": "0.7300",
+      "home_ev": "0.3696",
+      "away_ev": "-0.1555",
       "home_pitcher": "Zach Agnos",
       "away_pitcher": "Jacob Misiorowski",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30186
+    "total_games_scanned_all": 30191
   }
 }
