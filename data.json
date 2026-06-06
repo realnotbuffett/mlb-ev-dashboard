@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T20:30:08.663224+00:00",
+  "last_updated": "2026-06-06T20:45:31.556548+00:00",
   "scoreboard": [
     {
       "game_id": "824269",
@@ -14,9 +14,9 @@
       "game_id": "823697",
       "away": "KC",
       "home": "MIN",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 2,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-06-06T18:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "STL",
       "away_score": 5,
       "home_score": 4,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-06T18:15:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 1,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-06T18:20:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "BAL",
       "home": "TOR",
       "away_score": 1,
-      "home_score": 5,
-      "state": "T5",
+      "home_score": 6,
+      "state": "B5",
       "start_time": "2026-06-06T19:07:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "PHI",
       "away_score": 4,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-06T20:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ARI",
       "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "OAK",
       "home": "HOU",
       "away_score": 0,
-      "home_score": 1,
-      "state": "B1",
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 2,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-06-06",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-04-14",
-      "time": "20:15:08",
-      "game_id": "825022",
-      "home_team": "Athletics",
-      "away_team": "Texas Rangers",
-      "bet_side": "home",
-      "model_prob": "0.5090",
-      "polymarket_price": "0.4600",
-      "ev_pct": "10.64%",
-      "bet_size": "$10.00",
-      "order_id": "0x52b9cf24c5abdd9685",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "win",
-      "profit": "11.74"
-    },
     {
       "date": "2026-04-15",
       "time": "14:45:16",
@@ -989,6 +972,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "11.74"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "16:45:06",
+      "game_id": "822891",
+      "home_team": "Texas Rangers",
+      "away_team": "Cleveland Guardians",
+      "bet_side": "home",
+      "model_prob": "0.5533",
+      "polymarket_price": "0.5300",
+      "ev_pct": "4.40%",
+      "bet_size": "$10.00",
+      "order_id": "0x36225d7fa9f7c8b298",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1192,21 +1192,21 @@
     },
     {
       "date": "2026-06-06",
-      "time": "16:30:04",
+      "time": "16:45:06",
       "game_id": "822891",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.5279",
-      "away_prob": "0.4721",
+      "home_prob": "0.5533",
+      "away_prob": "0.4467",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0039",
-      "away_ev": "-0.0165",
+      "home_ev": "0.0440",
+      "away_ev": "-0.0694",
       "home_pitcher": "Jack Leiter",
       "away_pitcher": "Tanner Bibee",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "16:30:05",
+      "time": "16:45:14",
       "game_id": "823539",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.5140",
-      "away_prob": "0.4860",
+      "home_prob": "0.6122",
+      "away_prob": "0.3878",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0115",
-      "away_ev": "-0.0082",
+      "home_ev": "0.1773",
+      "away_ev": "-0.2086",
       "home_pitcher": "Will Warren",
       "away_pitcher": "Ranger Suarez",
       "pitchers_confirmed": "yes",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "16:30:07",
+      "time": "16:45:30",
       "game_id": "823942",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.7589",
-      "away_prob": "0.2411",
+      "home_prob": "0.6415",
+      "away_prob": "0.3585",
       "poly_home_price": "0.7700",
       "poly_away_price": "0.2400",
-      "home_ev": "-0.0144",
-      "away_ev": "0.0047",
+      "home_ev": "-0.1669",
+      "away_ev": "0.4937",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Jack Kochanowicz",
       "pitchers_confirmed": "yes",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "16:30:08",
+      "time": "16:45:31",
       "game_id": "823292",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-06",
-      "time": "16:30:06",
+      "time": "16:45:21",
       "game_id": "824351",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.2924",
-      "away_prob": "0.7076",
+      "home_prob": "0.3844",
+      "away_prob": "0.6156",
       "poly_home_price": "0.2900",
       "poly_away_price": "0.7200",
-      "home_ev": "0.0082",
-      "away_ev": "-0.0172",
+      "home_ev": "0.3256",
+      "away_ev": "-0.1450",
       "home_pitcher": "Zach Agnos",
       "away_pitcher": "Jacob Misiorowski",
       "pitchers_confirmed": "yes",
@@ -1324,9 +1324,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 69,
+    "total_bets_today": 1,
+    "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30146
+    "total_games_scanned_all": 30151
   }
 }
