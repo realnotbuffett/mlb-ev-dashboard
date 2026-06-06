@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T22:45:29.416215+00:00",
+  "last_updated": "2026-06-06T23:00:33.005512+00:00",
   "scoreboard": [
     {
       "game_id": "824269",
@@ -52,7 +52,7 @@
       "home": "PHI",
       "away_score": 6,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-06T20:05:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 13,
-      "state": "B7",
+      "state": "T9",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
@@ -79,14 +79,14 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-06T20:10:00Z"
     },
     {
       "game_id": "823859",
       "away": "TB",
       "home": "MIA",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 4,
       "state": "T9",
       "start_time": "2026-06-06T20:10:00Z"
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:45:04",
+      "time": "19:00:04",
       "game_id": "822891",
       "home_team": "Texas Rangers",
       "away_team": "Cleveland Guardians",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:45:12",
+      "time": "19:00:15",
       "game_id": "823539",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:45:28",
+      "time": "19:00:31",
       "game_id": "823942",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:45:29",
+      "time": "19:00:32",
       "game_id": "823292",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "18:45:20",
+      "time": "19:00:23",
       "game_id": "824351",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30191
+    "total_games_scanned_all": 30196
   }
 }
