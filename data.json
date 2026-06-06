@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T01:01:08.690266+00:00",
+  "last_updated": "2026-06-06T01:17:12.170531+00:00",
   "scoreboard": [
     {
       "game_id": "824673",
@@ -15,8 +15,8 @@
       "away": "SEA",
       "home": "DET",
       "away_score": 3,
-      "home_score": 5,
-      "state": "T8",
+      "home_score": 7,
+      "state": "T9",
       "start_time": "2026-06-05T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PHI",
       "away_score": 6,
       "home_score": 8,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-05T22:40:00Z"
     },
     {
@@ -34,16 +34,16 @@
       "home": "NYY",
       "away_score": 5,
       "home_score": 3,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-05T23:05:00Z"
     },
     {
       "game_id": "822810",
       "away": "BAL",
       "home": "TOR",
-      "away_score": 6,
+      "away_score": 7,
       "home_score": 3,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-05T23:07:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIA",
       "away_score": 6,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-05T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 6,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-06-05T23:15:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "OAK",
       "home": "HOU",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B3",
+      "home_score": 5,
+      "state": "B4",
       "start_time": "2026-06-06T00:10:00Z"
     },
     {
@@ -78,33 +78,33 @@
       "away": "CIN",
       "home": "STL",
       "away_score": 3,
-      "home_score": 2,
-      "state": "B2",
+      "home_score": 3,
+      "state": "B3",
       "start_time": "2026-06-06T00:15:00Z"
     },
     {
       "game_id": "822892",
       "away": "CLE",
       "home": "TEX",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-06T00:15:00Z"
     },
     {
       "game_id": "823699",
       "away": "KC",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-06T00:15:00Z"
     },
     {
       "game_id": "824350",
       "away": "MIL",
       "home": "COL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
       "state": "T2",
       "start_time": "2026-06-06T00:40:00Z"
@@ -140,23 +140,6 @@
   "today": "2026-06-05",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-04-14",
-      "time": "20:15:06",
-      "game_id": "823315",
-      "home_team": "San Diego Padres",
-      "away_team": "Seattle Mariners",
-      "bet_side": "home",
-      "model_prob": "0.5051",
-      "polymarket_price": "0.4800",
-      "ev_pct": "5.24%",
-      "bet_size": "$10.00",
-      "order_id": "0x32785a2391a675cb4a",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "win",
-      "profit": "10.83"
-    },
     {
       "date": "2026-04-14",
       "time": "20:15:08",
@@ -989,6 +972,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:17:00",
+      "game_id": "823293",
+      "home_team": "San Diego Padres",
+      "away_team": "New York Mets",
+      "bet_side": "away",
+      "model_prob": "0.5269",
+      "polymarket_price": "0.4600",
+      "ev_pct": "14.53%",
+      "bet_size": "$10.00",
+      "order_id": "0x15f7eff97e62fbd0e5",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1258,40 +1258,18 @@
     },
     {
       "date": "2026-06-05",
-      "time": "21:00:34",
+      "time": "21:15:27",
       "game_id": "825073",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Washington Nationals",
-      "home_prob": "0.5951",
-      "away_prob": "0.4049",
+      "home_prob": "0.5871",
+      "away_prob": "0.4129",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "0.0819",
-      "away_ev": "-0.1197",
+      "home_ev": "0.0674",
+      "away_ev": "-0.1023",
       "home_pitcher": "Merrill Kelly",
       "away_pitcher": "Foster Griffin",
-      "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
-    },
-    {
-      "date": "2026-06-05",
-      "time": "21:00:39",
-      "game_id": "823293",
-      "home_team": "San Diego Padres",
-      "away_team": "New York Mets",
-      "home_prob": "0.5480",
-      "away_prob": "0.4520",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "-0.0037",
-      "away_ev": "-0.0173",
-      "home_pitcher": "Michael King",
-      "away_pitcher": "Christian Scott",
       "pitchers_confirmed": "yes",
       "bet_placed": "no",
       "bet_side": "",
@@ -1302,16 +1280,38 @@
     },
     {
       "date": "2026-06-05",
-      "time": "21:01:08",
+      "time": "21:17:00",
+      "game_id": "823293",
+      "home_team": "San Diego Padres",
+      "away_team": "New York Mets",
+      "home_prob": "0.4731",
+      "away_prob": "0.5269",
+      "poly_home_price": "0.5500",
+      "poly_away_price": "0.4600",
+      "home_ev": "-0.1397",
+      "away_ev": "0.1453",
+      "home_pitcher": "Michael King",
+      "away_pitcher": "Christian Scott",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "yes",
+      "bet_side": "away",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:17:12",
       "game_id": "823943",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6392",
-      "away_prob": "0.3608",
+      "home_prob": "0.6400",
+      "away_prob": "0.3600",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3700",
-      "home_ev": "-0.0013",
-      "away_ev": "-0.0247",
+      "home_ev": "0.0000",
+      "away_ev": "-0.0270",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Reid Detmers",
       "pitchers_confirmed": "yes",
@@ -1324,9 +1324,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 68,
+    "total_bets_today": 2,
+    "total_bets_all_time": 69,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 29789
+    "total_games_scanned_all": 29792
   }
 }
