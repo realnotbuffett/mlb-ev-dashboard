@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T23:00:04.981038+00:00",
+  "last_updated": "2026-06-07T23:15:04.873572+00:00",
   "scoreboard": [
     {
       "game_id": "824916",
@@ -115,7 +115,7 @@
       "home": "LAD",
       "away_score": 12,
       "home_score": 5,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-07T20:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "NYM",
       "home": "SD",
       "away_score": 7,
-      "home_score": 2,
-      "state": "B9",
+      "home_score": 3,
+      "state": "FINAL",
       "start_time": "2026-06-07T20:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-07",
-      "time": "19:00:04",
+      "time": "19:15:04",
       "game_id": "824670",
       "home_team": "Chicago Cubs",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5392",
-      "away_prob": "0.4608",
+      "home_prob": "0.5367",
+      "away_prob": "0.4633",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0196",
-      "away_ev": "0.0017",
+      "home_ev": "-0.0242",
+      "away_ev": "0.0072",
       "home_pitcher": "Jameson Taillon",
       "away_pitcher": "Trevor McDonald",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30562
+    "total_games_scanned_all": 30563
   }
 }
