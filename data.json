@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T23:30:05.015760+00:00",
+  "last_updated": "2026-06-07T23:45:04.941731+00:00",
   "scoreboard": [
     {
       "game_id": "824916",
@@ -115,7 +115,7 @@
       "home": "LAD",
       "away_score": 13,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-07T20:10:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-07",
-      "time": "19:30:04",
+      "time": "19:45:04",
       "game_id": "824670",
       "home_team": "Chicago Cubs",
       "away_team": "San Francisco Giants",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30564
+    "total_games_scanned_all": 30565
   }
 }
