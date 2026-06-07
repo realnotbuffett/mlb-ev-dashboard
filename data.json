@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T00:00:28.524670+00:00",
+  "last_updated": "2026-06-07T00:15:20.770857+00:00",
   "scoreboard": [
     {
       "game_id": "824269",
@@ -97,16 +97,7 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
-      "start_time": "2026-06-06T23:35:00Z"
-    },
-    {
-      "game_id": "823539",
-      "away": "BOS",
-      "home": "NYY",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "state": "B3",
       "start_time": "2026-06-06T23:35:00Z"
     },
     {
@@ -135,6 +126,15 @@
       "home_score": null,
       "state": "UPCOMING",
       "start_time": "2026-06-07T02:10:00Z"
+    },
+    {
+      "game_id": "823539",
+      "away": "BOS",
+      "home": "NYY",
+      "away_score": null,
+      "home_score": null,
+      "state": "FINAL",
+      "start_time": "2026-06-06T23:35:00Z"
     }
   ],
   "today": "2026-06-06",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "20:00:27",
+      "time": "20:15:19",
       "game_id": "823942",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "20:00:28",
+      "time": "20:15:20",
       "game_id": "823292",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-06",
-      "time": "20:00:19",
+      "time": "20:15:12",
       "game_id": "824351",
       "home_team": "Colorado Rockies",
       "away_team": "Milwaukee Brewers",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30213
+    "total_games_scanned_all": 30216
   }
 }
