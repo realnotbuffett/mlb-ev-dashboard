@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-07T19:15:09.196652+00:00",
+  "last_updated": "2026-06-07T19:30:06.620358+00:00",
   "scoreboard": [
     {
       "game_id": "824916",
       "away": "PIT",
       "home": "ATL",
       "away_score": 2,
-      "home_score": 0,
+      "home_score": 3,
       "state": "B7",
       "start_time": "2026-06-07T17:35:00Z"
     },
@@ -14,7 +14,7 @@
       "game_id": "823453",
       "away": "CWS",
       "home": "PHI",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 4,
       "state": "T5",
       "start_time": "2026-06-07T17:35:00Z"
@@ -23,9 +23,9 @@
       "game_id": "823537",
       "away": "BOS",
       "home": "NYY",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "B5",
+      "away_score": 1,
+      "home_score": 1,
+      "state": "T6",
       "start_time": "2026-06-07T17:35:00Z"
     },
     {
@@ -33,7 +33,7 @@
       "away": "BAL",
       "home": "TOR",
       "away_score": 4,
-      "home_score": 1,
+      "home_score": 5,
       "state": "B6",
       "start_time": "2026-06-07T17:37:00Z"
     },
@@ -41,9 +41,9 @@
       "game_id": "824268",
       "away": "SEA",
       "home": "DET",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-06-07T17:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 2,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-06-07T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "HOU",
       "away_score": 4,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-06-07T18:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIN",
       "away_score": 1,
       "home_score": 1,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-06-07T18:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "STL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-06-07T18:15:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "CLE",
       "home": "TEX",
       "away_score": 0,
-      "home_score": 2,
-      "state": "T3",
+      "home_score": 3,
+      "state": "B3",
       "start_time": "2026-06-07T18:35:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "MIL",
       "home": "COL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "T2",
       "start_time": "2026-06-07T19:10:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "WSH",
       "home": "ARI",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "B1",
       "start_time": "2026-06-07T19:15:00Z"
     },
     {
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-06-07",
-      "time": "15:15:07",
+      "time": "15:30:04",
       "game_id": "823941",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6941",
-      "away_prob": "0.3059",
+      "home_prob": "0.6948",
+      "away_prob": "0.3052",
       "poly_home_price": "0.7000",
       "poly_away_price": "0.3100",
-      "home_ev": "-0.0084",
-      "away_ev": "-0.0134",
+      "home_ev": "-0.0074",
+      "away_ev": "-0.0155",
       "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Jos\u00e9 Soriano",
       "pitchers_confirmed": "yes",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-06-07",
-      "time": "15:15:08",
+      "time": "15:30:05",
       "game_id": "823291",
       "home_team": "San Diego Padres",
       "away_team": "New York Mets",
-      "home_prob": "0.4974",
-      "away_prob": "0.5026",
+      "home_prob": "0.4949",
+      "away_prob": "0.5051",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0051",
-      "away_ev": "-0.0146",
+      "home_ev": "-0.0102",
+      "away_ev": "-0.0096",
       "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher": "Huascar Brazob\u00e1n",
       "pitchers_confirmed": "yes",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-07",
-      "time": "15:15:09",
+      "time": "15:30:06",
       "game_id": "824670",
       "home_team": "Chicago Cubs",
       "away_team": "San Francisco Giants",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 30544
+    "total_games_scanned_all": 30547
   }
 }
