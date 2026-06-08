@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T01:00:04.091645+00:00",
+  "last_updated": "2026-06-08T01:15:04.092258+00:00",
   "scoreboard": [
     {
       "game_id": "824916",
@@ -133,7 +133,7 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-06-08T00:30:00Z"
     }
   ],
