@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T14:45:10.833904+00:00",
+  "last_updated": "2026-06-08T15:00:10.367191+00:00",
   "scoreboard": [
     {
       "game_id": "824829",
@@ -931,7 +931,7 @@
   "today_games": [
     {
       "date": "2026-06-08",
-      "time": "10:45:05",
+      "time": "11:00:04",
       "game_id": "822972",
       "home_team": "Tampa Bay Rays",
       "away_team": "Boston Red Sox",
@@ -953,7 +953,7 @@
     },
     {
       "date": "2026-06-08",
-      "time": "10:45:06",
+      "time": "11:00:05",
       "game_id": "824427",
       "home_team": "Cleveland Guardians",
       "away_team": "New York Yankees",
@@ -975,7 +975,7 @@
     },
     {
       "date": "2026-06-08",
-      "time": "10:45:06",
+      "time": "11:00:06",
       "game_id": "822806",
       "home_team": "Toronto Blue Jays",
       "away_team": "Philadelphia Phillies",
@@ -997,7 +997,7 @@
     },
     {
       "date": "2026-06-08",
-      "time": "10:45:07",
+      "time": "11:00:07",
       "game_id": "824025",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
@@ -1019,7 +1019,7 @@
     },
     {
       "date": "2026-06-08",
-      "time": "10:45:08",
+      "time": "11:00:08",
       "game_id": "823289",
       "home_team": "San Diego Padres",
       "away_team": "Cincinnati Reds",
@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2026-06-08",
-      "time": "10:45:09",
+      "time": "11:00:09",
       "game_id": "823218",
       "home_team": "San Francisco Giants",
       "away_team": "Washington Nationals",
@@ -1063,16 +1063,16 @@
     },
     {
       "date": "2026-06-08",
-      "time": "10:45:10",
+      "time": "11:00:10",
       "game_id": "824998",
       "home_team": "Athletics",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4204",
-      "away_prob": "0.5796",
+      "home_prob": "0.4194",
+      "away_prob": "0.5806",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "0.0009",
-      "away_ev": "-0.0176",
+      "home_ev": "-0.0015",
+      "away_ev": "-0.0159",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Kyle Harrison",
       "pitchers_confirmed": "yes",
@@ -1088,6 +1088,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 70,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 30622
+    "total_games_scanned_all": 30629
   }
 }
