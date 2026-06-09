@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T22:15:20.437650+00:00",
+  "last_updated": "2026-06-09T22:30:14.465524+00:00",
   "scoreboard": [
     {
       "game_id": "824830",
@@ -14,9 +14,9 @@
       "game_id": "823374",
       "away": "LAD",
       "home": "PIT",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-09T22:40:00Z"
     },
     {
@@ -41,18 +41,18 @@
       "game_id": "823858",
       "away": "ARI",
       "home": "MIA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-09T22:40:00Z"
     },
     {
       "game_id": "824429",
       "away": "NYY",
       "home": "CLE",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-09T22:40:00Z"
     },
     {
@@ -883,8 +883,8 @@
       "ev_pct": "32.80%",
       "bet_size": "$10.00",
       "order_id": "0x2970cc4f89f7d68228",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -900,8 +900,8 @@
       "ev_pct": "11.11%",
       "bet_size": "$10.00",
       "order_id": "0x86261c7e0516876248",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -917,8 +917,8 @@
       "ev_pct": "7.91%",
       "bet_size": "$10.00",
       "order_id": "0xa96429faa4c4aff075",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:07",
+      "time": "18:30:05",
       "game_id": "824267",
       "home_team": "Detroit Tigers",
       "away_team": "Minnesota Twins",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:11",
+      "time": "18:30:06",
       "game_id": "822805",
       "home_team": "Toronto Blue Jays",
       "away_team": "Philadelphia Phillies",
@@ -1139,8 +1139,8 @@
       "home_pitcher": "Dylan Cease",
       "away_pitcher": "Zack Wheeler",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:12",
+      "time": "18:30:07",
       "game_id": "823620",
       "home_team": "New York Mets",
       "away_team": "St. Louis Cardinals",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:13",
+      "time": "18:30:08",
       "game_id": "824105",
       "home_team": "Kansas City Royals",
       "away_team": "Texas Rangers",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:14",
+      "time": "18:30:09",
       "game_id": "824591",
       "home_team": "Chicago White Sox",
       "away_team": "Atlanta Braves",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:15",
+      "time": "18:30:10",
       "game_id": "824347",
       "home_team": "Colorado Rockies",
       "away_team": "Chicago Cubs",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:17",
+      "time": "18:30:11",
       "game_id": "824023",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
@@ -1249,8 +1249,8 @@
       "home_pitcher": "Walbert Ure\u00f1a",
       "away_pitcher": "Kai-Wei Teng",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:18",
+      "time": "18:30:12",
       "game_id": "823290",
       "home_team": "San Diego Padres",
       "away_team": "Cincinnati Reds",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:19",
+      "time": "18:30:13",
       "game_id": "823214",
       "home_team": "San Francisco Giants",
       "away_team": "Washington Nationals",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-09",
-      "time": "18:15:20",
+      "time": "18:30:14",
       "game_id": "824999",
       "home_team": "Athletics",
       "away_team": "Milwaukee Brewers",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 7,
     "total_bets_all_time": 77,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 31466
+    "total_games_scanned_all": 31476
   }
 }
