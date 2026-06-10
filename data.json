@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T20:00:14.106222+00:00",
+  "last_updated": "2026-06-10T20:15:13.673936+00:00",
   "scoreboard": [
     {
       "game_id": "822970",
@@ -25,7 +25,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-10T19:45:00Z"
     },
     {
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:04",
+      "time": "16:15:04",
       "game_id": "824831",
       "home_team": "Baltimore Orioles",
       "away_team": "Seattle Mariners",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "823372",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Dodgers",
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:07",
+      "time": "16:15:07",
       "game_id": "823856",
       "home_team": "Miami Marlins",
       "away_team": "Arizona Diamondbacks",
       "home_prob": "0.4847",
       "away_prob": "0.5153",
-      "poly_home_price": "0.4900",
-      "poly_away_price": "0.5200",
-      "home_ev": "-0.0108",
-      "away_ev": "-0.0090",
+      "poly_home_price": "0.4800",
+      "poly_away_price": "0.5300",
+      "home_ev": "0.0098",
+      "away_ev": "-0.0277",
       "home_pitcher": "Ryan Gusto",
       "away_pitcher": "Ryne Nelson",
       "pitchers_confirmed": "yes",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:08",
+      "time": "16:15:08",
       "game_id": "822804",
       "home_team": "Toronto Blue Jays",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.4545",
-      "away_prob": "0.5455",
+      "home_prob": "0.4532",
+      "away_prob": "0.5468",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "0.0101",
-      "away_ev": "-0.0260",
+      "home_ev": "0.0070",
+      "away_ev": "-0.0235",
       "home_pitcher": "Max Scherzer",
       "away_pitcher": "Jes\u00fas Luzardo",
       "pitchers_confirmed": "yes",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:09",
+      "time": "16:15:09",
       "game_id": "823618",
       "home_team": "New York Mets",
       "away_team": "St. Louis Cardinals",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:10",
+      "time": "16:15:10",
       "game_id": "824103",
       "home_team": "Kansas City Royals",
       "away_team": "Texas Rangers",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:12",
+      "time": "16:15:11",
       "game_id": "824348",
       "home_team": "Colorado Rockies",
       "away_team": "Chicago Cubs",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:13",
+      "time": "16:15:12",
       "game_id": "824996",
       "home_team": "Athletics",
       "away_team": "Milwaukee Brewers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:13",
+      "time": "16:15:13",
       "game_id": "824022",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "824266",
       "home_team": "Detroit Tigers",
       "away_team": "Minnesota Twins",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "16:00:11",
+      "time": "16:15:10",
       "game_id": "824590",
       "home_team": "Chicago White Sox",
       "away_team": "Atlanta Braves",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 78,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 31886
+    "total_games_scanned_all": 31897
   }
 }
