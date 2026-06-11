@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T14:30:11.779744+00:00",
+  "last_updated": "2026-06-11T14:45:11.957921+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
@@ -931,7 +931,7 @@
   "today_games": [
     {
       "date": "2026-06-11",
-      "time": "10:30:05",
+      "time": "10:45:05",
       "game_id": "823619",
       "home_team": "New York Mets",
       "away_team": "St. Louis Cardinals",
@@ -953,7 +953,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "10:30:06",
+      "time": "10:45:06",
       "game_id": "824265",
       "home_team": "Detroit Tigers",
       "away_team": "Minnesota Twins",
@@ -975,16 +975,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "10:30:07",
+      "time": "10:45:07",
       "game_id": "823855",
       "home_team": "Miami Marlins",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5254",
+      "away_prob": "0.4746",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_ev": "-0.0087",
+      "away_ev": "-0.0112",
       "home_pitcher": "Tyler Phillips",
       "away_pitcher": "Merrill Kelly",
       "pitchers_confirmed": "yes",
@@ -997,7 +997,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "10:30:08",
+      "time": "10:45:08",
       "game_id": "824101",
       "home_team": "Kansas City Royals",
       "away_team": "Texas Rangers",
@@ -1019,16 +1019,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "10:30:09",
+      "time": "10:45:09",
       "game_id": "824346",
       "home_team": "Colorado Rockies",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.4275",
-      "away_prob": "0.5725",
+      "home_prob": "0.4264",
+      "away_prob": "0.5736",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0058",
-      "away_ev": "-0.0129",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0111",
       "home_pitcher": "Ryan Feltner",
       "away_pitcher": "Edward Cabrera",
       "pitchers_confirmed": "yes",
@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "10:30:10",
+      "time": "10:45:10",
       "game_id": "823371",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Dodgers",
@@ -1063,16 +1063,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "10:30:11",
+      "time": "10:45:11",
       "game_id": "824827",
       "home_team": "Baltimore Orioles",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4809",
-      "away_prob": "0.5191",
+      "home_prob": "0.4821",
+      "away_prob": "0.5179",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0185",
-      "away_ev": "-0.0018",
+      "home_ev": "-0.0160",
+      "away_ev": "-0.0041",
       "home_pitcher": "Kyle Bradish",
       "away_pitcher": "Bryan Woo",
       "pitchers_confirmed": "yes",
@@ -1088,6 +1088,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 32069
+    "total_games_scanned_all": 32076
   }
 }
