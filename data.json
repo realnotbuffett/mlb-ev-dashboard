@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T21:15:06.970299+00:00",
+  "last_updated": "2026-06-11T21:30:07.313335+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
@@ -34,16 +34,16 @@
       "home": "KC",
       "away_score": 3,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-06-11T18:10:00Z"
     },
     {
       "game_id": "824346",
       "away": "CHC",
       "home": "COL",
-      "away_score": 8,
+      "away_score": 9,
       "home_score": 2,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-11T19:10:00Z"
     },
     {
@@ -1041,16 +1041,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "17:15:04",
+      "time": "17:30:05",
       "game_id": "823371",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3874",
-      "away_prob": "0.6126",
+      "home_prob": "0.3841",
+      "away_prob": "0.6159",
       "poly_home_price": "0.3900",
       "poly_away_price": "0.6200",
-      "home_ev": "-0.0066",
-      "away_ev": "-0.0120",
+      "home_ev": "-0.0152",
+      "away_ev": "-0.0065",
       "home_pitcher": "Mitch Keller",
       "away_pitcher": "Justin Wrobleski",
       "pitchers_confirmed": "yes",
@@ -1063,16 +1063,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "17:15:05",
+      "time": "17:30:06",
       "game_id": "824827",
       "home_team": "Baltimore Orioles",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4923",
-      "away_prob": "0.5077",
+      "home_prob": "0.4911",
+      "away_prob": "0.5089",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0153",
-      "away_ev": "-0.0046",
+      "home_ev": "-0.0178",
+      "away_ev": "-0.0021",
       "home_pitcher": "Kyle Bradish",
       "away_pitcher": "Bryan Woo",
       "pitchers_confirmed": "yes",
@@ -1085,7 +1085,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "17:15:06",
+      "time": "17:30:07",
       "game_id": "824589",
       "home_team": "Chicago White Sox",
       "away_team": "Atlanta Braves",
@@ -1110,6 +1110,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 32194
+    "total_games_scanned_all": 32197
   }
 }
