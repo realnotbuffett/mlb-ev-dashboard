@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T21:00:07.324574+00:00",
+  "last_updated": "2026-06-11T21:15:06.970299+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
@@ -32,18 +32,18 @@
       "game_id": "824101",
       "away": "TEX",
       "home": "KC",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-06-11T18:10:00Z"
     },
     {
       "game_id": "824346",
       "away": "CHC",
       "home": "COL",
-      "away_score": 6,
+      "away_score": 8,
       "home_score": 2,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-06-11T19:10:00Z"
     },
     {
@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "17:00:05",
+      "time": "17:15:04",
       "game_id": "823371",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Dodgers",
@@ -1063,16 +1063,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "17:00:06",
+      "time": "17:15:05",
       "game_id": "824827",
       "home_team": "Baltimore Orioles",
       "away_team": "Seattle Mariners",
       "home_prob": "0.4923",
       "away_prob": "0.5077",
-      "poly_home_price": "0.4900",
-      "poly_away_price": "0.5200",
-      "home_ev": "0.0048",
-      "away_ev": "-0.0237",
+      "poly_home_price": "0.5000",
+      "poly_away_price": "0.5100",
+      "home_ev": "-0.0153",
+      "away_ev": "-0.0046",
       "home_pitcher": "Kyle Bradish",
       "away_pitcher": "Bryan Woo",
       "pitchers_confirmed": "yes",
@@ -1085,16 +1085,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "17:00:07",
+      "time": "17:15:06",
       "game_id": "824589",
       "home_team": "Chicago White Sox",
       "away_team": "Atlanta Braves",
       "home_prob": "0.4784",
       "away_prob": "0.5216",
-      "poly_home_price": "0.4800",
-      "poly_away_price": "0.5300",
-      "home_ev": "-0.0034",
-      "away_ev": "-0.0158",
+      "poly_home_price": "0.4900",
+      "poly_away_price": "0.5200",
+      "home_ev": "-0.0237",
+      "away_ev": "0.0031",
       "home_pitcher": "Anthony Kay",
       "away_pitcher": "Mart\u00edn P\u00e9rez",
       "pitchers_confirmed": "yes",
@@ -1110,6 +1110,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 32191
+    "total_games_scanned_all": 32194
   }
 }
