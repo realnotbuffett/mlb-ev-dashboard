@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-11T17:00:08.643118+00:00",
+  "last_updated": "2026-06-11T17:15:08.405530+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
       "away": "STL",
       "home": "NYM",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-06-11T17:10:00Z"
@@ -997,16 +997,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "13:00:05",
+      "time": "13:15:05",
       "game_id": "824101",
       "home_team": "Kansas City Royals",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5128",
-      "away_prob": "0.4872",
+      "home_prob": "0.5140",
+      "away_prob": "0.4860",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0139",
-      "away_ev": "-0.0056",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
       "home_pitcher": "Michael Wacha",
       "away_pitcher": "Kumar Rocker",
       "pitchers_confirmed": "yes",
@@ -1019,16 +1019,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "13:00:06",
+      "time": "13:15:06",
       "game_id": "824346",
       "home_team": "Colorado Rockies",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.4179",
-      "away_prob": "0.5821",
+      "home_prob": "0.4194",
+      "away_prob": "0.5806",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0281",
-      "away_ev": "0.0036",
+      "home_ev": "-0.0248",
+      "away_ev": "0.0011",
       "home_pitcher": "Ryan Feltner",
       "away_pitcher": "Edward Cabrera",
       "pitchers_confirmed": "yes",
@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "13:00:07",
+      "time": "13:15:07",
       "game_id": "823371",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Dodgers",
@@ -1063,7 +1063,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "13:00:08",
+      "time": "13:15:08",
       "game_id": "824827",
       "home_team": "Baltimore Orioles",
       "away_team": "Seattle Mariners",
@@ -1088,6 +1088,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 32136
+    "total_games_scanned_all": 32140
   }
 }
