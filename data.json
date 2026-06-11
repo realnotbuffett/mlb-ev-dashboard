@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T00:30:05.941846+00:00",
+  "last_updated": "2026-06-11T00:45:05.016680+00:00",
   "scoreboard": [
     {
       "game_id": "822970",
@@ -42,8 +42,8 @@
       "away": "SEA",
       "home": "BAL",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B7",
+      "home_score": 7,
+      "state": "T8",
       "start_time": "2026-06-10T22:35:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "PIT",
       "away_score": 6,
       "home_score": 1,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-10T22:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-06-10T22:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 8,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-06-10T22:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "TOR",
       "away_score": 6,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-06-10T23:07:00Z"
     },
     {
       "game_id": "823618",
       "away": "STL",
       "home": "NYM",
-      "away_score": 7,
-      "home_score": 0,
-      "state": "B4",
+      "away_score": 8,
+      "home_score": 2,
+      "state": "T5",
       "start_time": "2026-06-10T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-10T23:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-06-10T23:40:00Z"
     },
     {
@@ -122,9 +122,9 @@
       "game_id": "824996",
       "away": "MIL",
       "home": "OAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-11T01:05:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-10",
-      "time": "20:30:05",
+      "time": "20:45:04",
       "game_id": "824022",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 32018
+    "total_games_scanned_all": 32019
   }
 }
