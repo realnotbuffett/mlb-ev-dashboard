@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T22:00:07.143364+00:00",
+  "last_updated": "2026-06-11T22:15:07.313885+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
@@ -32,9 +32,9 @@
       "game_id": "824101",
       "away": "TEX",
       "home": "KC",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 2,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-06-11T18:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "COL",
       "away_score": 9,
       "home_score": 3,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-11T19:10:00Z"
     },
     {
@@ -1041,16 +1041,16 @@
     },
     {
       "date": "2026-06-11",
-      "time": "18:00:04",
+      "time": "18:15:05",
       "game_id": "823371",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3774",
-      "away_prob": "0.6226",
+      "home_prob": "0.3798",
+      "away_prob": "0.6202",
       "poly_home_price": "0.3900",
       "poly_away_price": "0.6200",
-      "home_ev": "-0.0323",
-      "away_ev": "0.0042",
+      "home_ev": "-0.0261",
+      "away_ev": "0.0003",
       "home_pitcher": "Mitch Keller",
       "away_pitcher": "Justin Wrobleski",
       "pitchers_confirmed": "yes",
@@ -1063,7 +1063,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "18:00:05",
+      "time": "18:15:06",
       "game_id": "824827",
       "home_team": "Baltimore Orioles",
       "away_team": "Seattle Mariners",
@@ -1085,7 +1085,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "18:00:07",
+      "time": "18:15:07",
       "game_id": "824589",
       "home_team": "Chicago White Sox",
       "away_team": "Atlanta Braves",
@@ -1110,6 +1110,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 32203
+    "total_games_scanned_all": 32206
   }
 }
