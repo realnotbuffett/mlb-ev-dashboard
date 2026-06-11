@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T20:45:07.404972+00:00",
+  "last_updated": "2026-06-11T21:00:07.324574+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
@@ -32,9 +32,9 @@
       "game_id": "824101",
       "away": "TEX",
       "home": "KC",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-06-11T18:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "COL",
       "away_score": 6,
       "home_score": 2,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-06-11T19:10:00Z"
     },
     {
@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "16:45:05",
+      "time": "17:00:05",
       "game_id": "823371",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Dodgers",
@@ -1063,7 +1063,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "16:45:06",
+      "time": "17:00:06",
       "game_id": "824827",
       "home_team": "Baltimore Orioles",
       "away_team": "Seattle Mariners",
@@ -1085,7 +1085,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "16:45:07",
+      "time": "17:00:07",
       "game_id": "824589",
       "home_team": "Chicago White Sox",
       "away_team": "Atlanta Braves",
@@ -1110,6 +1110,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 32188
+    "total_games_scanned_all": 32191
   }
 }
