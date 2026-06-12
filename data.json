@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T20:15:18.182053+00:00",
+  "last_updated": "2026-06-12T20:30:18.280096+00:00",
   "scoreboard": [
     {
       "game_id": "823370",
@@ -994,7 +994,7 @@
   "today_games": [
     {
       "date": "2026-06-12",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "823370",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Miami Marlins",
@@ -1016,16 +1016,16 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:06",
+      "time": "16:30:06",
       "game_id": "822726",
       "home_team": "Washington Nationals",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.4325",
-      "away_prob": "0.5675",
+      "home_prob": "0.4311",
+      "away_prob": "0.5689",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "0.0058",
-      "away_ev": "-0.0216",
+      "home_ev": "0.0025",
+      "away_ev": "-0.0191",
       "home_pitcher": "Zack Littell",
       "away_pitcher": "Bryce Miller",
       "pitchers_confirmed": "yes",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:07",
+      "time": "16:30:07",
       "game_id": "824826",
       "home_team": "Baltimore Orioles",
       "away_team": "San Diego Padres",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:08",
+      "time": "16:30:08",
       "game_id": "824425",
       "home_team": "Cleveland Guardians",
       "away_team": "Detroit Tigers",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:09",
+      "time": "16:30:09",
       "game_id": "824752",
       "home_team": "Boston Red Sox",
       "away_team": "Texas Rangers",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:10",
+      "time": "16:30:10",
       "game_id": "824507",
       "home_team": "Cincinnati Reds",
       "away_team": "Arizona Diamondbacks",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:11",
+      "time": "16:30:11",
       "game_id": "823617",
       "home_team": "New York Mets",
       "away_team": "Atlanta Braves",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:13",
+      "time": "16:30:13",
       "game_id": "824588",
       "home_team": "Chicago White Sox",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3961",
-      "away_prob": "0.6039",
+      "home_prob": "0.3951",
+      "away_prob": "0.6049",
       "poly_home_price": "0.3900",
       "poly_away_price": "0.6200",
-      "home_ev": "0.0156",
-      "away_ev": "-0.0259",
+      "home_ev": "0.0131",
+      "away_ev": "-0.0244",
       "home_pitcher": "Anthony Kay",
       "away_pitcher": "Roki Sasaki",
       "pitchers_confirmed": "yes",
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:14",
+      "time": "16:30:14",
       "game_id": "823778",
       "home_team": "Milwaukee Brewers",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.6921",
-      "away_prob": "0.3079",
+      "home_prob": "0.6941",
+      "away_prob": "0.3059",
       "poly_home_price": "0.6900",
       "poly_away_price": "0.3200",
-      "home_ev": "0.0031",
-      "away_ev": "-0.0379",
+      "home_ev": "0.0060",
+      "away_ev": "-0.0442",
       "home_pitcher": "Jacob Misiorowski",
       "away_pitcher": "Andrew Painter",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:15",
+      "time": "16:30:15",
       "game_id": "824102",
       "home_team": "Kansas City Royals",
       "away_team": "Houston Astros",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:16",
+      "time": "16:30:16",
       "game_id": "823695",
       "home_team": "Minnesota Twins",
       "away_team": "St. Louis Cardinals",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:17",
+      "time": "16:30:17",
       "game_id": "824020",
       "home_team": "Los Angeles Angels",
       "away_team": "Tampa Bay Rays",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:18",
+      "time": "16:30:18",
       "game_id": "823211",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago Cubs",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "16:15:12",
+      "time": "16:30:12",
       "game_id": "822803",
       "home_team": "Toronto Blue Jays",
       "away_team": "New York Yankees",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 32614
+    "total_games_scanned_all": 32628
   }
 }
