@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T23:45:05.501390+00:00",
+  "last_updated": "2026-06-12T00:00:05.327026+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
@@ -50,9 +50,9 @@
       "game_id": "823371",
       "away": "LAD",
       "home": "PIT",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-06-11T22:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-11T23:05:00Z"
     },
     {
@@ -1085,7 +1085,7 @@
     },
     {
       "date": "2026-06-11",
-      "time": "19:45:05",
+      "time": "20:00:05",
       "game_id": "824589",
       "home_team": "Chicago White Sox",
       "away_team": "Atlanta Braves",
@@ -1110,6 +1110,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 32213
+    "total_games_scanned_all": 32214
   }
 }
