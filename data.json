@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T01:15:03.941804+00:00",
+  "last_updated": "2026-06-12T01:30:03.963952+00:00",
   "scoreboard": [
     {
       "game_id": "823619",
@@ -50,9 +50,9 @@
       "game_id": "823371",
       "away": "LAD",
       "home": "PIT",
-      "away_score": 7,
+      "away_score": 8,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-11T22:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "BAL",
       "away_score": 5,
       "home_score": 7,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-06-11T23:05:00Z"
     },
     {
