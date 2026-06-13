@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T20:15:09.244428+00:00",
+  "last_updated": "2026-06-13T20:30:09.452298+00:00",
   "scoreboard": [
     {
       "game_id": "823694",
@@ -7,7 +7,7 @@
       "home": "MIN",
       "away_score": 9,
       "home_score": 4,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-13T18:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 1,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-06-13T19:07:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "SD",
       "home": "BAL",
       "away_score": 4,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "B1",
       "start_time": "2026-06-13T20:05:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "SEA",
       "home": "WSH",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 3,
+      "state": "T2",
       "start_time": "2026-06-13T20:05:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "MIA",
       "home": "PIT",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-06-13T20:05:00Z"
     },
     {
@@ -52,16 +52,16 @@
       "home": "CIN",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
       "game_id": "824426",
       "away": "DET",
       "home": "CLE",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B2",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
       "game_id": "824587",
       "away": "LAD",
       "home": "CWS",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-13",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "824100",
       "home_team": "Kansas City Royals",
       "away_team": "Houston Astros",
       "home_prob": "0.5381",
       "away_prob": "0.4619",
-      "poly_home_price": "0.5400",
-      "poly_away_price": "0.4700",
-      "home_ev": "-0.0036",
-      "away_ev": "-0.0172",
+      "poly_home_price": "0.5500",
+      "poly_away_price": "0.4600",
+      "home_ev": "-0.0217",
+      "away_ev": "0.0042",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Mike Burrows",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "16:15:06",
+      "time": "16:30:06",
       "game_id": "823776",
       "home_team": "Milwaukee Brewers",
       "away_team": "Philadelphia Phillies",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-06-13",
-      "time": "16:15:07",
+      "time": "16:30:07",
       "game_id": "824995",
       "home_team": "Athletics",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.5842",
-      "away_prob": "0.4158",
+      "home_prob": "0.5866",
+      "away_prob": "0.4134",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0099",
-      "away_ev": "-0.0099",
+      "home_ev": "-0.0057",
+      "away_ev": "-0.0158",
       "home_pitcher": "Joey Estes",
       "away_pitcher": "Kyle Freeland",
       "pitchers_confirmed": "yes",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "16:15:08",
+      "time": "16:30:08",
       "game_id": "823213",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago Cubs",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "16:15:09",
+      "time": "16:30:09",
       "game_id": "824019",
       "home_team": "Los Angeles Angels",
       "away_team": "Tampa Bay Rays",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 33199
+    "total_games_scanned_all": 33204
   }
 }
