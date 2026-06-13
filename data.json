@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T19:30:17.742780+00:00",
+  "last_updated": "2026-06-13T19:45:12.864901+00:00",
   "scoreboard": [
     {
       "game_id": "823694",
@@ -7,7 +7,7 @@
       "home": "MIN",
       "away_score": 4,
       "home_score": 4,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-06-13T18:10:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-13T19:07:00Z"
     },
     {
       "game_id": "824828",
       "away": "SD",
       "home": "BAL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-13T20:05:00Z"
     },
     {
@@ -59,36 +59,36 @@
       "game_id": "824426",
       "away": "DET",
       "home": "CLE",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
       "game_id": "824749",
       "away": "TEX",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
       "game_id": "823616",
       "away": "ATL",
       "home": "NYM",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
       "game_id": "824587",
       "away": "LAD",
       "home": "CWS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-13T20:10:00Z"
     },
     {
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:06",
+      "time": "15:45:05",
       "game_id": "822725",
       "home_team": "Washington Nationals",
       "away_team": "Seattle Mariners",
@@ -1082,16 +1082,16 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:07",
+      "time": "15:45:06",
       "game_id": "823369",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Miami Marlins",
-      "home_prob": "0.5051",
-      "away_prob": "0.4949",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0286",
-      "away_ev": "0.0100",
+      "home_ev": "-0.0213",
+      "away_ev": "0.0022",
       "home_pitcher": "Bubba Chandler",
       "away_pitcher": "Lake Bachar",
       "pitchers_confirmed": "yes",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:08",
+      "time": "15:45:07",
       "game_id": "824508",
       "home_team": "Cincinnati Reds",
       "away_team": "Arizona Diamondbacks",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:13",
+      "time": "15:45:08",
       "game_id": "824100",
       "home_team": "Kansas City Royals",
       "away_team": "Houston Astros",
-      "home_prob": "0.5367",
-      "away_prob": "0.4633",
+      "home_prob": "0.5381",
+      "away_prob": "0.4619",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0061",
-      "away_ev": "-0.0143",
+      "home_ev": "-0.0036",
+      "away_ev": "-0.0172",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Mike Burrows",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:14",
+      "time": "15:45:09",
       "game_id": "823776",
       "home_team": "Milwaukee Brewers",
       "away_team": "Philadelphia Phillies",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:15",
+      "time": "15:45:10",
       "game_id": "824995",
       "home_team": "Athletics",
       "away_team": "Colorado Rockies",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:16",
+      "time": "15:45:11",
       "game_id": "823213",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago Cubs",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "15:30:17",
+      "time": "15:45:12",
       "game_id": "824019",
       "home_team": "Los Angeles Angels",
       "away_team": "Tampa Bay Rays",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 33181
+    "total_games_scanned_all": 33189
   }
 }
