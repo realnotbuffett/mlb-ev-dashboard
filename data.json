@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-13T01:00:07.385550+00:00",
+  "last_updated": "2026-06-13T01:15:06.371759+00:00",
   "scoreboard": [
     {
       "game_id": "823370",
       "away": "MIA",
       "home": "PIT",
       "away_score": 8,
-      "home_score": 2,
-      "state": "B8",
+      "home_score": 3,
+      "state": "B9",
       "start_time": "2026-06-12T22:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-12T22:45:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "BAL",
       "away_score": 3,
       "home_score": 7,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-06-12T23:05:00Z"
     },
     {
       "game_id": "824425",
       "away": "DET",
       "home": "CLE",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 3,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-12T23:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "BOS",
       "away_score": 1,
       "home_score": 6,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-06-12T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CIN",
       "away_score": 1,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-12T23:15:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 2,
       "home_score": 2,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-06-12T23:15:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "NYY",
       "home": "TOR",
       "away_score": 3,
-      "home_score": 5,
-      "state": "B5",
+      "home_score": 7,
+      "state": "T6",
       "start_time": "2026-06-12T23:37:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "LAD",
       "home": "CWS",
       "away_score": 2,
-      "home_score": 1,
-      "state": "T5",
+      "home_score": 3,
+      "state": "B5",
       "start_time": "2026-06-12T23:40:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "PHI",
       "home": "MIL",
       "away_score": 0,
-      "home_score": 5,
-      "state": "T6",
+      "home_score": 6,
+      "state": "T7",
       "start_time": "2026-06-12T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 9,
       "home_score": 5,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-13T00:10:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "MIN",
       "away_score": 3,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-13T00:10:00Z"
     },
     {
       "game_id": "824020",
       "away": "TB",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-13T01:38:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "21:00:07",
+      "time": "21:15:06",
       "game_id": "823211",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago Cubs",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-12",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "824997",
       "home_team": "Athletics",
       "away_team": "Colorado Rockies",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 79,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 32800
+    "total_games_scanned_all": 32802
   }
 }
