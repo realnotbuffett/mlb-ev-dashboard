@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T18:00:09.202473+00:00",
+  "last_updated": "2026-06-14T18:15:08.957848+00:00",
   "scoreboard": [
     {
       "game_id": "823368",
@@ -7,7 +7,7 @@
       "home": "PIT",
       "away_score": 2,
       "home_score": 1,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-06-14T16:15:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-14T17:35:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "WSH",
       "away_score": 1,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-14T17:35:00Z"
     },
     {
       "game_id": "822801",
       "away": "NYY",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-06-14T17:37:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-14T17:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "ATL",
       "home": "NYM",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 4,
+      "state": "T2",
       "start_time": "2026-06-14T17:40:00Z"
     },
     {
@@ -77,7 +77,7 @@
       "game_id": "824586",
       "away": "LAD",
       "home": "CWS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-06-14T18:10:00Z"
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-06-14",
-      "time": "14:00:06",
+      "time": "14:15:05",
       "game_id": "824994",
       "home_team": "Athletics",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6408",
-      "away_prob": "0.3592",
+      "home_prob": "0.6400",
+      "away_prob": "0.3600",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0141",
-      "away_ev": "-0.0023",
+      "home_ev": "-0.0154",
+      "away_ev": "0.0000",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Tomoyuki Sugano",
       "pitchers_confirmed": "yes",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-06-14",
-      "time": "14:00:07",
+      "time": "14:15:06",
       "game_id": "823212",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5468",
+      "away_prob": "0.4532",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0094",
+      "home_ev": "-0.0058",
+      "away_ev": "-0.0149",
       "home_pitcher": "Logan Webb",
       "away_pitcher": "Ryan Rolison",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-14",
-      "time": "14:00:08",
+      "time": "14:15:07",
       "game_id": "824021",
       "home_team": "Los Angeles Angels",
       "away_team": "Tampa Bay Rays",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-14",
-      "time": "14:00:09",
+      "time": "14:15:08",
       "game_id": "824751",
       "home_team": "Boston Red Sox",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5140",
-      "away_prob": "0.4860",
+      "home_prob": "0.5128",
+      "away_prob": "0.4872",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0115",
-      "away_ev": "-0.0082",
+      "home_ev": "-0.0139",
+      "away_ev": "-0.0056",
       "home_pitcher": "Connelly Early",
       "away_pitcher": "Nathan Eovaldi",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 81,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 33562
+    "total_games_scanned_all": 33566
   }
 }
