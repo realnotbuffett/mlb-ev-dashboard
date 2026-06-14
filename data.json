@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T00:30:07.705316+00:00",
+  "last_updated": "2026-06-14T00:45:09.018349+00:00",
   "scoreboard": [
     {
       "game_id": "823694",
@@ -95,9 +95,9 @@
       "game_id": "824100",
       "away": "HOU",
       "home": "KC",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-06-13T23:10:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "PHI",
       "home": "MIL",
       "away_score": 3,
-      "home_score": 2,
-      "state": "T5",
+      "home_score": 3,
+      "state": "B5",
       "start_time": "2026-06-13T23:10:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-06-13",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-04-24",
-      "time": "20:15:06",
-      "game_id": "823232",
-      "home_team": "San Francisco Giants",
-      "away_team": "Miami Marlins",
-      "bet_side": "home",
-      "model_prob": "0.5281",
-      "polymarket_price": "0.5000",
-      "ev_pct": "5.61%",
-      "bet_size": "$10.00",
-      "order_id": "0x543a3a600aa38663f9",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-04-25",
       "time": "17:45:11",
@@ -989,6 +972,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-06-13",
+      "time": "20:45:06",
+      "game_id": "824995",
+      "home_team": "Athletics",
+      "away_team": "Colorado Rockies",
+      "bet_side": "home",
+      "model_prob": "0.6174",
+      "polymarket_price": "0.5800",
+      "ev_pct": "6.45%",
+      "bet_size": "$10.00",
+      "order_id": "0xf7cbaaec46af79de05",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1236,21 +1236,21 @@
     },
     {
       "date": "2026-06-13",
-      "time": "20:30:05",
+      "time": "20:45:06",
       "game_id": "824995",
       "home_team": "Athletics",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.5796",
-      "away_prob": "0.4204",
+      "home_prob": "0.6174",
+      "away_prob": "0.3826",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0007",
-      "away_ev": "-0.0223",
+      "home_ev": "0.0645",
+      "away_ev": "-0.1103",
       "home_pitcher": "Joey Estes",
       "away_pitcher": "Kyle Freeland",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "20:30:06",
+      "time": "20:45:07",
       "game_id": "823213",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago Cubs",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "20:30:07",
+      "time": "20:45:08",
       "game_id": "824019",
       "home_team": "Los Angeles Angels",
       "away_team": "Tampa Bay Rays",
@@ -1324,9 +1324,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 80,
+    "total_bets_today": 2,
+    "total_bets_all_time": 81,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 33269
+    "total_games_scanned_all": 33272
   }
 }
