@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T00:45:09.018349+00:00",
+  "last_updated": "2026-06-14T01:00:07.436776+00:00",
   "scoreboard": [
     {
       "game_id": "823694",
@@ -95,18 +95,18 @@
       "game_id": "824100",
       "away": "HOU",
       "home": "KC",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 4,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-06-13T23:10:00Z"
     },
     {
       "game_id": "823776",
       "away": "PHI",
       "home": "MIL",
-      "away_score": 3,
+      "away_score": 7,
       "home_score": 3,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-06-13T23:10:00Z"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "20:45:06",
+      "time": "21:00:05",
       "game_id": "824995",
       "home_team": "Athletics",
       "away_team": "Colorado Rockies",
@@ -1249,8 +1249,8 @@
       "home_pitcher": "Joey Estes",
       "away_pitcher": "Kyle Freeland",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "20:45:07",
+      "time": "21:00:06",
       "game_id": "823213",
       "home_team": "San Francisco Giants",
       "away_team": "Chicago Cubs",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-13",
-      "time": "20:45:08",
+      "time": "21:00:07",
       "game_id": "824019",
       "home_team": "Los Angeles Angels",
       "away_team": "Tampa Bay Rays",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 81,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 33272
+    "total_games_scanned_all": 33275
   }
 }
