@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T23:00:05.928778+00:00",
+  "last_updated": "2026-06-14T23:15:05.097409+00:00",
   "scoreboard": [
     {
       "game_id": "823368",
@@ -115,16 +115,16 @@
       "home": "LAA",
       "away_score": 8,
       "home_score": 3,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-14T20:07:00Z"
     },
     {
       "game_id": "824751",
       "away": "TEX",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-14T23:20:00Z"
     },
     {
