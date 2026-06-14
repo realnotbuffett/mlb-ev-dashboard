@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T21:00:05.535551+00:00",
+  "last_updated": "2026-06-14T21:15:05.292064+00:00",
   "scoreboard": [
     {
       "game_id": "823368",
@@ -96,8 +96,8 @@
       "away": "COL",
       "home": "OAK",
       "away_score": 14,
-      "home_score": 6,
-      "state": "B5",
+      "home_score": 8,
+      "state": "B6",
       "start_time": "2026-06-14T19:05:00Z"
     },
     {
@@ -105,17 +105,17 @@
       "away": "CHC",
       "home": "SF",
       "away_score": 0,
-      "home_score": 3,
-      "state": "T7",
+      "home_score": 4,
+      "state": "T8",
       "start_time": "2026-06-14T19:10:00Z"
     },
     {
       "game_id": "824021",
       "away": "TB",
       "home": "LAA",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-14T20:07:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-14",
-      "time": "17:00:05",
+      "time": "17:15:05",
       "game_id": "824751",
       "home_team": "Boston Red Sox",
       "away_team": "Texas Rangers",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 81,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 33586
+    "total_games_scanned_all": 33587
   }
 }
