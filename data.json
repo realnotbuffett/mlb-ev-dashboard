@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T22:00:06.018596+00:00",
+  "last_updated": "2026-06-14T22:15:06.322333+00:00",
   "scoreboard": [
     {
       "game_id": "823368",
@@ -95,7 +95,7 @@
       "game_id": "824994",
       "away": "COL",
       "home": "OAK",
-      "away_score": 18,
+      "away_score": 23,
       "home_score": 9,
       "state": "T8",
       "start_time": "2026-06-14T19:05:00Z"
@@ -115,7 +115,7 @@
       "home": "LAA",
       "away_score": 3,
       "home_score": 3,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-14T20:07:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-14",
-      "time": "18:00:05",
+      "time": "18:15:06",
       "game_id": "824751",
       "home_team": "Boston Red Sox",
       "away_team": "Texas Rangers",
-      "home_prob": "0.5216",
-      "away_prob": "0.4784",
+      "home_prob": "0.5191",
+      "away_prob": "0.4809",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0031",
-      "away_ev": "-0.0237",
+      "home_ev": "-0.0018",
+      "away_ev": "-0.0185",
       "home_pitcher": "Connelly Early",
       "away_pitcher": "Nathan Eovaldi",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 81,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 33590
+    "total_games_scanned_all": 33591
   }
 }
