@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T23:30:12.297409+00:00",
+  "last_updated": "2026-06-16T23:45:09.558188+00:00",
   "scoreboard": [
     {
       "game_id": "823451",
@@ -7,7 +7,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 7,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-16T22:40:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 2,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-06-16T22:45:00Z"
     },
     {
       "game_id": "824750",
       "away": "TOR",
       "home": "BOS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-06-16T22:45:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "CWS",
       "home": "NYY",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B2",
+      "home_score": 1,
+      "state": "T3",
       "start_time": "2026-06-16T23:05:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "NYM",
       "home": "CIN",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B1",
+      "home_score": 4,
+      "state": "B2",
       "start_time": "2026-06-16T23:10:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "SF",
       "home": "ATL",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "T2",
       "start_time": "2026-06-16T23:15:00Z"
     },
     {
@@ -77,18 +77,18 @@
       "game_id": "824667",
       "away": "COL",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-17T00:05:00Z"
     },
     {
       "game_id": "822888",
       "away": "MIN",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-17T00:05:00Z"
     },
     {
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-16",
-      "time": "19:30:08",
+      "time": "19:45:05",
       "game_id": "824182",
       "home_team": "Houston Astros",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.6039",
-      "away_prob": "0.3961",
+      "home_prob": "0.6049",
+      "away_prob": "0.3951",
       "poly_home_price": "0.6100",
       "poly_away_price": "0.4000",
-      "home_ev": "-0.0100",
-      "away_ev": "-0.0098",
+      "home_ev": "-0.0084",
+      "away_ev": "-0.0122",
       "home_pitcher": "Hunter Brown",
       "away_pitcher": "Framber Valdez",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-16",
-      "time": "19:30:09",
+      "time": "19:45:06",
       "game_id": "825070",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Angels",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-06-16",
-      "time": "19:30:10",
+      "time": "19:45:07",
       "game_id": "824991",
       "home_team": "Athletics",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5664",
-      "away_prob": "0.4336",
+      "home_prob": "0.5639",
+      "away_prob": "0.4361",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0063",
-      "away_ev": "-0.0146",
+      "home_ev": "-0.0107",
+      "away_ev": "-0.0089",
       "home_pitcher": "Jack Perkins",
       "away_pitcher": "Mitch Keller",
       "pitchers_confirmed": "yes",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-16",
-      "time": "19:30:11",
+      "time": "19:45:08",
       "game_id": "823128",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-16",
-      "time": "19:30:12",
+      "time": "19:45:09",
       "game_id": "823939",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Tampa Bay Rays",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 85,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 34591
+    "total_games_scanned_all": 34596
   }
 }
