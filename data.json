@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T01:30:05.859984+00:00",
+  "last_updated": "2026-06-16T01:45:05.904006+00:00",
   "scoreboard": [
     {
       "game_id": "823452",
@@ -25,7 +25,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 9,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-15T23:10:00Z"
     },
     {
@@ -34,14 +34,14 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 3,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-15T23:45:00Z"
     },
     {
       "game_id": "824666",
       "away": "COL",
       "home": "CHC",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
       "state": "T6",
       "start_time": "2026-06-16T00:05:00Z"
@@ -50,9 +50,9 @@
       "game_id": "822887",
       "away": "MIN",
       "home": "TEX",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 2,
-      "state": "B5",
+      "state": "T7",
       "start_time": "2026-06-16T00:05:00Z"
     },
     {
@@ -61,14 +61,14 @@
       "home": "HOU",
       "away_score": 5,
       "home_score": 3,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-06-16T00:10:00Z"
     },
     {
       "game_id": "825071",
       "away": "LAA",
       "home": "ARI",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-06-16T01:40:00Z"
@@ -1103,7 +1103,7 @@
     },
     {
       "date": "2026-06-15",
-      "time": "21:30:05",
+      "time": "21:45:05",
       "game_id": "823938",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Tampa Bay Rays",
@@ -1172,6 +1172,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 83,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 33978
+    "total_games_scanned_all": 33979
   }
 }
