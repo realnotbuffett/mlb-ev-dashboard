@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T22:45:09.570622+00:00",
+  "last_updated": "2026-06-17T23:00:08.146619+00:00",
   "scoreboard": [
     {
       "game_id": "824503",
@@ -95,9 +95,9 @@
       "game_id": "824913",
       "away": "SF",
       "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-17T23:15:00Z"
     },
     {
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "18:45:06",
+      "time": "19:00:04",
       "game_id": "823774",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cleveland Guardians",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "18:45:07",
+      "time": "19:00:05",
       "game_id": "824668",
       "home_team": "Chicago Cubs",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6488",
-      "away_prob": "0.3512",
+      "home_prob": "0.6497",
+      "away_prob": "0.3503",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0169",
-      "away_ev": "0.0033",
+      "home_ev": "-0.0157",
+      "away_ev": "0.0010",
       "home_pitcher": "Javier Assad",
       "away_pitcher": "Sean Sullivan",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "18:45:08",
+      "time": "19:00:07",
       "game_id": "824992",
       "home_team": "Athletics",
       "away_team": "Pittsburgh Pirates",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "18:45:09",
+      "time": "19:00:08",
       "game_id": "823127",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
       "home_prob": "0.5480",
       "away_prob": "0.4520",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "-0.0037",
-      "away_ev": "-0.0173",
+      "poly_home_price": "0.5600",
+      "poly_away_price": "0.4500",
+      "home_ev": "-0.0215",
+      "away_ev": "0.0045",
       "home_pitcher": "George Kirby",
       "away_pitcher": "Kyle Bradish",
       "pitchers_confirmed": "yes",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 35007
+    "total_games_scanned_all": 35011
   }
 }
