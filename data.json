@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T21:00:10.785195+00:00",
+  "last_updated": "2026-06-17T21:15:11.025394+00:00",
   "scoreboard": [
     {
       "game_id": "824503",
@@ -52,7 +52,7 @@
       "home": "STL",
       "away_score": 6,
       "home_score": 1,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-17T18:15:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "TB",
       "home": "LAD",
       "away_score": 4,
-      "home_score": 3,
-      "state": "T6",
+      "home_score": 5,
+      "state": "T7",
       "start_time": "2026-06-17T19:10:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "LAA",
       "home": "ARI",
       "away_score": 1,
-      "home_score": 6,
-      "state": "T5",
+      "home_score": 8,
+      "state": "B5",
       "start_time": "2026-06-17T19:40:00Z"
     },
     {
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "17:00:04",
+      "time": "17:15:05",
       "game_id": "824746",
       "home_team": "Boston Red Sox",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5279",
-      "away_prob": "0.4721",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0039",
-      "away_ev": "-0.0165",
+      "home_ev": "-0.0014",
+      "away_ev": "-0.0193",
       "home_pitcher": "Jake Bennett",
       "away_pitcher": "Braydon Fisher",
       "pitchers_confirmed": "yes",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "17:00:05",
+      "time": "17:15:06",
       "game_id": "823536",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.6169",
-      "away_prob": "0.3831",
+      "home_prob": "0.6159",
+      "away_prob": "0.3841",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0051",
-      "away_ev": "-0.0176",
+      "home_ev": "-0.0065",
+      "away_ev": "-0.0152",
       "home_pitcher": "Carlos Rod\u00f3n",
       "away_pitcher": "Anthony Kay",
       "pitchers_confirmed": "yes",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "17:00:07",
+      "time": "17:15:07",
       "game_id": "823774",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cleveland Guardians",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "17:00:08",
+      "time": "17:15:08",
       "game_id": "824668",
       "home_team": "Chicago Cubs",
       "away_team": "Colorado Rockies",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "17:00:09",
+      "time": "17:15:09",
       "game_id": "824992",
       "home_team": "Athletics",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "17:00:10",
+      "time": "17:15:10",
       "game_id": "823127",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "17:00:06",
+      "time": "17:15:06",
       "game_id": "824913",
       "home_team": "Atlanta Braves",
       "away_team": "San Francisco Giants",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 34960
+    "total_games_scanned_all": 34967
   }
 }
