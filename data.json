@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T01:30:06.120223+00:00",
+  "last_updated": "2026-06-17T01:45:05.601106+00:00",
   "scoreboard": [
     {
       "game_id": "823451",
@@ -16,7 +16,7 @@
       "home": "WSH",
       "away_score": 4,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-16T22:45:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "BOS",
       "away_score": 6,
       "home_score": 1,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-16T22:45:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "NYY",
       "away_score": 2,
       "home_score": 11,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-16T23:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CIN",
       "away_score": 3,
       "home_score": 5,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-16T23:10:00Z"
     },
     {
@@ -59,27 +59,27 @@
       "game_id": "823775",
       "away": "CLE",
       "home": "MIL",
-      "away_score": 0,
-      "home_score": 1,
-      "state": "T7",
+      "away_score": 1,
+      "home_score": 2,
+      "state": "T8",
       "start_time": "2026-06-16T23:40:00Z"
     },
     {
       "game_id": "823045",
       "away": "SD",
       "home": "STL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 3,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-06-16T23:45:00Z"
     },
     {
       "game_id": "824667",
       "away": "COL",
       "home": "CHC",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 2,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-06-17T00:05:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "MIN",
       "home": "TEX",
       "away_score": 10,
-      "home_score": 1,
-      "state": "T5",
+      "home_score": 2,
+      "state": "T6",
       "start_time": "2026-06-17T00:05:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "DET",
       "home": "HOU",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 1,
+      "state": "T6",
       "start_time": "2026-06-17T00:10:00Z"
     },
     {
@@ -131,9 +131,9 @@
       "game_id": "823939",
       "away": "TB",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-17T02:10:00Z"
     }
   ],
@@ -985,8 +985,8 @@
       "ev_pct": "7.91%",
       "bet_size": "$10.00",
       "order_id": "0x4a9eb27f9207304da6",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     }
