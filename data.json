@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T19:30:10.788845+00:00",
+  "last_updated": "2026-06-17T19:45:10.895984+00:00",
   "scoreboard": [
     {
       "game_id": "824503",
@@ -16,16 +16,16 @@
       "home": "WSH",
       "away_score": 6,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-17T17:05:00Z"
     },
     {
       "game_id": "823450",
       "away": "MIA",
       "home": "PHI",
-      "away_score": 11,
+      "away_score": 12,
       "home_score": 4,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-17T17:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "ATL",
       "away_score": 6,
       "home_score": 2,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-17T18:00:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "DET",
       "home": "HOU",
       "away_score": 0,
-      "home_score": 2,
-      "state": "B5",
+      "home_score": 3,
+      "state": "T6",
       "start_time": "2026-06-17T18:10:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "SD",
       "home": "STL",
       "away_score": 3,
-      "home_score": 0,
-      "state": "T5",
+      "home_score": 1,
+      "state": "T6",
       "start_time": "2026-06-17T18:15:00Z"
     },
     {
@@ -61,14 +61,14 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-17T19:10:00Z"
     },
     {
       "game_id": "825072",
       "away": "LAA",
       "home": "ARI",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-06-17T19:40:00Z"
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "15:30:04",
+      "time": "15:45:04",
       "game_id": "824746",
       "home_team": "Boston Red Sox",
       "away_team": "Toronto Blue Jays",
@@ -1137,7 +1137,7 @@
       "home_ev": "-0.0150",
       "away_ev": "-0.0039",
       "home_pitcher": "Jake Bennett",
-      "away_pitcher": "Max Scherzer",
+      "away_pitcher": "Braydon Fisher",
       "pitchers_confirmed": "yes",
       "bet_placed": "no",
       "bet_side": "",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "15:30:05",
+      "time": "15:45:05",
       "game_id": "823536",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.6135",
-      "away_prob": "0.3865",
+      "home_prob": "0.6159",
+      "away_prob": "0.3841",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0090",
+      "home_ev": "-0.0065",
+      "away_ev": "-0.0152",
       "home_pitcher": "Carlos Rod\u00f3n",
       "away_pitcher": "Anthony Kay",
       "pitchers_confirmed": "yes",
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "15:30:07",
+      "time": "15:45:07",
       "game_id": "823774",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.5381",
-      "away_prob": "0.4619",
+      "home_prob": "0.5367",
+      "away_prob": "0.4633",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0036",
-      "away_ev": "-0.0172",
+      "home_ev": "-0.0061",
+      "away_ev": "-0.0143",
       "home_pitcher": "Brandon Sproat",
       "away_pitcher": "Gavin Williams",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "15:30:08",
+      "time": "15:45:08",
       "game_id": "824668",
       "home_team": "Chicago Cubs",
       "away_team": "Colorado Rockies",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "15:30:09",
+      "time": "15:45:09",
       "game_id": "824992",
       "home_team": "Athletics",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.4645",
-      "away_prob": "0.5355",
+      "home_prob": "0.4633",
+      "away_prob": "0.5367",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0118",
-      "away_ev": "-0.0083",
+      "home_ev": "-0.0143",
+      "away_ev": "-0.0061",
       "home_pitcher": "Aaron Civale",
       "away_pitcher": "Braxton Ashcraft",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "15:30:10",
+      "time": "15:45:10",
       "game_id": "823127",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "15:30:06",
+      "time": "15:45:06",
       "game_id": "824913",
       "home_team": "Atlanta Braves",
       "away_team": "San Francisco Giants",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 34918
+    "total_games_scanned_all": 34925
   }
 }
