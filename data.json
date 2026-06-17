@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T18:15:13.141258+00:00",
+  "last_updated": "2026-06-17T18:30:12.945809+00:00",
   "scoreboard": [
     {
       "game_id": "824503",
@@ -7,7 +7,7 @@
       "home": "CIN",
       "away_score": 7,
       "home_score": 1,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-17T16:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "WSH",
       "away_score": 4,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-06-17T17:05:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PHI",
       "away_score": 6,
       "home_score": 4,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-17T17:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 2,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-17T18:00:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-17T18:10:00Z"
     },
     {
       "game_id": "823044",
       "away": "SD",
       "home": "STL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-17T18:15:00Z"
     },
     {
@@ -1082,16 +1082,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:04",
+      "time": "14:30:04",
       "game_id": "823940",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.5866",
-      "away_prob": "0.4134",
+      "home_prob": "0.5901",
+      "away_prob": "0.4099",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "-0.0223",
-      "away_ev": "0.0082",
+      "home_ev": "-0.0165",
+      "away_ev": "-0.0003",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Shane McClanahan",
       "pitchers_confirmed": "yes",
@@ -1104,16 +1104,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:05",
+      "time": "14:30:05",
       "game_id": "825072",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6184",
-      "away_prob": "0.3816",
+      "home_prob": "0.6193",
+      "away_prob": "0.3807",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0026",
-      "away_ev": "-0.0214",
+      "home_ev": "-0.0012",
+      "away_ev": "-0.0238",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Sam Aldegheri",
       "pitchers_confirmed": "yes",
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:06",
+      "time": "14:30:06",
       "game_id": "824746",
       "home_team": "Boston Red Sox",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5418",
+      "away_prob": "0.4582",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0094",
+      "home_ev": "-0.0150",
+      "away_ev": "-0.0039",
       "home_pitcher": "Jake Bennett",
       "away_pitcher": "Max Scherzer",
       "pitchers_confirmed": "yes",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:07",
+      "time": "14:30:07",
       "game_id": "823536",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.6211",
-      "away_prob": "0.3789",
+      "home_prob": "0.6244",
+      "away_prob": "0.3756",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0141",
-      "away_ev": "-0.0029",
+      "home_ev": "-0.0089",
+      "away_ev": "-0.0116",
       "home_pitcher": "Carlos Rod\u00f3n",
       "away_pitcher": "Anthony Kay",
       "pitchers_confirmed": "yes",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:09",
+      "time": "14:30:09",
       "game_id": "823774",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cleveland Guardians",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:10",
+      "time": "14:30:10",
       "game_id": "824668",
       "home_team": "Chicago Cubs",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6351",
-      "away_prob": "0.3649",
+      "home_prob": "0.6400",
+      "away_prob": "0.3600",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0230",
-      "away_ev": "0.0137",
+      "home_ev": "-0.0154",
+      "away_ev": "0.0000",
       "home_pitcher": "Javier Assad",
       "away_pitcher": "Sean Sullivan",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:11",
+      "time": "14:30:11",
       "game_id": "824992",
       "home_team": "Athletics",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:13",
+      "time": "14:30:12",
       "game_id": "823127",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "14:15:08",
+      "time": "14:30:08",
       "game_id": "824913",
       "home_team": "Atlanta Braves",
       "away_team": "San Francisco Giants",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 34877
+    "total_games_scanned_all": 34886
   }
 }
