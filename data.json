@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T20:00:10.654377+00:00",
+  "last_updated": "2026-06-17T20:15:10.598049+00:00",
   "scoreboard": [
     {
       "game_id": "824503",
@@ -34,16 +34,16 @@
       "home": "ATL",
       "away_score": 7,
       "home_score": 2,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-17T18:00:00Z"
     },
     {
       "game_id": "824178",
       "away": "DET",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 4,
-      "state": "B6",
+      "state": "T8",
       "start_time": "2026-06-17T18:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "STL",
       "away_score": 3,
       "home_score": 1,
-      "state": "B6",
+      "state": "T8",
       "start_time": "2026-06-17T18:15:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "TB",
       "home": "LAD",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T4",
+      "home_score": 2,
+      "state": "B4",
       "start_time": "2026-06-17T19:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "ARI",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-17T19:40:00Z"
     },
     {
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "16:00:04",
+      "time": "16:15:04",
       "game_id": "824746",
       "home_team": "Boston Red Sox",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5418",
-      "away_prob": "0.4582",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "-0.0150",
-      "away_ev": "-0.0039",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0246",
+      "away_ev": "0.0070",
       "home_pitcher": "Jake Bennett",
       "away_pitcher": "Braydon Fisher",
       "pitchers_confirmed": "yes",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "823536",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "16:00:07",
+      "time": "16:15:07",
       "game_id": "823774",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cleveland Guardians",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "16:00:08",
+      "time": "16:15:08",
       "game_id": "824668",
       "home_team": "Chicago Cubs",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6392",
-      "away_prob": "0.3608",
+      "home_prob": "0.6408",
+      "away_prob": "0.3592",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0167",
-      "away_ev": "0.0024",
+      "home_ev": "-0.0141",
+      "away_ev": "-0.0023",
       "home_pitcher": "Javier Assad",
       "away_pitcher": "Sean Sullivan",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "16:00:09",
+      "time": "16:15:09",
       "game_id": "824992",
       "home_team": "Athletics",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "16:00:10",
+      "time": "16:15:10",
       "game_id": "823127",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-06-17",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "824913",
       "home_team": "Atlanta Braves",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5480",
-      "away_prob": "0.4520",
+      "home_prob": "0.5491",
+      "away_prob": "0.4509",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0215",
-      "away_ev": "0.0045",
+      "home_ev": "-0.0194",
+      "away_ev": "0.0020",
       "home_pitcher": "JR Ritchie",
       "away_pitcher": "Carson Whisenhunt",
       "pitchers_confirmed": "yes",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 34932
+    "total_games_scanned_all": 34939
   }
 }
