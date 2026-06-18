@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T17:45:10.082192+00:00",
+  "last_updated": "2026-06-18T18:00:12.104889+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -7,7 +7,7 @@
       "home": "BOS",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-18T17:35:00Z"
     },
     {
@@ -984,7 +984,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "13:45:04",
+      "time": "14:00:07",
       "game_id": "822889",
       "home_team": "Texas Rangers",
       "away_team": "Minnesota Twins",
@@ -1006,7 +1006,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "13:45:05",
+      "time": "14:00:08",
       "game_id": "823125",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "13:45:06",
+      "time": "14:00:09",
       "game_id": "823448",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "13:45:07",
+      "time": "14:00:10",
       "game_id": "823533",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "13:45:08",
+      "time": "14:00:11",
       "game_id": "824911",
       "home_team": "Atlanta Braves",
       "away_team": "San Francisco Giants",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "13:45:09",
+      "time": "14:00:11",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1119,6 +1119,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35188
+    "total_games_scanned_all": 35194
   }
 }
