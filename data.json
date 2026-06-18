@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T21:45:06.968304+00:00",
+  "last_updated": "2026-06-18T22:00:06.939230+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -34,7 +34,7 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 3,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-18T20:10:00Z"
     },
     {
@@ -1028,16 +1028,16 @@
     },
     {
       "date": "2026-06-18",
-      "time": "17:45:04",
+      "time": "18:00:04",
       "game_id": "823448",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5254",
+      "away_prob": "0.4746",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0246",
-      "away_ev": "0.0070",
+      "home_ev": "-0.0271",
+      "away_ev": "0.0098",
       "home_pitcher": "Aaron Nola",
       "away_pitcher": "Sean Manaea",
       "pitchers_confirmed": "yes",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "17:45:05",
+      "time": "18:00:05",
       "game_id": "823533",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "17:45:06",
+      "time": "18:00:06",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1119,6 +1119,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35247
+    "total_games_scanned_all": 35250
   }
 }
