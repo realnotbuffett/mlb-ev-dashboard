@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T18:15:10.093965+00:00",
+  "last_updated": "2026-06-18T18:30:08.023982+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -7,7 +7,7 @@
       "home": "BOS",
       "away_score": 2,
       "home_score": 0,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-06-18T17:35:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-18T18:10:00Z"
     },
     {
       "game_id": "822889",
       "away": "MIN",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-18T18:35:00Z"
     },
     {
@@ -56,15 +56,6 @@
       "start_time": "2026-06-18T23:05:00Z"
     },
     {
-      "game_id": "824911",
-      "away": "SF",
-      "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
-      "start_time": "2026-06-18T23:15:00Z"
-    },
-    {
       "game_id": "824098",
       "away": "STL",
       "home": "KC",
@@ -81,6 +72,15 @@
       "home_score": null,
       "state": "UPCOMING",
       "start_time": "2026-06-19T01:40:00Z"
+    },
+    {
+      "game_id": "824911",
+      "away": "SF",
+      "home": "ATL",
+      "away_score": null,
+      "home_score": null,
+      "state": "FINAL",
+      "start_time": "2026-06-18T23:15:00Z"
     }
   ],
   "today": "2026-06-18",
@@ -1006,16 +1006,16 @@
     },
     {
       "date": "2026-06-18",
-      "time": "14:15:05",
+      "time": "14:30:04",
       "game_id": "823125",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5614",
-      "away_prob": "0.4386",
+      "home_prob": "0.5628",
+      "away_prob": "0.4372",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0151",
-      "away_ev": "-0.0032",
+      "home_ev": "-0.0126",
+      "away_ev": "-0.0064",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Shane Baz",
       "pitchers_confirmed": "yes",
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "14:15:06",
+      "time": "14:30:05",
       "game_id": "823448",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "14:15:07",
+      "time": "14:30:06",
       "game_id": "823533",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "14:15:09",
+      "time": "14:30:07",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1119,6 +1119,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35200
+    "total_games_scanned_all": 35204
   }
 }
