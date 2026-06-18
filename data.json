@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-18T19:30:08.178799+00:00",
+  "last_updated": "2026-06-18T19:45:06.891106+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
       "away": "TOR",
       "home": "BOS",
       "away_score": 3,
-      "home_score": 1,
-      "state": "T8",
+      "home_score": 3,
+      "state": "T9",
       "start_time": "2026-06-18T17:35:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-18T18:10:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "TEX",
       "away_score": 4,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-06-18T18:35:00Z"
     },
     {
       "game_id": "823125",
       "away": "BAL",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-18T20:10:00Z"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "15:30:05",
+      "time": "15:45:04",
       "game_id": "823448",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "15:30:06",
+      "time": "15:45:05",
       "game_id": "823533",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1061,7 +1061,7 @@
       "home_ev": "-0.0156",
       "away_ev": "-0.0012",
       "home_pitcher": "Ryan Weathers",
-      "away_pitcher": "Sean Burke",
+      "away_pitcher": "Bryan Hudson",
       "pitchers_confirmed": "yes",
       "bet_placed": "no",
       "bet_side": "",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "15:30:08",
+      "time": "15:45:06",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1119,6 +1119,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35220
+    "total_games_scanned_all": 35223
   }
 }
