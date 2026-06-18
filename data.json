@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T21:00:06.794947+00:00",
+  "last_updated": "2026-06-18T21:15:06.853014+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -16,16 +16,16 @@
       "home": "MIL",
       "away_score": 4,
       "home_score": 2,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-06-18T18:10:00Z"
     },
     {
       "game_id": "822889",
       "away": "MIN",
       "home": "TEX",
-      "away_score": 7,
+      "away_score": 9,
       "home_score": 2,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-18T18:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 3,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-06-18T20:10:00Z"
     },
     {
@@ -1028,16 +1028,16 @@
     },
     {
       "date": "2026-06-18",
-      "time": "17:00:04",
+      "time": "17:15:04",
       "game_id": "823448",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
-      "home_prob": "0.5165",
-      "away_prob": "0.4835",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0434",
-      "away_ev": "0.0286",
+      "home_ev": "-0.0199",
+      "away_ev": "0.0016",
       "home_pitcher": "Aaron Nola",
       "away_pitcher": "Sean Manaea",
       "pitchers_confirmed": "yes",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "17:00:05",
+      "time": "17:15:05",
       "game_id": "823533",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "17:00:06",
+      "time": "17:15:06",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1119,6 +1119,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35238
+    "total_games_scanned_all": 35241
   }
 }
