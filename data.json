@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T23:00:04.813422+00:00",
+  "last_updated": "2026-06-18T23:15:06.088334+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -42,8 +42,8 @@
       "away": "NYM",
       "home": "PHI",
       "away_score": 2,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-06-18T22:40:00Z"
     },
     {
@@ -86,23 +86,6 @@
   "today": "2026-06-18",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-04-27",
-      "time": "20:15:06",
-      "game_id": "824609",
-      "home_team": "Chicago White Sox",
-      "away_team": "Los Angeles Angels",
-      "bet_side": "away",
-      "model_prob": "0.5606",
-      "polymarket_price": "0.4900",
-      "ev_pct": "14.41%",
-      "bet_size": "$10.00",
-      "order_id": "0xa070a78e5e5819fffc",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-04-27",
       "time": "20:15:08",
@@ -935,6 +918,23 @@
       "filled_size": "$10.00",
       "result": "win",
       "profit": "7.24"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "19:15:05",
+      "game_id": "824098",
+      "home_team": "Kansas City Royals",
+      "away_team": "St. Louis Cardinals",
+      "bet_side": "away",
+      "model_prob": "0.5204",
+      "polymarket_price": "0.4900",
+      "ev_pct": "6.21%",
+      "bet_size": "$10.00",
+      "order_id": "0xfbffabae344a5da531",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1094,21 +1094,21 @@
     },
     {
       "date": "2026-06-18",
-      "time": "19:00:04",
+      "time": "19:15:05",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.5115",
-      "away_prob": "0.4885",
+      "home_prob": "0.4796",
+      "away_prob": "0.5204",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0164",
-      "away_ev": "-0.0030",
+      "home_ev": "-0.0777",
+      "away_ev": "0.0621",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Matthew Liberatore",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1116,9 +1116,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 86,
+    "total_bets_today": 1,
+    "total_bets_all_time": 87,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35258
+    "total_games_scanned_all": 35259
   }
 }
