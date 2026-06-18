@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-18T19:00:08.010266+00:00",
+  "last_updated": "2026-06-18T19:15:07.732764+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
       "away": "TOR",
       "home": "BOS",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-18T17:35:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 1,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-18T18:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TEX",
       "away_score": 4,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-18T18:35:00Z"
     },
     {
@@ -1006,7 +1006,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "15:00:04",
+      "time": "15:15:04",
       "game_id": "823125",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1028,16 +1028,16 @@
     },
     {
       "date": "2026-06-18",
-      "time": "15:00:05",
+      "time": "15:15:05",
       "game_id": "823448",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
       "home_prob": "0.5216",
       "away_prob": "0.4784",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "0.0031",
-      "away_ev": "-0.0237",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0340",
+      "away_ev": "0.0178",
       "home_pitcher": "Aaron Nola",
       "away_pitcher": "Sean Manaea",
       "pitchers_confirmed": "yes",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "15:00:06",
+      "time": "15:15:06",
       "game_id": "823533",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "15:00:07",
+      "time": "15:15:07",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1119,6 +1119,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35212
+    "total_games_scanned_all": 35216
   }
 }
