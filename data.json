@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T23:45:06.157588+00:00",
+  "last_updated": "2026-06-18T00:00:09.806985+00:00",
   "scoreboard": [
     {
       "game_id": "824503",
@@ -79,7 +79,7 @@
       "home": "BOS",
       "away_score": 2,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-17T22:45:00Z"
     },
     {
@@ -87,17 +87,17 @@
       "away": "CWS",
       "home": "NYY",
       "away_score": 0,
-      "home_score": 2,
-      "state": "B2",
+      "home_score": 4,
+      "state": "T3",
       "start_time": "2026-06-17T23:05:00Z"
     },
     {
       "game_id": "824913",
       "away": "SF",
       "home": "ATL",
-      "away_score": 2,
+      "away_score": 5,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-06-17T23:15:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "CLE",
       "home": "MIL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 3,
+      "state": "T2",
       "start_time": "2026-06-17T23:40:00Z"
     },
     {
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "19:45:05",
+      "time": "20:00:08",
       "game_id": "824992",
       "home_team": "Athletics",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-17",
-      "time": "19:45:06",
+      "time": "20:00:09",
       "game_id": "823127",
       "home_team": "Seattle Mariners",
       "away_team": "Baltimore Orioles",
@@ -1305,6 +1305,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 35019
+    "total_games_scanned_all": 35021
   }
 }
