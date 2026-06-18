@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T22:30:05.657993+00:00",
+  "last_updated": "2026-06-18T22:45:05.843957+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "18:30:04",
+      "time": "18:45:04",
       "game_id": "823533",
       "home_team": "New York Yankees",
       "away_team": "Chicago White Sox",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-06-18",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "824098",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1119,6 +1119,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 86,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 35255
+    "total_games_scanned_all": 35257
   }
 }
