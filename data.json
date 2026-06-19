@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T23:30:12.241926+00:00",
+  "last_updated": "2026-06-19T23:45:10.790074+00:00",
   "scoreboard": [
     {
       "game_id": "824663",
@@ -16,7 +16,7 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 2,
-      "state": "B3",
+      "state": "T5",
       "start_time": "2026-06-19T22:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "CIN",
       "home": "NYY",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-06-19T23:05:00Z"
     },
     {
@@ -34,16 +34,16 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-19T23:10:00Z"
     },
     {
       "game_id": "823853",
       "away": "SF",
       "home": "MIA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-06-19T23:10:00Z"
     },
     {
@@ -52,25 +52,25 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-19T23:15:00Z"
     },
     {
       "game_id": "822886",
       "away": "SD",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-20T00:05:00Z"
     },
     {
       "game_id": "824179",
       "away": "CLE",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-20T00:10:00Z"
     },
     {
@@ -925,8 +925,8 @@
       "ev_pct": "7.79%",
       "bet_size": "$10.00",
       "order_id": "0x3be5e16d43d49d153a",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "19:30:06",
+      "time": "19:45:05",
       "game_id": "824097",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1161,16 +1161,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "19:30:07",
+      "time": "19:45:06",
       "game_id": "824345",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
       "home_prob": "0.3576",
       "away_prob": "0.6424",
-      "poly_home_price": "0.4400",
-      "poly_away_price": "0.5700",
-      "home_ev": "-0.1872",
-      "away_ev": "0.1269",
+      "poly_home_price": "0.4300",
+      "poly_away_price": "0.5800",
+      "home_ev": "-0.1683",
+      "away_ev": "0.1075",
       "home_pitcher": "Kyle Freeland",
       "away_pitcher": "Bubba Chandler",
       "pitchers_confirmed": "yes",
@@ -1183,7 +1183,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "19:30:08",
+      "time": "19:45:07",
       "game_id": "824990",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
@@ -1205,16 +1205,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "19:30:10",
+      "time": "19:45:08",
       "game_id": "825069",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
       "home_prob": "0.5482",
       "away_prob": "0.4518",
-      "poly_home_price": "0.6200",
-      "poly_away_price": "0.3900",
-      "home_ev": "-0.1158",
-      "away_ev": "0.1584",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.1298",
+      "away_ev": "0.1889",
       "home_pitcher": "Michael Soroka",
       "away_pitcher": "Connor Prielipp",
       "pitchers_confirmed": "yes",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "19:30:11",
+      "time": "19:45:09",
       "game_id": "823936",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "19:30:12",
+      "time": "19:45:10",
       "game_id": "823124",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 92,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 35820
+    "total_games_scanned_all": 35826
   }
 }
