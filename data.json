@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T17:15:19.297164+00:00",
+  "last_updated": "2026-06-19T17:30:18.644336+00:00",
   "scoreboard": [
     {
       "game_id": "824663",
@@ -985,7 +985,7 @@
   "today_games": [
     {
       "date": "2026-06-19",
-      "time": "13:15:05",
+      "time": "13:30:04",
       "game_id": "824663",
       "home_team": "Chicago Cubs",
       "away_team": "Toronto Blue Jays",
@@ -1007,7 +1007,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:06",
+      "time": "13:30:05",
       "game_id": "824264",
       "home_team": "Detroit Tigers",
       "away_team": "Chicago White Sox",
@@ -1029,16 +1029,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:07",
+      "time": "13:30:07",
       "game_id": "823534",
       "home_team": "New York Yankees",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.7095",
-      "away_prob": "0.2905",
+      "home_prob": "0.7128",
+      "away_prob": "0.2872",
       "poly_home_price": "0.7200",
       "poly_away_price": "0.2900",
-      "home_ev": "-0.0146",
-      "away_ev": "0.0018",
+      "home_ev": "-0.0100",
+      "away_ev": "-0.0096",
       "home_pitcher": "Cam Schlittler",
       "away_pitcher": "Rhett Lowder",
       "pitchers_confirmed": "yes",
@@ -1051,7 +1051,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:08",
+      "time": "13:30:08",
       "game_id": "822966",
       "home_team": "Tampa Bay Rays",
       "away_team": "Washington Nationals",
@@ -1073,16 +1073,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:10",
+      "time": "13:30:10",
       "game_id": "824910",
       "home_team": "Atlanta Braves",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.3995",
-      "away_prob": "0.6005",
+      "home_prob": "0.4020",
+      "away_prob": "0.5980",
       "poly_home_price": "0.4100",
       "poly_away_price": "0.6000",
-      "home_ev": "-0.0256",
-      "away_ev": "0.0008",
+      "home_ev": "-0.0196",
+      "away_ev": "-0.0033",
       "home_pitcher": "Mart\u00edn P\u00e9rez",
       "away_pitcher": "Jacob Misiorowski",
       "pitchers_confirmed": "yes",
@@ -1095,7 +1095,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:11",
+      "time": "13:30:11",
       "game_id": "822886",
       "home_team": "Texas Rangers",
       "away_team": "San Diego Padres",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:12",
+      "time": "13:30:12",
       "game_id": "824179",
       "home_team": "Houston Astros",
       "away_team": "Cleveland Guardians",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:13",
+      "time": "13:30:13",
       "game_id": "824097",
       "home_team": "Kansas City Royals",
       "away_team": "St. Louis Cardinals",
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:14",
+      "time": "13:30:14",
       "game_id": "824345",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
@@ -1183,7 +1183,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:15",
+      "time": "13:30:15",
       "game_id": "824990",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:16",
+      "time": "13:30:16",
       "game_id": "825069",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:17",
+      "time": "13:30:17",
       "game_id": "823936",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:19",
+      "time": "13:30:18",
       "game_id": "823124",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1271,7 +1271,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "13:15:09",
+      "time": "13:30:09",
       "game_id": "823853",
       "home_team": "Miami Marlins",
       "away_team": "San Francisco Giants",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 87,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 35511
+    "total_games_scanned_all": 35525
   }
 }
