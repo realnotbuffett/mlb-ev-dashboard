@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T00:15:04.808835+00:00",
+  "last_updated": "2026-06-19T00:30:04.749146+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -43,7 +43,7 @@
       "home": "PHI",
       "away_score": 3,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-18T22:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 1,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-06-18T23:05:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "STL",
       "home": "KC",
       "away_score": 2,
-      "home_score": 3,
-      "state": "B2",
+      "home_score": 7,
+      "state": "T3",
       "start_time": "2026-06-18T23:40:00Z"
     },
     {
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-06-18",
-      "time": "20:15:04",
+      "time": "20:30:04",
       "game_id": "824989",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6092",
-      "away_prob": "0.3908",
+      "home_prob": "0.6102",
+      "away_prob": "0.3898",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0174",
-      "away_ev": "0.0020",
+      "home_ev": "-0.0159",
+      "away_ev": "-0.0004",
       "home_pitcher": "Gage Jump",
       "away_pitcher": "Ryan Johnson",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 87,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 35263
+    "total_games_scanned_all": 35264
   }
 }
