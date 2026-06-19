@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T02:30:04.006121+00:00",
+  "last_updated": "2026-06-19T02:45:04.058237+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -60,8 +60,8 @@
       "away": "STL",
       "home": "KC",
       "away_score": 6,
-      "home_score": 13,
-      "state": "T8",
+      "home_score": 14,
+      "state": "T9",
       "start_time": "2026-06-18T23:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "OAK",
       "away_score": 0,
       "home_score": 5,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-06-19T01:40:00Z"
     },
     {
