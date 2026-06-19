@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T01:45:03.822478+00:00",
+  "last_updated": "2026-06-19T02:00:04.270113+00:00",
   "scoreboard": [
     {
       "game_id": "824748",
@@ -42,8 +42,8 @@
       "away": "NYM",
       "home": "PHI",
       "away_score": 6,
-      "home_score": 3,
-      "state": "B9",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-06-18T22:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "STL",
       "home": "KC",
       "away_score": 4,
-      "home_score": 11,
-      "state": "T6",
+      "home_score": 12,
+      "state": "B6",
       "start_time": "2026-06-18T23:40:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "LAA",
       "home": "OAK",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 5,
+      "state": "B1",
       "start_time": "2026-06-19T01:40:00Z"
     },
     {
