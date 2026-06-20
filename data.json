@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T00:00:09.131192+00:00",
+  "last_updated": "2026-06-20T00:15:08.740887+00:00",
   "scoreboard": [
     {
       "game_id": "824663",
@@ -14,9 +14,9 @@
       "game_id": "824264",
       "away": "CWS",
       "home": "DET",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-19T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 4,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-19T23:05:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "WSH",
       "home": "TB",
       "away_score": 2,
-      "home_score": 3,
-      "state": "B3",
+      "home_score": 4,
+      "state": "B4",
       "start_time": "2026-06-19T23:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "MIA",
       "away_score": 1,
       "home_score": 1,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-19T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "ATL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-06-19T23:15:00Z"
     },
     {
@@ -1161,16 +1161,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "20:00:04",
+      "time": "20:15:04",
       "game_id": "824345",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
       "home_prob": "0.3576",
       "away_prob": "0.6424",
-      "poly_home_price": "0.4300",
-      "poly_away_price": "0.5800",
-      "home_ev": "-0.1683",
-      "away_ev": "0.1075",
+      "poly_home_price": "0.4400",
+      "poly_away_price": "0.5700",
+      "home_ev": "-0.1872",
+      "away_ev": "0.1269",
       "home_pitcher": "Kyle Freeland",
       "away_pitcher": "Bubba Chandler",
       "pitchers_confirmed": "yes",
@@ -1183,16 +1183,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "824990",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.5842",
-      "away_prob": "0.4158",
+      "home_prob": "0.5831",
+      "away_prob": "0.4169",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0099",
-      "away_ev": "-0.0099",
+      "home_ev": "-0.0116",
+      "away_ev": "-0.0074",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Jos\u00e9 Soriano",
       "pitchers_confirmed": "yes",
@@ -1205,16 +1205,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "20:00:07",
+      "time": "20:15:06",
       "game_id": "825069",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
       "home_prob": "0.5482",
       "away_prob": "0.4518",
-      "poly_home_price": "0.6300",
-      "poly_away_price": "0.3800",
-      "home_ev": "-0.1298",
-      "away_ev": "0.1889",
+      "poly_home_price": "0.6200",
+      "poly_away_price": "0.3900",
+      "home_ev": "-0.1158",
+      "away_ev": "0.1584",
       "home_pitcher": "Michael Soroka",
       "away_pitcher": "Connor Prielipp",
       "pitchers_confirmed": "yes",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "20:00:08",
+      "time": "20:15:07",
       "game_id": "823936",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "20:00:08",
+      "time": "20:15:08",
       "game_id": "823124",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 92,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 35831
+    "total_games_scanned_all": 35836
   }
 }
