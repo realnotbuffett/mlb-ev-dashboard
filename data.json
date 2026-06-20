@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-20T18:30:15.170100+00:00",
+  "last_updated": "2026-06-20T18:45:15.217597+00:00",
   "scoreboard": [
     {
       "game_id": "824263",
       "away": "CWS",
       "home": "DET",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 1,
+      "state": "B6",
       "start_time": "2026-06-20T17:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "NYY",
       "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-06-20T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "CHC",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-20T18:20:00Z"
     },
     {
@@ -1029,16 +1029,16 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:05",
+      "time": "14:45:04",
       "game_id": "822885",
       "home_team": "Texas Rangers",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5418",
-      "away_prob": "0.4582",
+      "home_prob": "0.5330",
+      "away_prob": "0.4670",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0150",
-      "away_ev": "-0.0039",
+      "home_ev": "-0.0309",
+      "away_ev": "0.0152",
       "home_pitcher": "MacKenzie Gore",
       "away_pitcher": "Walker Buehler",
       "pitchers_confirmed": "yes",
@@ -1051,7 +1051,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:06",
+      "time": "14:45:05",
       "game_id": "822967",
       "home_team": "Tampa Bay Rays",
       "away_team": "Washington Nationals",
@@ -1073,7 +1073,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:07",
+      "time": "14:45:06",
       "game_id": "823854",
       "home_team": "Miami Marlins",
       "away_team": "San Francisco Giants",
@@ -1095,7 +1095,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:08",
+      "time": "14:45:07",
       "game_id": "824909",
       "home_team": "Atlanta Braves",
       "away_team": "Milwaukee Brewers",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:09",
+      "time": "14:45:08",
       "game_id": "824180",
       "home_team": "Houston Astros",
       "away_team": "Cleveland Guardians",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:10",
+      "time": "14:45:09",
       "game_id": "823447",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:11",
+      "time": "14:45:10",
       "game_id": "824342",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
@@ -1183,16 +1183,16 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:12",
+      "time": "14:45:11",
       "game_id": "824988",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6073",
-      "away_prob": "0.3927",
+      "home_prob": "0.6058",
+      "away_prob": "0.3942",
       "poly_home_price": "0.6100",
       "poly_away_price": "0.4000",
-      "home_ev": "-0.0044",
-      "away_ev": "-0.0183",
+      "home_ev": "-0.0068",
+      "away_ev": "-0.0146",
       "home_pitcher": "J.T. Ginn",
       "away_pitcher": "Walbert Ure\u00f1a",
       "pitchers_confirmed": "yes",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:13",
+      "time": "14:45:13",
       "game_id": "823937",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:14",
+      "time": "14:45:14",
       "game_id": "823126",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "14:30:15",
+      "time": "14:45:15",
       "game_id": "825068",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 92,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 36158
+    "total_games_scanned_all": 36169
   }
 }
