@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T01:30:06.566967+00:00",
+  "last_updated": "2026-06-20T01:45:06.629087+00:00",
   "scoreboard": [
     {
       "game_id": "824663",
@@ -24,8 +24,8 @@
       "away": "CIN",
       "home": "NYY",
       "away_score": 0,
-      "home_score": 4,
-      "state": "B8",
+      "home_score": 5,
+      "state": "T9",
       "start_time": "2026-06-19T23:05:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "MIA",
       "away_score": 3,
       "home_score": 4,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-19T23:10:00Z"
     },
     {
       "game_id": "824910",
       "away": "MIL",
       "home": "ATL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 3,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-19T23:15:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TEX",
       "away_score": 6,
       "home_score": 7,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-06-20T00:05:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 3,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-20T00:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "STL",
       "home": "KC",
       "away_score": 2,
-      "home_score": 4,
-      "state": "T5",
+      "home_score": 5,
+      "state": "T6",
       "start_time": "2026-06-20T00:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "COL",
       "away_score": 0,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-06-20T00:40:00Z"
     },
     {
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "21:30:05",
+      "time": "21:45:05",
       "game_id": "823936",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1249,16 +1249,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "21:30:06",
+      "time": "21:45:06",
       "game_id": "823124",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
       "home_prob": "0.5383",
       "away_prob": "0.4617",
-      "poly_home_price": "0.5100",
-      "poly_away_price": "0.5000",
-      "home_ev": "0.0554",
-      "away_ev": "-0.0765",
+      "poly_home_price": "0.5200",
+      "poly_away_price": "0.4900",
+      "home_ev": "0.0351",
+      "away_ev": "-0.0577",
       "home_pitcher": "Bryce Miller",
       "away_pitcher": "Ranger Suarez",
       "pitchers_confirmed": "yes",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 92,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 35854
+    "total_games_scanned_all": 35856
   }
 }
