@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T01:00:08.074113+00:00",
+  "last_updated": "2026-06-20T01:15:08.072961+00:00",
   "scoreboard": [
     {
       "game_id": "824663",
@@ -16,7 +16,7 @@
       "home": "DET",
       "away_score": 3,
       "home_score": 4,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-06-19T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 4,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-19T23:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "TB",
       "away_score": 2,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-19T23:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "MIA",
       "away_score": 3,
       "home_score": 2,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-06-19T23:10:00Z"
     },
     {
@@ -51,17 +51,17 @@
       "away": "MIL",
       "home": "ATL",
       "away_score": 1,
-      "home_score": 2,
-      "state": "T7",
+      "home_score": 3,
+      "state": "B7",
       "start_time": "2026-06-19T23:15:00Z"
     },
     {
       "game_id": "822886",
       "away": "SD",
       "home": "TEX",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 6,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-06-20T00:05:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "CLE",
       "home": "HOU",
       "away_score": 3,
-      "home_score": 1,
-      "state": "T3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-06-20T00:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "STL",
       "home": "KC",
       "away_score": 2,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 1,
+      "state": "B4",
       "start_time": "2026-06-20T00:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "COL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-20T00:40:00Z"
     },
     {
@@ -1183,15 +1183,15 @@
     },
     {
       "date": "2026-06-19",
-      "time": "21:00:04",
+      "time": "21:15:04",
       "game_id": "824990",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
       "home_prob": "0.5736",
       "away_prob": "0.4264",
-      "poly_home_price": "0.5900",
+      "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0279",
+      "home_ev": "-0.0111",
       "away_ev": "-0.0083",
       "home_pitcher": "Jeffrey Springs",
       "away_pitcher": "Jos\u00e9 Soriano",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "825069",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
@@ -1227,16 +1227,16 @@
     },
     {
       "date": "2026-06-19",
-      "time": "21:00:07",
+      "time": "21:15:06",
       "game_id": "823936",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.6497",
-      "away_prob": "0.3503",
+      "home_prob": "0.6520",
+      "away_prob": "0.3480",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0157",
-      "away_ev": "0.0010",
+      "home_ev": "-0.0122",
+      "away_ev": "-0.0056",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Trey Gibson",
       "pitchers_confirmed": "yes",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-19",
-      "time": "21:00:07",
+      "time": "21:15:07",
       "game_id": "823124",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 5,
     "total_bets_all_time": 92,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 35848
+    "total_games_scanned_all": 35852
   }
 }
