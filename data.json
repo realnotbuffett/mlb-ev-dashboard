@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T14:00:16.384494+00:00",
+  "last_updated": "2026-06-20T14:15:17.936981+00:00",
   "scoreboard": [
     {
       "game_id": "824263",
@@ -985,7 +985,7 @@
   "today_games": [
     {
       "date": "2026-06-20",
-      "time": "10:00:04",
+      "time": "10:15:05",
       "game_id": "823532",
       "home_team": "New York Yankees",
       "away_team": "Cincinnati Reds",
@@ -1007,7 +1007,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:05",
+      "time": "10:15:06",
       "game_id": "824665",
       "home_team": "Chicago Cubs",
       "away_team": "Toronto Blue Jays",
@@ -1029,7 +1029,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:06",
+      "time": "10:15:07",
       "game_id": "822885",
       "home_team": "Texas Rangers",
       "away_team": "San Diego Padres",
@@ -1051,7 +1051,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:07",
+      "time": "10:15:08",
       "game_id": "822967",
       "home_team": "Tampa Bay Rays",
       "away_team": "Washington Nationals",
@@ -1073,7 +1073,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:08",
+      "time": "10:15:09",
       "game_id": "823854",
       "home_team": "Miami Marlins",
       "away_team": "San Francisco Giants",
@@ -1095,7 +1095,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:09",
+      "time": "10:15:10",
       "game_id": "824909",
       "home_team": "Atlanta Braves",
       "away_team": "Milwaukee Brewers",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:10",
+      "time": "10:15:11",
       "game_id": "824180",
       "home_team": "Houston Astros",
       "away_team": "Cleveland Guardians",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:11",
+      "time": "10:15:12",
       "game_id": "823447",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:12",
+      "time": "10:15:13",
       "game_id": "824342",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
@@ -1183,7 +1183,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:13",
+      "time": "10:15:14",
       "game_id": "824988",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:14",
+      "time": "10:15:15",
       "game_id": "823937",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:15",
+      "time": "10:15:16",
       "game_id": "823126",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "10:00:16",
+      "time": "10:15:17",
       "game_id": "825068",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
@@ -1268,12 +1268,34 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "10:15:04",
+      "game_id": "824263",
+      "home_team": "Detroit Tigers",
+      "away_team": "Chicago White Sox",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0118",
+      "home_pitcher": "Troy Melton",
+      "away_pitcher": "Sean Newcomb",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 92,
-    "total_games_scanned_today": 13,
-    "total_games_scanned_all": 35921
+    "total_games_scanned_today": 14,
+    "total_games_scanned_all": 35935
   }
 }
