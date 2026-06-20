@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T23:30:08.622265+00:00",
+  "last_updated": "2026-06-20T23:45:09.920902+00:00",
   "scoreboard": [
     {
       "game_id": "824263",
@@ -69,8 +69,8 @@
       "away": "CLE",
       "home": "HOU",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-06-20T23:15:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-06-20T23:15:00Z"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "19:30:04",
+      "time": "19:45:05",
       "game_id": "824342",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
@@ -1183,7 +1183,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "19:30:05",
+      "time": "19:45:06",
       "game_id": "824988",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "19:30:06",
+      "time": "19:45:07",
       "game_id": "823937",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "19:30:07",
+      "time": "19:45:08",
       "game_id": "823126",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "19:30:08",
+      "time": "19:45:09",
       "game_id": "825068",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 4,
     "total_bets_all_time": 96,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 36309
+    "total_games_scanned_all": 36314
   }
 }
