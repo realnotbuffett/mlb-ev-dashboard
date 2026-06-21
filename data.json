@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T18:00:10.802152+00:00",
+  "last_updated": "2026-06-21T18:15:09.514023+00:00",
   "scoreboard": [
     {
       "game_id": "823531",
@@ -7,25 +7,25 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-21T17:35:00Z"
     },
     {
       "game_id": "824908",
       "away": "MIL",
       "home": "ATL",
-      "away_score": 2,
+      "away_score": 8,
       "home_score": 1,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-06-21T17:35:00Z"
     },
     {
       "game_id": "822968",
       "away": "WSH",
       "home": "TB",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-06-21T17:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-21T17:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "SF",
       "home": "MIA",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "T3",
       "start_time": "2026-06-21T17:40:00Z"
     },
     {
@@ -59,7 +59,7 @@
       "game_id": "824095",
       "away": "STL",
       "home": "KC",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-06-21T18:10:00Z"
@@ -68,9 +68,9 @@
       "game_id": "822883",
       "away": "SD",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-21T18:35:00Z"
     },
     {
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-06-21",
-      "time": "14:00:05",
+      "time": "14:15:04",
       "game_id": "824343",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.4289",
-      "away_prob": "0.5711",
+      "home_prob": "0.4275",
+      "away_prob": "0.5725",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0025",
-      "away_ev": "-0.0154",
+      "home_ev": "-0.0058",
+      "away_ev": "-0.0129",
       "home_pitcher": "Michael Lorenzen",
       "away_pitcher": "Jared Jones",
       "pitchers_confirmed": "yes",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-06-21",
-      "time": "14:00:06",
+      "time": "14:15:05",
       "game_id": "825067",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5542",
-      "away_prob": "0.4458",
-      "poly_home_price": "0.5700",
-      "poly_away_price": "0.4400",
-      "home_ev": "-0.0278",
-      "away_ev": "0.0133",
+      "home_prob": "0.5578",
+      "away_prob": "0.4422",
+      "poly_home_price": "0.5600",
+      "poly_away_price": "0.4500",
+      "home_ev": "-0.0039",
+      "away_ev": "-0.0173",
       "home_pitcher": "Jose Cabrera",
       "away_pitcher": "Mike Paredes",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-06-21",
-      "time": "14:00:07",
+      "time": "14:15:06",
       "game_id": "824987",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-21",
-      "time": "14:00:08",
+      "time": "14:15:07",
       "game_id": "823934",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-21",
-      "time": "14:00:09",
+      "time": "14:15:08",
       "game_id": "823123",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-06-21",
-      "time": "14:00:10",
+      "time": "14:15:09",
       "game_id": "823449",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
-      "home_prob": "0.6117",
-      "away_prob": "0.3883",
+      "home_prob": "0.6126",
+      "away_prob": "0.3874",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0135",
-      "away_ev": "-0.0042",
+      "home_ev": "-0.0120",
+      "away_ev": "-0.0066",
       "home_pitcher": "Zack Wheeler",
       "away_pitcher": "David Peterson",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 96,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 36628
+    "total_games_scanned_all": 36634
   }
 }
