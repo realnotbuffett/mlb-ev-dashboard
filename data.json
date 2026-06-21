@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T00:00:09.303040+00:00",
+  "last_updated": "2026-06-21T00:15:08.499933+00:00",
   "scoreboard": [
     {
       "game_id": "824263",
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 3,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-20T23:15:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 3,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-06-20T23:15:00Z"
     },
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "20:00:05",
+      "time": "20:15:04",
       "game_id": "824342",
       "home_team": "Colorado Rockies",
       "away_team": "Pittsburgh Pirates",
@@ -1183,16 +1183,16 @@
     },
     {
       "date": "2026-06-20",
-      "time": "20:00:06",
+      "time": "20:15:05",
       "game_id": "824988",
       "home_team": "Athletics",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.5936",
-      "away_prob": "0.4064",
+      "home_prob": "0.5946",
+      "away_prob": "0.4054",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "-0.0107",
-      "away_ev": "-0.0088",
+      "home_ev": "-0.0090",
+      "away_ev": "-0.0112",
       "home_pitcher": "J.T. Ginn",
       "away_pitcher": "Walbert Ure\u00f1a",
       "pitchers_confirmed": "yes",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "20:00:07",
+      "time": "20:15:06",
       "game_id": "823937",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Baltimore Orioles",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "20:00:08",
+      "time": "20:15:07",
       "game_id": "823126",
       "home_team": "Seattle Mariners",
       "away_team": "Boston Red Sox",
@@ -1249,7 +1249,7 @@
     },
     {
       "date": "2026-06-20",
-      "time": "20:00:09",
+      "time": "20:15:08",
       "game_id": "825068",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Minnesota Twins",
@@ -1296,6 +1296,6 @@
     "total_bets_today": 4,
     "total_bets_all_time": 96,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 36319
+    "total_games_scanned_all": 36324
   }
 }
