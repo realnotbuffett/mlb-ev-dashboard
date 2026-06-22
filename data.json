@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T01:00:03.739778+00:00",
+  "last_updated": "2026-06-22T01:15:03.800596+00:00",
   "scoreboard": [
     {
       "game_id": "823531",
@@ -122,9 +122,9 @@
       "game_id": "823449",
       "away": "NYM",
       "home": "PHI",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 6,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-06-21T23:20:00Z"
     },
     {
