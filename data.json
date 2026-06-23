@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T01:00:05.963123+00:00",
+  "last_updated": "2026-06-23T01:15:04.892921+00:00",
   "scoreboard": [
     {
       "game_id": "824261",
@@ -24,8 +24,8 @@
       "away": "TEX",
       "home": "MIA",
       "away_score": 4,
-      "home_score": 2,
-      "state": "B8",
+      "home_score": 3,
+      "state": "T9",
       "start_time": "2026-06-22T22:40:00Z"
     },
     {
@@ -34,14 +34,14 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 2,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-22T22:45:00Z"
     },
     {
       "game_id": "822800",
       "away": "HOU",
       "home": "TOR",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 2,
       "state": "T6",
       "start_time": "2026-06-22T23:07:00Z"
@@ -52,16 +52,16 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-22T23:10:00Z"
     },
     {
       "game_id": "823692",
       "away": "LAD",
       "home": "MIN",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-22T23:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-06-22T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 3,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-06-22T23:45:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "COL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-06-23T00:40:00Z"
     },
     {
       "game_id": "824016",
       "away": "BAL",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-23T01:38:00Z"
     },
     {
@@ -1174,16 +1174,16 @@
     },
     {
       "date": "2026-06-22",
-      "time": "21:00:05",
+      "time": "21:15:04",
       "game_id": "823288",
       "home_team": "San Diego Padres",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5089",
-      "away_prob": "0.4911",
+      "home_prob": "0.5115",
+      "away_prob": "0.4885",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0021",
-      "away_ev": "-0.0178",
+      "home_ev": "0.0028",
+      "away_ev": "-0.0229",
       "home_pitcher": "Michael King",
       "away_pitcher": "Grant Holmes",
       "pitchers_confirmed": "yes",
@@ -1265,6 +1265,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 96,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 37161
+    "total_games_scanned_all": 37162
   }
 }
