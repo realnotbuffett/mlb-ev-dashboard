@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T23:15:08.135182+00:00",
+  "last_updated": "2026-06-24T23:30:08.623898+00:00",
   "scoreboard": [
     {
       "game_id": "823850",
@@ -23,9 +23,9 @@
       "game_id": "823611",
       "away": "CHC",
       "home": "NYM",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-24T23:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CWS",
       "away_score": 3,
       "home_score": 1,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-24T18:10:00Z"
     },
     {
@@ -50,9 +50,9 @@
       "game_id": "824018",
       "away": "BAL",
       "home": "LAA",
-      "away_score": 5,
-      "home_score": 5,
-      "state": "T10",
+      "away_score": 6,
+      "home_score": 7,
+      "state": "FINAL",
       "start_time": "2026-06-24T20:07:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "PIT",
       "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-24T22:40:00Z"
     },
     {
@@ -69,17 +69,17 @@
       "away": "KC",
       "home": "TB",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B2",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-06-24T22:40:00Z"
     },
     {
       "game_id": "824259",
       "away": "NYY",
       "home": "DET",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-24T22:40:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "PHI",
       "home": "WSH",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T2",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-06-24T22:45:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "HOU",
       "home": "TOR",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-06-24T23:07:00Z"
     },
     {
@@ -106,25 +106,25 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-24T23:10:00Z"
     },
     {
       "game_id": "823691",
       "away": "LAD",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-24T23:40:00Z"
     },
     {
       "game_id": "823041",
       "away": "ARI",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-24T23:45:00Z"
     },
     {
@@ -1267,16 +1267,16 @@
     },
     {
       "date": "2026-06-24",
-      "time": "19:15:07",
+      "time": "19:30:07",
       "game_id": "823284",
       "home_team": "San Diego Padres",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.4784",
-      "away_prob": "0.5216",
+      "home_prob": "0.4796",
+      "away_prob": "0.5204",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0034",
-      "away_ev": "-0.0158",
+      "home_ev": "-0.0009",
+      "away_ev": "-0.0181",
       "home_pitcher": "JP Sears",
       "away_pitcher": "Mart\u00edn P\u00e9rez",
       "pitchers_confirmed": "yes",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-06-24",
-      "time": "19:15:08",
+      "time": "19:30:08",
       "game_id": "823208",
       "home_team": "San Francisco Giants",
       "away_team": "Athletics",
@@ -1358,6 +1358,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 98,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 38271
+    "total_games_scanned_all": 38273
   }
 }
