@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T03:15:04.183649+00:00",
+  "last_updated": "2026-06-25T03:30:04.541977+00:00",
   "scoreboard": [
     {
       "game_id": "823850",
@@ -133,7 +133,7 @@
       "home": "SD",
       "away_score": 2,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-25T00:40:00Z"
     },
     {
@@ -142,7 +142,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-06-25T01:45:00Z"
     }
   ],
