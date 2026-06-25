@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T01:00:05.207758+00:00",
+  "last_updated": "2026-06-25T01:15:04.959548+00:00",
   "scoreboard": [
     {
       "game_id": "823850",
@@ -24,8 +24,8 @@
       "away": "CHC",
       "home": "NYM",
       "away_score": 6,
-      "home_score": 4,
-      "state": "B6",
+      "home_score": 5,
+      "state": "T7",
       "start_time": "2026-06-24T23:10:00Z"
     },
     {
@@ -60,17 +60,17 @@
       "away": "SEA",
       "home": "PIT",
       "away_score": 1,
-      "home_score": 9,
-      "state": "B8",
+      "home_score": 11,
+      "state": "FINAL",
       "start_time": "2026-06-24T22:40:00Z"
     },
     {
       "game_id": "822965",
       "away": "KC",
       "home": "TB",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 5,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-06-24T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-24T22:40:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "WSH",
       "away_score": 3,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-24T22:45:00Z"
     },
     {
       "game_id": "822798",
       "away": "HOU",
       "home": "TOR",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-24T23:07:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CIN",
       "away_score": 3,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-06-24T23:10:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "MIN",
       "away_score": 4,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-24T23:40:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "ARI",
       "home": "STL",
       "away_score": 6,
-      "home_score": 1,
-      "state": "B4",
+      "home_score": 2,
+      "state": "T5",
       "start_time": "2026-06-24T23:45:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "SD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-06-25T00:40:00Z"
     },
     {
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-06-24",
-      "time": "21:00:05",
+      "time": "21:15:04",
       "game_id": "823208",
       "home_team": "San Francisco Giants",
       "away_team": "Athletics",
@@ -1358,6 +1358,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 99,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 38282
+    "total_games_scanned_all": 38283
   }
 }
