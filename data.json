@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T22:45:05.880329+00:00",
+  "last_updated": "2026-06-25T23:00:04.981387+00:00",
   "scoreboard": [
     {
       "game_id": "822961",
@@ -34,7 +34,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-25T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-25T22:45:00Z"
     },
     {
@@ -68,9 +68,9 @@
       "game_id": "824747",
       "away": "NYY",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
@@ -931,8 +931,8 @@
       "ev_pct": "7.42%",
       "bet_size": "$10.00",
       "order_id": "0x532ab89f820abbd1e6",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     }
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-06-25",
-      "time": "18:45:05",
+      "time": "19:00:04",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 101,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 38569
+    "total_games_scanned_all": 38570
   }
 }
