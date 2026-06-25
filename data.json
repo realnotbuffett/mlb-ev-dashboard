@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T23:15:04.803637+00:00",
+  "last_updated": "2026-06-25T23:30:04.676091+00:00",
   "scoreboard": [
     {
       "game_id": "822961",
@@ -34,7 +34,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-25T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 4,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-06-25T22:45:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-25T23:07:00Z"
     },
     {
@@ -61,16 +61,16 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
       "game_id": "824747",
       "away": "NYY",
       "home": "BOS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-06-25",
-      "time": "19:15:04",
+      "time": "19:30:04",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5516",
-      "away_prob": "0.4484",
+      "home_prob": "0.5567",
+      "away_prob": "0.4433",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0149",
-      "away_ev": "-0.0036",
+      "home_ev": "-0.0059",
+      "away_ev": "-0.0148",
       "home_pitcher": "Michael McGreevy",
       "away_pitcher": "Zac Gallen",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 101,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 38571
+    "total_games_scanned_all": 38572
   }
 }
