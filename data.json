@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T22:30:11.017993+00:00",
+  "last_updated": "2026-06-25T22:45:05.880329+00:00",
   "scoreboard": [
     {
       "game_id": "822961",
@@ -25,16 +25,16 @@
       "home": "SF",
       "away_score": 9,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-25T19:45:00Z"
     },
     {
       "game_id": "824258",
       "away": "HOU",
       "home": "DET",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-25T22:40:00Z"
     },
     {
@@ -50,18 +50,18 @@
       "game_id": "822797",
       "away": "TEX",
       "home": "TOR",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-25T23:07:00Z"
     },
     {
       "game_id": "823612",
       "away": "CHC",
       "home": "NYM",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
@@ -914,8 +914,8 @@
       "ev_pct": "14.80%",
       "bet_size": "$10.00",
       "order_id": "0x62ced575bb7e3aa8be",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -1094,21 +1094,21 @@
     },
     {
       "date": "2026-06-25",
-      "time": "18:30:09",
+      "time": "18:45:04",
       "game_id": "824747",
       "home_team": "Boston Red Sox",
       "away_team": "New York Yankees",
       "home_prob": "0.4834",
       "away_prob": "0.5166",
-      "poly_home_price": "0.4500",
-      "poly_away_price": "0.5600",
-      "home_ev": "0.0742",
-      "away_ev": "-0.0775",
+      "poly_home_price": "0.4400",
+      "poly_away_price": "0.5700",
+      "home_ev": "0.0986",
+      "away_ev": "-0.0936",
       "home_pitcher": "Connelly Early",
       "away_pitcher": "Cam Schlittler",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-06-25",
-      "time": "18:30:10",
+      "time": "18:45:05",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5480",
-      "away_prob": "0.4520",
+      "home_prob": "0.5505",
+      "away_prob": "0.4495",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0215",
-      "away_ev": "0.0045",
+      "home_ev": "-0.0170",
+      "away_ev": "-0.0011",
       "home_pitcher": "Michael McGreevy",
       "away_pitcher": "Zac Gallen",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 101,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 38567
+    "total_games_scanned_all": 38569
   }
 }
