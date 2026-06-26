@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T02:00:05.496890+00:00",
+  "last_updated": "2026-06-26T02:15:04.761087+00:00",
   "scoreboard": [
     {
       "game_id": "822961",
@@ -59,9 +59,9 @@
       "game_id": "823612",
       "away": "CHC",
       "home": "NYM",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 3,
-      "state": "B9",
+      "state": "T10",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BOS",
       "away_score": 3,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
