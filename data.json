@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T02:15:04.761087+00:00",
+  "last_updated": "2026-06-26T02:30:04.532141+00:00",
   "scoreboard": [
     {
       "game_id": "822961",
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 4,
       "home_score": 3,
-      "state": "T10",
+      "state": "FINAL",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
