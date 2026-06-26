@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T01:30:04.600421+00:00",
+  "last_updated": "2026-06-26T01:45:04.383908+00:00",
   "scoreboard": [
     {
       "game_id": "822961",
@@ -41,9 +41,9 @@
       "game_id": "822717",
       "away": "PHI",
       "home": "WSH",
-      "away_score": 5,
+      "away_score": 10,
       "home_score": 5,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-06-25T22:45:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "TEX",
       "home": "TOR",
       "away_score": 6,
-      "home_score": 3,
-      "state": "B9",
+      "home_score": 5,
+      "state": "FINAL",
       "start_time": "2026-06-25T23:07:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 3,
       "home_score": 3,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BOS",
       "away_score": 3,
       "home_score": 4,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
