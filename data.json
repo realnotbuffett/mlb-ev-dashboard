@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T01:15:04.644296+00:00",
+  "last_updated": "2026-06-26T01:30:04.600421+00:00",
   "scoreboard": [
     {
       "game_id": "822961",
@@ -43,7 +43,7 @@
       "home": "WSH",
       "away_score": 5,
       "home_score": 5,
-      "state": "B7",
+      "state": "T9",
       "start_time": "2026-06-25T22:45:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TOR",
       "away_score": 6,
       "home_score": 3,
-      "state": "T8",
+      "state": "B9",
       "start_time": "2026-06-25T23:07:00Z"
     },
     {
@@ -60,17 +60,17 @@
       "away": "CHC",
       "home": "NYM",
       "away_score": 3,
-      "home_score": 2,
-      "state": "B6",
+      "home_score": 3,
+      "state": "B7",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
       "game_id": "824747",
       "away": "NYY",
       "home": "BOS",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 4,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-06-25T23:10:00Z"
     },
     {
