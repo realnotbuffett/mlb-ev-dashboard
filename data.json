@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T01:30:06.089427+00:00",
+  "last_updated": "2026-06-27T01:45:04.983285+00:00",
   "scoreboard": [
     {
       "game_id": "824255",
@@ -16,7 +16,7 @@
       "home": "PIT",
       "away_score": 6,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-26T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 3,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-06-26T23:05:00Z"
     },
     {
@@ -33,7 +33,7 @@
       "away": "TEX",
       "home": "TOR",
       "away_score": 5,
-      "home_score": 0,
+      "home_score": 4,
       "state": "B8",
       "start_time": "2026-06-26T23:07:00Z"
     },
@@ -43,7 +43,7 @@
       "home": "CLE",
       "away_score": 3,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 2,
       "home_score": 1,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BOS",
       "away_score": 1,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "KC",
       "home": "CWS",
       "away_score": 1,
-      "home_score": 13,
-      "state": "T6",
+      "home_score": 17,
+      "state": "B6",
       "start_time": "2026-06-26T23:40:00Z"
     },
     {
@@ -87,7 +87,7 @@
       "away": "CHC",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 0,
+      "home_score": 3,
       "state": "B6",
       "start_time": "2026-06-26T23:45:00Z"
     },
@@ -96,8 +96,8 @@
       "away": "COL",
       "home": "MIN",
       "away_score": 0,
-      "home_score": 5,
-      "state": "B5",
+      "home_score": 7,
+      "state": "T6",
       "start_time": "2026-06-27T00:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-06-27T00:15:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-26",
-      "time": "21:30:05",
+      "time": "21:45:04",
       "game_id": "823206",
       "home_team": "San Francisco Giants",
       "away_team": "Atlanta Braves",
@@ -1315,8 +1315,8 @@
       "home_pitcher": "Trevor McDonald",
       "away_pitcher": "Reynaldo L\u00f3pez",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 103,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 39098
+    "total_games_scanned_all": 39099
   }
 }
