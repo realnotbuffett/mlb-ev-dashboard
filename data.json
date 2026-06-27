@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T01:45:04.983285+00:00",
+  "last_updated": "2026-06-27T02:00:04.298552+00:00",
   "scoreboard": [
     {
       "game_id": "824255",
@@ -34,7 +34,7 @@
       "home": "TOR",
       "away_score": 5,
       "home_score": 4,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-06-26T23:07:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CLE",
       "away_score": 3,
       "home_score": 1,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 17,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-26T23:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 3,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-26T23:45:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 7,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-06-27T00:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-27T00:15:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "LAA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B2",
       "start_time": "2026-06-27T01:38:00Z"
     },
     {
@@ -124,16 +124,16 @@
       "home": "SD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-27T01:45:00Z"
     },
     {
       "game_id": "823206",
       "away": "ATL",
       "home": "SF",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-27T02:15:00Z"
     }
   ],
@@ -985,8 +985,8 @@
       "ev_pct": "14.45%",
       "bet_size": "$10.00",
       "order_id": "0x48e3cb696cb0b3d68e",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     }
