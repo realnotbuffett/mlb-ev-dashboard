@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T23:00:09.031901+00:00",
+  "last_updated": "2026-06-27T23:15:09.002627+00:00",
   "scoreboard": [
     {
       "game_id": "824257",
@@ -34,7 +34,7 @@
       "home": "PIT",
       "away_score": 6,
       "home_score": 6,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-27T20:05:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "PHI",
       "home": "NYM",
       "away_score": 2,
-      "home_score": 0,
-      "state": "B6",
+      "home_score": 4,
+      "state": "T7",
       "start_time": "2026-06-27T20:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 1,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-06-27T22:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-27T23:05:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-06-27",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-05-27",
-      "time": "18:15:06",
-      "game_id": "824270",
-      "home_team": "Detroit Tigers",
-      "away_team": "Los Angeles Angels",
-      "bet_side": "home",
-      "model_prob": "0.5394",
-      "polymarket_price": "0.5100",
-      "ev_pct": "5.77%",
-      "bet_size": "$10.00",
-      "order_id": "0x234e3d16c94d830776",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "win",
-      "profit": "9.61"
-    },
     {
       "date": "2026-05-27",
       "time": "18:15:08",
@@ -989,6 +972,23 @@
       "filled_size": "$10.00",
       "result": "loss",
       "profit": "-10.00"
+    },
+    {
+      "date": "2026-06-27",
+      "time": "19:15:07",
+      "game_id": "823207",
+      "home_team": "San Francisco Giants",
+      "away_team": "Atlanta Braves",
+      "bet_side": "away",
+      "model_prob": "0.5846",
+      "polymarket_price": "0.4600",
+      "ev_pct": "27.08%",
+      "bet_size": "$10.00",
+      "order_id": "0xb1d37d8a8efd07601b",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-27",
-      "time": "19:00:06",
+      "time": "19:15:05",
       "game_id": "823283",
       "home_team": "San Diego Padres",
       "away_team": "Los Angeles Dodgers",
@@ -1280,21 +1280,21 @@
     },
     {
       "date": "2026-06-27",
-      "time": "19:00:07",
+      "time": "19:15:07",
       "game_id": "823207",
       "home_team": "San Francisco Giants",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5429",
-      "away_prob": "0.4571",
+      "home_prob": "0.4154",
+      "away_prob": "0.5846",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0129",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.2447",
+      "away_ev": "0.2708",
       "home_pitcher": "Logan Webb",
       "away_pitcher": "Bryce Elder",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-27",
-      "time": "19:00:08",
+      "time": "19:15:08",
       "game_id": "824015",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
@@ -1324,9 +1324,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 103,
+    "total_bets_today": 1,
+    "total_bets_all_time": 104,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 39599
+    "total_games_scanned_all": 39602
   }
 }
