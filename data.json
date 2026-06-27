@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T01:15:08.250281+00:00",
+  "last_updated": "2026-06-27T01:30:06.089427+00:00",
   "scoreboard": [
     {
       "game_id": "824255",
@@ -16,7 +16,7 @@
       "home": "PIT",
       "away_score": 6,
       "home_score": 4,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-06-26T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 3,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-26T23:05:00Z"
     },
     {
@@ -34,16 +34,16 @@
       "home": "TOR",
       "away_score": 5,
       "home_score": 0,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-26T23:07:00Z"
     },
     {
       "game_id": "824423",
       "away": "SEA",
       "home": "CLE",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 6,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 2,
       "home_score": 1,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "NYY",
       "home": "BOS",
       "away_score": 1,
-      "home_score": 5,
-      "state": "B8",
+      "home_score": 6,
+      "state": "T9",
       "start_time": "2026-06-26T23:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "KC",
       "home": "CWS",
       "away_score": 1,
-      "home_score": 11,
-      "state": "T5",
+      "home_score": 13,
+      "state": "T6",
       "start_time": "2026-06-26T23:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-06-26T23:45:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "COL",
       "home": "MIN",
       "away_score": 0,
-      "home_score": 4,
-      "state": "T5",
+      "home_score": 5,
+      "state": "B5",
       "start_time": "2026-06-27T00:10:00Z"
     },
     {
@@ -106,25 +106,25 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-06-27T00:15:00Z"
     },
     {
       "game_id": "824014",
       "away": "OAK",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-27T01:38:00Z"
     },
     {
       "game_id": "823285",
       "away": "LAD",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-27T01:45:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-06-26",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-05-27",
-      "time": "17:45:05",
-      "game_id": "824836",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Tampa Bay Rays",
-      "bet_side": "home",
-      "model_prob": "0.4923",
-      "polymarket_price": "0.4700",
-      "ev_pct": "4.75%",
-      "bet_size": "$10.00",
-      "order_id": "0x5fa4c8f37d9f13534b",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "win",
-      "profit": "11.28"
-    },
     {
       "date": "2026-05-27",
       "time": "18:15:06",
@@ -989,6 +972,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-06-26",
+      "time": "21:30:05",
+      "game_id": "823206",
+      "home_team": "San Francisco Giants",
+      "away_team": "Atlanta Braves",
+      "bet_side": "home",
+      "model_prob": "0.5494",
+      "polymarket_price": "0.4800",
+      "ev_pct": "14.45%",
+      "bet_size": "$10.00",
+      "order_id": "0x48e3cb696cb0b3d68e",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1299,12 +1299,34 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "21:30:05",
+      "game_id": "823206",
+      "home_team": "San Francisco Giants",
+      "away_team": "Atlanta Braves",
+      "home_prob": "0.5494",
+      "away_prob": "0.4506",
+      "poly_home_price": "0.4800",
+      "poly_away_price": "0.5300",
+      "home_ev": "0.1445",
+      "away_ev": "-0.1497",
+      "home_pitcher": "Trevor McDonald",
+      "away_pitcher": "Reynaldo L\u00f3pez",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "yes",
+      "bet_side": "home",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 102,
-    "total_games_scanned_today": 14,
-    "total_games_scanned_all": 39097
+    "total_bets_today": 2,
+    "total_bets_all_time": 103,
+    "total_games_scanned_today": 15,
+    "total_games_scanned_all": 39098
   }
 }
