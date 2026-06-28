@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T20:30:04.504221+00:00",
+  "last_updated": "2026-06-28T20:45:04.584544+00:00",
   "scoreboard": [
     {
       "game_id": "824821",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 6,
       "home_score": 4,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-28T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "DET",
       "away_score": 3,
       "home_score": 3,
-      "state": "B9",
+      "state": "T10",
       "start_time": "2026-06-28T17:40:00Z"
     },
     {
@@ -42,7 +42,7 @@
       "away": "SEA",
       "home": "CLE",
       "away_score": 4,
-      "home_score": 1,
+      "home_score": 6,
       "state": "B8",
       "start_time": "2026-06-28T17:40:00Z"
     },
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 5,
       "home_score": 4,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-06-28T17:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 3,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-06-28T18:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CWS",
       "away_score": 5,
       "home_score": 4,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-28T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-06-28T18:10:00Z"
     },
     {
@@ -97,16 +97,16 @@
       "home": "STL",
       "away_score": 1,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-28T18:15:00Z"
     },
     {
       "game_id": "824011",
       "away": "OAK",
       "home": "LAA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-06-28T19:15:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-06-28T20:05:00Z"
     },
     {
       "game_id": "823281",
       "away": "LAD",
       "home": "SD",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-06-28T20:10:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-06-28",
-      "time": "16:30:04",
+      "time": "16:45:04",
       "game_id": "824744",
       "home_team": "Boston Red Sox",
       "away_team": "New York Yankees",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 105,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 39929
+    "total_games_scanned_all": 39930
   }
 }
