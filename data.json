@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T23:45:09.290200+00:00",
+  "last_updated": "2026-06-28T00:00:09.115604+00:00",
   "scoreboard": [
     {
       "game_id": "824257",
@@ -34,7 +34,7 @@
       "home": "PIT",
       "away_score": 9,
       "home_score": 7,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-27T20:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYM",
       "away_score": 2,
       "home_score": 6,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-27T20:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 4,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-06-27T22:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-27T23:05:00Z"
     },
     {
@@ -79,34 +79,34 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-27T23:10:00Z"
     },
     {
       "game_id": "823689",
       "away": "COL",
       "home": "MIN",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-06-27T23:10:00Z"
     },
     {
       "game_id": "823770",
       "away": "CHC",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-27T23:10:00Z"
     },
     {
       "game_id": "823038",
       "away": "MIA",
       "home": "STL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-06-27T23:15:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-27",
-      "time": "19:45:07",
+      "time": "20:00:07",
       "game_id": "823283",
       "home_team": "San Diego Padres",
       "away_team": "Los Angeles Dodgers",
@@ -1271,8 +1271,8 @@
       "home_pitcher": "Kyle Hart",
       "away_pitcher": "Yoshinobu Yamamoto",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-06-27",
-      "time": "19:45:08",
+      "time": "20:00:07",
       "game_id": "823207",
       "home_team": "San Francisco Giants",
       "away_team": "Atlanta Braves",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-27",
-      "time": "19:45:09",
+      "time": "20:00:08",
       "game_id": "824015",
       "home_team": "Los Angeles Angels",
       "away_team": "Athletics",
-      "home_prob": "0.5128",
-      "away_prob": "0.4872",
+      "home_prob": "0.5115",
+      "away_prob": "0.4885",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "0.0054",
-      "away_ev": "-0.0255",
+      "home_ev": "0.0028",
+      "away_ev": "-0.0229",
       "home_pitcher": "Reid Detmers",
       "away_pitcher": "Jack Perkins",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 105,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 39608
+    "total_games_scanned_all": 39611
   }
 }
