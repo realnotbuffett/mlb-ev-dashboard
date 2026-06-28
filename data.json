@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T21:00:04.556974+00:00",
+  "last_updated": "2026-06-28T21:15:04.557797+00:00",
   "scoreboard": [
     {
       "game_id": "824821",
@@ -33,17 +33,17 @@
       "away": "HOU",
       "home": "DET",
       "away_score": 7,
-      "home_score": 3,
-      "state": "T10",
+      "home_score": 5,
+      "state": "B10",
       "start_time": "2026-06-28T17:40:00Z"
     },
     {
       "game_id": "824422",
       "away": "SEA",
       "home": "CLE",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-06-28T17:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "CWS",
       "away_score": 5,
       "home_score": 4,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-06-28T18:10:00Z"
     },
     {
       "game_id": "823769",
       "away": "CHC",
       "home": "MIL",
-      "away_score": 1,
-      "home_score": 1,
-      "state": "T10",
+      "away_score": 4,
+      "home_score": 2,
+      "state": "B10",
       "start_time": "2026-06-28T18:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "LAA",
       "away_score": 1,
       "home_score": 4,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-28T19:15:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-06-28T20:05:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "LAD",
       "home": "SD",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 1,
+      "state": "B4",
       "start_time": "2026-06-28T20:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-28",
-      "time": "17:00:04",
+      "time": "17:15:04",
       "game_id": "824744",
       "home_team": "Boston Red Sox",
       "away_team": "New York Yankees",
-      "home_prob": "0.5089",
-      "away_prob": "0.4911",
+      "home_prob": "0.5102",
+      "away_prob": "0.4898",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0021",
-      "away_ev": "-0.0178",
+      "home_ev": "0.0004",
+      "away_ev": "-0.0204",
       "home_pitcher": "Sonny Gray",
       "away_pitcher": "Carlos Rod\u00f3n",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 0,
     "total_bets_all_time": 105,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 39931
+    "total_games_scanned_all": 39932
   }
 }
