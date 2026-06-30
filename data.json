@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-30T00:45:08.550793+00:00",
+  "last_updated": "2026-06-30T01:00:08.642805+00:00",
   "scoreboard": [
     {
       "game_id": "824822",
       "away": "CWS",
       "home": "BAL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
       "state": "T8",
       "start_time": "2026-06-29T22:35:00Z"
@@ -16,7 +16,7 @@
       "home": "PHI",
       "away_score": 8,
       "home_score": 5,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-29T22:40:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "NYY",
       "away_score": 7,
       "home_score": 0,
-      "state": "B5",
+      "state": "T7",
       "start_time": "2026-06-29T23:05:00Z"
     },
     {
       "game_id": "822792",
       "away": "NYM",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 2,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-06-29T23:07:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "BOS",
       "away_score": 3,
       "home_score": 6,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-06-29T23:10:00Z"
     },
     {
       "game_id": "824420",
       "away": "TEX",
       "home": "CLE",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-06-29T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-06-29T23:40:00Z"
     },
     {
@@ -70,25 +70,25 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-30T00:05:00Z"
     },
     {
       "game_id": "824176",
       "away": "MIN",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-06-30T00:10:00Z"
     },
     {
       "game_id": "824339",
       "away": "MIA",
       "home": "COL",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-06-30T00:40:00Z"
     },
     {
@@ -122,23 +122,6 @@
   "today": "2026-06-29",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-05-27",
-      "time": "19:30:08",
-      "game_id": "823947",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Colorado Rockies",
-      "bet_side": "away",
-      "model_prob": "0.2201",
-      "polymarket_price": "0.2100",
-      "ev_pct": "4.80%",
-      "bet_size": "$10.00",
-      "order_id": "0x46249c411770130107",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-05-29",
       "time": "20:00:08",
@@ -971,6 +954,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-06-29",
+      "time": "21:00:06",
+      "game_id": "824986",
+      "home_team": "Athletics",
+      "away_team": "Los Angeles Dodgers",
+      "bet_side": "away",
+      "model_prob": "0.5729",
+      "polymarket_price": "0.5300",
+      "ev_pct": "8.09%",
+      "bet_size": "$10.00",
+      "order_id": "0x89f97e65237328c318",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1152,21 +1152,21 @@
     },
     {
       "date": "2026-06-29",
-      "time": "20:45:05",
+      "time": "21:00:06",
       "game_id": "824986",
       "home_team": "Athletics",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.4758",
-      "away_prob": "0.5242",
+      "home_prob": "0.4271",
+      "away_prob": "0.5729",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0087",
-      "away_ev": "-0.0110",
+      "home_ev": "-0.1101",
+      "away_ev": "0.0809",
       "home_pitcher": "Gage Jump",
       "away_pitcher": "Eric Lauer",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-06-29",
-      "time": "20:45:07",
+      "time": "21:00:07",
       "game_id": "823121",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
@@ -1187,8 +1187,8 @@
       "home_pitcher": "George Kirby",
       "away_pitcher": "Ryan Johnson",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1196,16 +1196,16 @@
     },
     {
       "date": "2026-06-29",
-      "time": "20:45:08",
+      "time": "21:00:08",
       "game_id": "825065",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5542",
-      "away_prob": "0.4458",
+      "home_prob": "0.5468",
+      "away_prob": "0.4532",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0092",
+      "home_ev": "-0.0235",
+      "away_ev": "0.0070",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Tyler Mahle",
       "pitchers_confirmed": "yes",
@@ -1262,9 +1262,9 @@
     }
   ],
   "stats": {
-    "total_bets_today": 1,
-    "total_bets_all_time": 106,
+    "total_bets_today": 2,
+    "total_bets_all_time": 107,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 40453
+    "total_games_scanned_all": 40456
   }
 }
