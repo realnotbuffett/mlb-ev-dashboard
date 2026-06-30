@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-30T01:00:08.642805+00:00",
+  "last_updated": "2026-06-30T01:15:07.532903+00:00",
   "scoreboard": [
     {
       "game_id": "824822",
       "away": "CWS",
       "home": "BAL",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 2,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-06-29T22:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "PIT",
       "home": "PHI",
       "away_score": 8,
-      "home_score": 5,
-      "state": "T8",
+      "home_score": 6,
+      "state": "B8",
       "start_time": "2026-06-29T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-06-29T23:07:00Z"
     },
     {
@@ -43,34 +43,34 @@
       "home": "BOS",
       "away_score": 3,
       "home_score": 6,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-06-29T23:10:00Z"
     },
     {
       "game_id": "824420",
       "away": "TEX",
       "home": "CLE",
-      "away_score": 3,
-      "home_score": 2,
-      "state": "T7",
+      "away_score": 4,
+      "home_score": 3,
+      "state": "B7",
       "start_time": "2026-06-29T23:10:00Z"
     },
     {
       "game_id": "823771",
       "away": "CIN",
       "home": "MIL",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-06-29T23:40:00Z"
     },
     {
       "game_id": "824662",
       "away": "SD",
       "home": "CHC",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-06-30T00:05:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-06-30T00:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "MIA",
       "home": "COL",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 3,
+      "state": "B2",
       "start_time": "2026-06-30T00:40:00Z"
     },
     {
@@ -1152,21 +1152,21 @@
     },
     {
       "date": "2026-06-29",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "824986",
       "home_team": "Athletics",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.4271",
-      "away_prob": "0.5729",
+      "home_prob": "0.4261",
+      "away_prob": "0.5739",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.1101",
-      "away_ev": "0.0809",
+      "home_ev": "-0.1124",
+      "away_ev": "0.0829",
       "home_pitcher": "Gage Jump",
       "away_pitcher": "Eric Lauer",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-06-29",
-      "time": "21:00:07",
+      "time": "21:15:06",
       "game_id": "823121",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
@@ -1196,16 +1196,16 @@
     },
     {
       "date": "2026-06-29",
-      "time": "21:00:08",
+      "time": "21:15:07",
       "game_id": "825065",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5468",
-      "away_prob": "0.4532",
+      "home_prob": "0.5480",
+      "away_prob": "0.4520",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0235",
-      "away_ev": "0.0070",
+      "home_ev": "-0.0215",
+      "away_ev": "0.0045",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Tyler Mahle",
       "pitchers_confirmed": "yes",
@@ -1265,6 +1265,6 @@
     "total_bets_today": 2,
     "total_bets_all_time": 107,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 40456
+    "total_games_scanned_all": 40459
   }
 }
