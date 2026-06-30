@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-30T23:15:12.872365+00:00",
+  "last_updated": "2026-06-30T23:30:10.635205+00:00",
   "scoreboard": [
     {
       "game_id": "824819",
       "away": "CWS",
       "home": "BAL",
-      "away_score": 1,
+      "away_score": 8,
       "home_score": 1,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-06-30T22:35:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 2,
       "home_score": 2,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-06-30T22:40:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 2,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-06-30T22:40:00Z"
     },
     {
       "game_id": "823528",
       "away": "DET",
       "home": "NYY",
-      "away_score": 0,
+      "away_score": 4,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-30T23:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-06-30T23:07:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "WSH",
       "home": "BOS",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "B1",
       "start_time": "2026-06-30T23:10:00Z"
     },
     {
@@ -61,25 +61,25 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-06-30T23:15:00Z"
     },
     {
       "game_id": "824096",
       "away": "TB",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-30T23:40:00Z"
     },
     {
       "game_id": "823768",
       "away": "CIN",
       "home": "MIL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-06-30T23:40:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-06-30",
-      "time": "19:15:07",
+      "time": "19:30:05",
       "game_id": "824661",
       "home_team": "Chicago Cubs",
       "away_team": "San Diego Padres",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-06-30",
-      "time": "19:15:08",
+      "time": "19:30:06",
       "game_id": "824175",
       "home_team": "Houston Astros",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.4885",
-      "away_prob": "0.5115",
+      "home_prob": "0.4872",
+      "away_prob": "0.5128",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.0030",
-      "away_ev": "-0.0164",
+      "home_ev": "-0.0056",
+      "away_ev": "-0.0139",
       "home_pitcher": "Mike Burrows",
       "away_pitcher": "Joe Ryan",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-06-30",
-      "time": "19:15:09",
+      "time": "19:30:07",
       "game_id": "824338",
       "home_team": "Colorado Rockies",
       "away_team": "Miami Marlins",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-06-30",
-      "time": "19:15:10",
+      "time": "19:30:08",
       "game_id": "824984",
       "home_team": "Athletics",
       "away_team": "Los Angeles Dodgers",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-06-30",
-      "time": "19:15:11",
+      "time": "19:30:09",
       "game_id": "823122",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6295",
-      "away_prob": "0.3705",
+      "home_prob": "0.6286",
+      "away_prob": "0.3714",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0316",
-      "away_ev": "0.0293",
+      "home_ev": "-0.0330",
+      "away_ev": "0.0317",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Jos\u00e9 Soriano",
       "pitchers_confirmed": "yes",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-06-30",
-      "time": "19:15:12",
+      "time": "19:30:10",
       "game_id": "825066",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.5089",
-      "away_prob": "0.4911",
+      "home_prob": "0.5102",
+      "away_prob": "0.4898",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0213",
-      "away_ev": "0.0022",
+      "home_ev": "-0.0188",
+      "away_ev": "-0.0004",
       "home_pitcher": "Brandon Pfaadt",
       "away_pitcher": "Landen Roupp",
       "pitchers_confirmed": "yes",
@@ -1327,6 +1327,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 108,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 41032
+    "total_games_scanned_all": 41038
   }
 }
