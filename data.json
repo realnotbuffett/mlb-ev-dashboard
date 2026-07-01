@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:15:16.922764+00:00",
+  "last_updated": "2026-07-01T20:30:12.973852+00:00",
   "scoreboard": [
     {
       "game_id": "824818",
@@ -24,17 +24,17 @@
       "away": "WSH",
       "home": "BOS",
       "away_score": 10,
-      "home_score": 0,
-      "state": "B8",
+      "home_score": 2,
+      "state": "T9",
       "start_time": "2026-07-01T17:35:00Z"
     },
     {
       "game_id": "823530",
       "away": "DET",
       "home": "NYY",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
-      "state": "B10",
+      "state": "T11",
       "start_time": "2026-07-01T17:35:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "SD",
       "home": "CHC",
       "away_score": 2,
-      "home_score": 13,
-      "state": "B6",
+      "home_score": 15,
+      "state": "B7",
       "start_time": "2026-07-01T18:20:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "NYM",
       "home": "TOR",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T3",
+      "home_score": 5,
+      "state": "B3",
       "start_time": "2026-07-01T19:07:00Z"
     },
     {
@@ -1095,7 +1095,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "16:15:10",
+      "time": "16:30:06",
       "game_id": "823446",
       "home_team": "Philadelphia Phillies",
       "away_team": "Pittsburgh Pirates",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "16:15:11",
+      "time": "16:30:07",
       "game_id": "824905",
       "home_team": "Atlanta Braves",
       "away_team": "St. Louis Cardinals",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "16:15:12",
+      "time": "16:30:08",
       "game_id": "824094",
       "home_team": "Kansas City Royals",
       "away_team": "Tampa Bay Rays",
@@ -1161,16 +1161,16 @@
     },
     {
       "date": "2026-07-01",
-      "time": "16:15:13",
+      "time": "16:30:09",
       "game_id": "824174",
       "home_team": "Houston Astros",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5700",
-      "away_prob": "0.4300",
+      "home_prob": "0.5689",
+      "away_prob": "0.4311",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0172",
-      "away_ev": "-0.0000",
+      "home_ev": "-0.0191",
+      "away_ev": "0.0025",
       "home_pitcher": "Tatsuya Imai",
       "away_pitcher": "Taj Bradley",
       "pitchers_confirmed": "yes",
@@ -1183,7 +1183,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "16:15:14",
+      "time": "16:30:10",
       "game_id": "823767",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cincinnati Reds",
@@ -1205,16 +1205,16 @@
     },
     {
       "date": "2026-07-01",
-      "time": "16:15:15",
+      "time": "16:30:11",
       "game_id": "824337",
       "home_team": "Colorado Rockies",
       "away_team": "Miami Marlins",
-      "home_prob": "0.4179",
-      "away_prob": "0.5821",
+      "home_prob": "0.4169",
+      "away_prob": "0.5831",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0050",
-      "away_ev": "-0.0134",
+      "home_ev": "-0.0074",
+      "away_ev": "-0.0116",
       "home_pitcher": "Kyle Freeland",
       "away_pitcher": "Max Meyer",
       "pitchers_confirmed": "yes",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "16:15:16",
+      "time": "16:30:12",
       "game_id": "825064",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Francisco Giants",
@@ -1274,6 +1274,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 109,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 41378
+    "total_games_scanned_all": 41385
   }
 }
