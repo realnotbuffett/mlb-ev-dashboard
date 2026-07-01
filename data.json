@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T21:15:15.023759+00:00",
+  "last_updated": "2026-07-01T21:30:13.033095+00:00",
   "scoreboard": [
     {
       "game_id": "824818",
@@ -52,7 +52,7 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 5,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-07-01T19:07:00Z"
     },
     {
@@ -1095,7 +1095,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "17:15:08",
+      "time": "17:30:06",
       "game_id": "823446",
       "home_team": "Philadelphia Phillies",
       "away_team": "Pittsburgh Pirates",
@@ -1117,16 +1117,16 @@
     },
     {
       "date": "2026-07-01",
-      "time": "17:15:09",
+      "time": "17:30:07",
       "game_id": "824905",
       "home_team": "Atlanta Braves",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.5542",
-      "away_prob": "0.4458",
+      "home_prob": "0.5556",
+      "away_prob": "0.4444",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "0.0076",
-      "away_ev": "-0.0308",
+      "home_ev": "0.0101",
+      "away_ev": "-0.0338",
       "home_pitcher": "Reynaldo L\u00f3pez",
       "away_pitcher": "Michael McGreevy",
       "pitchers_confirmed": "yes",
@@ -1139,7 +1139,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "17:15:10",
+      "time": "17:30:08",
       "game_id": "824094",
       "home_team": "Kansas City Royals",
       "away_team": "Tampa Bay Rays",
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "17:15:11",
+      "time": "17:30:09",
       "game_id": "824174",
       "home_team": "Houston Astros",
       "away_team": "Minnesota Twins",
@@ -1183,16 +1183,16 @@
     },
     {
       "date": "2026-07-01",
-      "time": "17:15:12",
+      "time": "17:30:10",
       "game_id": "823767",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5980",
-      "away_prob": "0.4020",
+      "home_prob": "0.6083",
+      "away_prob": "0.3917",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "-0.0033",
-      "away_ev": "-0.0196",
+      "home_ev": "0.0138",
+      "away_ev": "-0.0446",
       "home_pitcher": "Shane Drohan",
       "away_pitcher": "Andrew Abbott",
       "pitchers_confirmed": "yes",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "17:15:13",
+      "time": "17:30:11",
       "game_id": "824337",
       "home_team": "Colorado Rockies",
       "away_team": "Miami Marlins",
@@ -1227,7 +1227,7 @@
     },
     {
       "date": "2026-07-01",
-      "time": "17:15:14",
+      "time": "17:30:12",
       "game_id": "825064",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Francisco Giants",
@@ -1274,6 +1274,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 109,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 41406
+    "total_games_scanned_all": 41413
   }
 }
