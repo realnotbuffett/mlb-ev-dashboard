@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T01:30:04.330139+00:00",
+  "last_updated": "2026-07-01T01:45:04.285797+00:00",
   "scoreboard": [
     {
       "game_id": "824819",
@@ -33,8 +33,8 @@
       "away": "DET",
       "home": "NYY",
       "away_score": 9,
-      "home_score": 2,
-      "state": "B8",
+      "home_score": 3,
+      "state": "B9",
       "start_time": "2026-06-30T23:05:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "TOR",
       "away_score": 3,
       "home_score": 0,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-06-30T23:07:00Z"
     },
     {
       "game_id": "824742",
       "away": "WSH",
       "home": "BOS",
-      "away_score": 4,
+      "away_score": 8,
       "home_score": 1,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-06-30T23:10:00Z"
     },
     {
@@ -61,16 +61,16 @@
       "home": "ATL",
       "away_score": 5,
       "home_score": 2,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-06-30T23:15:00Z"
     },
     {
       "game_id": "824096",
       "away": "TB",
       "home": "KC",
-      "away_score": 8,
+      "away_score": 10,
       "home_score": 3,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-06-30T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 2,
       "home_score": 6,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-06-30T23:40:00Z"
     },
     {
@@ -87,17 +87,17 @@
       "away": "SD",
       "home": "CHC",
       "away_score": 3,
-      "home_score": 5,
-      "state": "T5",
+      "home_score": 6,
+      "state": "B5",
       "start_time": "2026-07-01T00:05:00Z"
     },
     {
       "game_id": "824175",
       "away": "MIN",
       "home": "HOU",
-      "away_score": 3,
-      "home_score": 2,
-      "state": "B4",
+      "away_score": 4,
+      "home_score": 6,
+      "state": "T5",
       "start_time": "2026-07-01T00:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "COL",
       "away_score": 5,
       "home_score": 1,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-07-01T00:40:00Z"
     },
     {
