@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T23:15:08.958564+00:00",
+  "last_updated": "2026-07-02T23:30:07.394049+00:00",
   "scoreboard": [
     {
       "game_id": "823442",
@@ -33,26 +33,26 @@
       "away": "CWS",
       "home": "CLE",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 1,
+      "state": "B3",
       "start_time": "2026-07-02T22:40:00Z"
     },
     {
       "game_id": "824906",
       "away": "STL",
       "home": "ATL",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-02T23:15:00Z"
     },
     {
       "game_id": "824093",
       "away": "TB",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-02T23:40:00Z"
     },
     {
@@ -1072,16 +1072,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "19:15:06",
+      "time": "19:30:05",
       "game_id": "822884",
       "home_team": "Texas Rangers",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.4974",
-      "away_prob": "0.5026",
+      "home_prob": "0.4949",
+      "away_prob": "0.5051",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0051",
-      "away_ev": "-0.0146",
+      "home_ev": "-0.0102",
+      "away_ev": "-0.0096",
       "home_pitcher": "Nathan Eovaldi",
       "away_pitcher": "Framber Valdez",
       "pitchers_confirmed": "yes",
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "19:15:07",
+      "time": "19:30:06",
       "game_id": "823119",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6719",
-      "away_prob": "0.3281",
+      "home_prob": "0.6734",
+      "away_prob": "0.3266",
       "poly_home_price": "0.6700",
       "poly_away_price": "0.3400",
-      "home_ev": "0.0029",
-      "away_ev": "-0.0350",
+      "home_ev": "0.0051",
+      "away_ev": "-0.0395",
       "home_pitcher": "Bryce Miller",
       "away_pitcher": "Walbert Ure\u00f1a",
       "pitchers_confirmed": "yes",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "19:15:08",
+      "time": "19:30:07",
       "game_id": "823935",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 112,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 41773
+    "total_games_scanned_all": 41776
   }
 }
