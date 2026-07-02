@@ -1141,6 +1141,13 @@
     "total_bets_today": 3,
     "total_bets_all_time": 112,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 41779
+    "total_games_scanned_all": 41779,
+    "record": {
+      "wins": 46,
+      "losses": 63,
+      "resolved": 109,
+      "profit": -66.08,
+      "win_rate": 42.2
+    }
   }
 }
