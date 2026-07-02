@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-02T18:45:10.723307+00:00",
+  "last_updated": "2026-07-02T19:00:10.396394+00:00",
   "scoreboard": [
     {
       "game_id": "823442",
       "away": "PIT",
       "home": "PHI",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-02T16:35:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-07-02T18:10:00Z"
     },
     {
       "game_id": "824335",
       "away": "MIA",
       "home": "COL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-02T19:10:00Z"
     },
     {
@@ -1006,7 +1006,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "14:45:06",
+      "time": "15:00:05",
       "game_id": "824416",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago White Sox",
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "14:45:06",
+      "time": "15:00:06",
       "game_id": "824906",
       "home_team": "Atlanta Braves",
       "away_team": "St. Louis Cardinals",
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "14:45:07",
+      "time": "15:00:07",
       "game_id": "824093",
       "home_team": "Kansas City Royals",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4707",
-      "away_prob": "0.5293",
+      "home_prob": "0.4695",
+      "away_prob": "0.5305",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "0.0016",
-      "away_ev": "-0.0199",
+      "home_ev": "-0.0010",
+      "away_ev": "-0.0177",
       "home_pitcher": "Stephen Kolek",
       "away_pitcher": "Ian Seymour",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "14:45:08",
+      "time": "15:00:08",
       "game_id": "822884",
       "home_team": "Texas Rangers",
       "away_team": "Detroit Tigers",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "14:45:09",
+      "time": "15:00:09",
       "game_id": "823119",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "14:45:10",
+      "time": "15:00:10",
       "game_id": "823935",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
-      "home_prob": "0.6351",
-      "away_prob": "0.3649",
+      "home_prob": "0.6359",
+      "away_prob": "0.3641",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0230",
-      "away_ev": "0.0137",
+      "home_ev": "-0.0216",
+      "away_ev": "0.0113",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Randy V\u00e1squez",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 110,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 41672
+    "total_games_scanned_all": 41678
   }
 }
