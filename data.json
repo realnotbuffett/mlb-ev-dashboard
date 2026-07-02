@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T15:00:14.387192+00:00",
+  "last_updated": "2026-07-02T15:15:12.853661+00:00",
   "scoreboard": [
     {
       "game_id": "823442",
@@ -940,7 +940,7 @@
   "today_games": [
     {
       "date": "2026-07-02",
-      "time": "11:00:06",
+      "time": "11:15:05",
       "game_id": "823442",
       "home_team": "Philadelphia Phillies",
       "away_team": "Pittsburgh Pirates",
@@ -962,7 +962,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:07",
+      "time": "11:15:06",
       "game_id": "823765",
       "home_team": "Milwaukee Brewers",
       "away_team": "Cincinnati Reds",
@@ -984,7 +984,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:08",
+      "time": "11:15:07",
       "game_id": "824335",
       "home_team": "Colorado Rockies",
       "away_team": "Miami Marlins",
@@ -1006,7 +1006,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:09",
+      "time": "11:15:07",
       "game_id": "824416",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago White Sox",
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:10",
+      "time": "11:15:08",
       "game_id": "824906",
       "home_team": "Atlanta Braves",
       "away_team": "St. Louis Cardinals",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:11",
+      "time": "11:15:09",
       "game_id": "824093",
       "home_team": "Kansas City Royals",
       "away_team": "Tampa Bay Rays",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:12",
+      "time": "11:15:10",
       "game_id": "822884",
       "home_team": "Texas Rangers",
       "away_team": "Detroit Tigers",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:13",
+      "time": "11:15:11",
       "game_id": "823119",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "11:00:14",
+      "time": "11:15:12",
       "game_id": "823935",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
       "home_prob": "0.6351",
       "away_prob": "0.3649",
-      "poly_home_price": "0.6400",
-      "poly_away_price": "0.3700",
-      "home_ev": "-0.0077",
-      "away_ev": "-0.0137",
+      "poly_home_price": "0.6500",
+      "poly_away_price": "0.3600",
+      "home_ev": "-0.0230",
+      "away_ev": "0.0137",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Randy V\u00e1squez",
       "pitchers_confirmed": "yes",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 1,
     "total_bets_all_time": 110,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 41552
+    "total_games_scanned_all": 41561
   }
 }
