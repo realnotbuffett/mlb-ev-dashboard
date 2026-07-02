@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T22:15:10.104982+00:00",
+  "last_updated": "2026-07-02T22:30:09.352344+00:00",
   "scoreboard": [
     {
       "game_id": "823442",
@@ -32,9 +32,9 @@
       "game_id": "824416",
       "away": "CWS",
       "home": "CLE",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-02T22:40:00Z"
     },
     {
@@ -914,8 +914,8 @@
       "ev_pct": "4.94%",
       "bet_size": "$10.00",
       "order_id": "0xbba7ccd50ffda1d23a",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -1028,16 +1028,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "18:15:06",
+      "time": "18:30:05",
       "game_id": "824906",
       "home_team": "Atlanta Braves",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.5191",
-      "away_prob": "0.4809",
+      "home_prob": "0.5216",
+      "away_prob": "0.4784",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0018",
-      "away_ev": "-0.0185",
+      "home_ev": "0.0031",
+      "away_ev": "-0.0237",
       "home_pitcher": "Hurston Waldrep",
       "away_pitcher": "Dustin May",
       "pitchers_confirmed": "yes",
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "18:15:07",
+      "time": "18:30:06",
       "game_id": "824093",
       "home_team": "Kansas City Royals",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4608",
-      "away_prob": "0.5392",
+      "home_prob": "0.4594",
+      "away_prob": "0.5406",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0197",
-      "away_ev": "-0.0014",
+      "home_ev": "-0.0226",
+      "away_ev": "0.0011",
       "home_pitcher": "Stephen Kolek",
       "away_pitcher": "Ian Seymour",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "18:15:08",
+      "time": "18:30:07",
       "game_id": "822884",
       "home_team": "Texas Rangers",
       "away_team": "Detroit Tigers",
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "18:15:09",
+      "time": "18:30:08",
       "game_id": "823119",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6613",
-      "away_prob": "0.3387",
+      "home_prob": "0.6621",
+      "away_prob": "0.3379",
       "poly_home_price": "0.6700",
       "poly_away_price": "0.3400",
-      "home_ev": "-0.0129",
-      "away_ev": "-0.0039",
+      "home_ev": "-0.0118",
+      "away_ev": "-0.0062",
       "home_pitcher": "Bryce Miller",
       "away_pitcher": "Walbert Ure\u00f1a",
       "pitchers_confirmed": "yes",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "18:15:09",
+      "time": "18:30:09",
       "game_id": "823935",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 112,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 41756
+    "total_games_scanned_all": 41761
   }
 }
