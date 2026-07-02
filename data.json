@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T23:00:08.215156+00:00",
+  "last_updated": "2026-07-02T23:15:08.958564+00:00",
   "scoreboard": [
     {
       "game_id": "823442",
@@ -34,7 +34,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-02T22:40:00Z"
     },
     {
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "19:00:05",
+      "time": "19:15:05",
       "game_id": "824093",
       "home_team": "Kansas City Royals",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4594",
-      "away_prob": "0.5406",
+      "home_prob": "0.4733",
+      "away_prob": "0.5267",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0226",
-      "away_ev": "0.0011",
+      "home_ev": "0.0070",
+      "away_ev": "-0.0246",
       "home_pitcher": "Stephen Kolek",
       "away_pitcher": "Ian Seymour",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "19:00:06",
+      "time": "19:15:06",
       "game_id": "822884",
       "home_team": "Texas Rangers",
       "away_team": "Detroit Tigers",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "19:00:07",
+      "time": "19:15:07",
       "game_id": "823119",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-07-02",
-      "time": "19:00:08",
+      "time": "19:15:08",
       "game_id": "823935",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1141,6 +1141,6 @@
     "total_bets_today": 3,
     "total_bets_all_time": 112,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 41769
+    "total_games_scanned_all": 41773
   }
 }
