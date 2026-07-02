@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MLB EV Bot â€” Dashboard</title>
+<title>MLB EV Bot — Dashboard</title>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -212,6 +212,20 @@ function render(d) {
   const bets = d.bets || [];
   const games = d.today_games || [];
   const perf = calcPerformance(bets);
+
+  // All-time record: prefer the full-log tally computed server-side in
+  // push_dashboard() (stats.record). 'bets' is only the last 50, so falling
+  // back to perf would understate the record on older data.json files.
+  const rec = stats.record || null;
+  const allTime = rec ? {
+    wins: rec.wins,
+    losses: rec.losses,
+    pending: perf.pending,
+    profit: rec.profit,
+    winRate: rec.win_rate,
+    roi: rec.resolved > 0 ? (rec.profit / rec.resolved * 100) : 0,
+    resolved: rec.resolved,
+  } : perf;
   const botActive = isRecent(d.last_updated);
   const isDryRun = d.mode === 'DRY RUN';
 
@@ -228,8 +242,8 @@ function render(d) {
   const totalBetsToday = stats.total_bets_today || 0;
   const totalBetsAll = stats.total_bets_all_time || bets.length;
   const confirmedGames = games.filter(g => g.pitchers_confirmed === 'yes').length;
-  const profitColor = perf.profit >= 0 ? 'var(--green)' : 'var(--red)';
-  const profitSign = perf.profit >= 0 ? '+' : '';
+  const profitColor = allTime.profit >= 0 ? 'var(--green)' : 'var(--red)';
+  const profitSign = allTime.profit >= 0 ? '+' : '';
 
   // Status pill
   let pillClass = 'offline';
@@ -255,22 +269,22 @@ function render(d) {
     <div class="stats-row">
       <div class="stat-card">
         <div class="stat-label">Cumulative Profit</div>
-        <div class="stat-value" style="color:${profitColor}">${profitSign}$${Math.abs(perf.profit).toFixed(2)}</div>
-        <div class="stat-sub">per bet</div>
+        <div class="stat-value" style="color:${profitColor}">${profitSign}$${Math.abs(allTime.profit).toFixed(2)}</div>
+        <div class="stat-sub">all time</div>
       </div>
       <div class="stat-card">
         <div class="stat-label">Record</div>
-        <div class="stat-value" style="font-size:22px">${perf.wins}W - ${perf.losses}L</div>
-        <div class="stat-sub">${perf.pending} pending</div>
+        <div class="stat-value" style="font-size:22px">${allTime.wins}W - ${allTime.losses}L</div>
+        <div class="stat-sub">${allTime.pending} pending</div>
       </div>
       <div class="stat-card">
         <div class="stat-label">Win Rate</div>
-        <div class="stat-value" style="color:${perf.winRate >= 50 ? 'var(--green)' : 'var(--text-primary)'}">${perf.winRate.toFixed(1)}%</div>
+        <div class="stat-value" style="color:${allTime.winRate >= 50 ? 'var(--green)' : 'var(--text-primary)'}">${allTime.winRate.toFixed(1)}%</div>
         <div class="stat-sub">${totalBetsAll} total bets</div>
       </div>
       <div class="stat-card">
         <div class="stat-label">ROI</div>
-        <div class="stat-value" style="font-size:22px;color:${perf.roi >= 0 ? 'var(--green)' : 'var(--red)'}">${perf.roi >= 0 ? '+' : ''}${perf.roi.toFixed(1)}%</div>
+        <div class="stat-value" style="font-size:22px;color:${allTime.roi >= 0 ? 'var(--green)' : 'var(--red)'}">${allTime.roi >= 0 ? '+' : ''}${allTime.roi.toFixed(1)}%</div>
         <div class="stat-sub">per bet avg</div>
       </div>
     </div>
@@ -462,19 +476,4 @@ function render(d) {
           <div><div class="bet-team">${betTeam}${partialTag}</div><div class="bet-matchup">${matchup}</div></div>
           <div class="bet-detail"><div class="bet-detail-label">EV</div><div class="bet-detail-value ev-positive">+${ev}%</div></div>
           <div class="bet-detail"><div class="bet-detail-label">Size</div><div class="bet-detail-value">${sizeDisplay}</div></div>
-          <div class="bet-detail"><div class="bet-detail-label">PM Price</div><div class="bet-detail-value">$${pp}</div></div>
-          <div style="text-align:center">${resultBadge}</div>
-          <div><div class="bet-time">${b.date||''}</div><div class="bet-time">${b.time ? b.time.slice(0,5) : ''}</div></div>
-        </div>`;
-    }
-  }
-
-  h += '</div></div>';
-  h += '<div class="footer"><p>MLB EV Bot &#8226; Pinnacle de-vig vs Polymarket &#8226; Refresh page for latest</p></div>';
-  app.innerHTML = h;
-}
-
-loadData().then(render);
-</script>
-</body>
-</html>
+          <div cl
