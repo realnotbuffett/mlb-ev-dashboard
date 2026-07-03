@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T23:30:11.513413+00:00",
+  "last_updated": "2026-07-03T23:45:11.090305+00:00",
   "scoreboard": [
     {
       "game_id": "824659",
@@ -14,9 +14,9 @@
       "game_id": "822714",
       "away": "PIT",
       "home": "WSH",
-      "away_score": 0,
-      "home_score": 2,
-      "state": "T3",
+      "away_score": 1,
+      "home_score": 5,
+      "state": "B3",
       "start_time": "2026-07-03T22:45:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 1,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-07-03T23:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CIN",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-07-03T23:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-07-03T23:10:00Z"
     },
     {
@@ -51,17 +51,17 @@
       "away": "NYM",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-07-03T23:15:00Z"
     },
     {
       "game_id": "824336",
       "away": "SF",
       "home": "COL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-04T00:10:00Z"
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "824173",
       "home_team": "Houston Astros",
       "away_team": "Tampa Bay Rays",
@@ -1130,7 +1130,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "19:30:07",
+      "time": "19:45:07",
       "game_id": "824013",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "19:30:08",
+      "time": "19:45:08",
       "game_id": "824982",
       "home_team": "Athletics",
       "away_team": "Miami Marlins",
@@ -1174,16 +1174,16 @@
     },
     {
       "date": "2026-07-03",
-      "time": "19:30:09",
+      "time": "19:45:09",
       "game_id": "825062",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4322",
-      "away_prob": "0.5678",
+      "home_prob": "0.4296",
+      "away_prob": "0.5704",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "-0.0178",
-      "away_ev": "-0.0038",
+      "home_ev": "-0.0235",
+      "away_ev": "0.0006",
       "home_pitcher": "Jose Cabrera",
       "away_pitcher": "Kyle Harrison",
       "pitchers_confirmed": "yes",
@@ -1196,16 +1196,16 @@
     },
     {
       "date": "2026-07-03",
-      "time": "19:30:10",
+      "time": "19:45:10",
       "game_id": "823933",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
-      "home_prob": "0.6985",
-      "away_prob": "0.3015",
+      "home_prob": "0.6957",
+      "away_prob": "0.3043",
       "poly_home_price": "0.7100",
       "poly_away_price": "0.3000",
-      "home_ev": "-0.0162",
-      "away_ev": "0.0051",
+      "home_ev": "-0.0202",
+      "away_ev": "0.0145",
       "home_pitcher": "Shohei Ohtani",
       "away_pitcher": "Michael King",
       "pitchers_confirmed": "yes",
@@ -1218,7 +1218,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "19:30:11",
+      "time": "19:45:10",
       "game_id": "823120",
       "home_team": "Seattle Mariners",
       "away_team": "Toronto Blue Jays",
@@ -1265,7 +1265,7 @@
     "total_bets_today": 4,
     "total_bets_all_time": 116,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 42286,
+    "total_games_scanned_all": 42292,
     "record": {
       "wins": 49,
       "losses": 63,
