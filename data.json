@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T16:30:15.807467+00:00",
+  "last_updated": "2026-07-03T16:45:16.048274+00:00",
   "scoreboard": [
     {
       "game_id": "824659",
@@ -976,7 +976,7 @@
   "today_games": [
     {
       "date": "2026-07-03",
-      "time": "12:30:05",
+      "time": "12:45:05",
       "game_id": "824659",
       "home_team": "Chicago Cubs",
       "away_team": "St. Louis Cardinals",
@@ -998,7 +998,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:06",
+      "time": "12:45:06",
       "game_id": "822714",
       "home_team": "Washington Nationals",
       "away_team": "Pittsburgh Pirates",
@@ -1020,7 +1020,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:07",
+      "time": "12:45:07",
       "game_id": "823527",
       "home_team": "New York Yankees",
       "away_team": "Minnesota Twins",
@@ -1042,16 +1042,16 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:08",
+      "time": "12:45:08",
       "game_id": "824498",
       "home_team": "Cincinnati Reds",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4707",
-      "away_prob": "0.5293",
+      "home_prob": "0.4721",
+      "away_prob": "0.5279",
       "poly_home_price": "0.4800",
       "poly_away_price": "0.5300",
-      "home_ev": "-0.0193",
-      "away_ev": "-0.0014",
+      "home_ev": "-0.0165",
+      "away_ev": "-0.0039",
       "home_pitcher": "Brady Singer",
       "away_pitcher": "Trevor Rogers",
       "pitchers_confirmed": "yes",
@@ -1064,7 +1064,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:09",
+      "time": "12:45:09",
       "game_id": "824417",
       "home_team": "Cleveland Guardians",
       "away_team": "Chicago White Sox",
@@ -1086,7 +1086,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:10",
+      "time": "12:45:10",
       "game_id": "824904",
       "home_team": "Atlanta Braves",
       "away_team": "New York Mets",
@@ -1108,7 +1108,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:11",
+      "time": "12:45:11",
       "game_id": "824173",
       "home_team": "Houston Astros",
       "away_team": "Tampa Bay Rays",
@@ -1130,7 +1130,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:12",
+      "time": "12:45:12",
       "game_id": "824013",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:12",
+      "time": "12:45:13",
       "game_id": "824982",
       "home_team": "Athletics",
       "away_team": "Miami Marlins",
@@ -1174,16 +1174,16 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:13",
+      "time": "12:45:14",
       "game_id": "825062",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4300",
-      "away_prob": "0.5700",
+      "home_prob": "0.4325",
+      "away_prob": "0.5675",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "-0.0227",
-      "away_ev": "0.0000",
+      "home_ev": "-0.0170",
+      "away_ev": "-0.0044",
       "home_pitcher": "Jose Cabrera",
       "away_pitcher": "Kyle Harrison",
       "pitchers_confirmed": "yes",
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:14",
+      "time": "12:45:15",
       "game_id": "823933",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1218,7 +1218,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "12:30:15",
+      "time": "12:45:15",
       "game_id": "823120",
       "home_team": "Seattle Mariners",
       "away_team": "Toronto Blue Jays",
@@ -1243,7 +1243,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 112,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 41973,
+    "total_games_scanned_all": 41985,
     "record": {
       "wins": 49,
       "losses": 63,
