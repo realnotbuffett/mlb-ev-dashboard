@@ -476,4 +476,19 @@ function render(d) {
           <div><div class="bet-team">${betTeam}${partialTag}</div><div class="bet-matchup">${matchup}</div></div>
           <div class="bet-detail"><div class="bet-detail-label">EV</div><div class="bet-detail-value ev-positive">+${ev}%</div></div>
           <div class="bet-detail"><div class="bet-detail-label">Size</div><div class="bet-detail-value">${sizeDisplay}</div></div>
-          <div cl
+          <div class="bet-detail"><div class="bet-detail-label">PM Price</div><div class="bet-detail-value">$${pp}</div></div>
+          <div style="text-align:center">${resultBadge}</div>
+          <div><div class="bet-time">${b.date||''}</div><div class="bet-time">${b.time ? b.time.slice(0,5) : ''}</div></div>
+        </div>`;
+    }
+  }
+
+  h += '</div></div>';
+  h += '<div class="footer"><p>MLB EV Bot &#8226; Pinnacle de-vig vs Polymarket &#8226; Refresh page for latest</p></div>';
+  app.innerHTML = h;
+}
+
+loadData().then(render);
+</script>
+</body>
+</html>
