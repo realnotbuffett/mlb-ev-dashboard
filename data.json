@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T00:00:06.476217+00:00",
+  "last_updated": "2026-07-03T00:15:06.570067+00:00",
   "scoreboard": [
     {
       "game_id": "823442",
@@ -32,9 +32,9 @@
       "game_id": "824416",
       "away": "CWS",
       "home": "CLE",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 2,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-07-02T22:40:00Z"
     },
     {
@@ -43,14 +43,14 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 5,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-07-02T23:15:00Z"
     },
     {
       "game_id": "824093",
       "away": "TB",
       "home": "KC",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 1,
       "state": "T2",
       "start_time": "2026-07-02T23:40:00Z"
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "823119",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6734",
-      "away_prob": "0.3266",
+      "home_prob": "0.6742",
+      "away_prob": "0.3258",
       "poly_home_price": "0.6700",
       "poly_away_price": "0.3400",
-      "home_ev": "0.0051",
-      "away_ev": "-0.0395",
+      "home_ev": "0.0062",
+      "away_ev": "-0.0416",
       "home_pitcher": "Bryce Miller",
       "away_pitcher": "Walbert Ure\u00f1a",
       "pitchers_confirmed": "yes",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-07-02",
-      "time": "20:00:06",
+      "time": "20:15:06",
       "game_id": "823935",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
-      "home_prob": "0.6837",
-      "away_prob": "0.3163",
+      "home_prob": "0.6851",
+      "away_prob": "0.3149",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "0.0519",
-      "away_ev": "-0.1215",
+      "home_ev": "0.0541",
+      "away_ev": "-0.1254",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Randy V\u00e1squez",
       "pitchers_confirmed": "yes",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 3,
     "total_bets_all_time": 112,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 41781,
+    "total_games_scanned_all": 41783,
     "record": {
       "wins": 46,
       "losses": 63,
