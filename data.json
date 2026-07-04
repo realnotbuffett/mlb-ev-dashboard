@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T00:30:10.743528+00:00",
+  "last_updated": "2026-07-04T00:45:10.324147+00:00",
   "scoreboard": [
     {
       "game_id": "824659",
@@ -34,7 +34,7 @@
       "home": "CIN",
       "away_score": 3,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-03T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "ATL",
       "away_score": 2,
       "home_score": 3,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-07-03T23:15:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "SF",
       "home": "COL",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B1",
+      "home_score": 5,
+      "state": "B2",
       "start_time": "2026-07-04T00:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-07-04T00:15:00Z"
     },
     {
@@ -1130,7 +1130,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "20:30:06",
+      "time": "20:45:06",
       "game_id": "824013",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "20:30:07",
+      "time": "20:45:07",
       "game_id": "824982",
       "home_team": "Athletics",
       "away_team": "Miami Marlins",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "20:30:08",
+      "time": "20:45:08",
       "game_id": "825062",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Milwaukee Brewers",
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "20:30:09",
+      "time": "20:45:09",
       "game_id": "823933",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1218,7 +1218,7 @@
     },
     {
       "date": "2026-07-03",
-      "time": "20:30:10",
+      "time": "20:45:10",
       "game_id": "823120",
       "home_team": "Seattle Mariners",
       "away_team": "Toronto Blue Jays",
@@ -1265,7 +1265,7 @@
     "total_bets_today": 4,
     "total_bets_all_time": 116,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 42307,
+    "total_games_scanned_all": 42312,
     "record": {
       "wins": 49,
       "losses": 63,
