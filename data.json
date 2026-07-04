@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T01:45:05.561349+00:00",
+  "last_updated": "2026-07-04T02:00:06.233042+00:00",
   "scoreboard": [
     {
       "game_id": "824659",
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 2,
       "home_score": 3,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-07-03T23:05:00Z"
     },
     {
@@ -50,9 +50,9 @@
       "game_id": "824904",
       "away": "NYM",
       "home": "ATL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 5,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-07-03T23:15:00Z"
     },
     {
@@ -60,7 +60,7 @@
       "away": "SF",
       "home": "COL",
       "away_score": 2,
-      "home_score": 7,
+      "home_score": 11,
       "state": "B5",
       "start_time": "2026-07-04T00:10:00Z"
     },
@@ -68,27 +68,27 @@
       "game_id": "824173",
       "away": "TB",
       "home": "HOU",
-      "away_score": 1,
-      "home_score": 0,
-      "state": "B6",
+      "away_score": 2,
+      "home_score": 1,
+      "state": "T7",
       "start_time": "2026-07-04T00:15:00Z"
     },
     {
       "game_id": "824013",
       "away": "BOS",
       "home": "LAA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-04T01:38:00Z"
     },
     {
       "game_id": "824982",
       "away": "MIA",
       "home": "OAK",
-      "away_score": 0,
+      "away_score": 6,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-04T01:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-04T01:45:00Z"
     },
     {
@@ -113,9 +113,9 @@
       "game_id": "823120",
       "away": "TOR",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-04T02:10:00Z"
     }
   ],
