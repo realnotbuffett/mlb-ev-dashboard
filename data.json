@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T01:30:05.673129+00:00",
+  "last_updated": "2026-07-05T01:45:05.490985+00:00",
   "scoreboard": [
     {
       "game_id": "822716",
@@ -42,8 +42,8 @@
       "away": "BAL",
       "home": "CIN",
       "away_score": 8,
-      "home_score": 4,
-      "state": "T7",
+      "home_score": 5,
+      "state": "B7",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -51,7 +51,7 @@
       "away": "TB",
       "home": "HOU",
       "away_score": 8,
-      "home_score": 5,
+      "home_score": 8,
       "state": "B7",
       "start_time": "2026-07-04T23:10:00Z"
     },
@@ -59,9 +59,9 @@
       "game_id": "824415",
       "away": "CWS",
       "home": "CLE",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -70,34 +70,34 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-05T00:08:00Z"
     },
     {
       "game_id": "824903",
       "away": "NYM",
       "home": "ATL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 6,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-07-05T00:08:00Z"
     },
     {
       "game_id": "824334",
       "away": "SF",
       "home": "COL",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 3,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-05T00:10:00Z"
     },
     {
       "game_id": "824092",
       "away": "PHI",
       "home": "KC",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-05T00:10:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "21:30:05",
+      "time": "21:45:05",
       "game_id": "823932",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 5,
     "total_bets_all_time": 121,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 42900,
+    "total_games_scanned_all": 42901,
     "record": {
       "wins": 52,
       "losses": 64,
