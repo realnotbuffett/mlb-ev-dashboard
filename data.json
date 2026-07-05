@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T00:30:11.300487+00:00",
+  "last_updated": "2026-07-05T00:45:09.992762+00:00",
   "scoreboard": [
     {
       "game_id": "822716",
@@ -41,9 +41,9 @@
       "game_id": "824499",
       "away": "BAL",
       "home": "CIN",
-      "away_score": 5,
+      "away_score": 8,
       "home_score": 4,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "HOU",
       "away_score": 7,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -60,17 +60,17 @@
       "away": "CWS",
       "home": "CLE",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T5",
+      "home_score": 1,
+      "state": "B5",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
       "game_id": "824658",
       "away": "STL",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-05T00:08:00Z"
     },
     {
@@ -78,17 +78,17 @@
       "away": "NYM",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "T3",
       "start_time": "2026-07-05T00:08:00Z"
     },
     {
       "game_id": "824334",
       "away": "SF",
       "home": "COL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-05T00:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-05T00:10:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-07-04",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-06-09",
-      "time": "18:00:19",
-      "game_id": "823374",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Los Angeles Dodgers",
-      "bet_side": "away",
-      "model_prob": "0.6374",
-      "polymarket_price": "0.4800",
-      "ev_pct": "32.80%",
-      "bet_size": "$10.00",
-      "order_id": "0x2970cc4f89f7d68228",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "win",
-      "profit": "10.83"
-    },
     {
       "date": "2026-06-09",
       "time": "18:00:23",
@@ -934,8 +917,8 @@
       "ev_pct": "5.00%",
       "bet_size": "$10.00",
       "order_id": "0x7691a873fe47e13e43",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.00",
       "result": "",
       "profit": ""
     },
@@ -985,6 +968,23 @@
       "ev_pct": "8.40%",
       "bet_size": "$10.00",
       "order_id": "0x10d698a586ceb02db2",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
+    },
+    {
+      "date": "2026-07-04",
+      "time": "20:45:07",
+      "game_id": "824983",
+      "home_team": "Athletics",
+      "away_team": "Miami Marlins",
+      "bet_side": "home",
+      "model_prob": "0.5281",
+      "polymarket_price": "0.4500",
+      "ev_pct": "17.35%",
+      "bet_size": "$10.00",
+      "order_id": "0x87e787fbd84ed377b1",
       "order_status": "pending",
       "filled_size": "",
       "result": "",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:30:08",
+      "time": "20:45:05",
       "game_id": "824012",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
@@ -1249,28 +1249,6 @@
       "home_pitcher": "Sam Aldegheri",
       "away_pitcher": "Sonny Gray",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
-    },
-    {
-      "date": "2026-07-04",
-      "time": "20:30:09",
-      "game_id": "824983",
-      "home_team": "Athletics",
-      "away_team": "Miami Marlins",
-      "home_prob": "0.4433",
-      "away_prob": "0.5567",
-      "poly_home_price": "0.4500",
-      "poly_away_price": "0.5600",
-      "home_ev": "-0.0148",
-      "away_ev": "-0.0059",
-      "home_pitcher": "Aaron Civale",
-      "away_pitcher": "Sandy Alcantara",
-      "pitchers_confirmed": "yes",
       "bet_placed": "no",
       "bet_side": "",
       "home_score": "",
@@ -1280,7 +1258,29 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:30:10",
+      "time": "20:45:07",
+      "game_id": "824983",
+      "home_team": "Athletics",
+      "away_team": "Miami Marlins",
+      "home_prob": "0.5281",
+      "away_prob": "0.4719",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "0.1735",
+      "away_ev": "-0.1573",
+      "home_pitcher": "Aaron Civale",
+      "away_pitcher": "Sandy Alcantara",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "yes",
+      "bet_side": "home",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
+    },
+    {
+      "date": "2026-07-04",
+      "time": "20:45:08",
       "game_id": "825063",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Milwaukee Brewers",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:30:11",
+      "time": "20:45:09",
       "game_id": "823932",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1324,10 +1324,10 @@
     }
   ],
   "stats": {
-    "total_bets_today": 4,
-    "total_bets_all_time": 120,
+    "total_bets_today": 5,
+    "total_bets_all_time": 121,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 42888,
+    "total_games_scanned_all": 42892,
     "record": {
       "wins": 52,
       "losses": 64,
