@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T22:45:09.987915+00:00",
+  "last_updated": "2026-07-05T23:00:11.308762+00:00",
   "scoreboard": [
     {
       "game_id": "824902",
@@ -88,7 +88,7 @@
       "home": "COL",
       "away_score": 6,
       "home_score": 7,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-07-05T20:00:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ARI",
       "away_score": 3,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-05T20:00:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "OAK",
       "away_score": 8,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-07-05T20:30:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 3,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-07-05T21:00:00Z"
     },
     {
       "game_id": "823931",
       "away": "SD",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-05T23:20:00Z"
     },
     {
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-07-05",
-      "time": "18:45:09",
+      "time": "19:00:11",
       "game_id": "824010",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.4074",
-      "away_prob": "0.5926",
+      "home_prob": "0.4054",
+      "away_prob": "0.5946",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0300",
-      "away_ev": "0.0044",
+      "home_ev": "-0.0347",
+      "away_ev": "0.0078",
       "home_pitcher": "Ryan Johnson",
       "away_pitcher": "Ranger Suarez",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 121,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 43265,
+    "total_games_scanned_all": 43266,
     "record": {
       "wins": 54,
       "losses": 67,
