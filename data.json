@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T00:45:09.992762+00:00",
+  "last_updated": "2026-07-05T01:00:08.450967+00:00",
   "scoreboard": [
     {
       "game_id": "822716",
@@ -43,7 +43,7 @@
       "home": "CIN",
       "away_score": 8,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "TB",
       "home": "HOU",
       "away_score": 7,
-      "home_score": 4,
-      "state": "B5",
+      "home_score": 5,
+      "state": "T6",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "NYM",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T3",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-07-05T00:08:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-07-05T00:10:00Z"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:45:05",
+      "time": "21:00:05",
       "game_id": "824012",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:45:07",
+      "time": "21:00:06",
       "game_id": "824983",
       "home_team": "Athletics",
       "away_team": "Miami Marlins",
@@ -1271,8 +1271,8 @@
       "home_pitcher": "Aaron Civale",
       "away_pitcher": "Sandy Alcantara",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:45:08",
+      "time": "21:00:07",
       "game_id": "825063",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Milwaukee Brewers",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:45:09",
+      "time": "21:00:08",
       "game_id": "823932",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 5,
     "total_bets_all_time": 121,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 42892,
+    "total_games_scanned_all": 42896,
     "record": {
       "wins": 52,
       "losses": 64,
