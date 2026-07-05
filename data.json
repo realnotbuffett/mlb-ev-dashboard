@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T00:15:13.477443+00:00",
+  "last_updated": "2026-07-05T00:30:11.300487+00:00",
   "scoreboard": [
     {
       "game_id": "822716",
@@ -41,18 +41,18 @@
       "game_id": "824499",
       "away": "BAL",
       "home": "CIN",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 4,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
       "game_id": "824171",
       "away": "TB",
       "home": "HOU",
-      "away_score": 6,
-      "home_score": 2,
-      "state": "T4",
+      "away_score": 7,
+      "home_score": 4,
+      "state": "B4",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 0,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-07-04T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-05T00:08:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-05T00:10:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-07-04",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-06-06",
-      "time": "16:45:06",
-      "game_id": "822891",
-      "home_team": "Texas Rangers",
-      "away_team": "Cleveland Guardians",
-      "bet_side": "home",
-      "model_prob": "0.5533",
-      "polymarket_price": "0.5300",
-      "ev_pct": "4.40%",
-      "bet_size": "$10.00",
-      "order_id": "0x36225d7fa9f7c8b298",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-06-09",
       "time": "18:00:19",
@@ -989,6 +972,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-07-04",
+      "time": "20:30:08",
+      "game_id": "824012",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Boston Red Sox",
+      "bet_side": "home",
+      "model_prob": "0.4119",
+      "polymarket_price": "0.3800",
+      "ev_pct": "8.40%",
+      "bet_size": "$10.00",
+      "order_id": "0x10d698a586ceb02db2",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:15:06",
+      "time": "20:30:05",
       "game_id": "824658",
       "home_team": "Chicago Cubs",
       "away_team": "St. Louis Cardinals",
@@ -1161,8 +1161,8 @@
       "home_pitcher": "Shota Imanaga",
       "away_pitcher": "Kyle Leahy",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:15:07",
+      "time": "20:30:06",
       "game_id": "824334",
       "home_team": "Colorado Rockies",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.4633",
-      "away_prob": "0.5367",
+      "home_prob": "0.4619",
+      "away_prob": "0.5381",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "0.0072",
-      "away_ev": "-0.0242",
+      "home_ev": "0.0042",
+      "away_ev": "-0.0217",
       "home_pitcher": "Sean Sullivan",
       "away_pitcher": "Robbie Ray",
       "pitchers_confirmed": "yes",
@@ -1236,21 +1236,21 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:15:08",
+      "time": "20:30:08",
       "game_id": "824012",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.3798",
-      "away_prob": "0.6202",
+      "home_prob": "0.4119",
+      "away_prob": "0.5881",
       "poly_home_price": "0.3800",
       "poly_away_price": "0.6300",
-      "home_ev": "-0.0005",
-      "away_ev": "-0.0156",
+      "home_ev": "0.0840",
+      "away_ev": "-0.0665",
       "home_pitcher": "Sam Aldegheri",
       "away_pitcher": "Sonny Gray",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:15:09",
+      "time": "20:30:09",
       "game_id": "824983",
       "home_team": "Athletics",
       "away_team": "Miami Marlins",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:15:11",
+      "time": "20:30:10",
       "game_id": "825063",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Milwaukee Brewers",
@@ -1293,8 +1293,8 @@
       "home_pitcher": "Merrill Kelly",
       "away_pitcher": "Brandon Woodruff",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-04",
-      "time": "20:15:13",
+      "time": "20:30:11",
       "game_id": "823932",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
@@ -1315,8 +1315,8 @@
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Wandy Peralta",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1324,10 +1324,10 @@
     }
   ],
   "stats": {
-    "total_bets_today": 3,
-    "total_bets_all_time": 119,
+    "total_bets_today": 4,
+    "total_bets_all_time": 120,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 42882,
+    "total_games_scanned_all": 42888,
     "record": {
       "wins": 52,
       "losses": 64,
