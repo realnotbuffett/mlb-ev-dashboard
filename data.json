@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T20:30:11.304375+00:00",
+  "last_updated": "2026-07-06T20:45:11.463884+00:00",
   "scoreboard": [
     {
       "game_id": "824089",
@@ -7,7 +7,7 @@
       "home": "KC",
       "away_score": 1,
       "home_score": 11,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-07-06T18:10:00Z"
     },
     {
@@ -953,16 +953,16 @@
     },
     {
       "date": "2026-07-06",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "822958",
       "home_team": "Tampa Bay Rays",
       "away_team": "New York Yankees",
-      "home_prob": "0.4695",
-      "away_prob": "0.5305",
-      "poly_home_price": "0.4660",
-      "poly_away_price": "0.5350",
-      "home_ev": "0.0076",
-      "away_ev": "-0.0085",
+      "home_prob": "0.4670",
+      "away_prob": "0.5330",
+      "poly_home_price": "0.4620",
+      "poly_away_price": "0.5390",
+      "home_ev": "0.0108",
+      "away_ev": "-0.0111",
       "home_pitcher": "Griffin Jax",
       "away_pitcher": "Cam Schlittler",
       "pitchers_confirmed": "yes",
@@ -975,7 +975,7 @@
     },
     {
       "date": "2026-07-06",
-      "time": "16:30:06",
+      "time": "16:45:06",
       "game_id": "822712",
       "home_team": "Washington Nationals",
       "away_team": "Houston Astros",
@@ -997,7 +997,7 @@
     },
     {
       "date": "2026-07-06",
-      "time": "16:30:07",
+      "time": "16:45:07",
       "game_id": "824900",
       "home_team": "Atlanta Braves",
       "away_team": "New York Mets",
@@ -1019,7 +1019,7 @@
     },
     {
       "date": "2026-07-06",
-      "time": "16:30:08",
+      "time": "16:45:08",
       "game_id": "823036",
       "home_team": "St. Louis Cardinals",
       "away_team": "Milwaukee Brewers",
@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2026-07-06",
-      "time": "16:30:09",
+      "time": "16:45:09",
       "game_id": "823282",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1063,7 +1063,7 @@
     },
     {
       "date": "2026-07-06",
-      "time": "16:30:10",
+      "time": "16:45:10",
       "game_id": "823205",
       "home_team": "San Francisco Giants",
       "away_team": "Toronto Blue Jays",
@@ -1085,16 +1085,16 @@
     },
     {
       "date": "2026-07-06",
-      "time": "16:30:11",
+      "time": "16:45:11",
       "game_id": "823930",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.6786",
-      "away_prob": "0.3214",
+      "home_prob": "0.6749",
+      "away_prob": "0.3251",
       "poly_home_price": "0.6900",
       "poly_away_price": "0.3200",
-      "home_ev": "-0.0166",
-      "away_ev": "0.0045",
+      "home_ev": "-0.0219",
+      "away_ev": "0.0160",
       "home_pitcher": "Eric Lauer",
       "away_pitcher": "Kyle Freeland",
       "pitchers_confirmed": "yes",
@@ -1110,7 +1110,7 @@
     "total_bets_today": 2,
     "total_bets_all_time": 123,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 43512,
+    "total_games_scanned_all": 43519,
     "record": {
       "wins": 54,
       "losses": 67,
