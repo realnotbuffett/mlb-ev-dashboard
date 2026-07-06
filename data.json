@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T23:15:09.122281+00:00",
+  "last_updated": "2026-07-06T23:30:07.933587+00:00",
   "scoreboard": [
     {
       "game_id": "824089",
@@ -16,16 +16,16 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-06T22:40:00Z"
     },
     {
       "game_id": "822712",
       "away": "HOU",
       "home": "WSH",
-      "away_score": 4,
+      "away_score": 6,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-06T22:45:00Z"
     },
     {
@@ -34,16 +34,16 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-06T23:15:00Z"
     },
     {
       "game_id": "823036",
       "away": "MIL",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-06T23:45:00Z"
     },
     {
@@ -1041,16 +1041,16 @@
     },
     {
       "date": "2026-07-06",
-      "time": "19:15:07",
+      "time": "19:30:05",
       "game_id": "823282",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
       "home_prob": "0.5392",
       "away_prob": "0.4608",
-      "poly_home_price": "0.5430",
-      "poly_away_price": "0.4580",
-      "home_ev": "-0.0069",
-      "away_ev": "0.0060",
+      "poly_home_price": "0.5420",
+      "poly_away_price": "0.4590",
+      "home_ev": "-0.0051",
+      "away_ev": "0.0038",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Brandon Pfaadt",
       "pitchers_confirmed": "yes",
@@ -1063,16 +1063,16 @@
     },
     {
       "date": "2026-07-06",
-      "time": "19:15:08",
+      "time": "19:30:06",
       "game_id": "823205",
       "home_team": "San Francisco Giants",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5013",
-      "away_prob": "0.4987",
+      "home_prob": "0.5026",
+      "away_prob": "0.4974",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "0.0026",
-      "away_ev": "-0.0221",
+      "home_ev": "0.0051",
+      "away_ev": "-0.0246",
       "home_pitcher": "Landen Roupp",
       "away_pitcher": "Kevin Gausman",
       "pitchers_confirmed": "yes",
@@ -1085,7 +1085,7 @@
     },
     {
       "date": "2026-07-06",
-      "time": "19:15:08",
+      "time": "19:30:07",
       "game_id": "823930",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1110,7 +1110,7 @@
     "total_bets_today": 2,
     "total_bets_all_time": 123,
     "total_games_scanned_today": 8,
-    "total_games_scanned_all": 43579,
+    "total_games_scanned_all": 43582,
     "record": {
       "wins": 54,
       "losses": 67,
