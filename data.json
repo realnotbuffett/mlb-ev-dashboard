@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T00:30:06.578108+00:00",
+  "last_updated": "2026-07-06T00:45:07.383764+00:00",
   "scoreboard": [
     {
       "game_id": "824902",
@@ -124,7 +124,7 @@
       "home": "LAD",
       "away_score": 1,
       "home_score": 0,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-07-05T23:20:00Z"
     },
     {
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-05",
-      "time": "20:30:06",
+      "time": "20:45:07",
       "game_id": "824010",
       "home_team": "Los Angeles Angels",
       "away_team": "Boston Red Sox",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 121,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 43272,
+    "total_games_scanned_all": 43273,
     "record": {
       "wins": 54,
       "losses": 67,
