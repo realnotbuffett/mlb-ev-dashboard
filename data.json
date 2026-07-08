@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T02:45:04.780771+00:00",
+  "last_updated": "2026-07-08T03:00:06.009604+00:00",
   "scoreboard": [
     {
       "game_id": "823062",
@@ -115,7 +115,7 @@
       "home": "TEX",
       "away_score": 3,
       "home_score": 8,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-08T00:05:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SD",
       "away_score": 1,
       "home_score": 4,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-08T01:40:00Z"
     },
     {
@@ -132,8 +132,8 @@
       "away": "TOR",
       "home": "SF",
       "away_score": 8,
-      "home_score": 1,
-      "state": "B3",
+      "home_score": 2,
+      "state": "T5",
       "start_time": "2026-07-08T01:45:00Z"
     },
     {
@@ -142,7 +142,7 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 1,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-07-08T02:10:00Z"
     }
   ],
