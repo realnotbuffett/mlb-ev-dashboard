@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T22:45:12.729859+00:00",
+  "last_updated": "2026-07-08T23:00:11.089385+00:00",
   "scoreboard": [
     {
       "game_id": "823202",
@@ -16,7 +16,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-07-08T22:35:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "OAK",
       "home": "DET",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "B1",
       "start_time": "2026-07-08T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-08T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-08T22:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-08T22:40:00Z"
     },
     {
@@ -61,16 +61,16 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-08T22:45:00Z"
     },
     {
       "game_id": "823605",
       "away": "KC",
       "home": "NYM",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-08T23:10:00Z"
     },
     {
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-08",
-      "time": "18:45:07",
+      "time": "19:00:06",
       "game_id": "823684",
       "home_team": "Minnesota Twins",
       "away_team": "Cleveland Guardians",
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-07-08",
-      "time": "18:45:08",
+      "time": "19:00:07",
       "game_id": "824578",
       "home_team": "Chicago White Sox",
       "away_team": "Boston Red Sox",
       "home_prob": "0.5204",
       "away_prob": "0.4796",
-      "poly_home_price": "0.5100",
-      "poly_away_price": "0.5000",
-      "home_ev": "0.0204",
-      "away_ev": "-0.0408",
+      "poly_home_price": "0.5000",
+      "poly_away_price": "0.5100",
+      "home_ev": "0.0408",
+      "away_ev": "-0.0596",
       "home_pitcher": "Davis Martin",
       "away_pitcher": "Jake Bennett",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-08",
-      "time": "18:45:09",
+      "time": "19:00:08",
       "game_id": "823032",
       "home_team": "St. Louis Cardinals",
       "away_team": "Milwaukee Brewers",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-08",
-      "time": "18:45:10",
+      "time": "19:00:09",
       "game_id": "822880",
       "home_team": "Texas Rangers",
       "away_team": "Los Angeles Angels",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-08",
-      "time": "18:45:11",
+      "time": "19:00:10",
       "game_id": "823928",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-08",
-      "time": "18:45:12",
+      "time": "19:00:10",
       "game_id": "823279",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 8,
     "total_bets_all_time": 133,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 44693,
+    "total_games_scanned_all": 44699,
     "record": {
       "wins": 57,
       "losses": 68,
