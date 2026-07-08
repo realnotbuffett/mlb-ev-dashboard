@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T01:30:07.031513+00:00",
+  "last_updated": "2026-07-08T01:45:07.205924+00:00",
   "scoreboard": [
     {
       "game_id": "823062",
@@ -14,7 +14,7 @@
       "game_id": "823035",
       "away": "MIL",
       "home": "STL",
-      "away_score": 4,
+      "away_score": 8,
       "home_score": 2,
       "state": "T7",
       "start_time": "2026-07-07T23:45:00Z"
@@ -52,7 +52,7 @@
       "home": "MIA",
       "away_score": 5,
       "home_score": 5,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-07-07T22:40:00Z"
     },
     {
@@ -69,17 +69,17 @@
       "away": "HOU",
       "home": "WSH",
       "away_score": 6,
-      "home_score": 2,
-      "state": "T9",
+      "home_score": 3,
+      "state": "B9",
       "start_time": "2026-07-07T22:45:00Z"
     },
     {
       "game_id": "823607",
       "away": "KC",
       "home": "NYM",
-      "away_score": 9,
+      "away_score": 12,
       "home_score": 9,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-07-07T23:10:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "CLE",
       "home": "MIN",
       "away_score": 1,
-      "home_score": 2,
-      "state": "T7",
+      "home_score": 3,
+      "state": "T8",
       "start_time": "2026-07-07T23:40:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "BOS",
       "home": "CWS",
       "away_score": 4,
-      "home_score": 0,
-      "state": "T7",
+      "home_score": 1,
+      "state": "B7",
       "start_time": "2026-07-07T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "TEX",
       "away_score": 2,
       "home_score": 2,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-08T00:05:00Z"
     },
     {
@@ -140,9 +140,9 @@
       "game_id": "823929",
       "away": "COL",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-08T02:10:00Z"
     }
   ],
