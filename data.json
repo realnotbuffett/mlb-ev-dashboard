@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T23:45:10.506718+00:00",
+  "last_updated": "2026-07-08T00:00:07.537103+00:00",
   "scoreboard": [
     {
       "game_id": "823062",
@@ -16,7 +16,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-07T23:45:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-07-07T22:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 2,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-07T22:40:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "PIT",
       "away_score": 2,
       "home_score": 7,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-07T22:40:00Z"
     },
     {
       "game_id": "823847",
       "away": "SEA",
       "home": "MIA",
-      "away_score": 0,
-      "home_score": 3,
-      "state": "T4",
+      "away_score": 2,
+      "home_score": 4,
+      "state": "T5",
       "start_time": "2026-07-07T22:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "NYY",
       "home": "TB",
       "away_score": 3,
-      "home_score": 2,
-      "state": "T4",
+      "home_score": 6,
+      "state": "B4",
       "start_time": "2026-07-07T22:40:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "HOU",
       "home": "WSH",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-07-07T22:45:00Z"
     },
     {
@@ -79,25 +79,25 @@
       "home": "NYM",
       "away_score": 2,
       "home_score": 5,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-07-07T23:10:00Z"
     },
     {
       "game_id": "824495",
       "away": "PHI",
       "home": "CIN",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-07-07T23:10:00Z"
     },
     {
       "game_id": "823687",
       "away": "CLE",
       "home": "MIN",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-07T23:40:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-07T23:40:00Z"
     },
     {
       "game_id": "822881",
       "away": "LAA",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-08T00:05:00Z"
     },
     {
@@ -1179,7 +1179,7 @@
     },
     {
       "date": "2026-07-07",
-      "time": "19:45:07",
+      "time": "20:00:05",
       "game_id": "823280",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1201,21 +1201,21 @@
     },
     {
       "date": "2026-07-07",
-      "time": "19:45:10",
+      "time": "20:00:07",
       "game_id": "823929",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.7228",
-      "away_prob": "0.2772",
-      "poly_home_price": "0.7380",
-      "poly_away_price": "0.2630",
-      "home_ev": "-0.0206",
-      "away_ev": "0.0540",
+      "home_prob": "0.7335",
+      "away_prob": "0.2665",
+      "poly_home_price": "0.7390",
+      "poly_away_price": "0.2620",
+      "home_ev": "-0.0075",
+      "away_ev": "0.0173",
       "home_pitcher": "Justin Wrobleski",
       "away_pitcher": "Michael Lorenzen",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1267,16 +1267,16 @@
     },
     {
       "date": "2026-07-07",
-      "time": "19:45:08",
+      "time": "20:00:06",
       "game_id": "823203",
       "home_team": "San Francisco Giants",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4821",
-      "away_prob": "0.5179",
-      "poly_home_price": "0.4840",
+      "home_prob": "0.4809",
+      "away_prob": "0.5191",
+      "poly_home_price": "0.4830",
       "poly_away_price": "0.5190",
-      "home_ev": "-0.0038",
-      "away_ev": "-0.0022",
+      "home_ev": "-0.0043",
+      "away_ev": "0.0002",
       "home_pitcher": "Trevor McDonald",
       "away_pitcher": "Spencer Miles",
       "pitchers_confirmed": "yes",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 2,
     "total_bets_all_time": 125,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 44135,
+    "total_games_scanned_all": 44138,
     "record": {
       "wins": 55,
       "losses": 68,
