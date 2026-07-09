@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-09T19:15:11.744172+00:00",
+  "last_updated": "2026-07-09T19:30:11.583275+00:00",
   "scoreboard": [
     {
       "game_id": "823359",
       "away": "ATL",
       "home": "PIT",
       "away_score": 6,
-      "home_score": 4,
-      "state": "T6",
+      "home_score": 5,
+      "state": "B6",
       "start_time": "2026-07-09T16:35:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "NYM",
       "away_score": 3,
       "home_score": 7,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-07-09T17:10:00Z"
     },
     {
       "game_id": "822954",
       "away": "NYY",
       "home": "TB",
-      "away_score": 10,
-      "home_score": 3,
-      "state": "B6",
+      "away_score": 11,
+      "home_score": 4,
+      "state": "T7",
       "start_time": "2026-07-09T17:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 1,
-      "state": "B6",
+      "state": "T8",
       "start_time": "2026-07-09T17:35:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 1,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-07-09T17:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-09T18:10:00Z"
     },
     {
@@ -1086,16 +1086,16 @@
     },
     {
       "date": "2026-07-09",
-      "time": "15:15:06",
+      "time": "15:30:05",
       "game_id": "824251",
       "home_team": "Detroit Tigers",
       "away_team": "Athletics",
       "home_prob": "0.5330",
       "away_prob": "0.4670",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "-0.0309",
-      "away_ev": "0.0152",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0130",
+      "away_ev": "-0.0064",
       "home_pitcher": "Framber Valdez",
       "away_pitcher": "Jack Perkins",
       "pitchers_confirmed": "yes",
@@ -1108,7 +1108,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "15:15:06",
+      "time": "15:30:06",
       "game_id": "823846",
       "home_team": "Miami Marlins",
       "away_team": "Seattle Mariners",
@@ -1130,16 +1130,16 @@
     },
     {
       "date": "2026-07-09",
-      "time": "15:15:07",
+      "time": "15:30:07",
       "game_id": "824494",
       "home_team": "Cincinnati Reds",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.4054",
-      "away_prob": "0.5946",
+      "home_prob": "0.4044",
+      "away_prob": "0.5956",
       "poly_home_price": "0.4000",
       "poly_away_price": "0.6100",
-      "home_ev": "0.0135",
-      "away_ev": "-0.0253",
+      "home_ev": "0.0110",
+      "away_ev": "-0.0236",
       "home_pitcher": "Brady Singer",
       "away_pitcher": "Jes\u00fas Luzardo",
       "pitchers_confirmed": "yes",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "15:15:08",
+      "time": "15:30:08",
       "game_id": "823034",
       "home_team": "St. Louis Cardinals",
       "away_team": "Milwaukee Brewers",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "15:15:09",
+      "time": "15:30:09",
       "game_id": "822877",
       "home_team": "Texas Rangers",
       "away_team": "Los Angeles Angels",
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "15:15:10",
+      "time": "15:30:10",
       "game_id": "823277",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "15:15:11",
+      "time": "15:30:11",
       "game_id": "823201",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
@@ -1265,7 +1265,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 133,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 44976,
+    "total_games_scanned_all": 44983,
     "record": {
       "wins": 59,
       "losses": 74,
