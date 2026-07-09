@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T20:15:11.660891+00:00",
+  "last_updated": "2026-07-09T20:30:11.677485+00:00",
   "scoreboard": [
     {
       "game_id": "823359",
@@ -7,7 +7,7 @@
       "home": "PIT",
       "away_score": 10,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-09T16:35:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 1,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-07-09T18:10:00Z"
     },
     {
@@ -1086,7 +1086,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "824251",
       "home_team": "Detroit Tigers",
       "away_team": "Athletics",
@@ -1108,7 +1108,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "16:15:06",
+      "time": "16:30:06",
       "game_id": "823846",
       "home_team": "Miami Marlins",
       "away_team": "Seattle Mariners",
@@ -1130,7 +1130,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "16:15:07",
+      "time": "16:30:07",
       "game_id": "824494",
       "home_team": "Cincinnati Reds",
       "away_team": "Philadelphia Phillies",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "16:15:08",
+      "time": "16:30:08",
       "game_id": "823034",
       "home_team": "St. Louis Cardinals",
       "away_team": "Milwaukee Brewers",
@@ -1174,16 +1174,16 @@
     },
     {
       "date": "2026-07-09",
-      "time": "16:15:09",
+      "time": "16:30:09",
       "game_id": "822877",
       "home_team": "Texas Rangers",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.5542",
-      "away_prob": "0.4458",
+      "home_prob": "0.5614",
+      "away_prob": "0.4386",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0092",
+      "home_ev": "0.0025",
+      "away_ev": "-0.0253",
       "home_pitcher": "Nathan Eovaldi",
       "away_pitcher": "Reid Detmers",
       "pitchers_confirmed": "yes",
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "16:15:10",
+      "time": "16:30:10",
       "game_id": "823277",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "16:15:11",
+      "time": "16:30:11",
       "game_id": "823201",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
@@ -1265,7 +1265,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 133,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 45004,
+    "total_games_scanned_all": 45011,
     "record": {
       "wins": 59,
       "losses": 74,
