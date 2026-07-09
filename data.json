@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T01:00:07.578254+00:00",
+  "last_updated": "2026-07-09T01:15:07.634318+00:00",
   "scoreboard": [
     {
       "game_id": "823202",
@@ -15,8 +15,8 @@
       "away": "CHC",
       "home": "BAL",
       "away_score": 9,
-      "home_score": 5,
-      "state": "B7",
+      "home_score": 7,
+      "state": "B8",
       "start_time": "2026-07-08T22:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 6,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-07-08T22:40:00Z"
     },
     {
@@ -59,9 +59,9 @@
       "game_id": "822710",
       "away": "HOU",
       "home": "WSH",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 8,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-07-08T22:45:00Z"
     },
     {
@@ -70,16 +70,16 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 1,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-08T23:10:00Z"
     },
     {
       "game_id": "824496",
       "away": "PHI",
       "home": "CIN",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 7,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-07-08T23:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIN",
       "away_score": 3,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-08T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "CWS",
       "away_score": 5,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-08T23:40:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-08T23:45:00Z"
     },
     {
       "game_id": "822880",
       "away": "LAA",
       "home": "TEX",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-09T00:05:00Z"
     },
     {
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-07-08",
-      "time": "21:00:06",
+      "time": "21:15:06",
       "game_id": "823928",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.7064",
-      "away_prob": "0.2936",
+      "home_prob": "0.7049",
+      "away_prob": "0.2951",
       "poly_home_price": "0.7200",
       "poly_away_price": "0.2900",
-      "home_ev": "-0.0189",
-      "away_ev": "0.0125",
+      "home_ev": "-0.0210",
+      "away_ev": "0.0176",
       "home_pitcher": "Roki Sasaki",
       "away_pitcher": "Gabriel Hughes",
       "pitchers_confirmed": "yes",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-08",
-      "time": "21:00:07",
+      "time": "21:15:07",
       "game_id": "823279",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 8,
     "total_bets_all_time": 133,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 44719,
+    "total_games_scanned_all": 44721,
     "record": {
       "wins": 57,
       "losses": 68,
