@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T21:30:11.367450+00:00",
+  "last_updated": "2026-07-09T21:45:11.732194+00:00",
   "scoreboard": [
     {
       "game_id": "823359",
@@ -1086,7 +1086,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "17:30:05",
+      "time": "17:45:06",
       "game_id": "824251",
       "home_team": "Detroit Tigers",
       "away_team": "Athletics",
@@ -1108,7 +1108,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "17:30:06",
+      "time": "17:45:07",
       "game_id": "823846",
       "home_team": "Miami Marlins",
       "away_team": "Seattle Mariners",
@@ -1130,7 +1130,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "17:30:07",
+      "time": "17:45:07",
       "game_id": "824494",
       "home_team": "Cincinnati Reds",
       "away_team": "Philadelphia Phillies",
@@ -1152,7 +1152,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "17:30:08",
+      "time": "17:45:08",
       "game_id": "823034",
       "home_team": "St. Louis Cardinals",
       "away_team": "Milwaukee Brewers",
@@ -1174,7 +1174,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "17:30:09",
+      "time": "17:45:09",
       "game_id": "822877",
       "home_team": "Texas Rangers",
       "away_team": "Los Angeles Angels",
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "17:30:10",
+      "time": "17:45:10",
       "game_id": "823277",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1240,16 +1240,16 @@
     },
     {
       "date": "2026-07-09",
-      "time": "17:30:11",
+      "time": "17:45:11",
       "game_id": "823201",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.5367",
-      "away_prob": "0.4633",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0242",
-      "away_ev": "0.0072",
+      "home_ev": "-0.0263",
+      "away_ev": "0.0097",
       "home_pitcher": "Carson Whisenhunt",
       "away_pitcher": "Ryan Feltner",
       "pitchers_confirmed": "yes",
@@ -1265,7 +1265,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 133,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 45039,
+    "total_games_scanned_all": 45046,
     "record": {
       "wins": 59,
       "losses": 74,
