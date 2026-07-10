@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T01:30:05.068703+00:00",
+  "last_updated": "2026-07-10T01:45:05.065628+00:00",
   "scoreboard": [
     {
       "game_id": "823359",
@@ -86,9 +86,9 @@
       "game_id": "823034",
       "away": "MIL",
       "home": "STL",
-      "away_score": 6,
-      "home_score": 1,
-      "state": "B6",
+      "away_score": 7,
+      "home_score": 4,
+      "state": "T7",
       "start_time": "2026-07-09T23:45:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "TEX",
       "away_score": 1,
       "home_score": 5,
-      "state": "B4",
+      "state": "T6",
       "start_time": "2026-07-10T00:05:00Z"
     },
     {
