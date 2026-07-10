@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T01:00:06.537271+00:00",
+  "last_updated": "2026-07-10T01:15:06.933149+00:00",
   "scoreboard": [
     {
       "game_id": "823359",
@@ -61,16 +61,16 @@
       "home": "DET",
       "away_score": 1,
       "home_score": 4,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-07-09T22:40:00Z"
     },
     {
       "game_id": "823846",
       "away": "SEA",
       "home": "MIA",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 8,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-07-09T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "CIN",
       "away_score": 1,
       "home_score": 0,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-07-09T23:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "STL",
       "away_score": 6,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-09T23:45:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "LAA",
       "home": "TEX",
       "away_score": 1,
-      "home_score": 2,
-      "state": "T3",
+      "home_score": 4,
+      "state": "B3",
       "start_time": "2026-07-10T00:05:00Z"
     },
     {
@@ -1196,7 +1196,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "21:00:05",
+      "time": "21:15:05",
       "game_id": "823277",
       "home_team": "San Diego Padres",
       "away_team": "Arizona Diamondbacks",
@@ -1240,7 +1240,7 @@
     },
     {
       "date": "2026-07-09",
-      "time": "21:00:06",
+      "time": "21:15:06",
       "game_id": "823201",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
@@ -1265,7 +1265,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 133,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 45091,
+    "total_games_scanned_all": 45093,
     "record": {
       "wins": 59,
       "losses": 74,
