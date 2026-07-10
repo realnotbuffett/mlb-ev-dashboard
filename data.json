@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-10T23:30:12.708854+00:00",
+  "last_updated": "2026-07-10T23:45:11.432974+00:00",
   "scoreboard": [
     {
       "game_id": "824252",
       "away": "PHI",
       "home": "DET",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 2,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-10T22:40:00Z"
     },
     {
@@ -33,8 +33,8 @@
       "away": "KC",
       "home": "BAL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 2,
+      "state": "T3",
       "start_time": "2026-07-10T23:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-07-10T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-10T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-07-10T23:10:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "822878",
       "away": "HOU",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-11T00:05:00Z"
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-07-10",
-      "time": "19:30:06",
+      "time": "19:45:05",
       "game_id": "823357",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Milwaukee Brewers",
@@ -1038,16 +1038,16 @@
     },
     {
       "date": "2026-07-10",
-      "time": "19:30:07",
+      "time": "19:45:06",
       "game_id": "822709",
       "home_team": "Washington Nationals",
       "away_team": "New York Yankees",
-      "home_prob": "0.4148",
-      "away_prob": "0.5852",
+      "home_prob": "0.4158",
+      "away_prob": "0.5842",
       "poly_home_price": "0.4100",
       "poly_away_price": "0.6000",
-      "home_ev": "0.0117",
-      "away_ev": "-0.0247",
+      "home_ev": "0.0142",
+      "away_ev": "-0.0264",
       "home_pitcher": "Carson Palmquist",
       "away_pitcher": "Ryan Weathers",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-10",
-      "time": "19:30:08",
+      "time": "19:45:07",
       "game_id": "823685",
       "home_team": "Minnesota Twins",
       "away_team": "Los Angeles Angels",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-10",
-      "time": "19:30:09",
+      "time": "19:45:08",
       "game_id": "823033",
       "home_team": "St. Louis Cardinals",
       "away_team": "Atlanta Braves",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-10",
-      "time": "19:30:10",
+      "time": "19:45:09",
       "game_id": "823278",
       "home_team": "San Diego Padres",
       "away_team": "Toronto Blue Jays",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-07-10",
-      "time": "19:30:11",
+      "time": "19:45:10",
       "game_id": "823927",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.6559",
-      "away_prob": "0.3441",
+      "home_prob": "0.6575",
+      "away_prob": "0.3425",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0168",
+      "home_ev": "-0.0038",
+      "away_ev": "-0.0213",
       "home_pitcher": "Kyle Hurt",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-10",
-      "time": "19:30:12",
+      "time": "19:45:11",
       "game_id": "823200",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 133,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 45714,
+    "total_games_scanned_all": 45721,
     "record": {
       "wins": 59,
       "losses": 74,
