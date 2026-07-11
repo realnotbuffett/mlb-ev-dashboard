@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T01:45:06.728963+00:00",
+  "last_updated": "2026-07-11T02:00:05.285249+00:00",
   "scoreboard": [
     {
       "game_id": "824252",
@@ -16,7 +16,7 @@
       "home": "WSH",
       "away_score": 2,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-10T22:45:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-10T23:10:00Z"
     },
     {
@@ -59,9 +59,9 @@
       "game_id": "823604",
       "away": "BOS",
       "home": "NYM",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-07-10T23:15:00Z"
     },
     {
@@ -69,17 +69,17 @@
       "away": "OAK",
       "home": "CWS",
       "away_score": 1,
-      "home_score": 8,
-      "state": "B7",
+      "home_score": 12,
+      "state": "T8",
       "start_time": "2026-07-10T23:40:00Z"
     },
     {
       "game_id": "822878",
       "away": "HOU",
       "home": "TEX",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 3,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-07-11T00:05:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "LAA",
       "home": "MIN",
       "away_score": 4,
-      "home_score": 1,
-      "state": "T6",
+      "home_score": 3,
+      "state": "B6",
       "start_time": "2026-07-11T00:10:00Z"
     },
     {
@@ -105,26 +105,26 @@
       "away": "TOR",
       "home": "SD",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "B1",
       "start_time": "2026-07-11T01:40:00Z"
     },
     {
       "game_id": "823927",
       "away": "ARI",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-11T02:10:00Z"
     },
     {
       "game_id": "823200",
       "away": "COL",
       "home": "SF",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-11T02:15:00Z"
     },
     {
@@ -985,8 +985,8 @@
       "ev_pct": "7.35%",
       "bet_size": "$10.00",
       "order_id": "0xbc874ef2ceabbfbebc",
-      "order_status": "pending",
-      "filled_size": "",
+      "order_status": "filled",
+      "filled_size": "$10.01",
       "result": "",
       "profit": ""
     }
