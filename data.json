@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T02:45:10.672414+00:00",
+  "last_updated": "2026-07-11T03:00:08.899040+00:00",
   "scoreboard": [
     {
       "game_id": "824252",
@@ -15,8 +15,8 @@
       "away": "NYY",
       "home": "WSH",
       "away_score": 2,
-      "home_score": 1,
-      "state": "T7",
+      "home_score": 3,
+      "state": "B7",
       "start_time": "2026-07-10T22:45:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "BOS",
       "home": "NYM",
       "away_score": 6,
-      "home_score": 1,
-      "state": "T9",
+      "home_score": 2,
+      "state": "FINAL",
       "start_time": "2026-07-10T23:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIN",
       "away_score": 4,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-11T00:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SD",
       "away_score": 1,
       "home_score": 2,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-11T01:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "LAD",
       "away_score": 2,
       "home_score": 2,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-07-11T02:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 1,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-07-11T02:15:00Z"
     },
     {
