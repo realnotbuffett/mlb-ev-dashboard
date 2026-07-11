@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T20:00:15.201794+00:00",
+  "last_updated": "2026-07-11T20:15:16.411127+00:00",
   "scoreboard": [
     {
       "game_id": "823357",
@@ -14,9 +14,9 @@
       "game_id": "823356",
       "away": "MIL",
       "home": "PIT",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-11T20:05:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 3,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-11T18:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 1,
-      "state": "T7",
+      "state": "B8",
       "start_time": "2026-07-11T18:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-11T20:05:00Z"
     },
     {
@@ -1135,7 +1135,7 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:07",
+      "time": "16:15:06",
       "game_id": "822953",
       "home_team": "Tampa Bay Rays",
       "away_team": "Seattle Mariners",
@@ -1179,16 +1179,16 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:08",
+      "time": "16:15:07",
       "game_id": "824249",
       "home_team": "Detroit Tigers",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.4386",
-      "away_prob": "0.5614",
-      "poly_home_price": "0.4400",
-      "poly_away_price": "0.5700",
-      "home_ev": "-0.0032",
-      "away_ev": "-0.0151",
+      "home_prob": "0.4484",
+      "away_prob": "0.5516",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "-0.0036",
+      "away_ev": "-0.0149",
       "home_pitcher": "Casey Mize",
       "away_pitcher": "Cristopher S\u00e1nchez",
       "pitchers_confirmed": "yes",
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:09",
+      "time": "16:15:08",
       "game_id": "824813",
       "home_team": "Baltimore Orioles",
       "away_team": "Kansas City Royals",
@@ -1223,16 +1223,16 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:10",
+      "time": "16:15:11",
       "game_id": "822875",
       "home_team": "Texas Rangers",
       "away_team": "Houston Astros",
-      "home_prob": "0.5089",
-      "away_prob": "0.4911",
+      "home_prob": "0.5204",
+      "away_prob": "0.4796",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0213",
-      "away_ev": "0.0022",
+      "home_ev": "0.0008",
+      "away_ev": "-0.0212",
       "home_pitcher": "Kumar Rocker",
       "away_pitcher": "Peter Lambert",
       "pitchers_confirmed": "yes",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:11",
+      "time": "16:15:12",
       "game_id": "824492",
       "home_team": "Cincinnati Reds",
       "away_team": "Chicago Cubs",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:12",
+      "time": "16:15:13",
       "game_id": "823030",
       "home_team": "St. Louis Cardinals",
       "away_team": "Atlanta Braves",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:14",
+      "time": "16:15:14",
       "game_id": "823276",
       "home_team": "San Diego Padres",
       "away_team": "Toronto Blue Jays",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-11",
-      "time": "16:00:15",
+      "time": "16:15:15",
       "game_id": "823926",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 134,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 46157,
+    "total_games_scanned_all": 46165,
     "record": {
       "wins": 59,
       "losses": 75,
