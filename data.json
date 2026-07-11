@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T01:00:08.031102+00:00",
+  "last_updated": "2026-07-11T01:15:08.219436+00:00",
   "scoreboard": [
     {
       "game_id": "824252",
@@ -7,7 +7,7 @@
       "home": "DET",
       "away_score": 2,
       "home_score": 10,
-      "state": "T8",
+      "state": "FINAL",
       "start_time": "2026-07-10T22:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "WSH",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-07-10T22:45:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "KC",
       "home": "BAL",
       "away_score": 3,
-      "home_score": 3,
-      "state": "T8",
+      "home_score": 5,
+      "state": "B8",
       "start_time": "2026-07-10T23:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 1,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-10T23:10:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "SEA",
       "home": "TB",
       "away_score": 2,
-      "home_score": 4,
-      "state": "T7",
+      "home_score": 7,
+      "state": "B7",
       "start_time": "2026-07-10T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIA",
       "away_score": 3,
       "home_score": 2,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-07-10T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 2,
       "home_score": 1,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-10T23:15:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "OAK",
       "home": "CWS",
       "away_score": 0,
-      "home_score": 3,
-      "state": "B5",
+      "home_score": 4,
+      "state": "T6",
       "start_time": "2026-07-10T23:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 2,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-11T00:05:00Z"
     },
     {
       "game_id": "823685",
       "away": "LAA",
       "home": "MIN",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-11T00:10:00Z"
     },
     {
@@ -97,16 +97,16 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-11T00:15:00Z"
     },
     {
       "game_id": "823278",
       "away": "TOR",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-11T01:40:00Z"
     },
     {
@@ -140,23 +140,6 @@
   "today": "2026-07-10",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-06-16",
-      "time": "17:15:07",
-      "game_id": "822723",
-      "home_team": "Washington Nationals",
-      "away_team": "Kansas City Royals",
-      "bet_side": "away",
-      "model_prob": "0.4582",
-      "polymarket_price": "0.4400",
-      "ev_pct": "4.14%",
-      "bet_size": "$10.00",
-      "order_id": "0xb66f29e7d17da12670",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-06-16",
       "time": "18:00:15",
@@ -989,6 +972,23 @@
       "filled_size": "$10.00",
       "result": "loss",
       "profit": "-10.00"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "21:15:07",
+      "game_id": "823927",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Arizona Diamondbacks",
+      "bet_side": "home",
+      "model_prob": "0.7085",
+      "polymarket_price": "0.6600",
+      "ev_pct": "7.35%",
+      "bet_size": "$10.00",
+      "order_id": "0xbc874ef2ceabbfbebc",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1280,21 +1280,21 @@
     },
     {
       "date": "2026-07-10",
-      "time": "21:00:06",
+      "time": "21:15:07",
       "game_id": "823927",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.6480",
-      "away_prob": "0.3520",
+      "home_prob": "0.7085",
+      "away_prob": "0.2915",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0182",
-      "away_ev": "0.0057",
+      "home_ev": "0.0735",
+      "away_ev": "-0.1672",
       "home_pitcher": "Kyle Hurt",
       "away_pitcher": "Eduardo Rodriguez",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "home",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-07-10",
-      "time": "21:00:07",
+      "time": "21:15:08",
       "game_id": "823200",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.5771",
-      "away_prob": "0.4229",
+      "home_prob": "0.5775",
+      "away_prob": "0.4225",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0050",
-      "away_ev": "-0.0165",
+      "home_ev": "-0.0043",
+      "away_ev": "-0.0174",
       "home_pitcher": "Robbie Ray",
       "away_pitcher": "Tanner Gordon",
       "pitchers_confirmed": "yes",
@@ -1324,10 +1324,10 @@
     }
   ],
   "stats": {
-    "total_bets_today": 0,
-    "total_bets_all_time": 133,
+    "total_bets_today": 1,
+    "total_bets_all_time": 134,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 45739,
+    "total_games_scanned_all": 45741,
     "record": {
       "wins": 59,
       "losses": 74,
