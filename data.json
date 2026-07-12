@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T22:30:05.519112+00:00",
+  "last_updated": "2026-07-12T22:45:05.368109+00:00",
   "scoreboard": [
     {
       "game_id": "823358",
@@ -124,7 +124,7 @@
       "home": "LAD",
       "away_score": 4,
       "home_score": 3,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-07-12T20:10:00Z"
     },
     {
@@ -132,8 +132,8 @@
       "away": "TOR",
       "home": "SD",
       "away_score": 4,
-      "home_score": 3,
-      "state": "B8",
+      "home_score": 5,
+      "state": "FINAL",
       "start_time": "2026-07-12T20:10:00Z"
     }
   ],
