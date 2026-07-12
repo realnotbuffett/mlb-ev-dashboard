@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T18:00:11.857610+00:00",
+  "last_updated": "2026-07-12T18:15:09.412755+00:00",
   "scoreboard": [
     {
       "game_id": "823358",
@@ -7,16 +7,16 @@
       "home": "PIT",
       "away_score": 2,
       "home_score": 14,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-07-12T16:15:00Z"
     },
     {
       "game_id": "824814",
       "away": "KC",
       "home": "BAL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-07-12T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-12T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CIN",
       "away_score": 2,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-07-12T17:40:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-12T17:40:00Z"
     },
     {
       "game_id": "822951",
       "away": "SEA",
       "home": "TB",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-07-12T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-12T17:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIA",
       "away_score": 2,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-07-12T17:40:00Z"
     },
     {
@@ -95,18 +95,18 @@
       "game_id": "823029",
       "away": "ATL",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-12T18:15:00Z"
     },
     {
       "game_id": "822876",
       "away": "HOU",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-12T18:35:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-12",
-      "time": "14:00:09",
+      "time": "14:15:07",
       "game_id": "823199",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-12",
-      "time": "14:00:10",
+      "time": "14:15:08",
       "game_id": "823925",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-07-12",
-      "time": "14:00:11",
+      "time": "14:15:09",
       "game_id": "823274",
       "home_team": "San Diego Padres",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4619",
-      "away_prob": "0.5381",
+      "home_prob": "0.4608",
+      "away_prob": "0.5392",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "0.0042",
-      "away_ev": "-0.0217",
+      "home_ev": "0.0017",
+      "away_ev": "-0.0196",
       "home_pitcher": "Germ\u00e1n M\u00e1rquez",
       "away_pitcher": "Kevin Gausman",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 135,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 46522,
+    "total_games_scanned_all": 46525,
     "record": {
       "wins": 59,
       "losses": 76,
