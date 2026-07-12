@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T00:30:06.909251+00:00",
+  "last_updated": "2026-07-12T00:45:10.304028+00:00",
   "scoreboard": [
     {
       "game_id": "823357",
@@ -88,16 +88,16 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 2,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-11T22:10:00Z"
     },
     {
       "game_id": "824813",
       "away": "KC",
       "home": "BAL",
-      "away_score": 0,
-      "home_score": 4,
-      "state": "B6",
+      "away_score": 1,
+      "home_score": 5,
+      "state": "T7",
       "start_time": "2026-07-11T23:05:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "TEX",
       "away_score": 7,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-11T23:05:00Z"
     },
     {
       "game_id": "824492",
       "away": "CHC",
       "home": "CIN",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-11T23:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 4,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-11T23:15:00Z"
     },
     {
@@ -1311,16 +1311,16 @@
     },
     {
       "date": "2026-07-11",
-      "time": "20:30:06",
+      "time": "20:45:10",
       "game_id": "823926",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.7234",
-      "away_prob": "0.2766",
+      "home_prob": "0.7293",
+      "away_prob": "0.2707",
       "poly_home_price": "0.7400",
       "poly_away_price": "0.2700",
-      "home_ev": "-0.0225",
-      "away_ev": "0.0246",
+      "home_ev": "-0.0145",
+      "away_ev": "0.0026",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Brandon Pfaadt",
       "pitchers_confirmed": "yes",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 1,
     "total_bets_all_time": 135,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 46242,
+    "total_games_scanned_all": 46243,
     "record": {
       "wins": 59,
       "losses": 75,
