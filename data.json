@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T02:30:05.347714+00:00",
+  "last_updated": "2026-07-12T02:45:08.173052+00:00",
   "scoreboard": [
     {
       "game_id": "823357",
@@ -133,16 +133,16 @@
       "home": "SD",
       "away_score": 4,
       "home_score": 7,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-12T00:40:00Z"
     },
     {
       "game_id": "823926",
       "away": "ARI",
       "home": "LAD",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-07-12T01:10:00Z"
     }
   ],
