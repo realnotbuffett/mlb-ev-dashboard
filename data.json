@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T00:00:15.410823+00:00",
+  "last_updated": "2026-07-12T00:15:07.750630+00:00",
   "scoreboard": [
     {
       "game_id": "823357",
@@ -88,7 +88,7 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 1,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-07-11T22:10:00Z"
     },
     {
@@ -96,17 +96,17 @@
       "away": "KC",
       "home": "BAL",
       "away_score": 0,
-      "home_score": 1,
-      "state": "B4",
+      "home_score": 4,
+      "state": "B5",
       "start_time": "2026-07-11T23:05:00Z"
     },
     {
       "game_id": "822875",
       "away": "HOU",
       "home": "TEX",
-      "away_score": 6,
+      "away_score": 7,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-11T23:05:00Z"
     },
     {
@@ -114,8 +114,8 @@
       "away": "CHC",
       "home": "CIN",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 2,
+      "state": "B4",
       "start_time": "2026-07-11T23:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 3,
-      "state": "T3",
+      "state": "B4",
       "start_time": "2026-07-11T23:15:00Z"
     },
     {
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-11",
-      "time": "20:00:14",
+      "time": "20:15:06",
       "game_id": "823276",
       "home_team": "San Diego Padres",
       "away_team": "Toronto Blue Jays",
@@ -1302,8 +1302,8 @@
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Trey Yesavage",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1311,16 +1311,16 @@
     },
     {
       "date": "2026-07-11",
-      "time": "20:00:15",
+      "time": "20:15:07",
       "game_id": "823926",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.7140",
-      "away_prob": "0.2860",
+      "home_prob": "0.7196",
+      "away_prob": "0.2804",
       "poly_home_price": "0.7300",
       "poly_away_price": "0.2800",
-      "home_ev": "-0.0219",
-      "away_ev": "0.0215",
+      "home_ev": "-0.0143",
+      "away_ev": "0.0015",
       "home_pitcher": "Yoshinobu Yamamoto",
       "away_pitcher": "Brandon Pfaadt",
       "pitchers_confirmed": "yes",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 1,
     "total_bets_all_time": 135,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 46239,
+    "total_games_scanned_all": 46241,
     "record": {
       "wins": 59,
       "losses": 75,
