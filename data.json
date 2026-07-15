@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-15T02:45:05.146294+00:00",
+  "last_updated": "2026-07-15T03:00:05.267709+00:00",
   "scoreboard": [
     {
       "game_id": "823443",
       "away": "AME",
       "home": "NAT",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 0,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-07-15T00:00:00Z"
     }
   ],
