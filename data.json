@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-07-15T03:45:05.109742+00:00",
-  "scoreboard": [
-    {
-      "game_id": "823443",
-      "away": "AME",
-      "home": "NAT",
-      "away_score": 4,
-      "home_score": 0,
-      "state": "FINAL",
-      "start_time": "2026-07-15T00:00:00Z"
-    }
-  ],
-  "today": "2026-07-14",
+  "last_updated": "2026-07-15T05:59:06.252189+00:00",
+  "scoreboard": [],
+  "today": "2026-07-15",
   "mode": "LIVE",
   "bets": [
     {
