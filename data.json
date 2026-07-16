@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T21:15:06.116073+00:00",
+  "last_updated": "2026-07-16T21:30:04.874474+00:00",
   "scoreboard": [
     {
       "game_id": "823440",
@@ -868,16 +868,16 @@
   "today_games": [
     {
       "date": "2026-07-16",
-      "time": "17:15:05",
+      "time": "17:30:04",
       "game_id": "823440",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Mets",
       "home_prob": "0.5355",
       "away_prob": "0.4645",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4710",
-      "home_ev": "0.0104",
-      "away_ev": "-0.0139",
+      "poly_home_price": "0.5350",
+      "poly_away_price": "0.4670",
+      "home_ev": "0.0010",
+      "away_ev": "-0.0054",
       "home_pitcher": "Aaron Nola",
       "away_pitcher": "Christian Scott",
       "pitchers_confirmed": "yes",
@@ -893,7 +893,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 135,
     "total_games_scanned_today": 1,
-    "total_games_scanned_all": 46575,
+    "total_games_scanned_all": 46576,
     "record": {
       "wins": 59,
       "losses": 76,
