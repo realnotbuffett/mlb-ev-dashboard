@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T23:00:13.641351+00:00",
+  "last_updated": "2026-07-17T23:15:14.589202+00:00",
   "scoreboard": [
     {
       "game_id": "824766",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:06",
+      "time": "19:15:07",
       "game_id": "823766",
       "home_team": "Milwaukee Brewers",
       "away_team": "Miami Marlins",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:06",
+      "time": "19:15:08",
       "game_id": "824655",
       "home_team": "Chicago Cubs",
       "away_team": "Minnesota Twins",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:07",
+      "time": "19:15:08",
       "game_id": "824170",
       "home_team": "Houston Astros",
       "away_team": "Baltimore Orioles",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:08",
+      "time": "19:15:09",
       "game_id": "824090",
       "home_team": "Kansas City Royals",
       "away_team": "San Diego Padres",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:09",
+      "time": "19:15:10",
       "game_id": "824332",
       "home_team": "Colorado Rockies",
       "away_team": "Cincinnati Reds",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:10",
+      "time": "19:15:11",
       "game_id": "824009",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:11",
+      "time": "19:15:12",
       "game_id": "824981",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:13",
+      "time": "19:15:14",
       "game_id": "823115",
       "home_team": "Seattle Mariners",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.6277",
-      "away_prob": "0.3723",
+      "home_prob": "0.6295",
+      "away_prob": "0.3705",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3700",
-      "home_ev": "-0.0192",
-      "away_ev": "0.0063",
+      "home_ev": "-0.0165",
+      "away_ev": "0.0015",
       "home_pitcher": "Bryce Miller",
       "away_pitcher": "Landen Roupp",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:00:12",
+      "time": "19:15:13",
       "game_id": "825060",
       "home_team": "Arizona Diamondbacks",
       "away_team": "St. Louis Cardinals",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 7,
     "total_bets_all_time": 142,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 47112,
+    "total_games_scanned_all": 47121,
     "record": {
       "wins": 59,
       "losses": 76,
