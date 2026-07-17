@@ -1,17 +1,143 @@
 {
-  "last_updated": "2026-07-17T03:45:04.271360+00:00",
+  "last_updated": "2026-07-17T05:59:06.665843+00:00",
   "scoreboard": [
     {
-      "game_id": "823440",
-      "away": "NYM",
-      "home": "PHI",
-      "away_score": 4,
-      "home_score": 1,
-      "state": "FINAL",
-      "start_time": "2026-07-16T22:10:00Z"
+      "game_id": "824766",
+      "away": "TB",
+      "home": "BOS",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-17T17:35:00Z"
+    },
+    {
+      "game_id": "824737",
+      "away": "TB",
+      "home": "BOS",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-17T23:10:00Z"
+    },
+    {
+      "game_id": "823524",
+      "away": "LAD",
+      "home": "NYY",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-17T23:05:00Z"
+    },
+    {
+      "game_id": "824414",
+      "away": "PIT",
+      "home": "CLE",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-17T23:10:00Z"
+    },
+    {
+      "game_id": "824901",
+      "away": "TEX",
+      "home": "ATL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-17T23:15:00Z"
+    },
+    {
+      "game_id": "822789",
+      "away": "CWS",
+      "home": "TOR",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-17T23:15:00Z"
+    },
+    {
+      "game_id": "823766",
+      "away": "MIA",
+      "home": "MIL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-17T23:40:00Z"
+    },
+    {
+      "game_id": "824655",
+      "away": "MIN",
+      "home": "CHC",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T00:05:00Z"
+    },
+    {
+      "game_id": "824170",
+      "away": "BAL",
+      "home": "HOU",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T00:10:00Z"
+    },
+    {
+      "game_id": "824090",
+      "away": "SD",
+      "home": "KC",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T00:10:00Z"
+    },
+    {
+      "game_id": "824332",
+      "away": "CIN",
+      "home": "COL",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T00:40:00Z"
+    },
+    {
+      "game_id": "824009",
+      "away": "DET",
+      "home": "LAA",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T01:38:00Z"
+    },
+    {
+      "game_id": "824981",
+      "away": "WSH",
+      "home": "OAK",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T01:40:00Z"
+    },
+    {
+      "game_id": "825060",
+      "away": "STL",
+      "home": "ARI",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T01:40:00Z"
+    },
+    {
+      "game_id": "823115",
+      "away": "SF",
+      "home": "SEA",
+      "away_score": null,
+      "home_score": null,
+      "state": "UPCOMING",
+      "start_time": "2026-07-18T02:10:00Z"
     }
   ],
-  "today": "2026-07-16",
+  "today": "2026-07-17",
   "mode": "LIVE",
   "bets": [
     {
@@ -865,34 +991,11 @@
       "profit": "-10.00"
     }
   ],
-  "today_games": [
-    {
-      "date": "2026-07-16",
-      "time": "17:45:04",
-      "game_id": "823440",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "New York Mets",
-      "home_prob": "0.5355",
-      "away_prob": "0.4645",
-      "poly_home_price": "0.5350",
-      "poly_away_price": "0.4670",
-      "home_ev": "0.0010",
-      "away_ev": "-0.0054",
-      "home_pitcher": "Aaron Nola",
-      "away_pitcher": "Christian Scott",
-      "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
-      "home_score": "",
-      "away_score": "",
-      "winner": "",
-      "result_updated": "no"
-    }
-  ],
+  "today_games": [],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 135,
-    "total_games_scanned_today": 1,
+    "total_games_scanned_today": 0,
     "total_games_scanned_all": 46577,
     "record": {
       "wins": 59,
