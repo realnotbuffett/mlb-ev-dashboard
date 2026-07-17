@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T23:30:14.838659+00:00",
+  "last_updated": "2026-07-17T23:45:14.849780+00:00",
   "scoreboard": [
     {
       "game_id": "824766",
@@ -15,7 +15,7 @@
       "away": "TB",
       "home": "BOS",
       "away_score": 2,
-      "home_score": 0,
+      "home_score": 3,
       "state": "B1",
       "start_time": "2026-07-17T23:10:00Z"
     },
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-17T23:05:00Z"
     },
     {
@@ -34,16 +34,16 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-07-17T23:15:00Z"
     },
     {
       "game_id": "822789",
       "away": "CWS",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 5,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-07-17T23:15:00Z"
     },
     {
@@ -59,9 +59,9 @@
       "game_id": "824655",
       "away": "MIN",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-18T00:05:00Z"
     },
     {
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:30:09",
+      "time": "19:45:08",
       "game_id": "824170",
       "home_team": "Houston Astros",
       "away_team": "Baltimore Orioles",
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:30:10",
+      "time": "19:45:09",
       "game_id": "824090",
       "home_team": "Kansas City Royals",
       "away_team": "San Diego Padres",
-      "home_prob": "0.4695",
-      "away_prob": "0.5305",
+      "home_prob": "0.4670",
+      "away_prob": "0.5330",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0010",
-      "away_ev": "-0.0177",
+      "home_ev": "-0.0064",
+      "away_ev": "-0.0130",
       "home_pitcher": "Seth Lugo",
       "away_pitcher": "Michael King",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:30:11",
+      "time": "19:45:10",
       "game_id": "824332",
       "home_team": "Colorado Rockies",
       "away_team": "Cincinnati Reds",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:30:12",
+      "time": "19:45:11",
       "game_id": "824009",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:30:12",
+      "time": "19:45:12",
       "game_id": "824981",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:30:14",
+      "time": "19:45:14",
       "game_id": "823115",
       "home_team": "Seattle Mariners",
       "away_team": "San Francisco Giants",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:30:13",
+      "time": "19:45:13",
       "game_id": "825060",
       "home_team": "Arizona Diamondbacks",
       "away_team": "St. Louis Cardinals",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 7,
     "total_bets_all_time": 142,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 47129,
+    "total_games_scanned_all": 47136,
     "record": {
       "wins": 59,
       "losses": 76,
