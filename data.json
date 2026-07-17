@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-17T19:00:15.956918+00:00",
+  "last_updated": "2026-07-17T19:15:16.448051+00:00",
   "scoreboard": [
     {
       "game_id": "824766",
       "away": "TB",
       "home": "BOS",
       "away_score": 0,
-      "home_score": 3,
+      "home_score": 9,
       "state": "B6",
       "start_time": "2026-07-17T17:35:00Z"
     },
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:04",
+      "time": "15:15:04",
       "game_id": "823524",
       "home_team": "New York Yankees",
       "away_team": "Los Angeles Dodgers",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:05",
+      "time": "15:15:05",
       "game_id": "824414",
       "home_team": "Cleveland Guardians",
       "away_team": "Pittsburgh Pirates",
@@ -1060,16 +1060,16 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:06",
+      "time": "15:15:06",
       "game_id": "824901",
       "home_team": "Atlanta Braves",
       "away_team": "Texas Rangers",
-      "home_prob": "0.6559",
-      "away_prob": "0.3441",
+      "home_prob": "0.6567",
+      "away_prob": "0.3433",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0168",
+      "home_ev": "-0.0050",
+      "away_ev": "-0.0191",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Cal Quantrill",
       "pitchers_confirmed": "yes",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:07",
+      "time": "15:15:07",
       "game_id": "822789",
       "home_team": "Toronto Blue Jays",
       "away_team": "Chicago White Sox",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:08",
+      "time": "15:15:08",
       "game_id": "823766",
       "home_team": "Milwaukee Brewers",
       "away_team": "Miami Marlins",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:09",
+      "time": "15:15:09",
       "game_id": "824655",
       "home_team": "Chicago Cubs",
       "away_team": "Minnesota Twins",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:10",
+      "time": "15:15:10",
       "game_id": "824170",
       "home_team": "Houston Astros",
       "away_team": "Baltimore Orioles",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:11",
+      "time": "15:15:11",
       "game_id": "824090",
       "home_team": "Kansas City Royals",
       "away_team": "San Diego Padres",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:12",
+      "time": "15:15:12",
       "game_id": "824332",
       "home_team": "Colorado Rockies",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5128",
-      "away_prob": "0.4872",
+      "home_prob": "0.5140",
+      "away_prob": "0.4860",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0139",
-      "away_ev": "-0.0056",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
       "home_pitcher": "Gabriel Hughes",
       "away_pitcher": "Brady Singer",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:13",
+      "time": "15:15:13",
       "game_id": "824009",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:13",
+      "time": "15:15:14",
       "game_id": "824981",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:15",
+      "time": "15:15:16",
       "game_id": "823115",
       "home_team": "Seattle Mariners",
       "away_team": "San Francisco Giants",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "15:00:14",
+      "time": "15:15:15",
       "game_id": "825060",
       "home_team": "Arizona Diamondbacks",
       "away_team": "St. Louis Cardinals",
@@ -1305,7 +1305,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 135,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 46908,
+    "total_games_scanned_all": 46921,
     "record": {
       "wins": 59,
       "losses": 76,
