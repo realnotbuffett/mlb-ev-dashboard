@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T22:30:17.672353+00:00",
+  "last_updated": "2026-07-17T22:45:19.092810+00:00",
   "scoreboard": [
     {
       "game_id": "824766",
@@ -140,23 +140,6 @@
   "today": "2026-07-17",
   "mode": "LIVE",
   "bets": [
-    {
-      "date": "2026-06-19",
-      "time": "19:00:15",
-      "game_id": "823124",
-      "home_team": "Seattle Mariners",
-      "away_team": "Boston Red Sox",
-      "bet_side": "home",
-      "model_prob": "0.5383",
-      "polymarket_price": "0.5100",
-      "ev_pct": "5.54%",
-      "bet_size": "$10.00",
-      "order_id": "0x031bcfaaf043493a3d",
-      "order_status": "filled",
-      "filled_size": "$10.00",
-      "result": "loss",
-      "profit": "-10.00"
-    },
     {
       "date": "2026-06-20",
       "time": "18:45:05",
@@ -989,6 +972,23 @@
       "filled_size": "",
       "result": "",
       "profit": ""
+    },
+    {
+      "date": "2026-07-17",
+      "time": "18:45:13",
+      "game_id": "824170",
+      "home_team": "Houston Astros",
+      "away_team": "Baltimore Orioles",
+      "bet_side": "away",
+      "model_prob": "0.5026",
+      "polymarket_price": "0.4800",
+      "ev_pct": "4.70%",
+      "bet_size": "$10.00",
+      "order_id": "0xc88b99702b4bd611d8",
+      "order_status": "pending",
+      "filled_size": "",
+      "result": "",
+      "profit": ""
     }
   ],
   "today_games": [
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:07",
+      "time": "18:45:07",
       "game_id": "823524",
       "home_team": "New York Yankees",
       "away_team": "Los Angeles Dodgers",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:08",
+      "time": "18:45:08",
       "game_id": "824901",
       "home_team": "Atlanta Braves",
       "away_team": "Texas Rangers",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:09",
+      "time": "18:45:08",
       "game_id": "822789",
       "home_team": "Toronto Blue Jays",
       "away_team": "Chicago White Sox",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:10",
+      "time": "18:45:09",
       "game_id": "823766",
       "home_team": "Milwaukee Brewers",
       "away_team": "Miami Marlins",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:11",
+      "time": "18:45:10",
       "game_id": "824655",
       "home_team": "Chicago Cubs",
       "away_team": "Minnesota Twins",
@@ -1148,21 +1148,21 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:11",
+      "time": "18:45:13",
       "game_id": "824170",
       "home_team": "Houston Astros",
       "away_team": "Baltimore Orioles",
       "home_prob": "0.4974",
       "away_prob": "0.5026",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "-0.0434",
-      "away_ev": "0.0256",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "-0.0614",
+      "away_ev": "0.0470",
       "home_pitcher": "Peter Lambert",
       "away_pitcher": "Dean Kremer",
       "pitchers_confirmed": "yes",
-      "bet_placed": "no",
-      "bet_side": "",
+      "bet_placed": "yes",
+      "bet_side": "away",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:12",
+      "time": "18:45:13",
       "game_id": "824090",
       "home_team": "Kansas City Royals",
       "away_team": "San Diego Padres",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:13",
+      "time": "18:45:14",
       "game_id": "824332",
       "home_team": "Colorado Rockies",
       "away_team": "Cincinnati Reds",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:14",
+      "time": "18:45:15",
       "game_id": "824009",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:15",
+      "time": "18:45:16",
       "game_id": "824981",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:17",
+      "time": "18:45:18",
       "game_id": "823115",
       "home_team": "Seattle Mariners",
       "away_team": "San Francisco Giants",
-      "home_prob": "0.6235",
-      "away_prob": "0.3765",
+      "home_prob": "0.6268",
+      "away_prob": "0.3732",
       "poly_home_price": "0.6400",
       "poly_away_price": "0.3700",
-      "home_ev": "-0.0258",
-      "away_ev": "0.0176",
+      "home_ev": "-0.0206",
+      "away_ev": "0.0087",
       "home_pitcher": "Bryce Miller",
       "away_pitcher": "Landen Roupp",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:16",
+      "time": "18:45:17",
       "game_id": "825060",
       "home_team": "Arizona Diamondbacks",
       "away_team": "St. Louis Cardinals",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "18:30:06",
+      "time": "18:45:05",
       "game_id": "824737",
       "home_team": "Boston Red Sox",
       "away_team": "Tampa Bay Rays",
@@ -1324,10 +1324,10 @@
     }
   ],
   "stats": {
-    "total_bets_today": 6,
-    "total_bets_all_time": 141,
+    "total_bets_today": 7,
+    "total_bets_all_time": 142,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 47090,
+    "total_games_scanned_all": 47103,
     "record": {
       "wins": 59,
       "losses": 76,
