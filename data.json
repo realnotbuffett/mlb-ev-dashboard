@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T23:45:14.849780+00:00",
+  "last_updated": "2026-07-18T00:00:11.640814+00:00",
   "scoreboard": [
     {
       "game_id": "824766",
@@ -16,7 +16,7 @@
       "home": "BOS",
       "away_score": 2,
       "home_score": 3,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-07-17T23:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-07-17T23:05:00Z"
     },
     {
@@ -33,7 +33,7 @@
       "away": "TEX",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 0,
+      "home_score": 2,
       "state": "B2",
       "start_time": "2026-07-17T23:15:00Z"
     },
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 5,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-17T23:15:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-17T23:40:00Z"
     },
     {
@@ -68,18 +68,18 @@
       "game_id": "824170",
       "away": "BAL",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-18T00:10:00Z"
     },
     {
       "game_id": "824090",
       "away": "SD",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-18T00:10:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:45:10",
+      "time": "20:00:07",
       "game_id": "824332",
       "home_team": "Colorado Rockies",
       "away_team": "Cincinnati Reds",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:45:11",
+      "time": "20:00:08",
       "game_id": "824009",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:45:12",
+      "time": "20:00:09",
       "game_id": "824981",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:45:14",
+      "time": "20:00:11",
       "game_id": "823115",
       "home_team": "Seattle Mariners",
       "away_team": "San Francisco Giants",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-17",
-      "time": "19:45:13",
+      "time": "20:00:10",
       "game_id": "825060",
       "home_team": "Arizona Diamondbacks",
       "away_team": "St. Louis Cardinals",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 7,
     "total_bets_all_time": 142,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 47136,
+    "total_games_scanned_all": 47141,
     "record": {
       "wins": 59,
       "losses": 76,
