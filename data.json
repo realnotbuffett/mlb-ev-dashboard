@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T21:00:09.067737+00:00",
+  "last_updated": "2026-07-18T21:15:08.090610+00:00",
   "scoreboard": [
     {
       "game_id": "824414",
@@ -33,8 +33,8 @@
       "away": "NYM",
       "home": "PHI",
       "away_score": 1,
-      "home_score": 4,
-      "state": "T6",
+      "home_score": 6,
+      "state": "T7",
       "start_time": "2026-07-18T19:05:00Z"
     },
     {
@@ -43,25 +43,25 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-18T19:07:00Z"
     },
     {
       "game_id": "824331",
       "away": "CIN",
       "home": "COL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 10,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-18T19:10:00Z"
     },
     {
       "game_id": "824169",
       "away": "BAL",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "SD",
       "home": "KC",
       "away_score": 1,
-      "home_score": 2,
-      "state": "T3",
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 4,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -95,9 +95,9 @@
       "game_id": "824899",
       "away": "TEX",
       "home": "ATL",
-      "away_score": 2,
-      "home_score": 4,
-      "state": "T3",
+      "away_score": 3,
+      "home_score": 5,
+      "state": "B3",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -105,23 +105,14 @@
       "away": "MIA",
       "home": "MIL",
       "away_score": 3,
-      "home_score": 1,
-      "state": "T3",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
       "game_id": "823116",
       "away": "SF",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
-      "start_time": "2026-07-19T00:08:00Z"
-    },
-    {
-      "game_id": "823523",
-      "away": "LAD",
-      "home": "NYY",
       "away_score": null,
       "home_score": null,
       "state": "UPCOMING",
@@ -144,6 +135,15 @@
       "home_score": null,
       "state": "UPCOMING",
       "start_time": "2026-07-19T02:07:00Z"
+    },
+    {
+      "game_id": "823523",
+      "away": "LAD",
+      "home": "NYY",
+      "away_score": null,
+      "home_score": null,
+      "state": "FINAL",
+      "start_time": "2026-07-19T00:08:00Z"
     }
   ],
   "today": "2026-07-18",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "17:00:06",
+      "time": "17:15:06",
       "game_id": "823116",
       "home_team": "Seattle Mariners",
       "away_team": "San Francisco Giants",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "17:00:08",
+      "time": "17:15:07",
       "game_id": "824979",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "17:00:08",
+      "time": "17:15:07",
       "game_id": "824008",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
@@ -1333,7 +1333,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "17:00:05",
+      "time": "17:15:05",
       "game_id": "824412",
       "home_team": "Cleveland Guardians",
       "away_team": "Pittsburgh Pirates",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 2,
     "total_bets_all_time": 144,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 47573,
+    "total_games_scanned_all": 47577,
     "record": {
       "wins": 62,
       "losses": 80,
