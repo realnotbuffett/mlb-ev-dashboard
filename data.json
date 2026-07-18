@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T22:45:07.661731+00:00",
+  "last_updated": "2026-07-18T23:00:08.138344+00:00",
   "scoreboard": [
     {
       "game_id": "824414",
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 1,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-18T19:05:00Z"
     },
     {
@@ -59,9 +59,9 @@
       "game_id": "824169",
       "away": "BAL",
       "home": "HOU",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T9",
+      "state": "T10",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "825059",
       "away": "STL",
       "home": "ARI",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 5,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "BOS",
       "away_score": 5,
       "home_score": 3,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ATL",
       "away_score": 7,
       "home_score": 6,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "MIL",
       "away_score": 3,
       "home_score": 8,
-      "state": "B7",
+      "state": "T9",
       "start_time": "2026-07-18T20:10:00Z"
     },
     {
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "18:45:05",
+      "time": "19:00:06",
       "game_id": "823116",
       "home_team": "Seattle Mariners",
       "away_team": "San Francisco Giants",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "18:45:06",
+      "time": "19:00:07",
       "game_id": "824979",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1311,16 +1311,16 @@
     },
     {
       "date": "2026-07-18",
-      "time": "18:45:07",
+      "time": "19:00:07",
       "game_id": "824008",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.3551",
-      "away_prob": "0.6449",
+      "home_prob": "0.3543",
+      "away_prob": "0.6457",
       "poly_home_price": "0.3600",
       "poly_away_price": "0.6500",
-      "home_ev": "-0.0135",
-      "away_ev": "-0.0079",
+      "home_ev": "-0.0158",
+      "away_ev": "-0.0066",
       "home_pitcher": "Grayson Rodriguez",
       "away_pitcher": "Tarik Skubal",
       "pitchers_confirmed": "yes",
@@ -1333,7 +1333,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "18:45:04",
+      "time": "19:00:05",
       "game_id": "824412",
       "home_team": "Cleveland Guardians",
       "away_team": "Pittsburgh Pirates",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 4,
     "total_bets_all_time": 146,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 47601,
+    "total_games_scanned_all": 47605,
     "record": {
       "wins": 62,
       "losses": 80,
