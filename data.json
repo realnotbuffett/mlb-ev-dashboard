@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T21:15:06.750344+00:00",
+  "last_updated": "2026-07-19T21:30:06.418094+00:00",
   "scoreboard": [
     {
       "game_id": "822786",
@@ -105,15 +105,15 @@
       "away": "CIN",
       "home": "COL",
       "away_score": 9,
-      "home_score": 3,
-      "state": "B7",
+      "home_score": 5,
+      "state": "B8",
       "start_time": "2026-07-19T19:10:00Z"
     },
     {
       "game_id": "824978",
       "away": "WSH",
       "home": "OAK",
-      "away_score": 2,
+      "away_score": 5,
       "home_score": 1,
       "state": "T5",
       "start_time": "2026-07-19T20:05:00Z"
@@ -124,7 +124,7 @@
       "home": "LAA",
       "away_score": 1,
       "home_score": 1,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-07-19T20:07:00Z"
     },
     {
@@ -132,8 +132,8 @@
       "away": "SF",
       "home": "SEA",
       "away_score": 2,
-      "home_score": 0,
-      "state": "B4",
+      "home_score": 2,
+      "state": "T5",
       "start_time": "2026-07-19T20:10:00Z"
     },
     {
@@ -142,7 +142,7 @@
       "home": "ARI",
       "away_score": 5,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-19T20:10:00Z"
     }
   ],
@@ -1330,13 +1330,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-07-19",
+      "time": "17:30:06",
+      "game_id": "823521",
+      "home_team": "New York Yankees",
+      "away_team": "Los Angeles Dodgers",
+      "home_prob": "0.4619",
+      "away_prob": "0.5381",
+      "poly_home_price": "0.4700",
+      "poly_away_price": "0.5400",
+      "home_ev": "-0.0172",
+      "away_ev": "-0.0036",
+      "home_pitcher": "Ryan Yarbrough",
+      "away_pitcher": "Will Klein",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 147,
-    "total_games_scanned_today": 15,
-    "total_games_scanned_all": 47942,
+    "total_games_scanned_today": 16,
+    "total_games_scanned_all": 47943,
     "record": {
       "wins": 64,
       "losses": 83,
