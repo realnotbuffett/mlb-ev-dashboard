@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T01:15:05.956526+00:00",
+  "last_updated": "2026-07-19T01:30:06.656503+00:00",
   "scoreboard": [
     {
       "game_id": "824414",
@@ -14,9 +14,9 @@
       "game_id": "824412",
       "away": "PIT",
       "home": "CLE",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-18T23:10:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SEA",
       "away_score": 1,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-07-19T00:08:00Z"
     },
     {
@@ -1289,16 +1289,16 @@
     },
     {
       "date": "2026-07-18",
-      "time": "21:15:04",
+      "time": "21:30:05",
       "game_id": "824979",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
-      "home_prob": "0.4358",
-      "away_prob": "0.5642",
+      "home_prob": "0.4383",
+      "away_prob": "0.5617",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "-0.1107",
-      "away_ev": "0.0851",
+      "home_ev": "-0.1055",
+      "away_ev": "0.0802",
       "home_pitcher": "J.T. Ginn",
       "away_pitcher": "Zack Littell",
       "pitchers_confirmed": "yes",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "21:15:05",
+      "time": "21:30:06",
       "game_id": "824008",
       "home_team": "Los Angeles Angels",
       "away_team": "Detroit Tigers",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 5,
     "total_bets_all_time": 147,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 47630,
+    "total_games_scanned_all": 47632,
     "record": {
       "wins": 62,
       "losses": 80,
