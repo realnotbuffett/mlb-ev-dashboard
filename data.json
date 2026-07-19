@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T03:15:05.722971+00:00",
+  "last_updated": "2026-07-19T03:30:05.564693+00:00",
   "scoreboard": [
     {
       "game_id": "824414",
@@ -15,8 +15,8 @@
       "away": "PIT",
       "home": "CLE",
       "away_score": 3,
-      "home_score": 3,
-      "state": "B9",
+      "home_score": 5,
+      "state": "FINAL",
       "start_time": "2026-07-18T23:10:00Z"
     },
     {
@@ -124,16 +124,16 @@
       "home": "OAK",
       "away_score": 0,
       "home_score": 6,
-      "state": "B4",
+      "state": "T6",
       "start_time": "2026-07-19T02:05:00Z"
     },
     {
       "game_id": "824008",
       "away": "DET",
       "home": "LAA",
-      "away_score": 6,
+      "away_score": 7,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-07-19T02:07:00Z"
     },
     {
