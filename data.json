@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T23:15:07.525985+00:00",
+  "last_updated": "2026-07-19T23:30:06.649966+00:00",
   "scoreboard": [
     {
       "game_id": "822786",
@@ -25,7 +25,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-19T23:20:00Z"
     },
     {
@@ -142,7 +142,7 @@
       "home": "ARI",
       "away_score": 7,
       "home_score": 7,
-      "state": "T9",
+      "state": "T10",
       "start_time": "2026-07-19T20:10:00Z"
     }
   ],
