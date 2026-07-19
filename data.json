@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T01:30:06.656503+00:00",
+  "last_updated": "2026-07-19T01:45:06.602299+00:00",
   "scoreboard": [
     {
       "game_id": "824414",
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 3,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-18T23:10:00Z"
     },
     {
@@ -113,9 +113,9 @@
       "game_id": "823116",
       "away": "SF",
       "home": "SEA",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-07-19T00:08:00Z"
     },
     {
@@ -131,9 +131,9 @@
       "game_id": "824008",
       "away": "DET",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-19T02:07:00Z"
     },
     {
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-18",
-      "time": "21:30:05",
+      "time": "21:45:06",
       "game_id": "824979",
       "home_team": "Athletics",
       "away_team": "Washington Nationals",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 5,
     "total_bets_all_time": 147,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 47632,
+    "total_games_scanned_all": 47633,
     "record": {
       "wins": 62,
       "losses": 80,
