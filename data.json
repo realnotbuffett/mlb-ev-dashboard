@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T22:15:06.724375+00:00",
+  "last_updated": "2026-07-19T22:30:07.333970+00:00",
   "scoreboard": [
     {
       "game_id": "822786",
@@ -115,7 +115,7 @@
       "home": "OAK",
       "away_score": 5,
       "home_score": 1,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-07-19T20:05:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAA",
       "away_score": 1,
       "home_score": 3,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-19T20:07:00Z"
     },
     {
@@ -132,8 +132,8 @@
       "away": "SF",
       "home": "SEA",
       "away_score": 3,
-      "home_score": 4,
-      "state": "T7",
+      "home_score": 6,
+      "state": "T8",
       "start_time": "2026-07-19T20:10:00Z"
     },
     {
@@ -141,8 +141,8 @@
       "away": "STL",
       "home": "ARI",
       "away_score": 7,
-      "home_score": 2,
-      "state": "B6",
+      "home_score": 3,
+      "state": "T7",
       "start_time": "2026-07-19T20:10:00Z"
     }
   ],
@@ -1333,16 +1333,16 @@
     },
     {
       "date": "2026-07-19",
-      "time": "18:15:06",
+      "time": "18:30:07",
       "game_id": "823521",
       "home_team": "New York Yankees",
       "away_team": "Los Angeles Dodgers",
       "home_prob": "0.4532",
       "away_prob": "0.5468",
-      "poly_home_price": "0.4600",
-      "poly_away_price": "0.5500",
-      "home_ev": "-0.0149",
-      "away_ev": "-0.0058",
+      "poly_home_price": "0.4500",
+      "poly_away_price": "0.5600",
+      "home_ev": "0.0070",
+      "away_ev": "-0.0235",
       "home_pitcher": "Ryan Yarbrough",
       "away_pitcher": "Will Klein",
       "pitchers_confirmed": "yes",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 147,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 47946,
+    "total_games_scanned_all": 47947,
     "record": {
       "wins": 64,
       "losses": 83,
