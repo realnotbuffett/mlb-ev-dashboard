@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T19:30:17.196296+00:00",
+  "last_updated": "2026-07-21T19:45:16.691661+00:00",
   "scoreboard": [
     {
       "game_id": "824409",
@@ -994,7 +994,7 @@
   "today_games": [
     {
       "date": "2026-07-21",
-      "time": "15:30:04",
+      "time": "15:45:04",
       "game_id": "824409",
       "home_team": "Cleveland Guardians",
       "away_team": "Minnesota Twins",
@@ -1016,16 +1016,16 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:05",
+      "time": "15:45:05",
       "game_id": "823437",
       "home_team": "Philadelphia Phillies",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.5153",
-      "away_prob": "0.4847",
+      "home_prob": "0.5216",
+      "away_prob": "0.4784",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0457",
-      "away_ev": "0.0313",
+      "home_ev": "-0.0340",
+      "away_ev": "0.0178",
       "home_pitcher": "Zack Wheeler",
       "away_pitcher": "Justin Wrobleski",
       "pitchers_confirmed": "yes",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:06",
+      "time": "15:45:06",
       "game_id": "822787",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
@@ -1082,16 +1082,16 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:07",
+      "time": "15:45:07",
       "game_id": "824735",
       "home_team": "Boston Red Sox",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0237",
-      "away_ev": "0.0048",
+      "home_ev": "-0.0213",
+      "away_ev": "0.0022",
       "home_pitcher": "Eduardo Rivera",
       "away_pitcher": "Kyle Bradish",
       "pitchers_confirmed": "yes",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:08",
+      "time": "15:45:08",
       "game_id": "824895",
       "home_team": "Atlanta Braves",
       "away_team": "San Diego Padres",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:09",
+      "time": "15:45:09",
       "game_id": "824085",
       "home_team": "Kansas City Royals",
       "away_team": "San Francisco Giants",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:10",
+      "time": "15:45:10",
       "game_id": "823760",
       "home_team": "Milwaukee Brewers",
       "away_team": "New York Mets",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:11",
+      "time": "15:45:10",
       "game_id": "824652",
       "home_team": "Chicago Cubs",
       "away_team": "Detroit Tigers",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:12",
+      "time": "15:45:11",
       "game_id": "822871",
       "home_team": "Texas Rangers",
       "away_team": "Chicago White Sox",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:13",
+      "time": "15:45:12",
       "game_id": "824165",
       "home_team": "Houston Astros",
       "away_team": "Miami Marlins",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:14",
+      "time": "15:45:13",
       "game_id": "824329",
       "home_team": "Colorado Rockies",
       "away_team": "Washington Nationals",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:14",
+      "time": "15:45:14",
       "game_id": "824005",
       "home_team": "Los Angeles Angels",
       "away_team": "St. Louis Cardinals",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:16",
+      "time": "15:45:15",
       "game_id": "825056",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Athletics",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-21",
-      "time": "15:30:17",
+      "time": "15:45:16",
       "game_id": "823114",
       "home_team": "Seattle Mariners",
       "away_team": "Cincinnati Reds",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 149,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 48922,
+    "total_games_scanned_all": 48936,
     "record": {
       "wins": 64,
       "losses": 85,
