@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T23:00:07.578314+00:00",
+  "last_updated": "2026-07-22T23:15:08.007804+00:00",
   "scoreboard": [
     {
       "game_id": "823518",
@@ -96,8 +96,8 @@
       "away": "MIN",
       "home": "CLE",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B1",
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-07-22T22:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 2,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-22T22:40:00Z"
     },
     {
@@ -1298,16 +1298,16 @@
     },
     {
       "date": "2026-07-22",
-      "time": "19:00:05",
+      "time": "19:15:05",
       "game_id": "822873",
       "home_team": "Texas Rangers",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.4670",
-      "away_prob": "0.5330",
+      "home_prob": "0.4695",
+      "away_prob": "0.5305",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0130",
+      "home_ev": "-0.0010",
+      "away_ev": "-0.0177",
       "home_pitcher": "Tyler Alexander",
       "away_pitcher": "Anthony Kay",
       "pitchers_confirmed": "yes",
@@ -1320,16 +1320,16 @@
     },
     {
       "date": "2026-07-22",
-      "time": "19:00:06",
+      "time": "19:15:06",
       "game_id": "824650",
       "home_team": "Chicago Cubs",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5418",
-      "away_prob": "0.4582",
+      "home_prob": "0.5392",
+      "away_prob": "0.4608",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "0.0033",
-      "away_ev": "-0.0250",
+      "home_ev": "-0.0014",
+      "away_ev": "-0.0197",
       "home_pitcher": "Colin Rea",
       "away_pitcher": "Keider Montero",
       "pitchers_confirmed": "yes",
@@ -1342,7 +1342,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "19:00:07",
+      "time": "19:15:07",
       "game_id": "824166",
       "home_team": "Houston Astros",
       "away_team": "Miami Marlins",
@@ -1389,7 +1389,7 @@
     "total_bets_today": 7,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 17,
-    "total_games_scanned_all": 49653,
+    "total_games_scanned_all": 49656,
     "record": {
       "wins": 64,
       "losses": 85,
