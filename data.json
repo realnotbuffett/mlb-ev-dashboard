@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T23:30:07.977944+00:00",
+  "last_updated": "2026-07-22T23:45:06.053331+00:00",
   "scoreboard": [
     {
       "game_id": "823518",
@@ -16,7 +16,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-22T23:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "BOS",
       "away_score": 4,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-22T23:10:00Z"
     },
     {
@@ -95,9 +95,9 @@
       "game_id": "824408",
       "away": "MIN",
       "home": "CLE",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 3,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-07-22T22:40:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "PHI",
       "away_score": 1,
       "home_score": 2,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-22T22:40:00Z"
     },
     {
       "game_id": "822784",
       "away": "TB",
       "home": "TOR",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-07-22T23:07:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "SD",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 1,
+      "state": "T2",
       "start_time": "2026-07-22T23:15:00Z"
     },
     {
@@ -140,18 +140,18 @@
       "game_id": "824650",
       "away": "DET",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-23T00:10:00Z"
     },
     {
       "game_id": "824166",
       "away": "MIA",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-23T00:10:00Z"
     }
   ],
@@ -1298,7 +1298,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "19:30:06",
+      "time": "19:45:05",
       "game_id": "822873",
       "home_team": "Texas Rangers",
       "away_team": "Chicago White Sox",
@@ -1389,7 +1389,7 @@
     "total_bets_today": 7,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 17,
-    "total_games_scanned_all": 49659,
+    "total_games_scanned_all": 49660,
     "record": {
       "wins": 64,
       "losses": 85,
