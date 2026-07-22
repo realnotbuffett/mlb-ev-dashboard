@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T21:45:26.007759+00:00",
+  "last_updated": "2026-07-22T22:00:26.070793+00:00",
   "scoreboard": [
     {
       "game_id": "823518",
@@ -61,7 +61,7 @@
       "home": "COL",
       "away_score": 8,
       "home_score": 0,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-07-22T19:10:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "OAK",
       "home": "ARI",
       "away_score": 2,
-      "home_score": 10,
-      "state": "B6",
+      "home_score": 14,
+      "state": "T7",
       "start_time": "2026-07-22T19:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "SEA",
       "away_score": 5,
       "home_score": 3,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-07-22T19:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "LAA",
       "away_score": 1,
       "home_score": 0,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-22T20:07:00Z"
     },
     {
@@ -1034,7 +1034,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:17",
+      "time": "18:00:17",
       "game_id": "823519",
       "home_team": "New York Yankees",
       "away_team": "Pittsburgh Pirates",
@@ -1210,7 +1210,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:20",
+      "time": "18:00:19",
       "game_id": "824408",
       "home_team": "Cleveland Guardians",
       "away_team": "Minnesota Twins",
@@ -1223,8 +1223,8 @@
       "home_pitcher": "Slade Cecconi",
       "away_pitcher": "Bailey Ober",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1232,7 +1232,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:21",
+      "time": "18:00:19",
       "game_id": "823438",
       "home_team": "Philadelphia Phillies",
       "away_team": "Los Angeles Dodgers",
@@ -1254,7 +1254,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:21",
+      "time": "18:00:20",
       "game_id": "822784",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
@@ -1276,7 +1276,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:22",
+      "time": "18:00:22",
       "game_id": "824896",
       "home_team": "Atlanta Braves",
       "away_team": "San Diego Padres",
@@ -1298,7 +1298,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:24",
+      "time": "18:00:22",
       "game_id": "822873",
       "home_team": "Texas Rangers",
       "away_team": "Chicago White Sox",
@@ -1320,7 +1320,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:24",
+      "time": "18:00:24",
       "game_id": "824650",
       "home_team": "Chicago Cubs",
       "away_team": "Detroit Tigers",
@@ -1342,7 +1342,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:25",
+      "time": "18:00:25",
       "game_id": "824166",
       "home_team": "Houston Astros",
       "away_team": "Miami Marlins",
@@ -1364,16 +1364,16 @@
     },
     {
       "date": "2026-07-22",
-      "time": "17:45:18",
+      "time": "18:00:18",
       "game_id": "824732",
       "home_team": "Boston Red Sox",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5381",
-      "away_prob": "0.4619",
+      "home_prob": "0.5406",
+      "away_prob": "0.4594",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0036",
-      "away_ev": "-0.0172",
+      "home_ev": "0.0011",
+      "away_ev": "-0.0226",
       "home_pitcher": "Eduardo Rivera",
       "away_pitcher": "Kyle Bradish",
       "pitchers_confirmed": "yes",
@@ -1389,7 +1389,7 @@
     "total_bets_today": 7,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 17,
-    "total_games_scanned_all": 49619,
+    "total_games_scanned_all": 49628,
     "record": {
       "wins": 64,
       "losses": 85,
