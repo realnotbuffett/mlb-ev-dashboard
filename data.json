@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T22:00:26.070793+00:00",
+  "last_updated": "2026-07-22T22:15:24.752542+00:00",
   "scoreboard": [
     {
       "game_id": "823518",
@@ -61,16 +61,16 @@
       "home": "COL",
       "away_score": 8,
       "home_score": 0,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-22T19:10:00Z"
     },
     {
       "game_id": "825055",
       "away": "OAK",
       "home": "ARI",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 14,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-22T19:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "SEA",
       "away_score": 5,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-22T19:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "LAA",
       "away_score": 1,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-07-22T20:07:00Z"
     },
     {
@@ -1034,12 +1034,12 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:17",
+      "time": "18:15:17",
       "game_id": "823519",
       "home_team": "New York Yankees",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.6286",
-      "away_prob": "0.3714",
+      "home_prob": "0.6235",
+      "away_prob": "0.3765",
       "poly_home_price": "0.0000",
       "poly_away_price": "0.0000",
       "home_ev": "0.0000",
@@ -1210,7 +1210,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:19",
+      "time": "18:15:19",
       "game_id": "824408",
       "home_team": "Cleveland Guardians",
       "away_team": "Minnesota Twins",
@@ -1232,7 +1232,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:19",
+      "time": "18:15:19",
       "game_id": "823438",
       "home_team": "Philadelphia Phillies",
       "away_team": "Los Angeles Dodgers",
@@ -1254,7 +1254,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:20",
+      "time": "18:15:20",
       "game_id": "822784",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
@@ -1276,7 +1276,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:22",
+      "time": "18:15:21",
       "game_id": "824896",
       "home_team": "Atlanta Braves",
       "away_team": "San Diego Padres",
@@ -1298,7 +1298,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:22",
+      "time": "18:15:22",
       "game_id": "822873",
       "home_team": "Texas Rangers",
       "away_team": "Chicago White Sox",
@@ -1320,7 +1320,7 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:24",
+      "time": "18:15:23",
       "game_id": "824650",
       "home_team": "Chicago Cubs",
       "away_team": "Detroit Tigers",
@@ -1342,16 +1342,16 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:25",
+      "time": "18:15:24",
       "game_id": "824166",
       "home_team": "Houston Astros",
       "away_team": "Miami Marlins",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0422",
-      "away_ev": "0.0257",
+      "home_ev": "-0.0398",
+      "away_ev": "0.0231",
       "home_pitcher": "Peter Lambert",
       "away_pitcher": "Sandy Alcantara",
       "pitchers_confirmed": "yes",
@@ -1364,16 +1364,16 @@
     },
     {
       "date": "2026-07-22",
-      "time": "18:00:18",
+      "time": "18:15:18",
       "game_id": "824732",
       "home_team": "Boston Red Sox",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.5406",
-      "away_prob": "0.4594",
+      "home_prob": "0.5367",
+      "away_prob": "0.4633",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "0.0011",
-      "away_ev": "-0.0226",
+      "home_ev": "-0.0061",
+      "away_ev": "-0.0143",
       "home_pitcher": "Eduardo Rivera",
       "away_pitcher": "Kyle Bradish",
       "pitchers_confirmed": "yes",
@@ -1389,7 +1389,7 @@
     "total_bets_today": 7,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 17,
-    "total_games_scanned_all": 49628,
+    "total_games_scanned_all": 49637,
     "record": {
       "wins": 64,
       "losses": 85,
