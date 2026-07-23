@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T20:15:06.022994+00:00",
+  "last_updated": "2026-07-23T20:30:06.046716+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -14,9 +14,9 @@
       "game_id": "824406",
       "away": "MIN",
       "home": "CLE",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 1,
-      "state": "T12",
+      "state": "B12",
       "start_time": "2026-07-23T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-07-23T19:07:00Z"
     },
     {
@@ -970,7 +970,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "16:15:04",
+      "time": "16:30:04",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
@@ -992,16 +992,16 @@
     },
     {
       "date": "2026-07-23",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "824247",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.6749",
-      "away_prob": "0.3251",
+      "home_prob": "0.6613",
+      "away_prob": "0.3387",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0075",
-      "away_ev": "-0.0148",
+      "home_ev": "-0.0275",
+      "away_ev": "0.0263",
       "home_pitcher": "Troy Melton",
       "away_pitcher": "Randy Dobnak",
       "pitchers_confirmed": "yes",
@@ -1017,7 +1017,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 49761,
+    "total_games_scanned_all": 49763,
     "record": {
       "wins": 69,
       "losses": 87,
