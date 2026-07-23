@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T19:15:06.069395+00:00",
+  "last_updated": "2026-07-23T19:30:06.017757+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 1,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-07-23T17:10:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "TB",
       "home": "TOR",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 1,
+      "state": "B1",
       "start_time": "2026-07-23T19:07:00Z"
     },
     {
@@ -970,16 +970,16 @@
     },
     {
       "date": "2026-07-23",
-      "time": "15:15:04",
+      "time": "15:30:04",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5089",
-      "away_prob": "0.4911",
+      "home_prob": "0.5051",
+      "away_prob": "0.4949",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "0.0178",
-      "away_ev": "-0.0371",
+      "home_ev": "0.0102",
+      "away_ev": "-0.0296",
       "home_pitcher": "Michael McGreevy",
       "away_pitcher": "Brandon Pfaadt",
       "pitchers_confirmed": "yes",
@@ -992,16 +992,16 @@
     },
     {
       "date": "2026-07-23",
-      "time": "15:15:05",
+      "time": "15:30:05",
       "game_id": "824247",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.6712",
-      "away_prob": "0.3288",
+      "home_prob": "0.6749",
+      "away_prob": "0.3251",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0130",
-      "away_ev": "-0.0035",
+      "home_ev": "-0.0075",
+      "away_ev": "-0.0148",
       "home_pitcher": "Troy Melton",
       "away_pitcher": "Randy Dobnak",
       "pitchers_confirmed": "yes",
@@ -1017,7 +1017,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 49753,
+    "total_games_scanned_all": 49755,
     "record": {
       "wins": 69,
       "losses": 87,
