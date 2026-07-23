@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T17:30:07.071848+00:00",
+  "last_updated": "2026-07-23T17:45:06.973068+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -7,7 +7,7 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 5,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-07-23T16:15:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-07-23T17:10:00Z"
     },
     {
@@ -948,16 +948,16 @@
     },
     {
       "date": "2026-07-23",
-      "time": "13:30:04",
+      "time": "13:45:04",
       "game_id": "822785",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4860",
-      "away_prob": "0.5140",
+      "home_prob": "0.4847",
+      "away_prob": "0.5153",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0280",
-      "away_ev": "0.0078",
+      "home_ev": "-0.0306",
+      "away_ev": "0.0104",
       "home_pitcher": "Shane Bieber",
       "away_pitcher": "Casey Legumina",
       "pitchers_confirmed": "yes",
@@ -970,16 +970,16 @@
     },
     {
       "date": "2026-07-23",
-      "time": "13:30:06",
+      "time": "13:45:05",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5254",
+      "away_prob": "0.4746",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0129",
-      "away_ev": "-0.0341",
+      "home_ev": "0.0103",
+      "away_ev": "-0.0314",
       "home_pitcher": "Michael McGreevy",
       "away_pitcher": "Brandon Pfaadt",
       "pitchers_confirmed": "yes",
@@ -992,7 +992,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "13:30:06",
+      "time": "13:45:06",
       "game_id": "824247",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
@@ -1017,7 +1017,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 49734,
+    "total_games_scanned_all": 49737,
     "record": {
       "wins": 69,
       "losses": 87,
