@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T19:30:06.017757+00:00",
+  "last_updated": "2026-07-23T19:45:06.165906+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 1,
-      "state": "B9",
+      "state": "T10",
       "start_time": "2026-07-23T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-07-23T19:07:00Z"
     },
     {
@@ -970,7 +970,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "15:30:04",
+      "time": "15:45:04",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
@@ -992,7 +992,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "15:30:05",
+      "time": "15:45:06",
       "game_id": "824247",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
@@ -1017,7 +1017,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 49755,
+    "total_games_scanned_all": 49757,
     "record": {
       "wins": 69,
       "losses": 87,
