@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T22:15:04.568266+00:00",
+  "last_updated": "2026-07-23T22:30:03.710355+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -32,18 +32,18 @@
       "game_id": "823042",
       "away": "ARI",
       "home": "STL",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 2,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-07-23T21:15:00Z"
     },
     {
       "game_id": "824247",
       "away": "KC",
       "home": "DET",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-23T22:40:00Z"
     }
   ],
