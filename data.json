@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T02:30:05.474537+00:00",
+  "last_updated": "2026-07-23T02:45:05.557589+00:00",
   "scoreboard": [
     {
       "game_id": "823518",
@@ -133,16 +133,16 @@
       "home": "TEX",
       "away_score": 4,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-07-23T00:05:00Z"
     },
     {
       "game_id": "824650",
       "away": "DET",
       "home": "CHC",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 1,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-23T00:10:00Z"
     },
     {
@@ -151,7 +151,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 5,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-07-23T00:10:00Z"
     }
   ],
