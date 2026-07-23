@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T14:00:09.610055+00:00",
+  "last_updated": "2026-07-23T14:15:10.226895+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -904,16 +904,16 @@
   "today_games": [
     {
       "date": "2026-07-23",
-      "time": "10:00:04",
+      "time": "10:15:05",
       "game_id": "824893",
       "home_team": "Atlanta Braves",
       "away_team": "San Diego Padres",
-      "home_prob": "0.6921",
-      "away_prob": "0.3079",
-      "poly_home_price": "0.6900",
-      "poly_away_price": "0.3200",
-      "home_ev": "0.0031",
-      "away_ev": "-0.0379",
+      "home_prob": "0.6941",
+      "away_prob": "0.3059",
+      "poly_home_price": "0.7000",
+      "poly_away_price": "0.3100",
+      "home_ev": "-0.0084",
+      "away_ev": "-0.0134",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Kyle Hart",
       "pitchers_confirmed": "yes",
@@ -926,7 +926,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "10:00:05",
+      "time": "10:15:06",
       "game_id": "824406",
       "home_team": "Cleveland Guardians",
       "away_team": "Minnesota Twins",
@@ -948,7 +948,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "10:00:06",
+      "time": "10:15:07",
       "game_id": "822785",
       "home_team": "Toronto Blue Jays",
       "away_team": "Tampa Bay Rays",
@@ -970,16 +970,16 @@
     },
     {
       "date": "2026-07-23",
-      "time": "10:00:08",
+      "time": "10:15:09",
       "game_id": "823042",
       "home_team": "St. Louis Cardinals",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.5242",
-      "away_prob": "0.4758",
+      "home_prob": "0.5267",
+      "away_prob": "0.4733",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0080",
-      "away_ev": "-0.0289",
+      "home_ev": "0.0129",
+      "away_ev": "-0.0341",
       "home_pitcher": "Michael McGreevy",
       "away_pitcher": "Brandon Pfaadt",
       "pitchers_confirmed": "yes",
@@ -992,7 +992,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "10:00:09",
+      "time": "10:15:10",
       "game_id": "824247",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
@@ -1017,7 +1017,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 49675,
+    "total_games_scanned_all": 49680,
     "record": {
       "wins": 69,
       "losses": 87,
