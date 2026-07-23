@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T22:00:05.149700+00:00",
+  "last_updated": "2026-07-23T22:15:04.568266+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -34,7 +34,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 2,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-07-23T21:15:00Z"
     },
     {
@@ -992,7 +992,7 @@
     },
     {
       "date": "2026-07-23",
-      "time": "18:00:04",
+      "time": "18:15:04",
       "game_id": "824247",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
@@ -1017,7 +1017,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 49770,
+    "total_games_scanned_all": 49771,
     "record": {
       "wins": 69,
       "losses": 87,
