@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T21:30:05.167723+00:00",
+  "last_updated": "2026-07-23T21:45:05.401103+00:00",
   "scoreboard": [
     {
       "game_id": "824893",
@@ -34,7 +34,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 2,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-07-23T21:15:00Z"
     },
     {
@@ -992,16 +992,16 @@
     },
     {
       "date": "2026-07-23",
-      "time": "17:30:05",
+      "time": "17:45:05",
       "game_id": "824247",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.6704",
-      "away_prob": "0.3296",
+      "home_prob": "0.6667",
+      "away_prob": "0.3333",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0141",
-      "away_ev": "-0.0013",
+      "home_ev": "-0.0196",
+      "away_ev": "0.0101",
       "home_pitcher": "Troy Melton",
       "away_pitcher": "Randy Dobnak",
       "pitchers_confirmed": "yes",
@@ -1017,7 +1017,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 156,
     "total_games_scanned_today": 5,
-    "total_games_scanned_all": 49768,
+    "total_games_scanned_all": 49769,
     "record": {
       "wins": 69,
       "losses": 87,
