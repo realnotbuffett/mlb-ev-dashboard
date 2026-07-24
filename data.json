@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T23:00:10.357236+00:00",
+  "last_updated": "2026-07-24T23:15:08.972930+00:00",
   "scoreboard": [
     {
       "game_id": "823759",
@@ -7,7 +7,7 @@
       "home": "MIL",
       "away_score": 5,
       "home_score": 2,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-07-24T20:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 2,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-24T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-07-24T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-24T22:45:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-07-24T22:45:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-24T23:05:00Z"
     },
     {
@@ -95,9 +95,9 @@
       "game_id": "824573",
       "away": "HOU",
       "home": "CWS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-24T23:40:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "19:00:07",
+      "time": "19:15:06",
       "game_id": "822872",
       "home_team": "Texas Rangers",
       "away_team": "Seattle Mariners",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "19:00:08",
+      "time": "19:15:06",
       "game_id": "823680",
       "home_team": "Minnesota Twins",
       "away_team": "Athletics",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "19:00:09",
+      "time": "19:15:07",
       "game_id": "823031",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cincinnati Reds",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "19:00:10",
+      "time": "19:15:08",
       "game_id": "823196",
       "home_team": "San Francisco Giants",
       "away_team": "Los Angeles Angels",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 165,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 50322,
+    "total_games_scanned_all": 50326,
     "record": {
       "wins": 69,
       "losses": 87,
