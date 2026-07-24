@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T22:45:12.566597+00:00",
+  "last_updated": "2026-07-24T23:00:10.357236+00:00",
   "scoreboard": [
     {
       "game_id": "823759",
@@ -7,7 +7,7 @@
       "home": "MIL",
       "away_score": 5,
       "home_score": 2,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-07-24T20:10:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "KC",
       "home": "DET",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "T2",
       "start_time": "2026-07-24T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B2",
       "start_time": "2026-07-24T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-24T22:45:00Z"
     },
     {
@@ -59,9 +59,9 @@
       "game_id": "823601",
       "away": "LAD",
       "home": "NYM",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-24T23:10:00Z"
     },
     {
@@ -77,18 +77,18 @@
       "game_id": "823843",
       "away": "SD",
       "home": "MIA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-24T23:10:00Z"
     },
     {
       "game_id": "824733",
       "away": "TOR",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-24T23:15:00Z"
     },
     {
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-07-24",
-      "time": "18:45:08",
+      "time": "19:00:06",
       "game_id": "824573",
       "home_team": "Chicago White Sox",
       "away_team": "Houston Astros",
       "home_prob": "0.5344",
       "away_prob": "0.4656",
-      "poly_home_price": "0.5400",
-      "poly_away_price": "0.4700",
-      "home_ev": "-0.0105",
-      "away_ev": "-0.0093",
+      "poly_home_price": "0.5500",
+      "poly_away_price": "0.4600",
+      "home_ev": "-0.0285",
+      "away_ev": "0.0123",
       "home_pitcher": "Davis Martin",
       "away_pitcher": "Spencer Arrighetti",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "18:45:09",
+      "time": "19:00:07",
       "game_id": "822872",
       "home_team": "Texas Rangers",
       "away_team": "Seattle Mariners",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "18:45:10",
+      "time": "19:00:08",
       "game_id": "823680",
       "home_team": "Minnesota Twins",
       "away_team": "Athletics",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "18:45:11",
+      "time": "19:00:09",
       "game_id": "823031",
       "home_team": "St. Louis Cardinals",
       "away_team": "Cincinnati Reds",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-24",
-      "time": "18:45:12",
+      "time": "19:00:10",
       "game_id": "823196",
       "home_team": "San Francisco Giants",
       "away_team": "Los Angeles Angels",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 165,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 50317,
+    "total_games_scanned_all": 50322,
     "record": {
       "wins": 69,
       "losses": 87,
