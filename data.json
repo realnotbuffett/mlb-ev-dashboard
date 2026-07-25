@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T01:30:06.808956+00:00",
+  "last_updated": "2026-07-25T01:45:06.587715+00:00",
   "scoreboard": [
     {
       "game_id": "823759",
@@ -52,7 +52,7 @@
       "home": "BAL",
       "away_score": 3,
       "home_score": 3,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-07-24T23:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 4,
       "home_score": 2,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-07-24T23:10:00Z"
     },
     {
@@ -69,7 +69,7 @@
       "away": "CLE",
       "home": "TB",
       "away_score": 1,
-      "home_score": 7,
+      "home_score": 11,
       "state": "B8",
       "start_time": "2026-07-24T23:10:00Z"
     },
@@ -77,25 +77,25 @@
       "game_id": "823843",
       "away": "SD",
       "home": "MIA",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 2,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-07-24T23:10:00Z"
     },
     {
       "game_id": "824733",
       "away": "TOR",
       "home": "BOS",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 4,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-07-24T23:15:00Z"
     },
     {
       "game_id": "824573",
       "away": "HOU",
       "home": "CWS",
-      "away_score": 0,
+      "away_score": 6,
       "home_score": 5,
       "state": "T6",
       "start_time": "2026-07-24T23:40:00Z"
@@ -104,18 +104,18 @@
       "game_id": "822872",
       "away": "SEA",
       "home": "TEX",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 3,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-07-25T00:05:00Z"
     },
     {
       "game_id": "823680",
       "away": "OAK",
       "home": "MIN",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-07-25T00:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "CIN",
       "home": "STL",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 2,
+      "state": "T6",
       "start_time": "2026-07-25T00:15:00Z"
     },
     {
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-07-24",
-      "time": "21:30:06",
+      "time": "21:45:06",
       "game_id": "823196",
       "home_team": "San Francisco Giants",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.5306",
-      "away_prob": "0.4694",
+      "home_prob": "0.5357",
+      "away_prob": "0.4643",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.1007",
-      "away_ev": "0.1176",
+      "home_ev": "-0.0920",
+      "away_ev": "0.1054",
       "home_pitcher": "Logan Webb",
       "away_pitcher": "Grayson Rodriguez",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 165,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 50340,
+    "total_games_scanned_all": 50341,
     "record": {
       "wins": 69,
       "losses": 87,
