@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T22:45:05.309691+00:00",
+  "last_updated": "2026-07-26T23:00:05.833005+00:00",
   "scoreboard": [
     {
       "game_id": "822950",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-07-26",
-      "time": "18:45:05",
+      "time": "19:00:05",
       "game_id": "823433",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Yankees",
-      "home_prob": "0.6583",
-      "away_prob": "0.3417",
+      "home_prob": "0.6575",
+      "away_prob": "0.3425",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0026",
-      "away_ev": "-0.0236",
+      "home_ev": "-0.0038",
+      "away_ev": "-0.0213",
       "home_pitcher": "Cristopher S\u00e1nchez",
       "away_pitcher": "Will Warren",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 167,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 51109,
+    "total_games_scanned_all": 51110,
     "record": {
       "wins": 75,
       "losses": 92,
