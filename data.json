@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T18:30:05.901295+00:00",
+  "last_updated": "2026-07-26T18:45:05.776275+00:00",
   "scoreboard": [
     {
       "game_id": "822950",
@@ -16,16 +16,16 @@
       "home": "WSH",
       "away_score": 3,
       "home_score": 2,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-07-26T17:35:00Z"
     },
     {
       "game_id": "823354",
       "away": "CHC",
       "home": "PIT",
-      "away_score": 1,
+      "away_score": 4,
       "home_score": 7,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-26T17:35:00Z"
     },
     {
@@ -34,34 +34,34 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-07-26T17:35:00Z"
     },
     {
       "game_id": "824810",
       "away": "ATL",
       "home": "BAL",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-26T17:35:00Z"
     },
     {
       "game_id": "824246",
       "away": "KC",
       "home": "DET",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-07-26T17:40:00Z"
     },
     {
       "game_id": "823599",
       "away": "LAD",
       "home": "NYM",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-07-26T17:40:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "SD",
       "home": "MIA",
       "away_score": 0,
-      "home_score": 2,
-      "state": "T3",
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-07-26T17:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 3,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-07-26T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "CWS",
       "away_score": 1,
       "home_score": 2,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-07-26T18:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 3,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-07-26T18:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-07-26T18:15:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-26T18:35:00Z"
     },
     {
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-07-26",
-      "time": "14:30:04",
+      "time": "14:45:04",
       "game_id": "823194",
       "home_team": "San Francisco Giants",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.4911",
-      "away_prob": "0.5089",
+      "home_prob": "0.4809",
+      "away_prob": "0.5191",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "0.0022",
-      "away_ev": "-0.0213",
+      "home_ev": "-0.0185",
+      "away_ev": "-0.0018",
       "home_pitcher": "Carson Whisenhunt",
       "away_pitcher": "Jos\u00e9 Soriano",
       "pitchers_confirmed": "yes",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-26",
-      "time": "14:30:05",
+      "time": "14:45:05",
       "game_id": "823433",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Yankees",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 167,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 51088,
+    "total_games_scanned_all": 51090,
     "record": {
       "wins": 75,
       "losses": 92,
