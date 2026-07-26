@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T20:45:04.968414+00:00",
+  "last_updated": "2026-07-26T21:00:04.907127+00:00",
   "scoreboard": [
     {
       "game_id": "822950",
@@ -41,9 +41,9 @@
       "game_id": "824810",
       "away": "ATL",
       "home": "BAL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
-      "state": "B10",
+      "state": "T11",
       "start_time": "2026-07-26T17:35:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "DET",
       "away_score": 5,
       "home_score": 4,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-07-26T17:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 3,
       "home_score": 8,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-26T17:40:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "OAK",
       "home": "MIN",
       "away_score": 6,
-      "home_score": 9,
-      "state": "T8",
+      "home_score": 11,
+      "state": "B8",
       "start_time": "2026-07-26T18:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "HOU",
       "home": "CWS",
       "away_score": 3,
-      "home_score": 9,
-      "state": "B8",
+      "home_score": 12,
+      "state": "FINAL",
       "start_time": "2026-07-26T18:10:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "COL",
       "home": "MIL",
       "away_score": 2,
-      "home_score": 10,
-      "state": "B8",
+      "home_score": 11,
+      "state": "FINAL",
       "start_time": "2026-07-26T18:10:00Z"
     },
     {
@@ -106,14 +106,14 @@
       "home": "STL",
       "away_score": 2,
       "home_score": 2,
-      "state": "T9",
+      "state": "T10",
       "start_time": "2026-07-26T18:15:00Z"
     },
     {
       "game_id": "822870",
       "away": "SEA",
       "home": "TEX",
-      "away_score": 1,
+      "away_score": 5,
       "home_score": 3,
       "state": "T7",
       "start_time": "2026-07-26T18:35:00Z"
@@ -122,9 +122,9 @@
       "game_id": "823194",
       "away": "LAA",
       "home": "SF",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-07-26T20:05:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-07-26",
-      "time": "16:45:04",
+      "time": "17:00:04",
       "game_id": "823433",
       "home_team": "Philadelphia Phillies",
       "away_team": "New York Yankees",
-      "home_prob": "0.6480",
-      "away_prob": "0.3520",
+      "home_prob": "0.6544",
+      "away_prob": "0.3456",
       "poly_home_price": "0.6600",
       "poly_away_price": "0.3500",
-      "home_ev": "-0.0182",
-      "away_ev": "0.0057",
+      "home_ev": "-0.0085",
+      "away_ev": "-0.0125",
       "home_pitcher": "Cristopher S\u00e1nchez",
       "away_pitcher": "Will Warren",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 167,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 51101,
+    "total_games_scanned_all": 51102,
     "record": {
       "wins": 75,
       "losses": 92,
