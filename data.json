@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T20:15:16.073025+00:00",
+  "last_updated": "2026-07-28T20:30:16.324135+00:00",
   "scoreboard": [
     {
       "game_id": "824490",
@@ -7,7 +7,7 @@
       "home": "CIN",
       "away_score": 6,
       "home_score": 5,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-07-28T17:40:00Z"
     },
     {
@@ -1025,7 +1025,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:04",
+      "time": "16:30:04",
       "game_id": "824243",
       "home_team": "Detroit Tigers",
       "away_team": "Baltimore Orioles",
@@ -1047,7 +1047,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:05",
+      "time": "16:30:05",
       "game_id": "823350",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Arizona Diamondbacks",
@@ -1069,7 +1069,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:07",
+      "time": "16:30:07",
       "game_id": "823838",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
@@ -1091,7 +1091,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:08",
+      "time": "16:30:08",
       "game_id": "822703",
       "home_team": "Washington Nationals",
       "away_team": "Toronto Blue Jays",
@@ -1135,16 +1135,16 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:09",
+      "time": "16:30:09",
       "game_id": "823676",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.6150",
-      "away_prob": "0.3850",
+      "home_prob": "0.6159",
+      "away_prob": "0.3841",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0080",
-      "away_ev": "-0.0129",
+      "home_ev": "-0.0065",
+      "away_ev": "-0.0152",
       "home_pitcher": "Taj Bradley",
       "away_pitcher": "Seth Lugo",
       "pitchers_confirmed": "yes",
@@ -1157,7 +1157,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:10",
+      "time": "16:30:10",
       "game_id": "824569",
       "home_team": "Chicago White Sox",
       "away_team": "New York Yankees",
@@ -1179,7 +1179,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:12",
+      "time": "16:30:12",
       "game_id": "824003",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
@@ -1201,16 +1201,16 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:13",
+      "time": "16:30:13",
       "game_id": "824976",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.4239",
-      "away_prob": "0.5761",
+      "home_prob": "0.4229",
+      "away_prob": "0.5771",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0141",
-      "away_ev": "-0.0068",
+      "home_ev": "-0.0165",
+      "away_ev": "-0.0050",
       "home_pitcher": "Gage Jump",
       "away_pitcher": "Jake Bennett",
       "pitchers_confirmed": "yes",
@@ -1223,7 +1223,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:14",
+      "time": "16:30:14",
       "game_id": "823275",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:14",
+      "time": "16:30:15",
       "game_id": "823193",
       "home_team": "San Francisco Giants",
       "away_team": "Milwaukee Brewers",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:06",
+      "time": "16:30:06",
       "game_id": "822949",
       "home_team": "Tampa Bay Rays",
       "away_team": "Texas Rangers",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:11",
+      "time": "16:30:11",
       "game_id": "823026",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "16:15:15",
+      "time": "16:30:16",
       "game_id": "823923",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1336,7 +1336,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 171,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 51886,
+    "total_games_scanned_all": 51899,
     "record": {
       "wins": 76,
       "losses": 95,
