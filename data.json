@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T19:45:15.385854+00:00",
+  "last_updated": "2026-07-28T20:00:16.638364+00:00",
   "scoreboard": [
     {
       "game_id": "824490",
@@ -7,7 +7,7 @@
       "home": "CIN",
       "away_score": 5,
       "home_score": 5,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-07-28T17:40:00Z"
     },
     {
@@ -1025,7 +1025,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:04",
+      "time": "16:00:05",
       "game_id": "824243",
       "home_team": "Detroit Tigers",
       "away_team": "Baltimore Orioles",
@@ -1047,7 +1047,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:05",
+      "time": "16:00:05",
       "game_id": "823350",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Arizona Diamondbacks",
@@ -1069,7 +1069,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:07",
+      "time": "16:00:07",
       "game_id": "823838",
       "home_team": "Miami Marlins",
       "away_team": "Philadelphia Phillies",
@@ -1091,16 +1091,16 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:08",
+      "time": "16:00:08",
       "game_id": "822703",
       "home_team": "Washington Nationals",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5578",
-      "away_prob": "0.4422",
+      "home_prob": "0.5689",
+      "away_prob": "0.4311",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0214",
-      "away_ev": "0.0050",
+      "home_ev": "-0.0019",
+      "away_ev": "-0.0203",
       "home_pitcher": "Cade Cavalli",
       "away_pitcher": "Shane Bieber",
       "pitchers_confirmed": "yes",
@@ -1135,7 +1135,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:09",
+      "time": "16:00:09",
       "game_id": "823676",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1157,7 +1157,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:10",
+      "time": "16:00:10",
       "game_id": "824569",
       "home_team": "Chicago White Sox",
       "away_team": "New York Yankees",
@@ -1179,16 +1179,16 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:12",
+      "time": "16:00:12",
       "game_id": "824003",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
-      "home_prob": "0.4974",
-      "away_prob": "0.5026",
+      "home_prob": "0.4949",
+      "away_prob": "0.5051",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "-0.0246",
-      "away_ev": "0.0051",
+      "home_ev": "-0.0296",
+      "away_ev": "0.0102",
       "home_pitcher": "Reid Detmers",
       "away_pitcher": "Peter Lambert",
       "pitchers_confirmed": "yes",
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:13",
+      "time": "16:00:13",
       "game_id": "824976",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
@@ -1223,7 +1223,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:14",
+      "time": "16:00:14",
       "game_id": "823275",
       "home_team": "San Diego Padres",
       "away_team": "Colorado Rockies",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:15",
+      "time": "16:00:15",
       "game_id": "823193",
       "home_team": "San Francisco Giants",
       "away_team": "Milwaukee Brewers",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:06",
+      "time": "16:00:06",
       "game_id": "822949",
       "home_team": "Tampa Bay Rays",
       "away_team": "Texas Rangers",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-28",
-      "time": "15:45:11",
+      "time": "16:00:11",
       "game_id": "823026",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
@@ -1308,13 +1308,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-07-28",
+      "time": "16:00:16",
+      "game_id": "823923",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Seattle Mariners",
+      "home_prob": "0.6480",
+      "away_prob": "0.3520",
+      "poly_home_price": "0.6400",
+      "poly_away_price": "0.3700",
+      "home_ev": "0.0125",
+      "away_ev": "-0.0487",
+      "home_pitcher": "Justin Wrobleski",
+      "away_pitcher": "Luis Castillo",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 171,
-    "total_games_scanned_today": 14,
-    "total_games_scanned_all": 51860,
+    "total_games_scanned_today": 15,
+    "total_games_scanned_all": 51873,
     "record": {
       "wins": 76,
       "losses": 95,
