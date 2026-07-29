@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T23:00:10.889720+00:00",
+  "last_updated": "2026-07-29T23:15:10.611256+00:00",
   "scoreboard": [
     {
       "game_id": "823837",
@@ -79,7 +79,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 3,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-07-29T22:40:00Z"
     },
     {
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:00:05",
+      "time": "19:15:05",
       "game_id": "823677",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1223,7 +1223,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:00:06",
+      "time": "19:15:06",
       "game_id": "824567",
       "home_team": "Chicago White Sox",
       "away_team": "New York Yankees",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:00:07",
+      "time": "19:15:07",
       "game_id": "823022",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:00:08",
+      "time": "19:15:08",
       "game_id": "824002",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:00:09",
+      "time": "19:15:09",
       "game_id": "824973",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:00:10",
+      "time": "19:15:10",
       "game_id": "823924",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52544,
+    "total_games_scanned_all": 52550,
     "record": {
       "wins": 77,
       "losses": 97,
