@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T23:15:10.611256+00:00",
+  "last_updated": "2026-07-29T23:30:08.964081+00:00",
   "scoreboard": [
     {
       "game_id": "823837",
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "TB",
       "away_score": 0,
       "home_score": 3,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-07-29T22:40:00Z"
     },
     {
@@ -88,34 +88,34 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
       "game_id": "823677",
       "away": "KC",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
       "game_id": "824567",
       "away": "NYY",
       "home": "CWS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
       "game_id": "823022",
       "away": "CHC",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-29T23:45:00Z"
     },
     {
@@ -1267,16 +1267,16 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:15:08",
+      "time": "19:30:06",
       "game_id": "824002",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
-      "home_prob": "0.4532",
-      "away_prob": "0.5468",
+      "home_prob": "0.4520",
+      "away_prob": "0.5480",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "0.0070",
-      "away_ev": "-0.0235",
+      "home_ev": "0.0045",
+      "away_ev": "-0.0215",
       "home_pitcher": "Grayson Rodriguez",
       "away_pitcher": "Hayden Wesneski",
       "pitchers_confirmed": "yes",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:15:09",
+      "time": "19:30:07",
       "game_id": "824973",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "19:15:10",
+      "time": "19:30:08",
       "game_id": "823924",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52550,
+    "total_games_scanned_all": 52553,
     "record": {
       "wins": 77,
       "losses": 97,
