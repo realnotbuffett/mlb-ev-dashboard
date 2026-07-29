@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T22:45:24.414972+00:00",
+  "last_updated": "2026-07-29T23:00:10.889720+00:00",
   "scoreboard": [
     {
       "game_id": "823837",
@@ -50,9 +50,9 @@
       "game_id": "823598",
       "away": "ATL",
       "home": "NYM",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "SF",
       "away_score": 3,
       "home_score": 16,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-29T19:45:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "SD",
       "away_score": 1,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-29T20:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "TEX",
       "home": "TB",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 3,
+      "state": "T2",
       "start_time": "2026-07-29T22:40:00Z"
     },
     {
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "18:45:19",
+      "time": "19:00:05",
       "game_id": "823677",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1223,7 +1223,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "18:45:20",
+      "time": "19:00:06",
       "game_id": "824567",
       "home_team": "Chicago White Sox",
       "away_team": "New York Yankees",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "18:45:21",
+      "time": "19:00:07",
       "game_id": "823022",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
@@ -1267,16 +1267,16 @@
     },
     {
       "date": "2026-07-29",
-      "time": "18:45:22",
+      "time": "19:00:08",
       "game_id": "824002",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
-      "home_prob": "0.4520",
-      "away_prob": "0.5480",
+      "home_prob": "0.4532",
+      "away_prob": "0.5468",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "0.0045",
-      "away_ev": "-0.0215",
+      "home_ev": "0.0070",
+      "away_ev": "-0.0235",
       "home_pitcher": "Grayson Rodriguez",
       "away_pitcher": "Hayden Wesneski",
       "pitchers_confirmed": "yes",
@@ -1289,16 +1289,16 @@
     },
     {
       "date": "2026-07-29",
-      "time": "18:45:23",
+      "time": "19:00:09",
       "game_id": "824973",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.4204",
-      "away_prob": "0.5796",
+      "home_prob": "0.4169",
+      "away_prob": "0.5831",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "0.0009",
-      "away_ev": "-0.0176",
+      "home_ev": "-0.0074",
+      "away_ev": "-0.0116",
       "home_pitcher": "Jacob Lopez",
       "away_pitcher": "Patrick Sandoval",
       "pitchers_confirmed": "yes",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "18:45:24",
+      "time": "19:00:10",
       "game_id": "823924",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52538,
+    "total_games_scanned_all": 52544,
     "record": {
       "wins": 77,
       "losses": 97,
