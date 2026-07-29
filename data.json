@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T21:30:30.471040+00:00",
+  "last_updated": "2026-07-29T21:45:25.162326+00:00",
   "scoreboard": [
     {
       "game_id": "823837",
@@ -60,8 +60,8 @@
       "away": "MIL",
       "home": "SF",
       "away_score": 2,
-      "home_score": 3,
-      "state": "T6",
+      "home_score": 5,
+      "state": "B6",
       "start_time": "2026-07-29T19:45:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "SD",
       "away_score": 0,
       "home_score": 3,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-29T20:10:00Z"
     },
     {
@@ -1113,7 +1113,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:17",
+      "time": "17:45:17",
       "game_id": "823598",
       "home_team": "New York Mets",
       "away_team": "Atlanta Braves",
@@ -1157,7 +1157,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:19",
+      "time": "17:45:18",
       "game_id": "822947",
       "home_team": "Tampa Bay Rays",
       "away_team": "Texas Rangers",
@@ -1170,8 +1170,8 @@
       "home_pitcher": "Casey Legumina",
       "away_pitcher": "MacKenzie Gore",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1179,16 +1179,16 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:20",
+      "time": "17:45:19",
       "game_id": "824487",
       "home_team": "Cincinnati Reds",
       "away_team": "Cleveland Guardians",
-      "home_prob": "0.4422",
-      "away_prob": "0.5578",
+      "home_prob": "0.4386",
+      "away_prob": "0.5614",
       "poly_home_price": "0.4400",
       "poly_away_price": "0.5700",
-      "home_ev": "0.0050",
-      "away_ev": "-0.0214",
+      "home_ev": "-0.0032",
+      "away_ev": "-0.0151",
       "home_pitcher": "Brady Singer",
       "away_pitcher": "Joey Cantillo",
       "pitchers_confirmed": "yes",
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:22",
+      "time": "17:45:20",
       "game_id": "823677",
       "home_team": "Minnesota Twins",
       "away_team": "Kansas City Royals",
@@ -1214,8 +1214,8 @@
       "home_pitcher": "Joe Ryan",
       "away_pitcher": "Randy Dobnak",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1223,7 +1223,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:25",
+      "time": "17:45:21",
       "game_id": "824567",
       "home_team": "Chicago White Sox",
       "away_team": "New York Yankees",
@@ -1236,8 +1236,8 @@
       "home_pitcher": "Davis Martin",
       "away_pitcher": "Cam Schlittler",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "home",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:26",
+      "time": "17:45:22",
       "game_id": "823022",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:26",
+      "time": "17:45:23",
       "game_id": "824002",
       "home_team": "Los Angeles Angels",
       "away_team": "Houston Astros",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:28",
+      "time": "17:45:24",
       "game_id": "824973",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "17:30:30",
+      "time": "17:45:24",
       "game_id": "823924",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1324,8 +1324,8 @@
       "home_pitcher": "Eric Lauer",
       "away_pitcher": "Emerson Hancock",
       "pitchers_confirmed": "yes",
-      "bet_placed": "yes",
-      "bet_side": "away",
+      "bet_placed": "no",
+      "bet_side": "",
       "home_score": "",
       "away_score": "",
       "winner": "",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52496,
+    "total_games_scanned_all": 52505,
     "record": {
       "wins": 77,
       "losses": 97,
