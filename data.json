@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T01:15:07.599840+00:00",
+  "last_updated": "2026-07-29T01:30:05.292186+00:00",
   "scoreboard": [
     {
       "game_id": "824490",
@@ -16,7 +16,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-07-28T23:10:00Z"
     },
     {
@@ -33,7 +33,7 @@
       "away": "ARI",
       "home": "PIT",
       "away_score": 6,
-      "home_score": 0,
+      "home_score": 3,
       "state": "B8",
       "start_time": "2026-07-28T22:40:00Z"
     },
@@ -43,7 +43,7 @@
       "home": "TB",
       "away_score": 4,
       "home_score": 1,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-07-28T22:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "TOR",
       "home": "WSH",
       "away_score": 2,
-      "home_score": 4,
-      "state": "B4",
+      "home_score": 7,
+      "state": "T5",
       "start_time": "2026-07-28T22:45:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 1,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-07-28T23:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "CWS",
       "away_score": 3,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-07-28T23:40:00Z"
     },
     {
       "game_id": "823026",
       "away": "CHC",
       "home": "STL",
-      "away_score": 7,
+      "away_score": 8,
       "home_score": 1,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-07-28T23:45:00Z"
     },
     {
@@ -104,27 +104,27 @@
       "game_id": "824976",
       "away": "BOS",
       "home": "OAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-29T01:40:00Z"
     },
     {
       "game_id": "823275",
       "away": "COL",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-29T01:40:00Z"
     },
     {
       "game_id": "823193",
       "away": "MIL",
       "home": "SF",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-29T01:45:00Z"
     },
     {
@@ -1311,16 +1311,16 @@
     },
     {
       "date": "2026-07-28",
-      "time": "21:15:07",
+      "time": "21:30:05",
       "game_id": "823923",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.6659",
-      "away_prob": "0.3341",
+      "home_prob": "0.6734",
+      "away_prob": "0.3266",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0207",
-      "away_ev": "0.0124",
+      "home_ev": "-0.0097",
+      "away_ev": "-0.0104",
       "home_pitcher": "Justin Wrobleski",
       "away_pitcher": "Luis Castillo",
       "pitchers_confirmed": "yes",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 3,
     "total_bets_all_time": 174,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52070,
+    "total_games_scanned_all": 52071,
     "record": {
       "wins": 76,
       "losses": 95,
