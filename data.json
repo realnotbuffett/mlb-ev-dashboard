@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T21:00:09.101053+00:00",
+  "last_updated": "2026-07-30T21:15:09.097760+00:00",
   "scoreboard": [
     {
       "game_id": "822946",
@@ -24,17 +24,17 @@
       "away": "NYY",
       "home": "CWS",
       "away_score": 1,
-      "home_score": 0,
-      "state": "B10",
+      "home_score": 1,
+      "state": "T11",
       "start_time": "2026-07-30T18:10:00Z"
     },
     {
       "game_id": "823023",
       "away": "CHC",
       "home": "STL",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 2,
-      "state": "T10",
+      "state": "B10",
       "start_time": "2026-07-30T18:15:00Z"
     },
     {
@@ -1037,7 +1037,7 @@
     },
     {
       "date": "2026-07-30",
-      "time": "17:00:05",
+      "time": "17:15:05",
       "game_id": "824488",
       "home_team": "Cincinnati Reds",
       "away_team": "Pittsburgh Pirates",
@@ -1059,7 +1059,7 @@
     },
     {
       "date": "2026-07-30",
-      "time": "17:00:06",
+      "time": "17:15:06",
       "game_id": "823595",
       "home_team": "New York Mets",
       "away_team": "Miami Marlins",
@@ -1081,16 +1081,16 @@
     },
     {
       "date": "2026-07-30",
-      "time": "17:00:07",
+      "time": "17:15:07",
       "game_id": "824894",
       "home_team": "Atlanta Braves",
       "away_team": "Washington Nationals",
       "home_prob": "0.5911",
       "away_prob": "0.4089",
-      "poly_home_price": "0.6000",
-      "poly_away_price": "0.4100",
-      "home_ev": "-0.0148",
-      "away_ev": "-0.0028",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "0.0019",
+      "away_ev": "-0.0265",
       "home_pitcher": "Grant Holmes",
       "away_pitcher": "Jake Irvin",
       "pitchers_confirmed": "yes",
@@ -1103,7 +1103,7 @@
     },
     {
       "date": "2026-07-30",
-      "time": "17:00:07",
+      "time": "17:15:08",
       "game_id": "824974",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
@@ -1125,7 +1125,7 @@
     },
     {
       "date": "2026-07-30",
-      "time": "17:00:08",
+      "time": "17:15:08",
       "game_id": "823921",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1150,7 +1150,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 52810,
+    "total_games_scanned_all": 52815,
     "record": {
       "wins": 80,
       "losses": 103,
