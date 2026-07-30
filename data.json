@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T01:00:07.898727+00:00",
+  "last_updated": "2026-07-30T01:15:07.027023+00:00",
   "scoreboard": [
     {
       "game_id": "823837",
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "CLE",
       "home": "CIN",
       "away_score": 4,
-      "home_score": 0,
-      "state": "T6",
+      "home_score": 1,
+      "state": "B6",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIN",
       "away_score": 4,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CWS",
       "away_score": 4,
       "home_score": 0,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-07-29T23:45:00Z"
     },
     {
       "game_id": "824002",
       "away": "HOU",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-30T01:38:00Z"
     },
     {
@@ -1289,16 +1289,16 @@
     },
     {
       "date": "2026-07-29",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "824973",
       "home_team": "Athletics",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.4158",
-      "away_prob": "0.5842",
+      "home_prob": "0.4229",
+      "away_prob": "0.5771",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0099",
-      "away_ev": "-0.0099",
+      "home_ev": "0.0069",
+      "away_ev": "-0.0218",
       "home_pitcher": "Jacob Lopez",
       "away_pitcher": "Patrick Sandoval",
       "pitchers_confirmed": "yes",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "21:00:07",
+      "time": "21:15:06",
       "game_id": "823924",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52571,
+    "total_games_scanned_all": 52573,
     "record": {
       "wins": 77,
       "losses": 97,
