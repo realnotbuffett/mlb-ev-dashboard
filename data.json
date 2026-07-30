@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T01:15:07.027023+00:00",
+  "last_updated": "2026-07-30T01:30:06.159459+00:00",
   "scoreboard": [
     {
       "game_id": "823837",
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 0,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "824487",
       "away": "CLE",
       "home": "CIN",
-      "away_score": 4,
+      "away_score": 6,
       "home_score": 1,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIN",
       "away_score": 4,
       "home_score": 0,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CWS",
       "away_score": 4,
       "home_score": 0,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-07-29T23:45:00Z"
     },
     {
@@ -131,9 +131,9 @@
       "game_id": "824973",
       "away": "BOS",
       "home": "OAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-07-30T01:40:00Z"
     },
     {
@@ -1311,16 +1311,16 @@
     },
     {
       "date": "2026-07-29",
-      "time": "21:15:06",
+      "time": "21:30:05",
       "game_id": "823924",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
       "home_prob": "0.5846",
       "away_prob": "0.4154",
-      "poly_home_price": "0.6200",
-      "poly_away_price": "0.3900",
-      "home_ev": "-0.0571",
-      "away_ev": "0.0652",
+      "poly_home_price": "0.6300",
+      "poly_away_price": "0.3800",
+      "home_ev": "-0.0721",
+      "away_ev": "0.0932",
       "home_pitcher": "Eric Lauer",
       "away_pitcher": "Emerson Hancock",
       "pitchers_confirmed": "yes",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52573,
+    "total_games_scanned_all": 52574,
     "record": {
       "wins": 77,
       "losses": 97,
