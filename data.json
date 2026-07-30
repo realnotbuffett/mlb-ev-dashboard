@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T01:30:06.159459+00:00",
+  "last_updated": "2026-07-30T01:45:05.929382+00:00",
   "scoreboard": [
     {
       "game_id": "823837",
@@ -52,7 +52,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 0,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "CIN",
       "away_score": 6,
       "home_score": 1,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-07-29T23:10:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIN",
       "away_score": 4,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "NYY",
       "home": "CWS",
       "away_score": 4,
-      "home_score": 0,
-      "state": "T7",
+      "home_score": 1,
+      "state": "B7",
       "start_time": "2026-07-29T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "STL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-07-29T23:45:00Z"
     },
     {
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-07-29",
-      "time": "21:30:05",
+      "time": "21:45:05",
       "game_id": "823924",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 9,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 52574,
+    "total_games_scanned_all": 52575,
     "record": {
       "wins": 77,
       "losses": 97,
