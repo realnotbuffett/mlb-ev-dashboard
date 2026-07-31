@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T13:00:20.670730+00:00",
+  "last_updated": "2026-07-31T13:15:19.046389+00:00",
   "scoreboard": [
     {
       "game_id": "824651",
@@ -994,7 +994,7 @@
   "today_games": [
     {
       "date": "2026-07-31",
-      "time": "09:00:08",
+      "time": "09:15:06",
       "game_id": "824651",
       "home_team": "Chicago Cubs",
       "away_team": "New York Yankees",
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:09",
+      "time": "09:15:07",
       "game_id": "824486",
       "home_team": "Cincinnati Reds",
       "away_team": "Pittsburgh Pirates",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:10",
+      "time": "09:15:08",
       "game_id": "822782",
       "home_team": "Toronto Blue Jays",
       "away_team": "St. Louis Cardinals",
@@ -1060,16 +1060,16 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:11",
+      "time": "09:15:09",
       "game_id": "824407",
       "home_team": "Cleveland Guardians",
       "away_team": "Arizona Diamondbacks",
       "home_prob": "0.5516",
       "away_prob": "0.4484",
       "poly_home_price": "0.5600",
-      "poly_away_price": "0.4500",
+      "poly_away_price": "0.4600",
       "home_ev": "-0.0149",
-      "away_ev": "-0.0036",
+      "away_ev": "-0.0253",
       "home_pitcher": "Tanner Bibee",
       "away_pitcher": "Mitch Bratt",
       "pitchers_confirmed": "yes",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:12",
+      "time": "09:15:10",
       "game_id": "822945",
       "home_team": "Tampa Bay Rays",
       "away_team": "Chicago White Sox",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:13",
+      "time": "09:15:11",
       "game_id": "823593",
       "home_team": "New York Mets",
       "away_team": "Miami Marlins",
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:13",
+      "time": "09:15:12",
       "game_id": "824892",
       "home_team": "Atlanta Braves",
       "away_team": "Washington Nationals",
-      "home_prob": "0.5179",
-      "away_prob": "0.4821",
+      "home_prob": "0.5165",
+      "away_prob": "0.4835",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0229",
-      "away_ev": "0.0045",
+      "home_ev": "-0.0254",
+      "away_ev": "0.0072",
       "home_pitcher": "Bryce Elder",
       "away_pitcher": "Foster Griffin",
       "pitchers_confirmed": "yes",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:14",
+      "time": "09:15:13",
       "game_id": "824164",
       "home_team": "Houston Astros",
       "away_team": "Texas Rangers",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:15",
+      "time": "09:15:14",
       "game_id": "824325",
       "home_team": "Colorado Rockies",
       "away_team": "Kansas City Royals",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:16",
+      "time": "09:15:15",
       "game_id": "823999",
       "home_team": "Los Angeles Angels",
       "away_team": "Milwaukee Brewers",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:17",
+      "time": "09:15:16",
       "game_id": "824975",
       "home_team": "Athletics",
       "away_team": "Detroit Tigers",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:18",
+      "time": "09:15:16",
       "game_id": "823272",
       "home_team": "San Diego Padres",
       "away_team": "San Francisco Giants",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:19",
+      "time": "09:15:17",
       "game_id": "823922",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Boston Red Sox",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "09:00:20",
+      "time": "09:15:18",
       "game_id": "823111",
       "home_team": "Seattle Mariners",
       "away_team": "Minnesota Twins",
@@ -1305,7 +1305,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 52888,
+    "total_games_scanned_all": 52902,
     "record": {
       "wins": 80,
       "losses": 103,
