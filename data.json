@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T20:30:16.298780+00:00",
+  "last_updated": "2026-07-31T20:45:16.286645+00:00",
   "scoreboard": [
     {
       "game_id": "824651",
@@ -7,7 +7,7 @@
       "home": "CHC",
       "away_score": 2,
       "home_score": 0,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-07-31T18:20:00Z"
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "824486",
       "home_team": "Cincinnati Reds",
       "away_team": "Pittsburgh Pirates",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:07",
+      "time": "16:45:06",
       "game_id": "822782",
       "home_team": "Toronto Blue Jays",
       "away_team": "St. Louis Cardinals",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:08",
+      "time": "16:45:07",
       "game_id": "824407",
       "home_team": "Cleveland Guardians",
       "away_team": "Arizona Diamondbacks",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:08",
+      "time": "16:45:08",
       "game_id": "822945",
       "home_team": "Tampa Bay Rays",
       "away_team": "Chicago White Sox",
@@ -1104,16 +1104,16 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:09",
+      "time": "16:45:09",
       "game_id": "823593",
       "home_team": "New York Mets",
       "away_team": "Miami Marlins",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5254",
+      "away_prob": "0.4746",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_ev": "-0.0087",
+      "away_ev": "-0.0112",
       "home_pitcher": "Kodai Senga",
       "away_pitcher": "Janson Junk",
       "pitchers_confirmed": "yes",
@@ -1126,16 +1126,16 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:10",
+      "time": "16:45:10",
       "game_id": "824892",
       "home_team": "Atlanta Braves",
       "away_team": "Washington Nationals",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_ev": "-0.0014",
+      "away_ev": "-0.0193",
       "home_pitcher": "Bryce Elder",
       "away_pitcher": "Foster Griffin",
       "pitchers_confirmed": "yes",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:11",
+      "time": "16:45:11",
       "game_id": "824164",
       "home_team": "Houston Astros",
       "away_team": "Texas Rangers",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:12",
+      "time": "16:45:12",
       "game_id": "824325",
       "home_team": "Colorado Rockies",
       "away_team": "Kansas City Royals",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:13",
+      "time": "16:45:13",
       "game_id": "823999",
       "home_team": "Los Angeles Angels",
       "away_team": "Milwaukee Brewers",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:14",
+      "time": "16:45:14",
       "game_id": "823272",
       "home_team": "San Diego Padres",
       "away_team": "San Francisco Giants",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:15",
+      "time": "16:45:15",
       "game_id": "823922",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Boston Red Sox",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:16",
+      "time": "16:45:16",
       "game_id": "823111",
       "home_team": "Seattle Mariners",
       "away_team": "Minnesota Twins",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-07-31",
-      "time": "16:30:06",
+      "time": "16:45:06",
       "game_id": "824809",
       "home_team": "Baltimore Orioles",
       "away_team": "Philadelphia Phillies",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 53269,
+    "total_games_scanned_all": 53282,
     "record": {
       "wins": 80,
       "losses": 103,
