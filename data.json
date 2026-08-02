@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T21:15:06.154056+00:00",
+  "last_updated": "2026-08-02T21:30:05.671170+00:00",
   "scoreboard": [
     {
       "game_id": "824807",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 8,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-08-02T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 5,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-02T17:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "COL",
       "away_score": 1,
       "home_score": 8,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-08-02T19:10:00Z"
     },
     {
@@ -96,26 +96,26 @@
       "away": "MIL",
       "home": "LAA",
       "away_score": 0,
-      "home_score": 2,
-      "state": "T8",
+      "home_score": 3,
+      "state": "B8",
       "start_time": "2026-08-02T19:15:00Z"
     },
     {
       "game_id": "824971",
       "away": "DET",
       "home": "OAK",
-      "away_score": 4,
+      "away_score": 6,
       "home_score": 0,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-08-02T20:05:00Z"
     },
     {
       "game_id": "823270",
       "away": "SF",
       "home": "SD",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 4,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-08-02T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-08-02T20:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-08-02",
-      "time": "17:15:05",
+      "time": "17:30:05",
       "game_id": "823919",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.6268",
-      "away_prob": "0.3732",
+      "home_prob": "0.6351",
+      "away_prob": "0.3649",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0051",
-      "away_ev": "-0.0179",
+      "home_ev": "0.0080",
+      "away_ev": "-0.0397",
       "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Jake Bennett",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 54340,
+    "total_games_scanned_all": 54341,
     "record": {
       "wins": 80,
       "losses": 103,
