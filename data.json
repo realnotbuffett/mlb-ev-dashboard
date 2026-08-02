@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T23:00:05.594288+00:00",
+  "last_updated": "2026-08-02T23:15:05.057449+00:00",
   "scoreboard": [
     {
       "game_id": "824807",
@@ -104,9 +104,9 @@
       "game_id": "824971",
       "away": "DET",
       "home": "OAK",
-      "away_score": 10,
+      "away_score": 11,
       "home_score": 0,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-08-02T20:05:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "SD",
       "away_score": 4,
       "home_score": 5,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-08-02T20:10:00Z"
     },
     {
@@ -123,8 +123,8 @@
       "away": "MIN",
       "home": "SEA",
       "away_score": 6,
-      "home_score": 6,
-      "state": "B9",
+      "home_score": 7,
+      "state": "FINAL",
       "start_time": "2026-08-02T20:10:00Z"
     },
     {
