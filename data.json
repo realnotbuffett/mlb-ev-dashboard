@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T01:45:03.622345+00:00",
+  "last_updated": "2026-08-03T02:00:04.333710+00:00",
   "scoreboard": [
     {
       "game_id": "824807",
@@ -131,7 +131,7 @@
       "game_id": "823919",
       "away": "BOS",
       "home": "LAD",
-      "away_score": 6,
+      "away_score": 8,
       "home_score": 4,
       "state": "T8",
       "start_time": "2026-08-02T23:20:00Z"
