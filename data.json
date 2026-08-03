@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T15:15:09.869028+00:00",
+  "last_updated": "2026-08-03T15:30:10.164993+00:00",
   "scoreboard": [
     {
       "game_id": "823431",
@@ -931,7 +931,7 @@
   "today_games": [
     {
       "date": "2026-08-03",
-      "time": "11:15:06",
+      "time": "11:30:06",
       "game_id": "823520",
       "home_team": "New York Yankees",
       "away_team": "St. Louis Cardinals",
@@ -953,7 +953,7 @@
     },
     {
       "date": "2026-08-03",
-      "time": "11:15:06",
+      "time": "11:30:07",
       "game_id": "823757",
       "home_team": "Milwaukee Brewers",
       "away_team": "Pittsburgh Pirates",
@@ -975,16 +975,16 @@
     },
     {
       "date": "2026-08-03",
-      "time": "11:15:07",
+      "time": "11:30:08",
       "game_id": "824160",
       "home_team": "Houston Astros",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5455",
+      "away_prob": "0.4545",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0094",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0119",
       "home_pitcher": "Cristian Javier",
       "away_pitcher": "Shane Bieber",
       "pitchers_confirmed": "yes",
@@ -997,7 +997,7 @@
     },
     {
       "date": "2026-08-03",
-      "time": "11:15:08",
+      "time": "11:30:09",
       "game_id": "824324",
       "home_team": "Colorado Rockies",
       "away_team": "Tampa Bay Rays",
@@ -1019,16 +1019,16 @@
     },
     {
       "date": "2026-08-03",
-      "time": "11:15:09",
+      "time": "11:30:09",
       "game_id": "825095",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5242",
-      "away_prob": "0.4758",
+      "home_prob": "0.5191",
+      "away_prob": "0.4809",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "0.0080",
-      "away_ev": "-0.0289",
+      "home_ev": "-0.0018",
+      "away_ev": "-0.0185",
       "home_pitcher": "Brandon Pfaadt",
       "away_pitcher": "Michael King",
       "pitchers_confirmed": "yes",
@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2026-08-03",
-      "time": "11:15:05",
+      "time": "11:30:05",
       "game_id": "823431",
       "home_team": "Philadelphia Phillies",
       "away_team": "Washington Nationals",
@@ -1066,7 +1066,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 54397,
+    "total_games_scanned_all": 54403,
     "record": {
       "wins": 80,
       "losses": 103,
