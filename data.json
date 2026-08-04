@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T23:00:11.715652+00:00",
+  "last_updated": "2026-08-04T23:15:11.714661+00:00",
   "scoreboard": [
     {
       "game_id": "824805",
@@ -7,16 +7,16 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-08-04T22:35:00Z"
     },
     {
       "game_id": "824403",
       "away": "NYM",
       "home": "CLE",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 1,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:05",
+      "time": "19:15:05",
       "game_id": "824084",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:06",
+      "time": "19:15:06",
       "game_id": "823756",
       "home_team": "Milwaukee Brewers",
       "away_team": "Pittsburgh Pirates",
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:06",
+      "time": "19:15:06",
       "game_id": "824645",
       "home_team": "Chicago Cubs",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3673",
-      "away_prob": "0.6327",
+      "home_prob": "0.3664",
+      "away_prob": "0.6336",
       "poly_home_price": "0.3600",
       "poly_away_price": "0.6500",
-      "home_ev": "0.0203",
-      "away_ev": "-0.0266",
+      "home_ev": "0.0179",
+      "away_ev": "-0.0253",
       "home_pitcher": "Javier Assad",
       "away_pitcher": "Tarik Skubal",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:07",
+      "time": "19:15:07",
       "game_id": "822865",
       "home_team": "Texas Rangers",
       "away_team": "San Francisco Giants",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:08",
+      "time": "19:15:08",
       "game_id": "824161",
       "home_team": "Houston Astros",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5689",
-      "away_prob": "0.4311",
+      "home_prob": "0.5736",
+      "away_prob": "0.4264",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0019",
-      "away_ev": "-0.0203",
+      "home_ev": "0.0063",
+      "away_ev": "-0.0308",
       "home_pitcher": "Hayden Wesneski",
       "away_pitcher": "Trey Yesavage",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:09",
+      "time": "19:15:09",
       "game_id": "824321",
       "home_team": "Colorado Rockies",
       "away_team": "Tampa Bay Rays",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:10",
+      "time": "19:15:10",
       "game_id": "825054",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:00:11",
+      "time": "19:15:11",
       "game_id": "823108",
       "home_team": "Seattle Mariners",
       "away_team": "Detroit Tigers",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 55173,
+    "total_games_scanned_all": 55181,
     "record": {
       "wins": 80,
       "losses": 103,
