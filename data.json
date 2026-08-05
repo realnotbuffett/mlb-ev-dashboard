@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T00:00:14.674030+00:00",
+  "last_updated": "2026-08-05T00:15:13.959685+00:00",
   "scoreboard": [
     {
       "game_id": "824805",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 2,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-08-04T22:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "NYM",
       "home": "CLE",
       "away_score": 5,
-      "home_score": 1,
-      "state": "B5",
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "OAK",
       "home": "CIN",
       "away_score": 3,
-      "home_score": 0,
-      "state": "B5",
+      "home_score": 3,
+      "state": "T6",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 4,
-      "state": "B5",
+      "state": "T7",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "STL",
       "home": "NYY",
       "away_score": 0,
-      "home_score": 1,
-      "state": "B4",
+      "home_score": 2,
+      "state": "B5",
       "start_time": "2026-08-04T23:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 6,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-08-04T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 1,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-08-04T23:15:00Z"
     },
     {
@@ -69,17 +69,17 @@
       "away": "MIN",
       "home": "KC",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B1",
+      "home_score": 2,
+      "state": "T2",
       "start_time": "2026-08-04T23:40:00Z"
     },
     {
       "game_id": "823756",
       "away": "PIT",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-08-04T23:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "CHC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-05T00:05:00Z"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "824321",
       "home_team": "Colorado Rockies",
       "away_team": "Tampa Bay Rays",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-08-04",
-      "time": "20:00:13",
+      "time": "20:15:12",
       "game_id": "825054",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5000",
-      "away_prob": "0.5000",
+      "home_prob": "0.4885",
+      "away_prob": "0.5115",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0566",
-      "away_ev": "0.0417",
+      "home_ev": "-0.0783",
+      "away_ev": "0.0656",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Randy V\u00e1squez",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-04",
-      "time": "20:00:14",
+      "time": "20:15:13",
       "game_id": "823108",
       "home_team": "Seattle Mariners",
       "away_team": "Detroit Tigers",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 55194,
+    "total_games_scanned_all": 55197,
     "record": {
       "wins": 80,
       "losses": 103,
