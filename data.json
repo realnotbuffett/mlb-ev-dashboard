@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T22:30:44.752747+00:00",
+  "last_updated": "2026-08-05T22:45:28.701975+00:00",
   "scoreboard": [
     {
       "game_id": "824158",
@@ -43,7 +43,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-05T22:35:00Z"
     },
     {
@@ -59,7 +59,7 @@
       "game_id": "824482",
       "away": "OAK",
       "home": "CIN",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T1",
       "start_time": "2026-08-05T22:40:00Z"
@@ -68,9 +68,9 @@
       "game_id": "823429",
       "away": "WSH",
       "home": "PHI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-05T22:40:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "824728",
       "away": "CWS",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-05T23:10:00Z"
     },
     {
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-08-05",
-      "time": "18:30:12",
+      "time": "18:45:04",
       "game_id": "823516",
       "home_team": "New York Yankees",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.5796",
-      "away_prob": "0.4204",
+      "home_prob": "0.5842",
+      "away_prob": "0.4158",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0176",
-      "away_ev": "0.0009",
+      "home_ev": "-0.0099",
+      "away_ev": "-0.0099",
       "home_pitcher": "Will Warren",
       "away_pitcher": "Andre Pallante",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-05",
-      "time": "18:30:27",
+      "time": "18:45:11",
       "game_id": "824889",
       "home_team": "Atlanta Braves",
       "away_team": "Miami Marlins",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-05",
-      "time": "18:30:28",
+      "time": "18:45:12",
       "game_id": "824082",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-05",
-      "time": "18:30:29",
+      "time": "18:45:13",
       "game_id": "823753",
       "home_team": "Milwaukee Brewers",
       "away_team": "Pittsburgh Pirates",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-05",
-      "time": "18:30:37",
+      "time": "18:45:21",
       "game_id": "825052",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-08-05",
-      "time": "18:30:44",
+      "time": "18:45:28",
       "game_id": "823106",
       "home_team": "Seattle Mariners",
       "away_team": "Detroit Tigers",
       "home_prob": "0.5482",
       "away_prob": "0.4518",
-      "poly_home_price": "0.5800",
-      "poly_away_price": "0.4300",
-      "home_ev": "-0.0548",
-      "away_ev": "0.0506",
+      "poly_home_price": "0.5900",
+      "poly_away_price": "0.4200",
+      "home_ev": "-0.0708",
+      "away_ev": "0.0757",
       "home_pitcher": "Bryan Woo",
       "away_pitcher": "Drew Anderson",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 55714,
+    "total_games_scanned_all": 55720,
     "record": {
       "wins": 80,
       "losses": 103,
