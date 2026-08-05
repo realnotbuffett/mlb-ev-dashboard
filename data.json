@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T23:45:08.509147+00:00",
+  "last_updated": "2026-08-05T00:00:14.674030+00:00",
   "scoreboard": [
     {
       "game_id": "824805",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 2,
-      "state": "T5",
+      "state": "B6",
       "start_time": "2026-08-04T22:35:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "CLE",
       "away_score": 5,
       "home_score": 1,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
       "game_id": "824484",
       "away": "OAK",
       "home": "CIN",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 4,
-      "state": "T4",
+      "state": "B5",
       "start_time": "2026-08-04T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-04T23:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 6,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-08-04T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 1,
-      "state": "B2",
+      "state": "T4",
       "start_time": "2026-08-04T23:15:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "KC",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-04T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-08-04T23:40:00Z"
     },
     {
@@ -95,9 +95,9 @@
       "game_id": "822865",
       "away": "SF",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-05T00:05:00Z"
     },
     {
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:45:06",
+      "time": "20:00:05",
       "game_id": "824321",
       "home_team": "Colorado Rockies",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.3865",
-      "away_prob": "0.6135",
+      "home_prob": "0.4119",
+      "away_prob": "0.5881",
       "poly_home_price": "0.4000",
       "poly_away_price": "0.6100",
-      "home_ev": "-0.0338",
-      "away_ev": "0.0058",
+      "home_ev": "0.0298",
+      "away_ev": "-0.0359",
       "home_pitcher": "Gabriel Hughes",
       "away_pitcher": "Freddy Peralta",
       "pitchers_confirmed": "yes",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:45:07",
+      "time": "20:00:13",
       "game_id": "825054",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
       "home_prob": "0.5000",
       "away_prob": "0.5000",
-      "poly_home_price": "0.5200",
-      "poly_away_price": "0.4900",
-      "home_ev": "-0.0385",
-      "away_ev": "0.0204",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "-0.0566",
+      "away_ev": "0.0417",
       "home_pitcher": "Eduardo Rodriguez",
       "away_pitcher": "Randy V\u00e1squez",
       "pitchers_confirmed": "yes",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-08-04",
-      "time": "19:45:08",
+      "time": "20:00:14",
       "game_id": "823108",
       "home_team": "Seattle Mariners",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5418",
-      "away_prob": "0.4582",
+      "home_prob": "0.5355",
+      "away_prob": "0.4645",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "0.0033",
-      "away_ev": "-0.0250",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0118",
       "home_pitcher": "Emerson Hancock",
       "away_pitcher": "Troy Melton",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 55191,
+    "total_games_scanned_all": 55194,
     "record": {
       "wins": 80,
       "losses": 103,
