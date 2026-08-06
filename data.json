@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T18:00:10.265352+00:00",
+  "last_updated": "2026-08-06T18:15:11.393329+00:00",
   "scoreboard": [
     {
       "game_id": "824804",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 3,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-08-06T16:35:00Z"
     },
     {
@@ -15,7 +15,7 @@
       "away": "OAK",
       "home": "CIN",
       "away_score": 3,
-      "home_score": 3,
+      "home_score": 5,
       "state": "B5",
       "start_time": "2026-08-06T16:40:00Z"
     },
@@ -25,7 +25,7 @@
       "home": "CLE",
       "away_score": 5,
       "home_score": 2,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-08-06T17:10:00Z"
     },
     {
@@ -1068,7 +1068,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "14:00:05",
+      "time": "14:15:06",
       "game_id": "823105",
       "home_team": "Seattle Mariners",
       "away_team": "Detroit Tigers",
@@ -1090,7 +1090,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "14:00:06",
+      "time": "14:15:07",
       "game_id": "823430",
       "home_team": "Philadelphia Phillies",
       "away_team": "Washington Nationals",
@@ -1112,7 +1112,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "14:00:07",
+      "time": "14:15:08",
       "game_id": "824729",
       "home_team": "Boston Red Sox",
       "away_team": "Chicago White Sox",
@@ -1134,7 +1134,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "14:00:08",
+      "time": "14:15:09",
       "game_id": "824885",
       "home_team": "Atlanta Braves",
       "away_team": "Miami Marlins",
@@ -1156,16 +1156,16 @@
     },
     {
       "date": "2026-08-06",
-      "time": "14:00:09",
+      "time": "14:15:10",
       "game_id": "824080",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5367",
-      "away_prob": "0.4633",
+      "home_prob": "0.5392",
+      "away_prob": "0.4608",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0242",
-      "away_ev": "0.0072",
+      "home_ev": "-0.0196",
+      "away_ev": "0.0017",
       "home_pitcher": "Michael Wacha",
       "away_pitcher": "Bailey Ober",
       "pitchers_confirmed": "yes",
@@ -1178,7 +1178,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "14:00:10",
+      "time": "14:15:11",
       "game_id": "825053",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
@@ -1203,7 +1203,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 55877,
+    "total_games_scanned_all": 55883,
     "record": {
       "wins": 80,
       "losses": 103,
