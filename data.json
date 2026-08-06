@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T17:00:12.499737+00:00",
+  "last_updated": "2026-08-06T17:15:12.100074+00:00",
   "scoreboard": [
     {
       "game_id": "824804",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-08-06T16:35:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-08-06T16:40:00Z"
     },
     {
@@ -1024,16 +1024,16 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:05",
+      "time": "13:15:05",
       "game_id": "823754",
       "home_team": "Milwaukee Brewers",
       "away_team": "Pittsburgh Pirates",
       "home_prob": "0.5305",
       "away_prob": "0.4695",
-      "poly_home_price": "0.5400",
-      "poly_away_price": "0.4700",
-      "home_ev": "-0.0177",
-      "away_ev": "-0.0010",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "0.0009",
+      "away_ev": "-0.0218",
       "home_pitcher": "Dustin May",
       "away_pitcher": "Braxton Ashcraft",
       "pitchers_confirmed": "yes",
@@ -1046,7 +1046,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:06",
+      "time": "13:15:06",
       "game_id": "824664",
       "home_team": "Chicago Cubs",
       "away_team": "Toronto Blue Jays",
@@ -1068,7 +1068,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:07",
+      "time": "13:15:07",
       "game_id": "823105",
       "home_team": "Seattle Mariners",
       "away_team": "Detroit Tigers",
@@ -1090,16 +1090,16 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:08",
+      "time": "13:15:08",
       "game_id": "823430",
       "home_team": "Philadelphia Phillies",
       "away_team": "Washington Nationals",
-      "home_prob": "0.7456",
-      "away_prob": "0.2544",
+      "home_prob": "0.7557",
+      "away_prob": "0.2443",
       "poly_home_price": "0.7600",
       "poly_away_price": "0.2500",
-      "home_ev": "-0.0189",
-      "away_ev": "0.0175",
+      "home_ev": "-0.0057",
+      "away_ev": "-0.0227",
       "home_pitcher": "Cristopher S\u00e1nchez",
       "away_pitcher": "Miles Mikolas",
       "pitchers_confirmed": "yes",
@@ -1112,7 +1112,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:09",
+      "time": "13:15:09",
       "game_id": "824729",
       "home_team": "Boston Red Sox",
       "away_team": "Chicago White Sox",
@@ -1134,7 +1134,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:10",
+      "time": "13:15:10",
       "game_id": "824885",
       "home_team": "Atlanta Braves",
       "away_team": "Miami Marlins",
@@ -1156,7 +1156,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:11",
+      "time": "13:15:11",
       "game_id": "824080",
       "home_team": "Kansas City Royals",
       "away_team": "Minnesota Twins",
@@ -1178,7 +1178,7 @@
     },
     {
       "date": "2026-08-06",
-      "time": "13:00:12",
+      "time": "13:15:11",
       "game_id": "825053",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
@@ -1203,7 +1203,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 55848,
+    "total_games_scanned_all": 55856,
     "record": {
       "wins": 80,
       "losses": 103,
