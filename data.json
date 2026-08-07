@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T02:45:05.370819+00:00",
+  "last_updated": "2026-08-07T03:00:04.927775+00:00",
   "scoreboard": [
     {
       "game_id": "824804",
@@ -68,9 +68,9 @@
       "game_id": "824729",
       "away": "CWS",
       "home": "BOS",
-      "away_score": 9,
-      "home_score": 9,
-      "state": "B10",
+      "away_score": 10,
+      "home_score": 10,
+      "state": "B11",
       "start_time": "2026-08-06T23:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "MIA",
       "home": "ATL",
       "away_score": 2,
-      "home_score": 8,
-      "state": "T8",
+      "home_score": 10,
+      "state": "B8",
       "start_time": "2026-08-06T23:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "ARI",
       "away_score": 3,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-08-07T01:40:00Z"
     }
   ],
