@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T00:30:05.661127+00:00",
+  "last_updated": "2026-08-07T00:45:05.673834+00:00",
   "scoreboard": [
     {
       "game_id": "824804",
@@ -61,7 +61,7 @@
       "home": "PHI",
       "away_score": 3,
       "home_score": 7,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-06T22:05:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "CWS",
       "home": "BOS",
       "away_score": 5,
-      "home_score": 2,
-      "state": "T4",
+      "home_score": 5,
+      "state": "B4",
       "start_time": "2026-08-06T23:10:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "MIN",
       "home": "KC",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B3",
+      "home_score": 2,
+      "state": "B4",
       "start_time": "2026-08-06T23:40:00Z"
     },
     {
@@ -1178,16 +1178,16 @@
     },
     {
       "date": "2026-08-06",
-      "time": "20:30:05",
+      "time": "20:45:05",
       "game_id": "825053",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
-      "home_prob": "0.4911",
-      "away_prob": "0.5089",
+      "home_prob": "0.4923",
+      "away_prob": "0.5077",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0178",
-      "away_ev": "-0.0021",
+      "home_ev": "-0.0153",
+      "away_ev": "-0.0046",
       "home_pitcher": "Kohl Drake",
       "away_pitcher": "Walker Buehler",
       "pitchers_confirmed": "yes",
@@ -1203,7 +1203,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 55982,
+    "total_games_scanned_all": 55983,
     "record": {
       "wins": 80,
       "losses": 103,
