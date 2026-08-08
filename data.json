@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T22:15:34.382523+00:00",
+  "last_updated": "2026-08-08T22:30:33.406281+00:00",
   "scoreboard": [
     {
       "game_id": "823514",
@@ -16,7 +16,7 @@
       "home": "BOS",
       "away_score": 6,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-08T20:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 7,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-08T20:10:00Z"
     },
     {
@@ -34,25 +34,25 @@
       "home": "PHI",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-08-08T22:05:00Z"
     },
     {
       "game_id": "823348",
       "away": "NYM",
       "home": "PIT",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-08T22:40:00Z"
     },
     {
       "game_id": "822701",
       "away": "CIN",
       "home": "WSH",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-08T22:45:00Z"
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:14",
+      "time": "18:30:05",
       "game_id": "824079",
       "home_team": "Kansas City Royals",
       "away_team": "Chicago Cubs",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:15",
+      "time": "18:30:13",
       "game_id": "823752",
       "home_team": "Milwaukee Brewers",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5689",
-      "away_prob": "0.4311",
+      "home_prob": "0.5700",
+      "away_prob": "0.4300",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0019",
-      "away_ev": "-0.0203",
+      "home_ev": "0.0000",
+      "away_ev": "-0.0227",
       "home_pitcher": "Robert Gasser",
       "away_pitcher": "Taj Bradley",
       "pitchers_confirmed": "yes",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:15",
+      "time": "18:30:14",
       "game_id": "823267",
       "home_team": "San Diego Padres",
       "away_team": "Houston Astros",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:16",
+      "time": "18:30:15",
       "game_id": "823188",
       "home_team": "San Francisco Giants",
       "away_team": "Detroit Tigers",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:17",
+      "time": "18:30:16",
       "game_id": "823021",
       "home_team": "St. Louis Cardinals",
       "away_team": "Colorado Rockies",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:18",
+      "time": "18:30:17",
       "game_id": "822864",
       "home_team": "Texas Rangers",
       "away_team": "Baltimore Orioles",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:25",
+      "time": "18:30:24",
       "game_id": "824565",
       "home_team": "Chicago White Sox",
       "away_team": "Cleveland Guardians",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:33",
+      "time": "18:30:32",
       "game_id": "825049",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-08-08",
-      "time": "18:15:34",
+      "time": "18:30:33",
       "game_id": "823102",
       "home_team": "Seattle Mariners",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.5216",
-      "away_prob": "0.4784",
+      "home_prob": "0.5179",
+      "away_prob": "0.4821",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0158",
-      "away_ev": "-0.0034",
+      "home_ev": "-0.0229",
+      "away_ev": "0.0045",
       "home_pitcher": "George Kirby",
       "away_pitcher": "Griffin Jax",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 57131,
+    "total_games_scanned_all": 57140,
     "record": {
       "wins": 80,
       "losses": 103,
