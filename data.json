@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T01:00:06.199438+00:00",
+  "last_updated": "2026-08-09T01:15:06.198108+00:00",
   "scoreboard": [
     {
       "game_id": "823514",
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 4,
       "home_score": 4,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-08-08T22:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 9,
-      "state": "T8",
+      "state": "FINAL",
       "start_time": "2026-08-08T22:40:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "CIN",
       "home": "WSH",
       "away_score": 2,
-      "home_score": 6,
-      "state": "T8",
+      "home_score": 8,
+      "state": "B8",
       "start_time": "2026-08-08T22:45:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "CHC",
       "home": "KC",
       "away_score": 3,
-      "home_score": 4,
-      "state": "T7",
+      "home_score": 6,
+      "state": "T8",
       "start_time": "2026-08-08T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIL",
       "away_score": 3,
       "home_score": 3,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-08-08T23:10:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "SD",
       "away_score": 1,
       "home_score": 3,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-08-08T23:15:00Z"
     },
     {
       "game_id": "823188",
       "away": "DET",
       "home": "SF",
-      "away_score": 2,
+      "away_score": 7,
       "home_score": 0,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-08-08T23:15:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "COL",
       "home": "STL",
       "away_score": 5,
-      "home_score": 2,
-      "state": "B5",
+      "home_score": 3,
+      "state": "T6",
       "start_time": "2026-08-08T23:15:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "TEX",
       "away_score": 1,
       "home_score": 2,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-08-08T23:15:00Z"
     },
     {
       "game_id": "824565",
       "away": "CLE",
       "home": "CWS",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "T6",
+      "away_score": 2,
+      "home_score": 1,
+      "state": "B6",
       "start_time": "2026-08-08T23:15:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-08-09T00:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-08-08",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "823102",
       "home_team": "Seattle Mariners",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.5516",
-      "away_prob": "0.4484",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "0.0030",
-      "away_ev": "-0.0253",
+      "home_prob": "0.5639",
+      "away_prob": "0.4361",
+      "poly_home_price": "0.5700",
+      "poly_away_price": "0.4400",
+      "home_ev": "-0.0107",
+      "away_ev": "-0.0089",
       "home_pitcher": "George Kirby",
       "away_pitcher": "Casey Legumina",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 57161,
+    "total_games_scanned_all": 57162,
     "record": {
       "wins": 80,
       "losses": 103,
