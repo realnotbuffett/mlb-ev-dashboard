@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T03:30:04.620707+00:00",
+  "last_updated": "2026-08-09T03:45:04.619483+00:00",
   "scoreboard": [
     {
       "game_id": "823514",
@@ -124,7 +124,7 @@
       "home": "ARI",
       "away_score": 2,
       "home_score": 1,
-      "state": "T10",
+      "state": "FINAL",
       "start_time": "2026-08-09T00:10:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "SEA",
       "away_score": 1,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-08-09T01:50:00Z"
     }
   ],
