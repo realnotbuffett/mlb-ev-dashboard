@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T23:30:05.747041+00:00",
+  "last_updated": "2026-08-09T23:45:05.229754+00:00",
   "scoreboard": [
     {
       "game_id": "822700",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-08-09",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "823268",
       "home_team": "San Diego Padres",
       "away_team": "Houston Astros",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5216",
+      "away_prob": "0.4784",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0062",
-      "away_ev": "-0.0140",
+      "home_ev": "-0.0158",
+      "away_ev": "-0.0034",
       "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher": "Cristian Javier",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 57448,
+    "total_games_scanned_all": 57449,
     "record": {
       "wins": 80,
       "losses": 103,
