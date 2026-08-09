@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T17:45:08.453475+00:00",
+  "last_updated": "2026-08-09T18:00:08.114412+00:00",
   "scoreboard": [
     {
       "game_id": "822700",
@@ -7,7 +7,7 @@
       "home": "WSH",
       "away_score": 1,
       "home_score": 3,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-08-09T16:15:00Z"
     },
     {
@@ -16,16 +16,16 @@
       "home": "BOS",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B2",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
       "game_id": "823345",
       "away": "NYM",
       "home": "PIT",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B2",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
       "game_id": "823835",
       "away": "LAA",
       "home": "MIA",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "away_score": 1,
+      "home_score": 1,
+      "state": "B1",
       "start_time": "2026-08-09T17:40:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "823020",
       "away": "COL",
       "home": "STL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-09T18:15:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-09",
-      "time": "13:45:05",
+      "time": "14:00:05",
       "game_id": "822862",
       "home_team": "Texas Rangers",
       "away_team": "Baltimore Orioles",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-08-09",
-      "time": "13:45:06",
+      "time": "14:00:06",
       "game_id": "823190",
       "home_team": "San Francisco Giants",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.4656",
-      "away_prob": "0.5344",
+      "home_prob": "0.4608",
+      "away_prob": "0.5392",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0093",
-      "away_ev": "-0.0105",
+      "home_ev": "-0.0197",
+      "away_ev": "-0.0014",
       "home_pitcher": "Logan Webb",
       "away_pitcher": "Troy Melton",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-09",
-      "time": "13:45:07",
+      "time": "14:00:07",
       "game_id": "825050",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Los Angeles Dodgers",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-09",
-      "time": "13:45:08",
+      "time": "14:00:07",
       "game_id": "823104",
       "home_team": "Seattle Mariners",
       "away_team": "Tampa Bay Rays",
@@ -1305,7 +1305,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 57409,
+    "total_games_scanned_all": 57413,
     "record": {
       "wins": 80,
       "losses": 103,
