@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T20:45:05.167988+00:00",
+  "last_updated": "2026-08-09T21:00:05.273230+00:00",
   "scoreboard": [
     {
       "game_id": "822700",
@@ -32,9 +32,9 @@
       "game_id": "823425",
       "away": "TOR",
       "home": "PHI",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 5,
-      "state": "B11",
+      "state": "B12",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "KC",
       "away_score": 10,
       "home_score": 2,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 3,
       "home_score": 3,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "STL",
       "away_score": 4,
       "home_score": 4,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-08-09T18:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "TEX",
       "away_score": 9,
       "home_score": 3,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-08-09T18:35:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-09T20:05:00Z"
     },
     {
       "game_id": "825050",
       "away": "LAD",
       "home": "ARI",
-      "away_score": 0,
-      "home_score": 3,
-      "state": "B2",
+      "away_score": 1,
+      "home_score": 4,
+      "state": "B3",
       "start_time": "2026-08-09T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 1,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-08-09T20:10:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-09",
-      "time": "16:45:05",
+      "time": "17:00:05",
       "game_id": "823268",
       "home_team": "San Diego Padres",
       "away_team": "Houston Astros",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 57437,
+    "total_games_scanned_all": 57438,
     "record": {
       "wins": 80,
       "losses": 103,
