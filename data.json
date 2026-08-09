@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T20:00:05.730111+00:00",
+  "last_updated": "2026-08-09T20:15:05.034462+00:00",
   "scoreboard": [
     {
       "game_id": "822700",
@@ -16,7 +16,7 @@
       "home": "BOS",
       "away_score": 4,
       "home_score": 3,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 11,
       "home_score": 1,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 5,
       "home_score": 5,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "NYY",
       "away_score": 2,
       "home_score": 1,
-      "state": "T10",
+      "state": "FINAL",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -51,17 +51,17 @@
       "away": "LAA",
       "home": "MIA",
       "away_score": 2,
-      "home_score": 10,
-      "state": "T7",
+      "home_score": 11,
+      "state": "B7",
       "start_time": "2026-08-09T17:40:00Z"
     },
     {
       "game_id": "824078",
       "away": "CHC",
       "home": "KC",
-      "away_score": 7,
+      "away_score": 10,
       "home_score": 2,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "MIL",
       "away_score": 3,
       "home_score": 3,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
       "game_id": "823020",
       "away": "COL",
       "home": "STL",
-      "away_score": 1,
+      "away_score": 3,
       "home_score": 4,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-08-09T18:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "TEX",
       "away_score": 7,
       "home_score": 3,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-08-09T18:35:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "SF",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-09T20:05:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-09",
-      "time": "16:00:05",
+      "time": "16:15:04",
       "game_id": "823268",
       "home_team": "San Diego Padres",
       "away_team": "Houston Astros",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 57434,
+    "total_games_scanned_all": 57435,
     "record": {
       "wins": 80,
       "losses": 103,
