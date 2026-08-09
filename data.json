@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T21:15:06.702677+00:00",
+  "last_updated": "2026-08-09T21:30:05.849288+00:00",
   "scoreboard": [
     {
       "game_id": "822700",
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "MIN",
       "home": "MIL",
       "away_score": 3,
-      "home_score": 3,
-      "state": "T10",
+      "home_score": 4,
+      "state": "FINAL",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
@@ -95,18 +95,18 @@
       "game_id": "822862",
       "away": "BAL",
       "home": "TEX",
-      "away_score": 9,
+      "away_score": 10,
       "home_score": 3,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-09T18:35:00Z"
     },
     {
       "game_id": "823190",
       "away": "DET",
       "home": "SF",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-08-09T20:05:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "ARI",
       "away_score": 1,
       "home_score": 4,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-08-09T20:10:00Z"
     },
     {
       "game_id": "823104",
       "away": "TB",
       "home": "SEA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-09T20:10:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-09",
-      "time": "17:15:06",
+      "time": "17:30:05",
       "game_id": "823268",
       "home_team": "San Diego Padres",
       "away_team": "Houston Astros",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 57439,
+    "total_games_scanned_all": 57440,
     "record": {
       "wins": 80,
       "losses": 103,
