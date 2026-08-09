@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T19:45:06.681083+00:00",
+  "last_updated": "2026-08-09T20:00:05.730111+00:00",
   "scoreboard": [
     {
       "game_id": "822700",
@@ -14,9 +14,9 @@
       "game_id": "824724",
       "away": "OAK",
       "home": "BOS",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 3,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -25,25 +25,25 @@
       "home": "PIT",
       "away_score": 11,
       "home_score": 1,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
       "game_id": "823425",
       "away": "TOR",
       "home": "PHI",
-      "away_score": 2,
+      "away_score": 5,
       "home_score": 5,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
       "game_id": "823513",
       "away": "ATL",
       "home": "NYY",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T9",
+      "state": "T10",
       "start_time": "2026-08-09T17:35:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "KC",
       "away_score": 7,
       "home_score": 2,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIL",
       "away_score": 3,
       "home_score": 3,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-08-09T18:10:00Z"
     },
     {
@@ -87,17 +87,17 @@
       "away": "COL",
       "home": "STL",
       "away_score": 1,
-      "home_score": 3,
-      "state": "T5",
+      "home_score": 4,
+      "state": "B5",
       "start_time": "2026-08-09T18:15:00Z"
     },
     {
       "game_id": "822862",
       "away": "BAL",
       "home": "TEX",
-      "away_score": 5,
+      "away_score": 7,
       "home_score": 3,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-08-09T18:35:00Z"
     },
     {
@@ -113,18 +113,18 @@
       "game_id": "825050",
       "away": "LAD",
       "home": "ARI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-09T20:10:00Z"
     },
     {
       "game_id": "823104",
       "away": "TB",
       "home": "SEA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-09T20:10:00Z"
     },
     {
@@ -1299,13 +1299,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "16:00:05",
+      "game_id": "823268",
+      "home_team": "San Diego Padres",
+      "away_team": "Houston Astros",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
+      "poly_home_price": "0.5300",
+      "poly_away_price": "0.4800",
+      "home_ev": "-0.0014",
+      "away_ev": "-0.0193",
+      "home_pitcher": "Randy V\u00e1squez",
+      "away_pitcher": "Cristian Javier",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 183,
-    "total_games_scanned_today": 14,
-    "total_games_scanned_all": 57433,
+    "total_games_scanned_today": 15,
+    "total_games_scanned_all": 57434,
     "record": {
       "wins": 80,
       "losses": 103,
