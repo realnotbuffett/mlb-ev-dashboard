@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T21:45:46.228028+00:00",
+  "last_updated": "2026-08-10T22:00:40.482495+00:00",
   "scoreboard": [
     {
       "game_id": "822780",
@@ -949,7 +949,7 @@
   "today_games": [
     {
       "date": "2026-08-10",
-      "time": "17:45:11",
+      "time": "18:00:12",
       "game_id": "822780",
       "home_team": "Toronto Blue Jays",
       "away_team": "Boston Red Sox",
@@ -971,16 +971,16 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:19",
+      "time": "18:00:13",
       "game_id": "824887",
       "home_team": "Atlanta Braves",
       "away_team": "New York Mets",
       "home_prob": "0.5457",
       "away_prob": "0.4543",
-      "poly_home_price": "0.5800",
-      "poly_away_price": "0.4300",
-      "home_ev": "-0.0592",
-      "away_ev": "0.0565",
+      "poly_home_price": "0.5700",
+      "poly_away_price": "0.4400",
+      "home_ev": "-0.0427",
+      "away_ev": "0.0325",
       "home_pitcher": "Bryce Elder",
       "away_pitcher": "Christian Scott",
       "pitchers_confirmed": "yes",
@@ -993,7 +993,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:20",
+      "time": "18:00:14",
       "game_id": "823675",
       "home_team": "Minnesota Twins",
       "away_team": "Baltimore Orioles",
@@ -1015,7 +1015,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:27",
+      "time": "18:00:21",
       "game_id": "823018",
       "home_team": "St. Louis Cardinals",
       "away_team": "Philadelphia Phillies",
@@ -1037,7 +1037,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:28",
+      "time": "18:00:22",
       "game_id": "823998",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1059,7 +1059,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:36",
+      "time": "18:00:30",
       "game_id": "825048",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1081,7 +1081,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:36",
+      "time": "18:00:30",
       "game_id": "824969",
       "home_team": "Athletics",
       "away_team": "Tampa Bay Rays",
@@ -1103,7 +1103,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:44",
+      "time": "18:00:38",
       "game_id": "823265",
       "home_team": "San Diego Padres",
       "away_team": "Milwaukee Brewers",
@@ -1125,7 +1125,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:45",
+      "time": "18:00:39",
       "game_id": "823189",
       "home_team": "San Francisco Giants",
       "away_team": "Houston Astros",
@@ -1147,7 +1147,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "17:45:46",
+      "time": "18:00:40",
       "game_id": "823918",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
@@ -1172,7 +1172,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 57809,
+    "total_games_scanned_all": 57819,
     "record": {
       "wins": 80,
       "losses": 103,
