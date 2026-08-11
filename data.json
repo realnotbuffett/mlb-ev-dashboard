@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T01:00:22.862128+00:00",
+  "last_updated": "2026-08-11T01:15:21.821638+00:00",
   "scoreboard": [
     {
       "game_id": "822780",
@@ -7,7 +7,7 @@
       "home": "TOR",
       "away_score": 0,
       "home_score": 2,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-08-10T23:07:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "NYM",
       "home": "ATL",
       "away_score": 7,
-      "home_score": 4,
-      "state": "B5",
+      "home_score": 5,
+      "state": "T6",
       "start_time": "2026-08-10T23:15:00Z"
     },
     {
@@ -25,25 +25,25 @@
       "home": "MIN",
       "away_score": 1,
       "home_score": 2,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-08-10T23:40:00Z"
     },
     {
       "game_id": "823018",
       "away": "PHI",
       "home": "STL",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-08-10T23:45:00Z"
     },
     {
       "game_id": "823998",
       "away": "TEX",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-11T01:38:00Z"
     },
     {
@@ -1059,7 +1059,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "21:00:12",
+      "time": "21:15:11",
       "game_id": "825048",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1081,16 +1081,16 @@
     },
     {
       "date": "2026-08-10",
-      "time": "21:00:13",
+      "time": "21:15:12",
       "game_id": "824969",
       "home_team": "Athletics",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.4044",
-      "away_prob": "0.5956",
+      "home_prob": "0.4054",
+      "away_prob": "0.5946",
       "poly_home_price": "0.4100",
       "poly_away_price": "0.6000",
-      "home_ev": "-0.0136",
-      "away_ev": "-0.0074",
+      "home_ev": "-0.0112",
+      "away_ev": "-0.0090",
       "home_pitcher": "Jacob Lopez",
       "away_pitcher": "Freddy Peralta",
       "pitchers_confirmed": "yes",
@@ -1103,7 +1103,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "21:00:20",
+      "time": "21:15:19",
       "game_id": "823265",
       "home_team": "San Diego Padres",
       "away_team": "Milwaukee Brewers",
@@ -1125,7 +1125,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "21:00:21",
+      "time": "21:15:20",
       "game_id": "823189",
       "home_team": "San Francisco Giants",
       "away_team": "Houston Astros",
@@ -1147,7 +1147,7 @@
     },
     {
       "date": "2026-08-10",
-      "time": "21:00:22",
+      "time": "21:15:21",
       "game_id": "823918",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
@@ -1172,7 +1172,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 10,
-    "total_games_scanned_all": 57906,
+    "total_games_scanned_all": 57911,
     "record": {
       "wins": 80,
       "losses": 103,
