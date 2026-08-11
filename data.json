@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-11T22:00:17.857333+00:00",
+  "last_updated": "2026-08-11T22:15:21.151898+00:00",
   "scoreboard": [
     {
       "game_id": "824240",
       "away": "CLE",
       "home": "DET",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-11T22:40:00Z"
     },
     {
       "game_id": "823832",
       "away": "PIT",
       "home": "MIA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-11T22:40:00Z"
     },
     {
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:07",
+      "time": "18:15:10",
       "game_id": "823512",
       "home_team": "New York Yankees",
       "away_team": "Seattle Mariners",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:08",
+      "time": "18:15:11",
       "game_id": "822778",
       "home_team": "Toronto Blue Jays",
       "away_team": "Boston Red Sox",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:09",
+      "time": "18:15:12",
       "game_id": "824886",
       "home_team": "Atlanta Braves",
       "away_team": "New York Mets",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:10",
+      "time": "18:15:13",
       "game_id": "823673",
       "home_team": "Minnesota Twins",
       "away_team": "Baltimore Orioles",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:11",
+      "time": "18:15:14",
       "game_id": "824563",
       "home_team": "Chicago White Sox",
       "away_team": "Cincinnati Reds",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:12",
+      "time": "18:15:15",
       "game_id": "823019",
       "home_team": "St. Louis Cardinals",
       "away_team": "Philadelphia Phillies",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:13",
+      "time": "18:15:16",
       "game_id": "823997",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:14",
+      "time": "18:15:17",
       "game_id": "825046",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Colorado Rockies",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:14",
+      "time": "18:15:18",
       "game_id": "824970",
       "home_team": "Athletics",
       "away_team": "Tampa Bay Rays",
-      "home_prob": "0.3807",
-      "away_prob": "0.6193",
+      "home_prob": "0.3774",
+      "away_prob": "0.6226",
       "poly_home_price": "0.3800",
       "poly_away_price": "0.6300",
-      "home_ev": "0.0019",
-      "away_ev": "-0.0170",
+      "home_ev": "-0.0068",
+      "away_ev": "-0.0118",
       "home_pitcher": "Mason Barnett",
       "away_pitcher": "Nick Martinez",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:15",
+      "time": "18:15:19",
       "game_id": "823264",
       "home_team": "San Diego Padres",
       "away_team": "Milwaukee Brewers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:17",
+      "time": "18:15:20",
       "game_id": "823917",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:16",
+      "time": "18:15:20",
       "game_id": "823186",
       "home_team": "San Francisco Giants",
       "away_team": "Houston Astros",
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-08-11",
-      "time": "18:00:06",
+      "time": "18:15:09",
       "game_id": "822697",
       "home_team": "Washington Nationals",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.3774",
-      "away_prob": "0.6226",
+      "home_prob": "0.3789",
+      "away_prob": "0.6211",
       "poly_home_price": "0.3800",
       "poly_away_price": "0.6300",
-      "home_ev": "-0.0068",
-      "away_ev": "-0.0118",
+      "home_ev": "-0.0029",
+      "away_ev": "-0.0141",
       "home_pitcher": "Jake Irvin",
       "away_pitcher": "Shota Imanaga",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 58427,
+    "total_games_scanned_all": 58440,
     "record": {
       "wins": 80,
       "losses": 103,
