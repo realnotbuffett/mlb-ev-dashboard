@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T23:30:06.824547+00:00",
+  "last_updated": "2026-08-12T23:45:06.239687+00:00",
   "scoreboard": [
     {
       "game_id": "823672",
@@ -50,9 +50,9 @@
       "game_id": "823263",
       "away": "MIL",
       "home": "SD",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 2,
-      "state": "B10",
+      "state": "T11",
       "start_time": "2026-08-12T20:10:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "CLE",
       "home": "DET",
       "away_score": 2,
-      "home_score": 2,
-      "state": "B3",
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-08-12T22:40:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "PIT",
       "home": "MIA",
       "away_score": 1,
-      "home_score": 1,
-      "state": "T3",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-08-12T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-12T22:45:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "SEA",
       "home": "NYY",
       "away_score": 3,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "T3",
       "start_time": "2026-08-12T23:05:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "BOS",
       "home": "TOR",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B2",
+      "home_score": 1,
+      "state": "T3",
       "start_time": "2026-08-12T23:07:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ATL",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-08-12T23:15:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-12",
-      "time": "19:30:05",
+      "time": "19:45:05",
       "game_id": "823916",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-08-12",
-      "time": "19:30:06",
+      "time": "19:45:06",
       "game_id": "823994",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_prob": "0.4397",
-      "away_prob": "0.5603",
+      "home_prob": "0.4545",
+      "away_prob": "0.5455",
       "poly_home_price": "0.4500",
       "poly_away_price": "0.5600",
-      "home_ev": "-0.0229",
-      "away_ev": "0.0005",
+      "home_ev": "0.0101",
+      "away_ev": "-0.0260",
       "home_pitcher": "George Klassen",
       "away_pitcher": "Cal Quantrill",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 59016,
+    "total_games_scanned_all": 59018,
     "record": {
       "wins": 80,
       "losses": 103,
