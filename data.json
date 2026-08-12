@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T22:45:14.771303+00:00",
+  "last_updated": "2026-08-12T23:00:16.535095+00:00",
   "scoreboard": [
     {
       "game_id": "823672",
@@ -51,17 +51,17 @@
       "away": "MIL",
       "home": "SD",
       "away_score": 2,
-      "home_score": 1,
-      "state": "B8",
+      "home_score": 2,
+      "state": "T9",
       "start_time": "2026-08-12T20:10:00Z"
     },
     {
       "game_id": "824241",
       "away": "CLE",
       "home": "DET",
-      "away_score": 0,
+      "away_score": 2,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-12T22:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-08-12T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-12T22:45:00Z"
     },
     {
@@ -104,9 +104,9 @@
       "game_id": "824883",
       "away": "NYM",
       "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-12T23:15:00Z"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-12",
-      "time": "18:45:12",
+      "time": "19:00:14",
       "game_id": "824562",
       "home_team": "Chicago White Sox",
       "away_team": "Cincinnati Reds",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-12",
-      "time": "18:45:13",
+      "time": "19:00:15",
       "game_id": "823916",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-12",
-      "time": "18:45:14",
+      "time": "19:00:16",
       "game_id": "823994",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 59008,
+    "total_games_scanned_all": 59011,
     "record": {
       "wins": 80,
       "losses": 103,
