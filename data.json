@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T23:15:06.198643+00:00",
+  "last_updated": "2026-08-13T23:30:06.430143+00:00",
   "scoreboard": [
     {
       "game_id": "824238",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "19:15:05",
+      "time": "19:30:05",
       "game_id": "823995",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "19:15:06",
+      "time": "19:30:06",
       "game_id": "823915",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 59274,
+    "total_games_scanned_all": 59276,
     "record": {
       "wins": 80,
       "losses": 103,
