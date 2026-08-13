@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T02:45:04.488168+00:00",
+  "last_updated": "2026-08-13T03:00:04.760474+00:00",
   "scoreboard": [
     {
       "game_id": "823672",
@@ -122,18 +122,18 @@
       "game_id": "823916",
       "away": "KC",
       "home": "LAD",
-      "away_score": 1,
-      "home_score": 0,
-      "state": "B2",
+      "away_score": 2,
+      "home_score": 1,
+      "state": "T3",
       "start_time": "2026-08-13T02:10:00Z"
     },
     {
       "game_id": "823994",
       "away": "TEX",
       "home": "LAA",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-08-13T02:10:00Z"
     }
   ],
