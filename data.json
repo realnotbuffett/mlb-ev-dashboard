@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T01:30:06.824361+00:00",
+  "last_updated": "2026-08-13T01:45:05.484340+00:00",
   "scoreboard": [
     {
       "game_id": "823672",
@@ -61,7 +61,7 @@
       "home": "DET",
       "away_score": 6,
       "home_score": 4,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-12T22:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "WSH",
       "away_score": 12,
       "home_score": 5,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-12T22:45:00Z"
     },
     {
@@ -87,7 +87,7 @@
       "away": "SEA",
       "home": "NYY",
       "away_score": 5,
-      "home_score": 5,
+      "home_score": 8,
       "state": "B7",
       "start_time": "2026-08-12T23:05:00Z"
     },
@@ -95,9 +95,9 @@
       "game_id": "822779",
       "away": "BOS",
       "home": "TOR",
-      "away_score": 1,
-      "home_score": 3,
-      "state": "B8",
+      "away_score": 3,
+      "home_score": 6,
+      "state": "T9",
       "start_time": "2026-08-12T23:07:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ATL",
       "away_score": 3,
       "home_score": 6,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-12T23:15:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 3,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-12T23:40:00Z"
     },
     {
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-12",
-      "time": "21:30:06",
+      "time": "21:45:05",
       "game_id": "823994",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 59032,
+    "total_games_scanned_all": 59033,
     "record": {
       "wins": 80,
       "losses": 103,
