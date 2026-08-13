@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T20:00:07.611016+00:00",
+  "last_updated": "2026-08-13T20:15:07.134365+00:00",
   "scoreboard": [
     {
       "game_id": "824238",
@@ -16,7 +16,7 @@
       "home": "CWS",
       "away_score": 9,
       "home_score": 7,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-08-13T17:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-13T17:35:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-08-13T19:07:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "WSH",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-13T20:05:00Z"
     },
     {
@@ -1072,16 +1072,16 @@
     },
     {
       "date": "2026-08-13",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "823669",
       "home_team": "Minnesota Twins",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.5000",
-      "away_prob": "0.5000",
+      "home_prob": "0.5026",
+      "away_prob": "0.4974",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "0.0000",
-      "away_ev": "-0.0196",
+      "home_ev": "0.0051",
+      "away_ev": "-0.0246",
       "home_pitcher": "Taj Bradley",
       "away_pitcher": "Aaron Nola",
       "pitchers_confirmed": "yes",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "823995",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "16:00:07",
+      "time": "16:15:06",
       "game_id": "823915",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 59236,
+    "total_games_scanned_all": 59239,
     "record": {
       "wins": 80,
       "losses": 103,
