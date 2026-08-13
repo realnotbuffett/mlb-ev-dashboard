@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-13T18:30:09.288977+00:00",
+  "last_updated": "2026-08-13T18:45:08.228182+00:00",
   "scoreboard": [
     {
       "game_id": "824238",
       "away": "CLE",
       "home": "DET",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T6",
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-08-13T17:10:00Z"
     },
     {
@@ -16,14 +16,14 @@
       "home": "CWS",
       "away_score": 8,
       "home_score": 4,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-08-13T17:10:00Z"
     },
     {
       "game_id": "823829",
       "away": "PIT",
       "home": "MIA",
-      "away_score": 2,
+      "away_score": 5,
       "home_score": 0,
       "state": "T6",
       "start_time": "2026-08-13T17:10:00Z"
@@ -34,16 +34,16 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-13T17:35:00Z"
     },
     {
       "game_id": "822776",
       "away": "BOS",
       "home": "TOR",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-13T19:07:00Z"
     },
     {
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "14:30:06",
+      "time": "14:45:05",
       "game_id": "822696",
       "home_team": "Washington Nationals",
       "away_team": "Chicago Cubs",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "14:30:07",
+      "time": "14:45:06",
       "game_id": "823669",
       "home_team": "Minnesota Twins",
       "away_team": "Philadelphia Phillies",
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-08-13",
-      "time": "14:30:08",
+      "time": "14:45:07",
       "game_id": "823995",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_prob": "0.4194",
-      "away_prob": "0.5806",
+      "home_prob": "0.4179",
+      "away_prob": "0.5821",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "-0.0015",
-      "away_ev": "-0.0159",
+      "home_ev": "-0.0050",
+      "away_ev": "-0.0134",
       "home_pitcher": "Walbert Ure\u00f1a",
       "away_pitcher": "Jacob deGrom",
       "pitchers_confirmed": "yes",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "14:30:09",
+      "time": "14:45:08",
       "game_id": "823915",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 59214,
+    "total_games_scanned_all": 59218,
     "record": {
       "wins": 80,
       "losses": 103,
