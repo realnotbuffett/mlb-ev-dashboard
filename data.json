@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T00:15:06.551588+00:00",
+  "last_updated": "2026-08-13T00:30:06.365281+00:00",
   "scoreboard": [
     {
       "game_id": "823672",
@@ -61,7 +61,7 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 3,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-08-12T22:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "MIA",
       "away_score": 2,
       "home_score": 6,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-08-12T22:40:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "CHC",
       "home": "WSH",
       "away_score": 4,
-      "home_score": 2,
-      "state": "B5",
+      "home_score": 4,
+      "state": "T6",
       "start_time": "2026-08-12T22:45:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "NYY",
       "away_score": 4,
       "home_score": 3,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-12T23:05:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-08-12T23:07:00Z"
     },
     {
@@ -105,8 +105,8 @@
       "away": "NYM",
       "home": "ATL",
       "away_score": 0,
-      "home_score": 2,
-      "state": "B4",
+      "home_score": 3,
+      "state": "B5",
       "start_time": "2026-08-12T23:15:00Z"
     },
     {
@@ -114,8 +114,8 @@
       "away": "CIN",
       "home": "CWS",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 1,
+      "state": "T4",
       "start_time": "2026-08-12T23:40:00Z"
     },
     {
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-12",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "823916",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-12",
-      "time": "20:15:06",
+      "time": "20:30:06",
       "game_id": "823994",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 59022,
+    "total_games_scanned_all": 59024,
     "record": {
       "wins": 80,
       "losses": 103,
