@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-13T17:45:08.866719+00:00",
+  "last_updated": "2026-08-13T18:00:09.311069+00:00",
   "scoreboard": [
     {
       "game_id": "824238",
       "away": "CLE",
       "home": "DET",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 1,
+      "state": "T4",
       "start_time": "2026-08-13T17:10:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "CIN",
       "home": "CWS",
       "away_score": 3,
-      "home_score": 2,
-      "state": "B2",
+      "home_score": 4,
+      "state": "T3",
       "start_time": "2026-08-13T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-08-13T17:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-08-13T17:35:00Z"
     },
     {
@@ -1028,16 +1028,16 @@
     },
     {
       "date": "2026-08-13",
-      "time": "13:45:05",
+      "time": "14:00:05",
       "game_id": "822776",
       "home_team": "Toronto Blue Jays",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.4336",
-      "away_prob": "0.5664",
+      "home_prob": "0.4275",
+      "away_prob": "0.5725",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "0.0083",
-      "away_ev": "-0.0234",
+      "home_ev": "-0.0058",
+      "away_ev": "-0.0129",
       "home_pitcher": "Max Scherzer",
       "away_pitcher": "Payton Tolle",
       "pitchers_confirmed": "yes",
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-08-13",
-      "time": "13:45:06",
+      "time": "14:00:06",
       "game_id": "822696",
       "home_team": "Washington Nationals",
       "away_team": "Chicago Cubs",
-      "home_prob": "0.4275",
-      "away_prob": "0.5725",
+      "home_prob": "0.4264",
+      "away_prob": "0.5736",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "-0.0058",
-      "away_ev": "-0.0129",
+      "home_ev": "-0.0083",
+      "away_ev": "-0.0111",
       "home_pitcher": "Cade Cavalli",
       "away_pitcher": "Kevin Gausman",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "13:45:06",
+      "time": "14:00:07",
       "game_id": "823669",
       "home_team": "Minnesota Twins",
       "away_team": "Philadelphia Phillies",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "13:45:07",
+      "time": "14:00:07",
       "game_id": "823995",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "13:45:08",
+      "time": "14:00:09",
       "game_id": "823915",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 59199,
+    "total_games_scanned_all": 59204,
     "record": {
       "wins": 80,
       "losses": 103,
