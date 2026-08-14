@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T22:45:11.096260+00:00",
+  "last_updated": "2026-08-14T23:00:08.710958+00:00",
   "scoreboard": [
     {
       "game_id": "824643",
@@ -16,7 +16,7 @@
       "home": "CIN",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-08-14T22:10:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-08-14T22:40:00Z"
     },
     {
       "game_id": "824237",
       "away": "CWS",
       "home": "DET",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-08-14T22:40:00Z"
     },
     {
@@ -59,27 +59,27 @@
       "game_id": "822942",
       "away": "BAL",
       "home": "TB",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-14T23:10:00Z"
     },
     {
       "game_id": "824882",
       "away": "ARI",
       "home": "ATL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-14T23:15:00Z"
     },
     {
       "game_id": "822777",
       "away": "NYY",
       "home": "TOR",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-14T23:15:00Z"
     },
     {
@@ -1139,16 +1139,16 @@
     },
     {
       "date": "2026-08-14",
-      "time": "18:45:08",
+      "time": "19:00:05",
       "game_id": "824159",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.5305",
-      "away_prob": "0.4695",
+      "home_prob": "0.5293",
+      "away_prob": "0.4707",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0177",
-      "away_ev": "-0.0010",
+      "home_ev": "-0.0199",
+      "away_ev": "0.0016",
       "home_pitcher": "Peter Lambert",
       "away_pitcher": "George Kirby",
       "pitchers_confirmed": "yes",
@@ -1161,7 +1161,7 @@
     },
     {
       "date": "2026-08-14",
-      "time": "18:45:09",
+      "time": "19:00:06",
       "game_id": "823993",
       "home_team": "Los Angeles Angels",
       "away_team": "Kansas City Royals",
@@ -1183,7 +1183,7 @@
     },
     {
       "date": "2026-08-14",
-      "time": "18:45:09",
+      "time": "19:00:07",
       "game_id": "823913",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1205,16 +1205,16 @@
     },
     {
       "date": "2026-08-14",
-      "time": "18:45:10",
+      "time": "19:00:08",
       "game_id": "823185",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.5516",
-      "away_prob": "0.4484",
+      "home_prob": "0.5542",
+      "away_prob": "0.4458",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0149",
-      "away_ev": "-0.0036",
+      "home_ev": "-0.0104",
+      "away_ev": "-0.0092",
       "home_pitcher": "Landen Roupp",
       "away_pitcher": "Kyle Freeland",
       "pitchers_confirmed": "yes",
@@ -1274,7 +1274,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 13,
-    "total_games_scanned_all": 59749,
+    "total_games_scanned_all": 59753,
     "record": {
       "wins": 80,
       "losses": 103,
