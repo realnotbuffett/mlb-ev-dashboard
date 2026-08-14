@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T00:30:15.693871+00:00",
+  "last_updated": "2026-08-14T00:45:12.989235+00:00",
   "scoreboard": [
     {
       "game_id": "824238",
@@ -59,9 +59,9 @@
       "game_id": "823669",
       "away": "PHI",
       "home": "MIN",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-08-13T23:30:00Z"
     },
     {
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "20:30:07",
+      "time": "20:45:05",
       "game_id": "823995",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "20:30:15",
+      "time": "20:45:12",
       "game_id": "823915",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 59284,
+    "total_games_scanned_all": 59286,
     "record": {
       "wins": 80,
       "losses": 103,
