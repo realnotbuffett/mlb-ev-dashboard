@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T00:00:06.458743+00:00",
+  "last_updated": "2026-08-14T00:15:06.407989+00:00",
   "scoreboard": [
     {
       "game_id": "824238",
@@ -60,8 +60,8 @@
       "away": "PHI",
       "home": "MIN",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 1,
+      "state": "B2",
       "start_time": "2026-08-13T23:30:00Z"
     },
     {
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-08-13",
-      "time": "20:00:05",
+      "time": "20:15:05",
       "game_id": "823995",
       "home_team": "Los Angeles Angels",
       "away_team": "Texas Rangers",
-      "home_prob": "0.4214",
-      "away_prob": "0.5786",
+      "home_prob": "0.4275",
+      "away_prob": "0.5725",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "0.0034",
-      "away_ev": "-0.0194",
+      "home_ev": "0.0179",
+      "away_ev": "-0.0297",
       "home_pitcher": "Walbert Ure\u00f1a",
       "away_pitcher": "Jacob deGrom",
       "pitchers_confirmed": "yes",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-13",
-      "time": "20:00:06",
+      "time": "20:15:06",
       "game_id": "823915",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 59280,
+    "total_games_scanned_all": 59282,
     "record": {
       "wins": 80,
       "losses": 103,
