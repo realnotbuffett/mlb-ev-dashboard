@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T01:15:19.619513+00:00",
+  "last_updated": "2026-08-15T01:30:22.167269+00:00",
   "scoreboard": [
     {
       "game_id": "824643",
@@ -25,7 +25,7 @@
       "home": "PIT",
       "away_score": 3,
       "home_score": 8,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-14T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "DET",
       "away_score": 9,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-14T22:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "WSH",
       "home": "NYM",
       "away_score": 1,
-      "home_score": 3,
-      "state": "B7",
+      "home_score": 4,
+      "state": "B8",
       "start_time": "2026-08-14T23:10:00Z"
     },
     {
@@ -52,16 +52,16 @@
       "home": "CLE",
       "away_score": 7,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-14T23:10:00Z"
     },
     {
       "game_id": "822942",
       "away": "BAL",
       "home": "TB",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 2,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-08-14T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "ATL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-08-14T23:15:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "TOR",
       "away_score": 1,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-14T23:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "HOU",
       "away_score": 2,
       "home_score": 5,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-08-15T00:10:00Z"
     },
     {
@@ -1183,7 +1183,7 @@
     },
     {
       "date": "2026-08-14",
-      "time": "21:15:11",
+      "time": "21:30:14",
       "game_id": "823913",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Milwaukee Brewers",
@@ -1205,7 +1205,7 @@
     },
     {
       "date": "2026-08-14",
-      "time": "21:15:19",
+      "time": "21:30:21",
       "game_id": "823185",
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
@@ -1296,7 +1296,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 59790,
+    "total_games_scanned_all": 59792,
     "record": {
       "wins": 80,
       "losses": 103,
