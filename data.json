@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T21:15:06.170395+00:00",
+  "last_updated": "2026-08-16T21:30:06.170805+00:00",
   "scoreboard": [
     {
       "game_id": "822940",
@@ -52,7 +52,7 @@
       "home": "CLE",
       "away_score": 2,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-08-16T17:40:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "CHC",
       "away_score": 9,
       "home_score": 2,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-08-16T19:15:00Z"
     },
     {
       "game_id": "823182",
       "away": "COL",
       "home": "SF",
-      "away_score": 4,
+      "away_score": 6,
       "home_score": 6,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-08-16T20:05:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "OAK",
       "away_score": 2,
       "home_score": 2,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-08-16T20:05:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "LAA",
       "away_score": 2,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-08-16T20:07:00Z"
     },
     {
       "game_id": "823912",
       "away": "MIL",
       "home": "LAD",
-      "away_score": 1,
-      "home_score": 0,
-      "state": "B4",
+      "away_score": 2,
+      "home_score": 1,
+      "state": "T5",
       "start_time": "2026-08-16T20:10:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-16",
-      "time": "17:15:05",
+      "time": "17:30:05",
       "game_id": "824156",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 60630,
+    "total_games_scanned_all": 60631,
     "record": {
       "wins": 80,
       "losses": 103,
