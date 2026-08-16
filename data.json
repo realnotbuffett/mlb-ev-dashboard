@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T22:30:05.516200+00:00",
+  "last_updated": "2026-08-16T22:45:05.562158+00:00",
   "scoreboard": [
     {
       "game_id": "822940",
@@ -16,7 +16,7 @@
       "home": "PIT",
       "away_score": 3,
       "home_score": 8,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-08-16T17:35:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "CLE",
       "away_score": 3,
       "home_score": 0,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-08-16T17:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "SF",
       "away_score": 13,
       "home_score": 7,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-08-16T20:05:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "OAK",
       "away_score": 2,
       "home_score": 5,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-16T20:05:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAD",
       "away_score": 4,
       "home_score": 1,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-16T20:10:00Z"
     },
     {
@@ -1302,16 +1302,16 @@
     },
     {
       "date": "2026-08-16",
-      "time": "18:30:05",
+      "time": "18:45:05",
       "game_id": "824156",
       "home_team": "Houston Astros",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.5406",
-      "away_prob": "0.4594",
+      "home_prob": "0.5418",
+      "away_prob": "0.4582",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "0.0011",
-      "away_ev": "-0.0226",
+      "home_ev": "0.0033",
+      "away_ev": "-0.0250",
       "home_pitcher": "Hunter Brown",
       "away_pitcher": "Bryan Woo",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 60635,
+    "total_games_scanned_all": 60636,
     "record": {
       "wins": 80,
       "losses": 103,
