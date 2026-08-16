@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T23:30:04.496835+00:00",
+  "last_updated": "2026-08-16T23:45:04.479306+00:00",
   "scoreboard": [
     {
       "game_id": "822940",
@@ -52,7 +52,7 @@
       "home": "CLE",
       "away_score": 5,
       "home_score": 0,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-08-16T17:40:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "HOU",
       "away_score": 1,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-08-16T23:20:00Z"
     }
   ],
