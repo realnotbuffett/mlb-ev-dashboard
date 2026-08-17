@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T13:45:13.638813+00:00",
+  "last_updated": "2026-08-17T14:00:13.339931+00:00",
   "scoreboard": [
     {
       "game_id": "824514",
@@ -958,16 +958,16 @@
   "today_games": [
     {
       "date": "2026-08-17",
-      "time": "09:45:06",
+      "time": "10:00:06",
       "game_id": "822939",
       "home_team": "Tampa Bay Rays",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.6015",
-      "away_prob": "0.3985",
+      "home_prob": "0.6005",
+      "away_prob": "0.3995",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "0.0024",
-      "away_ev": "-0.0280",
+      "home_ev": "0.0008",
+      "away_ev": "-0.0256",
       "home_pitcher": "Shane McClanahan",
       "away_pitcher": "Brandon Young",
       "pitchers_confirmed": "yes",
@@ -980,7 +980,7 @@
     },
     {
       "date": "2026-08-17",
-      "time": "09:45:07",
+      "time": "10:00:07",
       "game_id": "823427",
       "home_team": "Philadelphia Phillies",
       "away_team": "Miami Marlins",
@@ -1002,7 +1002,7 @@
     },
     {
       "date": "2026-08-17",
-      "time": "09:45:08",
+      "time": "10:00:08",
       "game_id": "823343",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Detroit Tigers",
@@ -1024,16 +1024,16 @@
     },
     {
       "date": "2026-08-17",
-      "time": "09:45:09",
+      "time": "10:00:09",
       "game_id": "823589",
       "home_team": "New York Mets",
       "away_team": "San Diego Padres",
-      "home_prob": "0.5267",
-      "away_prob": "0.4733",
+      "home_prob": "0.5305",
+      "away_prob": "0.4695",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0246",
-      "away_ev": "0.0070",
+      "home_ev": "-0.0177",
+      "away_ev": "-0.0010",
       "home_pitcher": "Nolan McLean",
       "away_pitcher": "Walker Buehler",
       "pitchers_confirmed": "yes",
@@ -1046,7 +1046,7 @@
     },
     {
       "date": "2026-08-17",
-      "time": "09:45:10",
+      "time": "10:00:10",
       "game_id": "824077",
       "home_team": "Kansas City Royals",
       "away_team": "Athletics",
@@ -1068,7 +1068,7 @@
     },
     {
       "date": "2026-08-17",
-      "time": "09:45:11",
+      "time": "10:00:11",
       "game_id": "823668",
       "home_team": "Minnesota Twins",
       "away_team": "Atlanta Braves",
@@ -1090,7 +1090,7 @@
     },
     {
       "date": "2026-08-17",
-      "time": "09:45:12",
+      "time": "10:00:12",
       "game_id": "824641",
       "home_team": "Chicago Cubs",
       "away_team": "Chicago White Sox",
@@ -1112,7 +1112,7 @@
     },
     {
       "date": "2026-08-17",
-      "time": "09:45:13",
+      "time": "10:00:13",
       "game_id": "824320",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
@@ -1131,13 +1131,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-08-17",
+      "time": "10:00:05",
+      "game_id": "824478",
+      "home_team": "Cincinnati Reds",
+      "away_team": "St. Louis Cardinals",
+      "home_prob": "0.4731",
+      "away_prob": "0.5269",
+      "poly_home_price": "0.4700",
+      "poly_away_price": "0.5400",
+      "home_ev": "0.0067",
+      "away_ev": "-0.0243",
+      "home_pitcher": "Rhett Lowder",
+      "away_pitcher": "Andre Pallante",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 183,
-    "total_games_scanned_today": 8,
-    "total_games_scanned_all": 60668,
+    "total_games_scanned_today": 9,
+    "total_games_scanned_all": 60677,
     "record": {
       "wins": 80,
       "losses": 103,
