@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T01:15:04.505589+00:00",
+  "last_updated": "2026-08-18T01:30:04.508261+00:00",
   "scoreboard": [
     {
       "game_id": "824514",
@@ -15,8 +15,8 @@
       "away": "STL",
       "home": "CIN",
       "away_score": 5,
-      "home_score": 4,
-      "state": "B9",
+      "home_score": 5,
+      "state": "T10",
       "start_time": "2026-08-17T22:40:00Z"
     },
     {
@@ -32,9 +32,9 @@
       "game_id": "823427",
       "away": "MIA",
       "home": "PHI",
-      "away_score": 3,
-      "home_score": 4,
-      "state": "B7",
+      "away_score": 4,
+      "home_score": 5,
+      "state": "T8",
       "start_time": "2026-08-17T22:40:00Z"
     },
     {
@@ -42,7 +42,7 @@
       "away": "DET",
       "home": "PIT",
       "away_score": 8,
-      "home_score": 1,
+      "home_score": 4,
       "state": "B6",
       "start_time": "2026-08-17T23:05:00Z"
     },
@@ -51,8 +51,8 @@
       "away": "ARI",
       "home": "BOS",
       "away_score": 1,
-      "home_score": 8,
-      "state": "B6",
+      "home_score": 10,
+      "state": "B7",
       "start_time": "2026-08-17T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-17T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "KC",
       "away_score": 4,
       "home_score": 6,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-08-17T23:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 4,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-08-17T23:40:00Z"
     },
     {
@@ -88,16 +88,16 @@
       "home": "CHC",
       "away_score": 3,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-08-18T00:05:00Z"
     },
     {
       "game_id": "824320",
       "away": "LAD",
       "home": "COL",
-      "away_score": 1,
+      "away_score": 5,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-08-18T00:40:00Z"
     }
   ],
