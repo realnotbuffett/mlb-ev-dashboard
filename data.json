@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T00:00:06.515549+00:00",
+  "last_updated": "2026-08-18T00:15:12.418567+00:00",
   "scoreboard": [
     {
       "game_id": "824514",
@@ -14,9 +14,9 @@
       "game_id": "824478",
       "away": "STL",
       "home": "CIN",
-      "away_score": 2,
-      "home_score": 1,
-      "state": "T6",
+      "away_score": 4,
+      "home_score": 2,
+      "state": "B6",
       "start_time": "2026-08-17T22:40:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TB",
       "away_score": 6,
       "home_score": 4,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-08-17T22:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 0,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-08-17T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PIT",
       "away_score": 4,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-08-17T23:05:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "ARI",
       "home": "BOS",
       "away_score": 0,
-      "home_score": 2,
-      "state": "T3",
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-08-17T23:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 2,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-08-17T23:10:00Z"
     },
     {
@@ -69,17 +69,17 @@
       "away": "OAK",
       "home": "KC",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B1",
+      "home_score": 3,
+      "state": "T2",
       "start_time": "2026-08-17T23:40:00Z"
     },
     {
       "game_id": "823668",
       "away": "ATL",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-17T23:40:00Z"
     },
     {
@@ -87,8 +87,8 @@
       "away": "CWS",
       "home": "CHC",
       "away_score": 0,
-      "home_score": 0,
-      "state": "T1",
+      "home_score": 2,
+      "state": "B1",
       "start_time": "2026-08-18T00:05:00Z"
     },
     {
@@ -1112,16 +1112,16 @@
     },
     {
       "date": "2026-08-17",
-      "time": "20:00:06",
+      "time": "20:15:12",
       "game_id": "824320",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.2816",
-      "away_prob": "0.7184",
+      "home_prob": "0.3835",
+      "away_prob": "0.6165",
       "poly_home_price": "0.2900",
       "poly_away_price": "0.7200",
-      "home_ev": "-0.0291",
-      "away_ev": "-0.0022",
+      "home_ev": "0.3224",
+      "away_ev": "-0.1437",
       "home_pitcher": "Tomoyuki Sugano",
       "away_pitcher": "Blake Snell",
       "pitchers_confirmed": "yes",
@@ -1203,7 +1203,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 11,
-    "total_games_scanned_all": 61041,
+    "total_games_scanned_all": 61042,
     "record": {
       "wins": 80,
       "losses": 103,
