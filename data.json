@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T02:15:04.574033+00:00",
+  "last_updated": "2026-08-18T02:30:04.718720+00:00",
   "scoreboard": [
     {
       "game_id": "824514",
@@ -43,7 +43,7 @@
       "home": "PIT",
       "away_score": 8,
       "home_score": 5,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-08-17T23:05:00Z"
     },
     {
@@ -68,9 +68,9 @@
       "game_id": "824077",
       "away": "OAK",
       "home": "KC",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 9,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-17T23:40:00Z"
     },
     {
@@ -79,25 +79,25 @@
       "home": "MIN",
       "away_score": 2,
       "home_score": 4,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-08-17T23:40:00Z"
     },
     {
       "game_id": "824641",
       "away": "CWS",
       "home": "CHC",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-18T00:05:00Z"
     },
     {
       "game_id": "824320",
       "away": "LAD",
       "home": "COL",
-      "away_score": 7,
+      "away_score": 9,
       "home_score": 1,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-08-18T00:40:00Z"
     }
   ],
