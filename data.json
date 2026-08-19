@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T02:45:03.653452+00:00",
+  "last_updated": "2026-08-19T03:00:04.090483+00:00",
   "scoreboard": [
     {
       "game_id": "824803",
@@ -115,7 +115,7 @@
       "home": "CHC",
       "away_score": 3,
       "home_score": 3,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-08-19T00:05:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "HOU",
       "away_score": 3,
       "home_score": 1,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-19T00:10:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "COL",
       "away_score": 7,
       "home_score": 4,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-19T00:40:00Z"
     }
   ],
