@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T00:00:05.226160+00:00",
+  "last_updated": "2026-08-19T00:15:04.938459+00:00",
   "scoreboard": [
     {
       "game_id": "824803",
@@ -7,7 +7,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-08-18T22:35:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "PIT",
       "away_score": 1,
       "home_score": 3,
-      "state": "T6",
+      "state": "B7",
       "start_time": "2026-08-18T22:40:00Z"
     },
     {
@@ -34,34 +34,34 @@
       "home": "CIN",
       "away_score": 1,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-08-18T22:40:00Z"
     },
     {
       "game_id": "822938",
       "away": "TOR",
       "home": "TB",
-      "away_score": 6,
-      "home_score": 0,
-      "state": "B4",
+      "away_score": 8,
+      "home_score": 3,
+      "state": "T5",
       "start_time": "2026-08-18T22:40:00Z"
     },
     {
       "game_id": "823423",
       "away": "MIA",
       "home": "PHI",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-08-18T22:40:00Z"
     },
     {
       "game_id": "824723",
       "away": "ARI",
       "home": "BOS",
-      "away_score": 0,
-      "home_score": 3,
-      "state": "T3",
+      "away_score": 4,
+      "home_score": 5,
+      "state": "B3",
       "start_time": "2026-08-18T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "NYM",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-18T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "KC",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "B3",
       "start_time": "2026-08-18T23:40:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "MIN",
       "away_score": 0,
       "home_score": 2,
-      "state": "B1",
+      "state": "T3",
       "start_time": "2026-08-18T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "MIL",
       "away_score": 0,
       "home_score": 1,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-08-18T23:40:00Z"
     },
     {
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-08-18",
-      "time": "20:00:04",
+      "time": "20:15:04",
       "game_id": "824319",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3543",
-      "away_prob": "0.6457",
+      "home_prob": "0.3684",
+      "away_prob": "0.6316",
       "poly_home_price": "0.3600",
       "poly_away_price": "0.6500",
-      "home_ev": "-0.0158",
-      "away_ev": "-0.0066",
+      "home_ev": "0.0234",
+      "away_ev": "-0.0283",
       "home_pitcher": "Ryan Feltner",
       "away_pitcher": "Eric Lauer",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 61583,
+    "total_games_scanned_all": 61584,
     "record": {
       "wins": 80,
       "losses": 103,
