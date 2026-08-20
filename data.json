@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T17:30:10.577241+00:00",
+  "last_updated": "2026-08-20T17:45:08.862247+00:00",
   "scoreboard": [
     {
       "game_id": "824474",
@@ -7,7 +7,7 @@
       "home": "CIN",
       "away_score": 4,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-20T16:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 3,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-08-20T17:10:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TB",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-08-20T17:10:00Z"
     },
     {
@@ -41,9 +41,9 @@
       "game_id": "824589",
       "away": "ATL",
       "home": "CWS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-20T18:10:00Z"
     },
     {
@@ -1006,16 +1006,16 @@
     },
     {
       "date": "2026-08-20",
-      "time": "13:30:05",
+      "time": "13:45:05",
       "game_id": "824074",
       "home_team": "Kansas City Royals",
       "away_team": "Athletics",
-      "home_prob": "0.5468",
-      "away_prob": "0.4532",
+      "home_prob": "0.5480",
+      "away_prob": "0.4520",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0235",
-      "away_ev": "0.0070",
+      "home_ev": "-0.0215",
+      "away_ev": "0.0045",
       "home_pitcher": "Randy Dobnak",
       "away_pitcher": "Gage Jump",
       "pitchers_confirmed": "yes",
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-08-20",
-      "time": "13:30:07",
+      "time": "13:45:06",
       "game_id": "823747",
       "home_team": "Milwaukee Brewers",
       "away_team": "Seattle Mariners",
-      "home_prob": "0.5664",
-      "away_prob": "0.4336",
+      "home_prob": "0.5603",
+      "away_prob": "0.4397",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0063",
-      "away_ev": "-0.0146",
+      "home_ev": "-0.0170",
+      "away_ev": "-0.0007",
       "home_pitcher": "Robert Gasser",
       "away_pitcher": "George Kirby",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "13:30:08",
+      "time": "13:45:06",
       "game_id": "824802",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "13:30:09",
+      "time": "13:45:07",
       "game_id": "822861",
       "home_team": "Texas Rangers",
       "away_team": "Washington Nationals",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "13:30:10",
+      "time": "13:45:08",
       "game_id": "824153",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 62209,
+    "total_games_scanned_all": 62214,
     "record": {
       "wins": 80,
       "losses": 103,
