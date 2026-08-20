@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T22:00:07.794659+00:00",
+  "last_updated": "2026-08-20T22:15:07.210275+00:00",
   "scoreboard": [
     {
       "game_id": "824474",
@@ -1072,16 +1072,16 @@
     },
     {
       "date": "2026-08-20",
-      "time": "18:00:05",
+      "time": "18:15:05",
       "game_id": "824802",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
-      "home_prob": "0.4923",
-      "away_prob": "0.5077",
-      "poly_home_price": "0.4900",
-      "poly_away_price": "0.5200",
-      "home_ev": "0.0048",
-      "away_ev": "-0.0237",
+      "home_prob": "0.4974",
+      "away_prob": "0.5026",
+      "poly_home_price": "0.5000",
+      "poly_away_price": "0.5100",
+      "home_ev": "-0.0051",
+      "away_ev": "-0.0146",
       "home_pitcher": "Kyle Bradish",
       "away_pitcher": "Gerrit Cole",
       "pitchers_confirmed": "yes",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "18:00:06",
+      "time": "18:15:06",
       "game_id": "822861",
       "home_team": "Texas Rangers",
       "away_team": "Washington Nationals",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "18:00:07",
+      "time": "18:15:07",
       "game_id": "824153",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 62265,
+    "total_games_scanned_all": 62268,
     "record": {
       "wins": 80,
       "losses": 103,
