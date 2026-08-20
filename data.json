@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T18:00:09.055612+00:00",
+  "last_updated": "2026-08-20T18:15:09.803733+00:00",
   "scoreboard": [
     {
       "game_id": "824474",
@@ -7,7 +7,7 @@
       "home": "CIN",
       "away_score": 4,
       "home_score": 0,
-      "state": "T5",
+      "state": "B6",
       "start_time": "2026-08-20T16:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "CLE",
       "away_score": 2,
       "home_score": 3,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-08-20T17:10:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "TOR",
       "home": "TB",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T4",
+      "home_score": 1,
+      "state": "B4",
       "start_time": "2026-08-20T17:10:00Z"
     },
     {
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "14:00:07",
+      "time": "14:15:07",
       "game_id": "824802",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-08-20",
-      "time": "14:00:07",
+      "time": "14:15:08",
       "game_id": "822861",
       "home_team": "Texas Rangers",
       "away_team": "Washington Nationals",
-      "home_prob": "0.6117",
-      "away_prob": "0.3883",
+      "home_prob": "0.6169",
+      "away_prob": "0.3831",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0135",
-      "away_ev": "-0.0042",
+      "home_ev": "-0.0051",
+      "away_ev": "-0.0176",
       "home_pitcher": "Jacob deGrom",
       "away_pitcher": "Andrew Alvarez",
       "pitchers_confirmed": "yes",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "14:00:08",
+      "time": "14:15:09",
       "game_id": "824153",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 62217,
+    "total_games_scanned_all": 62220,
     "record": {
       "wins": 80,
       "losses": 103,
