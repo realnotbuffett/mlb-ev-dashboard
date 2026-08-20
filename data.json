@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T20:00:07.684844+00:00",
+  "last_updated": "2026-08-20T20:15:07.296466+00:00",
   "scoreboard": [
     {
       "game_id": "824474",
@@ -32,9 +32,9 @@
       "game_id": "824074",
       "away": "OAK",
       "home": "KC",
-      "away_score": 1,
-      "home_score": 5,
-      "state": "T5",
+      "away_score": 2,
+      "home_score": 6,
+      "state": "B5",
       "start_time": "2026-08-20T18:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CWS",
       "away_score": 2,
       "home_score": 0,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-20T18:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "MIL",
       "away_score": 4,
       "home_score": 6,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-08-20T18:10:00Z"
     },
     {
@@ -1072,16 +1072,16 @@
     },
     {
       "date": "2026-08-20",
-      "time": "16:00:05",
+      "time": "16:15:05",
       "game_id": "824802",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
-      "home_prob": "0.4974",
-      "away_prob": "0.5026",
+      "home_prob": "0.5000",
+      "away_prob": "0.5000",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "0.0152",
-      "away_ev": "-0.0336",
+      "home_ev": "0.0204",
+      "away_ev": "-0.0385",
       "home_pitcher": "Kyle Bradish",
       "away_pitcher": "Gerrit Cole",
       "pitchers_confirmed": "yes",
@@ -1094,16 +1094,16 @@
     },
     {
       "date": "2026-08-20",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "822861",
       "home_team": "Texas Rangers",
       "away_team": "Washington Nationals",
-      "home_prob": "0.6169",
-      "away_prob": "0.3831",
+      "home_prob": "0.6184",
+      "away_prob": "0.3816",
       "poly_home_price": "0.6200",
       "poly_away_price": "0.3900",
-      "home_ev": "-0.0051",
-      "away_ev": "-0.0176",
+      "home_ev": "-0.0026",
+      "away_ev": "-0.0214",
       "home_pitcher": "Jacob deGrom",
       "away_pitcher": "Andrew Alvarez",
       "pitchers_confirmed": "yes",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "16:00:07",
+      "time": "16:15:07",
       "game_id": "824153",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 62241,
+    "total_games_scanned_all": 62244,
     "record": {
       "wins": 80,
       "losses": 103,
