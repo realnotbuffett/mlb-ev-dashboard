@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T20:45:07.737029+00:00",
+  "last_updated": "2026-08-20T21:00:07.321814+00:00",
   "scoreboard": [
     {
       "game_id": "824474",
@@ -34,7 +34,7 @@
       "home": "KC",
       "away_score": 2,
       "home_score": 6,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-20T18:10:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "SEA",
       "home": "MIL",
       "away_score": 4,
-      "home_score": 6,
-      "state": "T8",
+      "home_score": 7,
+      "state": "B8",
       "start_time": "2026-08-20T18:10:00Z"
     },
     {
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "16:45:05",
+      "time": "17:00:05",
       "game_id": "824802",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "16:45:06",
+      "time": "17:00:06",
       "game_id": "822861",
       "home_team": "Texas Rangers",
       "away_team": "Washington Nationals",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-08-20",
-      "time": "16:45:07",
+      "time": "17:00:07",
       "game_id": "824153",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
-      "home_prob": "0.6244",
-      "away_prob": "0.3756",
+      "home_prob": "0.6235",
+      "away_prob": "0.3765",
       "poly_home_price": "0.6300",
       "poly_away_price": "0.3800",
-      "home_ev": "-0.0089",
-      "away_ev": "-0.0116",
+      "home_ev": "-0.0103",
+      "away_ev": "-0.0092",
       "home_pitcher": "Peter Lambert",
       "away_pitcher": "Grayson Rodriguez",
       "pitchers_confirmed": "yes",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 62250,
+    "total_games_scanned_all": 62253,
     "record": {
       "wins": 80,
       "losses": 103,
