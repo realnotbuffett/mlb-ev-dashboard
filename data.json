@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T22:15:07.210275+00:00",
+  "last_updated": "2026-08-20T22:30:07.575679+00:00",
   "scoreboard": [
     {
       "game_id": "824474",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "18:15:05",
+      "time": "18:30:05",
       "game_id": "824802",
       "home_team": "Baltimore Orioles",
       "away_team": "New York Yankees",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "18:15:06",
+      "time": "18:30:06",
       "game_id": "822861",
       "home_team": "Texas Rangers",
       "away_team": "Washington Nationals",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-08-20",
-      "time": "18:15:07",
+      "time": "18:30:07",
       "game_id": "824153",
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 62268,
+    "total_games_scanned_all": 62271,
     "record": {
       "wins": 80,
       "losses": 103,
