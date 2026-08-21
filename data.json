@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T22:15:43.702991+00:00",
+  "last_updated": "2026-08-21T22:30:43.634025+00:00",
   "scoreboard": [
     {
       "game_id": "823746",
@@ -7,16 +7,16 @@
       "home": "MIL",
       "away_score": 1,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-21T20:10:00Z"
     },
     {
       "game_id": "823420",
       "away": "STL",
       "home": "PHI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-21T22:40:00Z"
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:14",
+      "time": "18:30:14",
       "game_id": "824721",
       "home_team": "Boston Red Sox",
       "away_team": "San Francisco Giants",
@@ -1038,16 +1038,16 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:21",
+      "time": "18:30:21",
       "game_id": "823830",
       "home_team": "Miami Marlins",
       "away_team": "Washington Nationals",
-      "home_prob": "0.6232",
-      "away_prob": "0.3768",
+      "home_prob": "0.6199",
+      "away_prob": "0.3801",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "0.0563",
-      "away_ev": "-0.1028",
+      "home_ev": "0.0506",
+      "away_ev": "-0.0949",
       "home_pitcher": "Ryan Gusto",
       "away_pitcher": "Brad Lord",
       "pitchers_confirmed": "yes",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:28",
+      "time": "18:30:28",
       "game_id": "824800",
       "home_team": "Baltimore Orioles",
       "away_team": "Tampa Bay Rays",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:29",
+      "time": "18:30:29",
       "game_id": "824559",
       "home_team": "Chicago White Sox",
       "away_team": "New York Mets",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:30",
+      "time": "18:30:30",
       "game_id": "824072",
       "home_team": "Kansas City Royals",
       "away_team": "Detroit Tigers",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:37",
+      "time": "18:30:38",
       "game_id": "824152",
       "home_team": "Houston Astros",
       "away_team": "Athletics",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:38",
+      "time": "18:30:38",
       "game_id": "822857",
       "home_team": "Texas Rangers",
       "away_team": "Los Angeles Angels",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:39",
+      "time": "18:30:39",
       "game_id": "824317",
       "home_team": "Colorado Rockies",
       "away_team": "Cleveland Guardians",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:40",
+      "time": "18:30:40",
       "game_id": "825045",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Cincinnati Reds",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:42",
+      "time": "18:30:42",
       "game_id": "823911",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:43",
+      "time": "18:30:43",
       "game_id": "823101",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago Cubs",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:13",
+      "time": "18:30:13",
       "game_id": "823510",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "18:15:41",
+      "time": "18:30:41",
       "game_id": "823262",
       "home_team": "San Diego Padres",
       "away_team": "Minnesota Twins",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 62779,
+    "total_games_scanned_all": 62792,
     "record": {
       "wins": 80,
       "losses": 103,
