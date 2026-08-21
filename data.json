@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T19:00:18.816181+00:00",
+  "last_updated": "2026-08-21T19:15:17.055380+00:00",
   "scoreboard": [
     {
       "game_id": "823746",
@@ -994,16 +994,16 @@
   "today_games": [
     {
       "date": "2026-08-21",
-      "time": "15:00:06",
+      "time": "15:15:05",
       "game_id": "823746",
       "home_team": "Milwaukee Brewers",
       "away_team": "Atlanta Braves",
-      "home_prob": "0.5614",
-      "away_prob": "0.4386",
-      "poly_home_price": "0.5600",
-      "poly_away_price": "0.4500",
-      "home_ev": "0.0025",
-      "away_ev": "-0.0253",
+      "home_prob": "0.5578",
+      "away_prob": "0.4422",
+      "poly_home_price": "0.5700",
+      "poly_away_price": "0.4400",
+      "home_ev": "-0.0214",
+      "away_ev": "0.0050",
       "home_pitcher": "Jacob Misiorowski",
       "away_pitcher": "Chris Sale",
       "pitchers_confirmed": "yes",
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:09",
+      "time": "15:15:08",
       "game_id": "824721",
       "home_team": "Boston Red Sox",
       "away_team": "San Francisco Giants",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:10",
+      "time": "15:15:09",
       "game_id": "823830",
       "home_team": "Miami Marlins",
       "away_team": "Washington Nationals",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:11",
+      "time": "15:15:10",
       "game_id": "824800",
       "home_team": "Baltimore Orioles",
       "away_team": "Tampa Bay Rays",
@@ -1082,16 +1082,16 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:12",
+      "time": "15:15:10",
       "game_id": "824559",
       "home_team": "Chicago White Sox",
       "away_team": "New York Mets",
-      "home_prob": "0.5700",
-      "away_prob": "0.4300",
+      "home_prob": "0.5689",
+      "away_prob": "0.4311",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0172",
-      "away_ev": "-0.0000",
+      "home_ev": "-0.0191",
+      "away_ev": "0.0025",
       "home_pitcher": "Sean Burke",
       "away_pitcher": "Sean Manaea",
       "pitchers_confirmed": "yes",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:12",
+      "time": "15:15:11",
       "game_id": "824072",
       "home_team": "Kansas City Royals",
       "away_team": "Detroit Tigers",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:13",
+      "time": "15:15:12",
       "game_id": "824152",
       "home_team": "Houston Astros",
       "away_team": "Athletics",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:14",
+      "time": "15:15:13",
       "game_id": "822857",
       "home_team": "Texas Rangers",
       "away_team": "Los Angeles Angels",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:15",
+      "time": "15:15:14",
       "game_id": "824317",
       "home_team": "Colorado Rockies",
       "away_team": "Cleveland Guardians",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:16",
+      "time": "15:15:15",
       "game_id": "825045",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Cincinnati Reds",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:17",
+      "time": "15:15:15",
       "game_id": "823911",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:18",
+      "time": "15:15:16",
       "game_id": "823101",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago Cubs",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "15:00:08",
+      "time": "15:15:07",
       "game_id": "823510",
       "home_team": "New York Yankees",
       "away_team": "Toronto Blue Jays",
@@ -1277,13 +1277,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-08-21",
+      "time": "15:15:06",
+      "game_id": "823420",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "St. Louis Cardinals",
+      "home_prob": "0.7070",
+      "away_prob": "0.2930",
+      "poly_home_price": "0.7100",
+      "poly_away_price": "0.3000",
+      "home_ev": "-0.0042",
+      "away_ev": "-0.0234",
+      "home_pitcher": "Jes\u00fas Luzardo",
+      "away_pitcher": "Hunter Dobbins",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 183,
-    "total_games_scanned_today": 13,
-    "total_games_scanned_all": 62604,
+    "total_games_scanned_today": 14,
+    "total_games_scanned_all": 62618,
     "record": {
       "wins": 80,
       "losses": 103,
