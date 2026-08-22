@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T23:45:17.566597+00:00",
+  "last_updated": "2026-08-22T00:00:09.878650+00:00",
   "scoreboard": [
     {
       "game_id": "823746",
@@ -16,7 +16,7 @@
       "home": "PHI",
       "away_score": 2,
       "home_score": 3,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-08-21T22:40:00Z"
     },
     {
@@ -25,14 +25,14 @@
       "home": "NYY",
       "away_score": 0,
       "home_score": 2,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-08-21T23:05:00Z"
     },
     {
       "game_id": "824721",
       "away": "SF",
       "home": "BOS",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
       "state": "T3",
       "start_time": "2026-08-21T23:10:00Z"
@@ -43,7 +43,7 @@
       "home": "MIA",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-08-21T23:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BAL",
       "away_score": 3,
       "home_score": 2,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-08-21T23:15:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "824152",
       "away": "OAK",
       "home": "HOU",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-22T00:10:00Z"
     },
     {
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "19:45:13",
+      "time": "20:00:05",
       "game_id": "824317",
       "home_team": "Colorado Rockies",
       "away_team": "Cleveland Guardians",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "19:45:14",
+      "time": "20:00:06",
       "game_id": "825045",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Cincinnati Reds",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "19:45:16",
+      "time": "20:00:08",
       "game_id": "823911",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "19:45:17",
+      "time": "20:00:09",
       "game_id": "823101",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago Cubs",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-21",
-      "time": "19:45:15",
+      "time": "20:00:07",
       "game_id": "823262",
       "home_team": "San Diego Padres",
       "away_team": "Minnesota Twins",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 62839,
+    "total_games_scanned_all": 62844,
     "record": {
       "wins": 80,
       "losses": 103,
