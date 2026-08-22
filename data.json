@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:30:16.277399+00:00",
+  "last_updated": "2026-08-22T19:45:16.592913+00:00",
   "scoreboard": [
     {
       "game_id": "823509",
@@ -7,7 +7,7 @@
       "home": "NYY",
       "away_score": 3,
       "home_score": 0,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-08-22T17:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "ATL",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 3,
-      "state": "B4",
+      "home_score": 4,
+      "state": "B5",
       "start_time": "2026-08-22T18:10:00Z"
     },
     {
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:05",
+      "time": "15:45:05",
       "game_id": "823831",
       "home_team": "Miami Marlins",
       "away_team": "Washington Nationals",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:06",
+      "time": "15:45:07",
       "game_id": "824798",
       "home_team": "Baltimore Orioles",
       "away_team": "Tampa Bay Rays",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:07",
+      "time": "15:45:08",
       "game_id": "822858",
       "home_team": "Texas Rangers",
       "away_team": "Los Angeles Angels",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:08",
+      "time": "15:45:09",
       "game_id": "824151",
       "home_team": "Houston Astros",
       "away_team": "Athletics",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:09",
+      "time": "15:45:09",
       "game_id": "824560",
       "home_team": "Chicago White Sox",
       "away_team": "New York Mets",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:10",
+      "time": "15:45:10",
       "game_id": "824073",
       "home_team": "Kansas City Royals",
       "away_team": "Detroit Tigers",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:11",
+      "time": "15:45:11",
       "game_id": "823910",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:12",
+      "time": "15:45:12",
       "game_id": "823100",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago Cubs",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:13",
+      "time": "15:45:13",
       "game_id": "824718",
       "home_team": "Boston Red Sox",
       "away_team": "San Francisco Giants",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:14",
+      "time": "15:45:14",
       "game_id": "825044",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Cincinnati Reds",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:15",
+      "time": "15:45:15",
       "game_id": "824316",
       "home_team": "Colorado Rockies",
       "away_team": "Cleveland Guardians",
       "home_prob": "0.4336",
       "away_prob": "0.5664",
-      "poly_home_price": "0.4400",
-      "poly_away_price": "0.5700",
-      "home_ev": "-0.0146",
-      "away_ev": "-0.0063",
+      "poly_home_price": "0.4300",
+      "poly_away_price": "0.5800",
+      "home_ev": "0.0083",
+      "away_ev": "-0.0234",
       "home_pitcher": "Gabriel Hughes",
       "away_pitcher": "Tanner Bibee",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "15:30:16",
+      "time": "15:45:16",
       "game_id": "823261",
       "home_team": "San Diego Padres",
       "away_team": "Minnesota Twins",
@@ -1299,13 +1299,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "15:45:06",
+      "game_id": "823422",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "St. Louis Cardinals",
+      "home_prob": "0.6049",
+      "away_prob": "0.3951",
+      "poly_home_price": "0.6100",
+      "poly_away_price": "0.4000",
+      "home_ev": "-0.0084",
+      "away_ev": "-0.0122",
+      "home_pitcher": "Andrew Painter",
+      "away_pitcher": "Quinn Mathews",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 183,
-    "total_games_scanned_today": 14,
-    "total_games_scanned_all": 63227,
+    "total_games_scanned_today": 15,
+    "total_games_scanned_all": 63240,
     "record": {
       "wins": 80,
       "losses": 103,
