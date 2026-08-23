@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T03:30:04.673258+00:00",
+  "last_updated": "2026-08-23T03:45:04.730433+00:00",
   "scoreboard": [
     {
       "game_id": "823509",
@@ -133,7 +133,7 @@
       "home": "SD",
       "away_score": 5,
       "home_score": 7,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-23T00:40:00Z"
     }
   ],
