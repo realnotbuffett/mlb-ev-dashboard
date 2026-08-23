@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T01:15:04.993489+00:00",
+  "last_updated": "2026-08-23T01:30:04.780247+00:00",
   "scoreboard": [
     {
       "game_id": "823509",
@@ -43,7 +43,7 @@
       "home": "BAL",
       "away_score": 2,
       "home_score": 2,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-08-22T23:05:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "TEX",
       "away_score": 3,
       "home_score": 0,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-08-22T23:05:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "OAK",
       "home": "HOU",
       "away_score": 1,
-      "home_score": 2,
-      "state": "B7",
+      "home_score": 3,
+      "state": "T8",
       "start_time": "2026-08-22T23:10:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "CWS",
       "away_score": 7,
       "home_score": 4,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-08-22T23:10:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "KC",
       "away_score": 1,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "LAD",
       "away_score": 3,
       "home_score": 4,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "SEA",
       "away_score": 4,
       "home_score": 2,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "BOS",
       "away_score": 2,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
       "game_id": "825044",
       "away": "CIN",
       "home": "ARI",
-      "away_score": 3,
+      "away_score": 6,
       "home_score": 0,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-08-23T00:10:00Z"
     },
     {
@@ -123,15 +123,15 @@
       "away": "CLE",
       "home": "COL",
       "away_score": 3,
-      "home_score": 0,
-      "state": "B4",
+      "home_score": 1,
+      "state": "T5",
       "start_time": "2026-08-23T00:10:00Z"
     },
     {
       "game_id": "823261",
       "away": "MIN",
       "home": "SD",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 1,
       "state": "T3",
       "start_time": "2026-08-23T00:40:00Z"
