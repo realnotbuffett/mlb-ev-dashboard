@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T23:45:13.194468+00:00",
+  "last_updated": "2026-08-23T00:00:14.039057+00:00",
   "scoreboard": [
     {
       "game_id": "823509",
@@ -33,8 +33,8 @@
       "away": "STL",
       "home": "PHI",
       "away_score": 1,
-      "home_score": 7,
-      "state": "B6",
+      "home_score": 11,
+      "state": "T7",
       "start_time": "2026-08-22T22:05:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-22T23:05:00Z"
     },
     {
@@ -52,25 +52,25 @@
       "home": "TEX",
       "away_score": 1,
       "home_score": 0,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-08-22T23:05:00Z"
     },
     {
       "game_id": "824151",
       "away": "OAK",
       "home": "HOU",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-08-22T23:10:00Z"
     },
     {
       "game_id": "824560",
       "away": "NYM",
       "home": "CWS",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 1,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-08-22T23:10:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "DET",
       "home": "KC",
       "away_score": 0,
-      "home_score": 0,
-      "state": "B2",
+      "home_score": 1,
+      "state": "T4",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "LAD",
       "away_score": 3,
       "home_score": 0,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
@@ -97,16 +97,16 @@
       "home": "SEA",
       "away_score": 0,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
       "game_id": "824718",
       "away": "SF",
       "home": "BOS",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-08-22T23:15:00Z"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-22",
-      "time": "19:45:12",
+      "time": "20:00:12",
       "game_id": "825044",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Cincinnati Reds",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-08-22",
-      "time": "19:45:13",
+      "time": "20:00:13",
       "game_id": "823261",
       "home_team": "San Diego Padres",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5606",
-      "away_prob": "0.4394",
+      "home_prob": "0.5581",
+      "away_prob": "0.4419",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0165",
-      "away_ev": "-0.0014",
+      "home_ev": "-0.0209",
+      "away_ev": "0.0044",
       "home_pitcher": "Casey Mize",
       "away_pitcher": "Dean Kremer",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 63387,
+    "total_games_scanned_all": 63389,
     "record": {
       "wins": 80,
       "losses": 103,
