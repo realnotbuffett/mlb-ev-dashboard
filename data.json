@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T23:30:04.671980+00:00",
+  "last_updated": "2026-08-23T23:45:04.610981+00:00",
   "scoreboard": [
     {
       "game_id": "824799",
@@ -131,9 +131,9 @@
       "game_id": "823745",
       "away": "ATL",
       "home": "MIL",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "B2",
       "start_time": "2026-08-23T23:10:00Z"
     }
   ],
