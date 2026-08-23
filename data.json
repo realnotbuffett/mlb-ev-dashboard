@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T18:30:11.083293+00:00",
+  "last_updated": "2026-08-23T18:45:11.005567+00:00",
   "scoreboard": [
     {
       "game_id": "824799",
@@ -7,16 +7,16 @@
       "home": "BAL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-08-23T17:35:00Z"
     },
     {
       "game_id": "823421",
       "away": "STL",
       "home": "PHI",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 0,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-08-23T17:35:00Z"
     },
     {
@@ -25,16 +25,16 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 2,
-      "state": "B3",
+      "state": "T4",
       "start_time": "2026-08-23T17:35:00Z"
     },
     {
       "game_id": "823827",
       "away": "WSH",
       "home": "MIA",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 1,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-08-23T17:40:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "DET",
       "home": "KC",
       "away_score": 1,
-      "home_score": 0,
-      "state": "T2",
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-08-23T18:10:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 3,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-08-23T18:10:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-08-23T18:10:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "824315",
       "away": "CLE",
       "home": "COL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-23T19:10:00Z"
     },
     {
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-23",
-      "time": "14:30:06",
+      "time": "14:45:06",
       "game_id": "824720",
       "home_team": "Boston Red Sox",
       "away_team": "San Francisco Giants",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-23",
-      "time": "14:30:07",
+      "time": "14:45:07",
       "game_id": "823909",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-23",
-      "time": "14:30:08",
+      "time": "14:45:08",
       "game_id": "823099",
       "home_team": "Seattle Mariners",
       "away_team": "Chicago Cubs",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-08-23",
-      "time": "14:30:09",
+      "time": "14:45:09",
       "game_id": "823258",
       "home_team": "San Diego Padres",
       "away_team": "Minnesota Twins",
-      "home_prob": "0.5736",
-      "away_prob": "0.4264",
+      "home_prob": "0.5750",
+      "away_prob": "0.4250",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0111",
-      "away_ev": "-0.0083",
+      "home_ev": "-0.0086",
+      "away_ev": "-0.0116",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Bailey Ober",
       "pitchers_confirmed": "yes",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-08-23",
-      "time": "14:30:09",
+      "time": "14:45:09",
       "game_id": "825043",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.5771",
-      "away_prob": "0.4229",
-      "poly_home_price": "0.5700",
-      "poly_away_price": "0.4400",
-      "home_ev": "0.0125",
-      "away_ev": "-0.0389",
+      "home_prob": "0.5761",
+      "away_prob": "0.4239",
+      "poly_home_price": "0.5800",
+      "poly_away_price": "0.4300",
+      "home_ev": "-0.0068",
+      "away_ev": "-0.0141",
       "home_pitcher": "Mitch Bratt",
       "away_pitcher": "Andrew Abbott",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-23",
-      "time": "14:30:10",
+      "time": "14:45:10",
       "game_id": "823745",
       "home_team": "Milwaukee Brewers",
       "away_team": "Atlanta Braves",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 63690,
+    "total_games_scanned_all": 63696,
     "record": {
       "wins": 80,
       "losses": 103,
