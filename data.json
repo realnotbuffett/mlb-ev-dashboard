@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T23:00:06.941571+00:00",
+  "last_updated": "2026-08-23T23:15:04.644229+00:00",
   "scoreboard": [
     {
       "game_id": "824799",
@@ -104,9 +104,9 @@
       "game_id": "823099",
       "away": "CHC",
       "home": "SEA",
-      "away_score": 11,
+      "away_score": 16,
       "home_score": 2,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-08-23T20:10:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "ARI",
       "away_score": 3,
       "home_score": 5,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-23T20:15:00Z"
     },
     {
