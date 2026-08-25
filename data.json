@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T01:15:36.510937+00:00",
+  "last_updated": "2026-08-25T01:30:04.786132+00:00",
   "scoreboard": [
     {
       "game_id": "824235",
@@ -7,14 +7,14 @@
       "home": "DET",
       "away_score": 4,
       "home_score": 1,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-08-24T22:40:00Z"
     },
     {
       "game_id": "823828",
       "away": "BOS",
       "home": "MIA",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 2,
       "state": "T9",
       "start_time": "2026-08-24T22:40:00Z"
@@ -23,45 +23,45 @@
       "game_id": "822695",
       "away": "COL",
       "home": "WSH",
-      "away_score": 2,
+      "away_score": 3,
       "home_score": 10,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-08-24T22:45:00Z"
     },
     {
       "game_id": "824557",
       "away": "TEX",
       "home": "CWS",
-      "away_score": 5,
+      "away_score": 7,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-08-24T23:40:00Z"
     },
     {
       "game_id": "823992",
       "away": "CLE",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-25T01:38:00Z"
     },
     {
       "game_id": "825041",
       "away": "CHC",
       "home": "ARI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-25T01:40:00Z"
     },
     {
       "game_id": "823260",
       "away": "PIT",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-25T01:40:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "823183",
       "away": "CIN",
       "home": "SF",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-25T01:45:00Z"
     }
   ],
