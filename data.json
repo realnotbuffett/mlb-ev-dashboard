@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T01:30:04.786132+00:00",
+  "last_updated": "2026-08-25T01:45:04.637801+00:00",
   "scoreboard": [
     {
       "game_id": "824235",
@@ -16,7 +16,7 @@
       "home": "MIA",
       "away_score": 4,
       "home_score": 2,
-      "state": "T9",
+      "state": "B9",
       "start_time": "2026-08-24T22:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "COL",
       "home": "WSH",
       "away_score": 3,
-      "home_score": 10,
-      "state": "B8",
+      "home_score": 13,
+      "state": "T9",
       "start_time": "2026-08-24T22:45:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CWS",
       "away_score": 7,
       "home_score": 2,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-08-24T23:40:00Z"
     },
     {
