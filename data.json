@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T22:15:46.771750+00:00",
+  "last_updated": "2026-08-26T22:30:38.834426+00:00",
   "scoreboard": [
     {
       "game_id": "824234",
@@ -23,18 +23,18 @@
       "game_id": "823180",
       "away": "CIN",
       "home": "SF",
-      "away_score": 3,
-      "home_score": 6,
-      "state": "B8",
+      "away_score": 4,
+      "home_score": 9,
+      "state": "T9",
       "start_time": "2026-08-26T19:45:00Z"
     },
     {
       "game_id": "823988",
       "away": "CLE",
       "home": "LAA",
-      "away_score": 1,
+      "away_score": 2,
       "home_score": 3,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-08-26T20:07:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "SD",
       "away_score": 0,
       "home_score": 2,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-08-26T20:10:00Z"
     },
     {
@@ -52,25 +52,25 @@
       "home": "SEA",
       "away_score": 6,
       "home_score": 0,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-08-26T20:10:00Z"
     },
     {
       "game_id": "823825",
       "away": "BOS",
       "home": "MIA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-26T22:40:00Z"
     },
     {
       "game_id": "822692",
       "away": "COL",
       "home": "WSH",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-26T22:45:00Z"
     },
     {
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "18:15:28",
+      "time": "18:30:20",
       "game_id": "822772",
       "home_team": "Toronto Blue Jays",
       "away_team": "Kansas City Royals",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "18:15:35",
+      "time": "18:30:27",
       "game_id": "823584",
       "home_team": "New York Mets",
       "away_team": "Milwaukee Brewers",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-08-26",
-      "time": "18:15:43",
+      "time": "18:30:35",
       "game_id": "824878",
       "home_team": "Atlanta Braves",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.5115",
-      "away_prob": "0.4885",
+      "home_prob": "0.5128",
+      "away_prob": "0.4872",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "0.1120",
-      "away_ev": "-0.1118",
+      "home_ev": "0.1148",
+      "away_ev": "-0.1142",
       "home_pitcher": "AJ Smith-Shawver",
       "away_pitcher": "Roki Sasaki",
       "pitchers_confirmed": "yes",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-08-26",
-      "time": "18:15:44",
+      "time": "18:30:36",
       "game_id": "824555",
       "home_team": "Chicago White Sox",
       "away_team": "Texas Rangers",
       "home_prob": "0.5305",
       "away_prob": "0.4695",
-      "poly_home_price": "0.5300",
-      "poly_away_price": "0.4800",
-      "home_ev": "0.0009",
-      "away_ev": "-0.0218",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "-0.0177",
+      "away_ev": "-0.0010",
       "home_pitcher": "Sean Burke",
       "away_pitcher": "MacKenzie Gore",
       "pitchers_confirmed": "yes",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "18:15:45",
+      "time": "18:30:37",
       "game_id": "823015",
       "home_team": "St. Louis Cardinals",
       "away_team": "Baltimore Orioles",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "18:15:46",
+      "time": "18:30:38",
       "game_id": "824963",
       "home_team": "Athletics",
       "away_team": "Minnesota Twins",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "18:15:20",
+      "time": "18:30:12",
       "game_id": "823506",
       "home_team": "New York Yankees",
       "away_team": "Houston Astros",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 65216,
+    "total_games_scanned_all": 65223,
     "record": {
       "wins": 80,
       "losses": 103,
