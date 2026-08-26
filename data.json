@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T19:30:16.434239+00:00",
+  "last_updated": "2026-08-26T19:45:15.304414+00:00",
   "scoreboard": [
     {
       "game_id": "824234",
@@ -32,18 +32,18 @@
       "game_id": "823988",
       "away": "CLE",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-26T20:07:00Z"
     },
     {
       "game_id": "823255",
       "away": "PIT",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-26T20:10:00Z"
     },
     {
@@ -1082,16 +1082,16 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:06",
+      "time": "15:45:05",
       "game_id": "823255",
       "home_team": "San Diego Padres",
       "away_team": "Pittsburgh Pirates",
-      "home_prob": "0.5556",
-      "away_prob": "0.4444",
+      "home_prob": "0.5628",
+      "away_prob": "0.4372",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0253",
-      "away_ev": "0.0101",
+      "home_ev": "-0.0126",
+      "away_ev": "-0.0064",
       "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher": "Bubba Chandler",
       "pitchers_confirmed": "yes",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:07",
+      "time": "15:45:06",
       "game_id": "823096",
       "home_team": "Seattle Mariners",
       "away_team": "Philadelphia Phillies",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:08",
+      "time": "15:45:07",
       "game_id": "823825",
       "home_team": "Miami Marlins",
       "away_team": "Boston Red Sox",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:09",
+      "time": "15:45:08",
       "game_id": "822692",
       "home_team": "Washington Nationals",
       "away_team": "Colorado Rockies",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:11",
+      "time": "15:45:10",
       "game_id": "822772",
       "home_team": "Toronto Blue Jays",
       "away_team": "Kansas City Royals",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:12",
+      "time": "15:45:11",
       "game_id": "823584",
       "home_team": "New York Mets",
       "away_team": "Milwaukee Brewers",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:13",
+      "time": "15:45:12",
       "game_id": "824878",
       "home_team": "Atlanta Braves",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.4520",
-      "away_prob": "0.5480",
-      "poly_home_price": "0.4500",
-      "poly_away_price": "0.5600",
-      "home_ev": "0.0045",
-      "away_ev": "-0.0215",
+      "home_prob": "0.4733",
+      "away_prob": "0.5267",
+      "poly_home_price": "0.4600",
+      "poly_away_price": "0.5500",
+      "home_ev": "0.0289",
+      "away_ev": "-0.0423",
       "home_pitcher": "AJ Smith-Shawver",
       "away_pitcher": "Roki Sasaki",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:14",
+      "time": "15:45:13",
       "game_id": "824555",
       "home_team": "Chicago White Sox",
       "away_team": "Texas Rangers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:15",
+      "time": "15:45:14",
       "game_id": "823015",
       "home_team": "St. Louis Cardinals",
       "away_team": "Baltimore Orioles",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:16",
+      "time": "15:45:15",
       "game_id": "824963",
       "home_team": "Athletics",
       "away_team": "Minnesota Twins",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-26",
-      "time": "15:30:10",
+      "time": "15:45:09",
       "game_id": "823506",
       "home_team": "New York Yankees",
       "away_team": "Houston Astros",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 65115,
+    "total_games_scanned_all": 65126,
     "record": {
       "wins": 80,
       "losses": 103,
