@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T20:00:10.931743+00:00",
+  "last_updated": "2026-08-27T20:15:10.850105+00:00",
   "scoreboard": [
     {
       "game_id": "822694",
@@ -7,16 +7,16 @@
       "home": "WSH",
       "away_score": 1,
       "home_score": 7,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-27T17:05:00Z"
     },
     {
       "game_id": "823014",
       "away": "BAL",
       "home": "STL",
-      "away_score": 1,
+      "away_score": 4,
       "home_score": 6,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-08-27T18:15:00Z"
     },
     {
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "16:00:06",
+      "time": "16:15:06",
       "game_id": "823503",
       "home_team": "New York Yankees",
       "away_team": "Houston Astros",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "16:00:07",
+      "time": "16:15:07",
       "game_id": "822771",
       "home_team": "Toronto Blue Jays",
       "away_team": "Kansas City Royals",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "16:00:08",
+      "time": "16:15:08",
       "game_id": "823581",
       "home_team": "New York Mets",
       "away_team": "Milwaukee Brewers",
@@ -1010,16 +1010,16 @@
     },
     {
       "date": "2026-08-27",
-      "time": "16:00:09",
+      "time": "16:15:09",
       "game_id": "824879",
       "home_team": "Atlanta Braves",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.5443",
-      "away_prob": "0.4557",
+      "home_prob": "0.5381",
+      "away_prob": "0.4619",
       "poly_home_price": "0.5500",
       "poly_away_price": "0.4600",
-      "home_ev": "-0.0104",
-      "away_ev": "-0.0094",
+      "home_ev": "-0.0217",
+      "away_ev": "0.0042",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Yoshinobu Yamamoto",
       "pitchers_confirmed": "yes",
@@ -1032,16 +1032,16 @@
     },
     {
       "date": "2026-08-27",
-      "time": "16:00:10",
+      "time": "16:15:10",
       "game_id": "823179",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.4949",
-      "away_prob": "0.5051",
+      "home_prob": "0.5000",
+      "away_prob": "0.5000",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0102",
-      "away_ev": "-0.0096",
+      "home_ev": "0.0000",
+      "away_ev": "-0.0196",
       "home_pitcher": "Landen Roupp",
       "away_pitcher": "Jose Cabrera",
       "pitchers_confirmed": "yes",
@@ -1079,7 +1079,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 7,
-    "total_games_scanned_all": 65411,
+    "total_games_scanned_all": 65416,
     "record": {
       "wins": 80,
       "losses": 103,
