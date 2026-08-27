@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T13:30:11.458692+00:00",
+  "last_updated": "2026-08-27T13:45:11.609711+00:00",
   "scoreboard": [
     {
       "game_id": "822694",
@@ -922,16 +922,16 @@
   "today_games": [
     {
       "date": "2026-08-27",
-      "time": "09:30:05",
+      "time": "09:45:05",
       "game_id": "822694",
       "home_team": "Washington Nationals",
       "away_team": "Colorado Rockies",
-      "home_prob": "0.5650",
-      "away_prob": "0.4350",
+      "home_prob": "0.5664",
+      "away_prob": "0.4336",
       "poly_home_price": "0.5800",
       "poly_away_price": "0.4300",
-      "home_ev": "-0.0259",
-      "away_ev": "0.0116",
+      "home_ev": "-0.0234",
+      "away_ev": "0.0083",
       "home_pitcher": "Jake Irvin",
       "away_pitcher": "Gabriel Hughes",
       "pitchers_confirmed": "yes",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "09:30:06",
+      "time": "09:45:06",
       "game_id": "823503",
       "home_team": "New York Yankees",
       "away_team": "Houston Astros",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "09:30:08",
+      "time": "09:45:07",
       "game_id": "822771",
       "home_team": "Toronto Blue Jays",
       "away_team": "Kansas City Royals",
@@ -988,16 +988,16 @@
     },
     {
       "date": "2026-08-27",
-      "time": "09:30:09",
+      "time": "09:45:09",
       "game_id": "823581",
       "home_team": "New York Mets",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.3333",
-      "away_prob": "0.6667",
+      "home_prob": "0.3326",
+      "away_prob": "0.6674",
       "poly_home_price": "0.3300",
       "poly_away_price": "0.6800",
-      "home_ev": "0.0101",
-      "away_ev": "-0.0196",
+      "home_ev": "0.0078",
+      "away_ev": "-0.0185",
       "home_pitcher": "Sean Manaea",
       "away_pitcher": "Jacob Misiorowski",
       "pitchers_confirmed": "yes",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "09:30:10",
+      "time": "09:45:10",
       "game_id": "824879",
       "home_team": "Atlanta Braves",
       "away_team": "Los Angeles Dodgers",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "09:30:11",
+      "time": "09:45:11",
       "game_id": "823179",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1057,7 +1057,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 65258,
+    "total_games_scanned_all": 65264,
     "record": {
       "wins": 80,
       "losses": 103,
