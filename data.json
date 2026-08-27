@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T03:00:05.656254+00:00",
+  "last_updated": "2026-08-27T03:15:04.756759+00:00",
   "scoreboard": [
     {
       "game_id": "824234",
@@ -115,7 +115,7 @@
       "home": "CWS",
       "away_score": 4,
       "home_score": 10,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-08-26T23:40:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "STL",
       "away_score": 8,
       "home_score": 7,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-08-26T23:45:00Z"
     },
     {
@@ -132,8 +132,8 @@
       "away": "MIN",
       "home": "OAK",
       "away_score": 4,
-      "home_score": 6,
-      "state": "B7",
+      "home_score": 7,
+      "state": "B8",
       "start_time": "2026-08-27T01:05:00Z"
     }
   ],
