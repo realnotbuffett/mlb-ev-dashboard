@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T15:00:12.043184+00:00",
+  "last_updated": "2026-08-27T15:15:11.204213+00:00",
   "scoreboard": [
     {
       "game_id": "822694",
@@ -922,7 +922,7 @@
   "today_games": [
     {
       "date": "2026-08-27",
-      "time": "11:00:06",
+      "time": "11:15:05",
       "game_id": "822694",
       "home_team": "Washington Nationals",
       "away_team": "Colorado Rockies",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:00:07",
+      "time": "11:15:06",
       "game_id": "823503",
       "home_team": "New York Yankees",
       "away_team": "Houston Astros",
@@ -966,16 +966,16 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:00:08",
+      "time": "11:15:07",
       "game_id": "822771",
       "home_team": "Toronto Blue Jays",
       "away_team": "Kansas City Royals",
-      "home_prob": "0.4936",
-      "away_prob": "0.5064",
+      "home_prob": "0.4923",
+      "away_prob": "0.5077",
       "poly_home_price": "0.5000",
       "poly_away_price": "0.5100",
-      "home_ev": "-0.0128",
-      "away_ev": "-0.0071",
+      "home_ev": "-0.0153",
+      "away_ev": "-0.0046",
       "home_pitcher": "Spencer Arrighetti",
       "away_pitcher": "Noah Cameron",
       "pitchers_confirmed": "yes",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:00:09",
+      "time": "11:15:08",
       "game_id": "823581",
       "home_team": "New York Mets",
       "away_team": "Milwaukee Brewers",
@@ -1010,7 +1010,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:00:10",
+      "time": "11:15:09",
       "game_id": "824879",
       "home_team": "Atlanta Braves",
       "away_team": "Los Angeles Dodgers",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:00:11",
+      "time": "11:15:10",
       "game_id": "823179",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1057,7 +1057,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 6,
-    "total_games_scanned_all": 65294,
+    "total_games_scanned_all": 65300,
     "record": {
       "wins": 80,
       "losses": 103,
