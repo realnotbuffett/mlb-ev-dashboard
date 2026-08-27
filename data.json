@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T02:30:06.606508+00:00",
+  "last_updated": "2026-08-27T02:45:05.545791+00:00",
   "scoreboard": [
     {
       "game_id": "824234",
@@ -105,8 +105,8 @@
       "away": "LAD",
       "home": "ATL",
       "away_score": 5,
-      "home_score": 5,
-      "state": "B9",
+      "home_score": 6,
+      "state": "FINAL",
       "start_time": "2026-08-26T23:15:00Z"
     },
     {
@@ -115,25 +115,25 @@
       "home": "CWS",
       "away_score": 4,
       "home_score": 10,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-08-26T23:40:00Z"
     },
     {
       "game_id": "823015",
       "away": "BAL",
       "home": "STL",
-      "away_score": 7,
+      "away_score": 8,
       "home_score": 7,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-26T23:45:00Z"
     },
     {
       "game_id": "824963",
       "away": "MIN",
       "home": "OAK",
-      "away_score": 3,
-      "home_score": 2,
-      "state": "T6",
+      "away_score": 4,
+      "home_score": 3,
+      "state": "B6",
       "start_time": "2026-08-27T01:05:00Z"
     }
   ],
