@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T03:30:04.765538+00:00",
+  "last_updated": "2026-08-27T03:45:04.961435+00:00",
   "scoreboard": [
     {
       "game_id": "824234",
@@ -133,7 +133,7 @@
       "home": "OAK",
       "away_score": 4,
       "home_score": 7,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-27T01:05:00Z"
     }
   ],
