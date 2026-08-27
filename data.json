@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T15:15:11.204213+00:00",
+  "last_updated": "2026-08-27T15:30:12.472273+00:00",
   "scoreboard": [
     {
       "game_id": "822694",
@@ -922,7 +922,7 @@
   "today_games": [
     {
       "date": "2026-08-27",
-      "time": "11:15:05",
+      "time": "11:30:05",
       "game_id": "822694",
       "home_team": "Washington Nationals",
       "away_team": "Colorado Rockies",
@@ -944,7 +944,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:15:06",
+      "time": "11:30:07",
       "game_id": "823503",
       "home_team": "New York Yankees",
       "away_team": "Houston Astros",
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:15:07",
+      "time": "11:30:08",
       "game_id": "822771",
       "home_team": "Toronto Blue Jays",
       "away_team": "Kansas City Royals",
@@ -988,7 +988,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:15:08",
+      "time": "11:30:10",
       "game_id": "823581",
       "home_team": "New York Mets",
       "away_team": "Milwaukee Brewers",
@@ -1010,16 +1010,16 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:15:09",
+      "time": "11:30:11",
       "game_id": "824879",
       "home_team": "Atlanta Braves",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.5381",
-      "away_prob": "0.4619",
+      "home_prob": "0.5367",
+      "away_prob": "0.4633",
       "poly_home_price": "0.5400",
       "poly_away_price": "0.4700",
-      "home_ev": "-0.0036",
-      "away_ev": "-0.0172",
+      "home_ev": "-0.0061",
+      "away_ev": "-0.0143",
       "home_pitcher": "Chris Sale",
       "away_pitcher": "Yoshinobu Yamamoto",
       "pitchers_confirmed": "yes",
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-08-27",
-      "time": "11:15:10",
+      "time": "11:30:12",
       "game_id": "823179",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1051,13 +1051,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-08-27",
+      "time": "11:30:06",
+      "game_id": "823014",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Baltimore Orioles",
+      "home_prob": "0.4557",
+      "away_prob": "0.5443",
+      "poly_home_price": "0.4600",
+      "poly_away_price": "0.5500",
+      "home_ev": "-0.0094",
+      "away_ev": "-0.0104",
+      "home_pitcher": "Gordon Graceffo",
+      "away_pitcher": "Trevor Rogers",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 183,
-    "total_games_scanned_today": 6,
-    "total_games_scanned_all": 65300,
+    "total_games_scanned_today": 7,
+    "total_games_scanned_all": 65307,
     "record": {
       "wins": 80,
       "losses": 103,
