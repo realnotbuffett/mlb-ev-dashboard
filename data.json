@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T21:30:46.203675+00:00",
+  "last_updated": "2026-08-28T21:45:46.334486+00:00",
   "scoreboard": [
     {
       "game_id": "824638",
@@ -1016,16 +1016,16 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:05",
+      "time": "17:45:06",
       "game_id": "824231",
       "home_team": "Detroit Tigers",
       "away_team": "Los Angeles Dodgers",
-      "home_prob": "0.3835",
-      "away_prob": "0.6165",
+      "home_prob": "0.3826",
+      "away_prob": "0.6174",
       "poly_home_price": "0.3800",
       "poly_away_price": "0.6300",
-      "home_ev": "0.0092",
-      "away_ev": "-0.0214",
+      "home_ev": "0.0068",
+      "away_ev": "-0.0199",
       "home_pitcher": "Drew Anderson",
       "away_pitcher": "Tarik Skubal",
       "pitchers_confirmed": "yes",
@@ -1038,7 +1038,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:13",
+      "time": "17:45:14",
       "game_id": "822691",
       "home_team": "Washington Nationals",
       "away_team": "Miami Marlins",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:21",
+      "time": "17:45:21",
       "game_id": "824396",
       "home_team": "Cleveland Guardians",
       "away_team": "Kansas City Royals",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:22",
+      "time": "17:45:22",
       "game_id": "823583",
       "home_team": "New York Mets",
       "away_team": "Houston Astros",
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:23",
+      "time": "17:45:23",
       "game_id": "822935",
       "home_team": "Tampa Bay Rays",
       "away_team": "San Diego Padres",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:25",
+      "time": "17:45:25",
       "game_id": "824877",
       "home_team": "Atlanta Braves",
       "away_team": "Colorado Rockies",
@@ -1148,16 +1148,16 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:26",
+      "time": "17:45:26",
       "game_id": "823504",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.5796",
-      "away_prob": "0.4204",
+      "home_prob": "0.5806",
+      "away_prob": "0.4194",
       "poly_home_price": "0.5900",
       "poly_away_price": "0.4200",
-      "home_ev": "-0.0176",
-      "away_ev": "0.0009",
+      "home_ev": "-0.0159",
+      "away_ev": "-0.0015",
       "home_pitcher": "Cam Schlittler",
       "away_pitcher": "Patrick Sandoval",
       "pitchers_confirmed": "yes",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:34",
+      "time": "17:45:34",
       "game_id": "823744",
       "home_team": "Milwaukee Brewers",
       "away_team": "Texas Rangers",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:35",
+      "time": "17:45:35",
       "game_id": "823666",
       "home_team": "Minnesota Twins",
       "away_team": "Chicago White Sox",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:36",
+      "time": "17:45:36",
       "game_id": "823013",
       "home_team": "St. Louis Cardinals",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:43",
+      "time": "17:45:44",
       "game_id": "823985",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:45",
+      "time": "17:45:46",
       "game_id": "823178",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:45",
+      "time": "17:45:45",
       "game_id": "824960",
       "home_team": "Athletics",
       "away_team": "Baltimore Orioles",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "17:30:24",
+      "time": "17:45:24",
       "game_id": "822769",
       "home_team": "Toronto Blue Jays",
       "away_team": "Seattle Mariners",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 65937,
+    "total_games_scanned_all": 65951,
     "record": {
       "wins": 80,
       "losses": 103,
