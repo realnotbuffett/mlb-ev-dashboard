@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-28T20:30:48.085190+00:00",
+  "last_updated": "2026-08-28T20:45:46.550210+00:00",
   "scoreboard": [
     {
       "game_id": "824638",
       "away": "CIN",
       "home": "CHC",
-      "away_score": 7,
-      "home_score": 3,
-      "state": "T7",
+      "away_score": 9,
+      "home_score": 4,
+      "state": "B7",
       "start_time": "2026-08-28T18:20:00Z"
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:05",
+      "time": "16:45:05",
       "game_id": "824231",
       "home_team": "Detroit Tigers",
       "away_team": "Los Angeles Dodgers",
@@ -1038,16 +1038,16 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:14",
+      "time": "16:45:13",
       "game_id": "822691",
       "home_team": "Washington Nationals",
       "away_team": "Miami Marlins",
       "home_prob": "0.5000",
       "away_prob": "0.5000",
-      "poly_home_price": "0.4200",
-      "poly_away_price": "0.5900",
-      "home_ev": "0.1905",
-      "away_ev": "-0.1525",
+      "poly_home_price": "0.4400",
+      "poly_away_price": "0.5700",
+      "home_ev": "0.1364",
+      "away_ev": "-0.1228",
       "home_pitcher": "Jackson Kent",
       "away_pitcher": "Eury P\u00e9rez",
       "pitchers_confirmed": "yes",
@@ -1060,7 +1060,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:21",
+      "time": "16:45:21",
       "game_id": "824396",
       "home_team": "Cleveland Guardians",
       "away_team": "Kansas City Royals",
@@ -1082,7 +1082,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:23",
+      "time": "16:45:22",
       "game_id": "823583",
       "home_team": "New York Mets",
       "away_team": "Houston Astros",
@@ -1104,16 +1104,16 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:24",
+      "time": "16:45:23",
       "game_id": "822935",
       "home_team": "Tampa Bay Rays",
       "away_team": "San Diego Padres",
       "home_prob": "0.5482",
       "away_prob": "0.4518",
-      "poly_home_price": "0.5500",
-      "poly_away_price": "0.4600",
-      "home_ev": "-0.0032",
-      "away_ev": "-0.0179",
+      "poly_home_price": "0.5400",
+      "poly_away_price": "0.4700",
+      "home_ev": "0.0152",
+      "away_ev": "-0.0388",
       "home_pitcher": "Shane McClanahan",
       "away_pitcher": "Casey Mize",
       "pitchers_confirmed": "yes",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:26",
+      "time": "16:45:25",
       "game_id": "824877",
       "home_team": "Atlanta Braves",
       "away_team": "Colorado Rockies",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:27",
+      "time": "16:45:26",
       "game_id": "823504",
       "home_team": "New York Yankees",
       "away_team": "Boston Red Sox",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:35",
+      "time": "16:45:34",
       "game_id": "823744",
       "home_team": "Milwaukee Brewers",
       "away_team": "Texas Rangers",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:36",
+      "time": "16:45:35",
       "game_id": "823666",
       "home_team": "Minnesota Twins",
       "away_team": "Chicago White Sox",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:37",
+      "time": "16:45:36",
       "game_id": "823013",
       "home_team": "St. Louis Cardinals",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:45",
+      "time": "16:45:44",
       "game_id": "823985",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:47",
+      "time": "16:45:46",
       "game_id": "823178",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:46",
+      "time": "16:45:45",
       "game_id": "824960",
       "home_team": "Athletics",
       "away_team": "Baltimore Orioles",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "16:30:25",
+      "time": "16:45:24",
       "game_id": "822769",
       "home_team": "Toronto Blue Jays",
       "away_team": "Seattle Mariners",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 65881,
+    "total_games_scanned_all": 65895,
     "record": {
       "wins": 80,
       "losses": 103,
