@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T23:00:25.792369+00:00",
+  "last_updated": "2026-08-28T23:15:18.996509+00:00",
   "scoreboard": [
     {
       "game_id": "824638",
@@ -16,16 +16,16 @@
       "home": "DET",
       "away_score": 0,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-08-28T22:40:00Z"
     },
     {
       "game_id": "822691",
       "away": "MIA",
       "home": "WSH",
-      "away_score": 0,
+      "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "T2",
       "start_time": "2026-08-28T22:45:00Z"
     },
     {
@@ -86,9 +86,9 @@
       "game_id": "823744",
       "away": "TEX",
       "home": "MIL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-28T23:40:00Z"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "19:00:14",
+      "time": "19:15:05",
       "game_id": "823666",
       "home_team": "Minnesota Twins",
       "away_team": "Chicago White Sox",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "19:00:15",
+      "time": "19:15:06",
       "game_id": "823013",
       "home_team": "St. Louis Cardinals",
       "away_team": "Pittsburgh Pirates",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "19:00:23",
+      "time": "19:15:16",
       "game_id": "823985",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-08-28",
-      "time": "19:00:25",
+      "time": "19:15:18",
       "game_id": "823178",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-08-28",
-      "time": "19:00:24",
+      "time": "19:15:17",
       "game_id": "824960",
       "home_team": "Athletics",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4911",
-      "away_prob": "0.5089",
+      "home_prob": "0.4898",
+      "away_prob": "0.5102",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "0.0022",
-      "away_ev": "-0.0213",
+      "home_ev": "-0.0004",
+      "away_ev": "-0.0188",
       "home_pitcher": "Jacob Lopez",
       "away_pitcher": "Brandon Young",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 66008,
+    "total_games_scanned_all": 66013,
     "record": {
       "wins": 80,
       "losses": 103,
