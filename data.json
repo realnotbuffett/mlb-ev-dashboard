@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T23:00:13.199502+00:00",
+  "last_updated": "2026-08-29T23:15:14.208725+00:00",
   "scoreboard": [
     {
       "game_id": "823539",
@@ -87,8 +87,8 @@
       "away": "MIA",
       "home": "WSH",
       "away_score": 4,
-      "home_score": 4,
-      "state": "B10",
+      "home_score": 5,
+      "state": "FINAL",
       "start_time": "2026-08-29T20:05:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "ATL",
       "away_score": 1,
       "home_score": 2,
-      "state": "B8",
+      "state": "T9",
       "start_time": "2026-08-29T20:10:00Z"
     },
     {
@@ -1276,7 +1276,7 @@
     },
     {
       "date": "2026-08-29",
-      "time": "19:00:04",
+      "time": "19:15:05",
       "game_id": "824961",
       "home_team": "Athletics",
       "away_team": "Baltimore Orioles",
@@ -1298,7 +1298,7 @@
     },
     {
       "date": "2026-08-29",
-      "time": "19:00:12",
+      "time": "19:15:14",
       "game_id": "823986",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
@@ -1361,13 +1361,35 @@
       "away_score": "",
       "winner": "",
       "result_updated": "no"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "19:15:04",
+      "game_id": "823176",
+      "home_team": "San Francisco Giants",
+      "away_team": "Arizona Diamondbacks",
+      "home_prob": "0.4608",
+      "away_prob": "0.5392",
+      "poly_home_price": "0.4700",
+      "poly_away_price": "0.5500",
+      "home_ev": "-0.0197",
+      "away_ev": "-0.0196",
+      "home_pitcher": "Yunior Marte",
+      "away_pitcher": "Mitch Bratt",
+      "pitchers_confirmed": "yes",
+      "bet_placed": "no",
+      "bet_side": "",
+      "home_score": "",
+      "away_score": "",
+      "winner": "",
+      "result_updated": "no"
     }
   ],
   "stats": {
     "total_bets_today": 0,
     "total_bets_all_time": 183,
-    "total_games_scanned_today": 16,
-    "total_games_scanned_all": 66438,
+    "total_games_scanned_today": 17,
+    "total_games_scanned_all": 66441,
     "record": {
       "wins": 80,
       "losses": 103,
