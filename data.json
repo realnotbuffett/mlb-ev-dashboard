@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T01:00:13.809124+00:00",
+  "last_updated": "2026-08-30T01:15:13.875764+00:00",
   "scoreboard": [
     {
       "game_id": "823539",
@@ -16,7 +16,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 3,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-08-29T23:15:00Z"
     },
     {
@@ -132,8 +132,8 @@
       "away": "TEX",
       "home": "MIL",
       "away_score": 1,
-      "home_score": 3,
-      "state": "B6",
+      "home_score": 4,
+      "state": "B7",
       "start_time": "2026-08-29T23:15:00Z"
     },
     {
@@ -1276,16 +1276,16 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:00:05",
+      "time": "21:15:05",
       "game_id": "824961",
       "home_team": "Athletics",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4397",
-      "away_prob": "0.5603",
+      "home_prob": "0.4386",
+      "away_prob": "0.5614",
       "poly_home_price": "0.4300",
       "poly_away_price": "0.5800",
-      "home_ev": "0.0226",
-      "away_ev": "-0.0340",
+      "home_ev": "0.0200",
+      "away_ev": "-0.0321",
       "home_pitcher": "Jack Perkins",
       "away_pitcher": "Shane Baz",
       "pitchers_confirmed": "yes",
@@ -1298,7 +1298,7 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:00:13",
+      "time": "21:15:13",
       "game_id": "823986",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
@@ -1364,16 +1364,16 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:00:04",
+      "time": "21:15:04",
       "game_id": "823176",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.4608",
-      "away_prob": "0.5392",
+      "home_prob": "0.4594",
+      "away_prob": "0.5406",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "0.0017",
-      "away_ev": "-0.0196",
+      "home_ev": "-0.0013",
+      "away_ev": "-0.0171",
       "home_pitcher": "Yunior Marte",
       "away_pitcher": "Mitch Bratt",
       "pitchers_confirmed": "yes",
@@ -1389,7 +1389,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 17,
-    "total_games_scanned_all": 66462,
+    "total_games_scanned_all": 66465,
     "record": {
       "wins": 80,
       "losses": 103,
