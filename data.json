@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T01:15:13.875764+00:00",
+  "last_updated": "2026-08-30T01:30:14.369553+00:00",
   "scoreboard": [
     {
       "game_id": "823539",
@@ -16,7 +16,7 @@
       "home": "NYY",
       "away_score": 1,
       "home_score": 3,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-08-29T23:15:00Z"
     },
     {
@@ -131,9 +131,9 @@
       "game_id": "823741",
       "away": "TEX",
       "home": "MIL",
-      "away_score": 1,
-      "home_score": 4,
-      "state": "B7",
+      "away_score": 3,
+      "home_score": 5,
+      "state": "T8",
       "start_time": "2026-08-29T23:15:00Z"
     },
     {
@@ -1276,7 +1276,7 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:15:05",
+      "time": "21:30:06",
       "game_id": "824961",
       "home_team": "Athletics",
       "away_team": "Baltimore Orioles",
@@ -1298,16 +1298,16 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:15:13",
+      "time": "21:30:14",
       "game_id": "823986",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
-      "home_prob": "0.3643",
-      "away_prob": "0.6357",
+      "home_prob": "0.3667",
+      "away_prob": "0.6333",
       "poly_home_price": "0.3200",
       "poly_away_price": "0.6900",
-      "home_ev": "0.1384",
-      "away_ev": "-0.0787",
+      "home_ev": "0.1458",
+      "away_ev": "-0.0821",
       "home_pitcher": "Ryan Johnson",
       "away_pitcher": "Cristopher S\u00e1nchez",
       "pitchers_confirmed": "yes",
@@ -1364,7 +1364,7 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:15:04",
+      "time": "21:30:04",
       "game_id": "823176",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
@@ -1389,7 +1389,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 17,
-    "total_games_scanned_all": 66465,
+    "total_games_scanned_all": 66468,
     "record": {
       "wins": 80,
       "losses": 103,
