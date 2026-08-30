@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T01:30:14.369553+00:00",
+  "last_updated": "2026-08-30T01:45:12.847372+00:00",
   "scoreboard": [
     {
       "game_id": "823539",
@@ -15,8 +15,8 @@
       "away": "BOS",
       "home": "NYY",
       "away_score": 1,
-      "home_score": 3,
-      "state": "B6",
+      "home_score": 4,
+      "state": "B7",
       "start_time": "2026-08-29T23:15:00Z"
     },
     {
@@ -133,25 +133,25 @@
       "home": "MIL",
       "away_score": 3,
       "home_score": 5,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-08-29T23:15:00Z"
     },
     {
       "game_id": "824961",
       "away": "BAL",
       "home": "OAK",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-30T02:05:00Z"
     },
     {
       "game_id": "823986",
       "away": "PHI",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-08-30T02:07:00Z"
     }
   ],
@@ -1298,7 +1298,7 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:30:14",
+      "time": "21:45:12",
       "game_id": "823986",
       "home_team": "Los Angeles Angels",
       "away_team": "Philadelphia Phillies",
@@ -1364,16 +1364,16 @@
     },
     {
       "date": "2026-08-29",
-      "time": "21:30:04",
+      "time": "21:45:04",
       "game_id": "823176",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
-      "home_prob": "0.4594",
-      "away_prob": "0.5406",
+      "home_prob": "0.4582",
+      "away_prob": "0.5418",
       "poly_home_price": "0.4600",
       "poly_away_price": "0.5500",
-      "home_ev": "-0.0013",
-      "away_ev": "-0.0171",
+      "home_ev": "-0.0039",
+      "away_ev": "-0.0150",
       "home_pitcher": "Yunior Marte",
       "away_pitcher": "Mitch Bratt",
       "pitchers_confirmed": "yes",
@@ -1389,7 +1389,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 17,
-    "total_games_scanned_all": 66468,
+    "total_games_scanned_all": 66470,
     "record": {
       "wins": 80,
       "losses": 103,
