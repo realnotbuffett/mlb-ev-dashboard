@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T22:15:05.445601+00:00",
+  "last_updated": "2026-08-30T22:30:05.804874+00:00",
   "scoreboard": [
     {
       "game_id": "822688",
@@ -104,16 +104,16 @@
       "game_id": "824959",
       "away": "BAL",
       "home": "OAK",
-      "away_score": 7,
+      "away_score": 8,
       "home_score": 5,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-30T20:05:00Z"
     },
     {
       "game_id": "823987",
       "away": "PHI",
       "home": "LAA",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
       "state": "T8",
       "start_time": "2026-08-30T20:07:00Z"
@@ -1271,7 +1271,7 @@
     },
     {
       "date": "2026-08-30",
-      "time": "18:15:05",
+      "time": "18:30:05",
       "game_id": "824636",
       "home_team": "Chicago Cubs",
       "away_team": "Cincinnati Reds",
@@ -1296,7 +1296,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 66767,
+    "total_games_scanned_all": 66768,
     "record": {
       "wins": 80,
       "losses": 103,
