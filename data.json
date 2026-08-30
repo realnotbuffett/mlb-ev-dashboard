@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T22:00:05.801113+00:00",
+  "last_updated": "2026-08-30T22:15:05.445601+00:00",
   "scoreboard": [
     {
       "game_id": "822688",
@@ -97,7 +97,7 @@
       "home": "NYM",
       "away_score": 6,
       "home_score": 3,
-      "state": "T9",
+      "state": "FINAL",
       "start_time": "2026-08-30T19:10:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "OAK",
       "away_score": 7,
       "home_score": 5,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-08-30T20:05:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "LAA",
       "away_score": 2,
       "home_score": 1,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-08-30T20:07:00Z"
     },
     {
@@ -1271,16 +1271,16 @@
     },
     {
       "date": "2026-08-30",
-      "time": "18:00:05",
+      "time": "18:15:05",
       "game_id": "824636",
       "home_team": "Chicago Cubs",
       "away_team": "Cincinnati Reds",
-      "home_prob": "0.6005",
-      "away_prob": "0.3995",
+      "home_prob": "0.5980",
+      "away_prob": "0.4020",
       "poly_home_price": "0.6000",
       "poly_away_price": "0.4100",
-      "home_ev": "0.0008",
-      "away_ev": "-0.0256",
+      "home_ev": "-0.0033",
+      "away_ev": "-0.0196",
       "home_pitcher": "Shota Imanaga",
       "away_pitcher": "Chase Burns",
       "pitchers_confirmed": "yes",
@@ -1296,7 +1296,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 66766,
+    "total_games_scanned_all": 66767,
     "record": {
       "wins": 80,
       "losses": 103,
