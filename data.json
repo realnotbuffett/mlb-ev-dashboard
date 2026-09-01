@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T03:00:05.870414+00:00",
+  "last_updated": "2026-09-01T03:15:04.683936+00:00",
   "scoreboard": [
     {
       "game_id": "824911",
@@ -79,7 +79,7 @@
       "home": "HOU",
       "away_score": 3,
       "home_score": 6,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-09-01T00:10:00Z"
     },
     {
@@ -96,8 +96,8 @@
       "away": "NYY",
       "home": "LAA",
       "away_score": 1,
-      "home_score": 4,
-      "state": "T5",
+      "home_score": 6,
+      "state": "B5",
       "start_time": "2026-09-01T01:38:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "ARI",
       "away_score": 2,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-09-01T01:40:00Z"
     }
   ],
