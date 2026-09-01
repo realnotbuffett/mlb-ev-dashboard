@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T23:15:14.533682+00:00",
+  "last_updated": "2026-09-01T23:30:12.218009+00:00",
   "scoreboard": [
     {
       "game_id": "824472",
@@ -7,7 +7,7 @@
       "home": "CIN",
       "away_score": 1,
       "home_score": 1,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-09-01T22:40:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "PIT",
       "away_score": 5,
       "home_score": 2,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-09-01T22:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "NYM",
       "home": "TB",
       "away_score": 1,
-      "home_score": 1,
-      "state": "B3",
+      "home_score": 2,
+      "state": "T4",
       "start_time": "2026-09-01T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CLE",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-09-01T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "BOS",
       "away_score": 6,
       "home_score": 1,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-09-01T22:45:00Z"
     },
     {
@@ -51,7 +51,7 @@
       "away": "ATL",
       "home": "WSH",
       "away_score": 1,
-      "home_score": 0,
+      "home_score": 4,
       "state": "B2",
       "start_time": "2026-09-01T22:45:00Z"
     },
@@ -59,27 +59,27 @@
       "game_id": "823661",
       "away": "DET",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-01T23:40:00Z"
     },
     {
       "game_id": "824070",
       "away": "MIA",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-01T23:40:00Z"
     },
     {
       "game_id": "824633",
       "away": "MIL",
       "home": "CHC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-01T23:40:00Z"
     },
     {
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-09-01",
-      "time": "19:15:09",
+      "time": "19:30:06",
       "game_id": "822854",
       "home_team": "Texas Rangers",
       "away_team": "Athletics",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-09-01",
-      "time": "19:15:10",
+      "time": "19:30:07",
       "game_id": "824148",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-09-01",
-      "time": "19:15:11",
+      "time": "19:30:08",
       "game_id": "824313",
       "home_team": "Colorado Rockies",
       "away_team": "Baltimore Orioles",
-      "home_prob": "0.4239",
-      "away_prob": "0.5761",
+      "home_prob": "0.4229",
+      "away_prob": "0.5771",
       "poly_home_price": "0.4200",
       "poly_away_price": "0.5900",
-      "home_ev": "0.0094",
-      "away_ev": "-0.0236",
+      "home_ev": "0.0069",
+      "away_ev": "-0.0218",
       "home_pitcher": "Gabriel Hughes",
       "away_pitcher": "Kyle Bradish",
       "pitchers_confirmed": "yes",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-09-01",
-      "time": "19:15:12",
+      "time": "19:30:09",
       "game_id": "823984",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Yankees",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-09-01",
-      "time": "19:15:13",
+      "time": "19:30:10",
       "game_id": "825038",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Philadelphia Phillies",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-09-01",
-      "time": "19:15:14",
+      "time": "19:30:12",
       "game_id": "823908",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.6368",
-      "away_prob": "0.3632",
+      "home_prob": "0.6383",
+      "away_prob": "0.3617",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0203",
-      "away_ev": "0.0089",
+      "home_ev": "-0.0180",
+      "away_ev": "0.0047",
       "home_pitcher": "Eric Lauer",
       "away_pitcher": "Michael McGreevy",
       "pitchers_confirmed": "yes",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 67824,
+    "total_games_scanned_all": 67830,
     "record": {
       "wins": 80,
       "losses": 103,
