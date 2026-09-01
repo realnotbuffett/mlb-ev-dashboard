@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T00:45:20.175881+00:00",
+  "last_updated": "2026-09-01T01:00:20.732101+00:00",
   "scoreboard": [
     {
       "game_id": "824911",
@@ -14,9 +14,9 @@
       "game_id": "824473",
       "away": "SD",
       "home": "CIN",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 0,
-      "state": "T7",
+      "state": "B7",
       "start_time": "2026-08-31T22:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "NYM",
       "home": "TB",
       "away_score": 3,
-      "home_score": 0,
-      "state": "B8",
+      "home_score": 2,
+      "state": "T9",
       "start_time": "2026-08-31T22:40:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "BOS",
       "away_score": 8,
       "home_score": 5,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-08-31T22:45:00Z"
     },
     {
@@ -42,8 +42,8 @@
       "away": "MIA",
       "home": "WSH",
       "away_score": 3,
-      "home_score": 2,
-      "state": "B6",
+      "home_score": 4,
+      "state": "B7",
       "start_time": "2026-08-31T22:45:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "DET",
       "home": "MIN",
       "away_score": 0,
-      "home_score": 2,
-      "state": "T5",
+      "home_score": 5,
+      "state": "B5",
       "start_time": "2026-08-31T23:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "MIL",
       "home": "CHC",
       "away_score": 0,
-      "home_score": 6,
-      "state": "T4",
+      "home_score": 8,
+      "state": "B4",
       "start_time": "2026-08-31T23:40:00Z"
     },
     {
@@ -69,8 +69,8 @@
       "away": "OAK",
       "home": "TEX",
       "away_score": 0,
-      "home_score": 2,
-      "state": "T3",
+      "home_score": 3,
+      "state": "T4",
       "start_time": "2026-09-01T00:05:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-09-01T00:10:00Z"
     },
     {
@@ -88,7 +88,7 @@
       "home": "COL",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-09-01T00:40:00Z"
     },
     {
@@ -1165,7 +1165,7 @@
     },
     {
       "date": "2026-08-31",
-      "time": "20:45:12",
+      "time": "21:00:12",
       "game_id": "823982",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Yankees",
@@ -1187,7 +1187,7 @@
     },
     {
       "date": "2026-08-31",
-      "time": "20:45:19",
+      "time": "21:00:20",
       "game_id": "825040",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Philadelphia Phillies",
@@ -1234,7 +1234,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 12,
-    "total_games_scanned_all": 67225,
+    "total_games_scanned_all": 67227,
     "record": {
       "wins": 80,
       "losses": 103,
