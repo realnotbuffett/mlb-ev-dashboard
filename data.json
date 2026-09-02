@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T19:45:15.682596+00:00",
+  "last_updated": "2026-09-02T20:00:14.066667+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
@@ -14,27 +14,27 @@
       "game_id": "822686",
       "away": "ATL",
       "home": "WSH",
-      "away_score": 0,
+      "away_score": 3,
       "home_score": 0,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-09-02T17:05:00Z"
     },
     {
       "game_id": "822851",
       "away": "OAK",
       "home": "TEX",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 2,
-      "state": "B3",
+      "state": "B4",
       "start_time": "2026-09-02T18:35:00Z"
     },
     {
       "game_id": "824312",
       "away": "BAL",
       "home": "COL",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "T3",
+      "away_score": 3,
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-09-02T19:10:00Z"
     },
     {
@@ -43,16 +43,16 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-09-02T19:40:00Z"
     },
     {
       "game_id": "824717",
       "away": "SEA",
       "home": "BOS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-02T20:10:00Z"
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:07",
+      "time": "16:00:05",
       "game_id": "823339",
       "home_team": "Pittsburgh Pirates",
       "away_team": "San Francisco Giants",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:08",
+      "time": "16:00:06",
       "game_id": "822931",
       "home_team": "Tampa Bay Rays",
       "away_team": "New York Mets",
@@ -1170,16 +1170,16 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:09",
+      "time": "16:00:07",
       "game_id": "824390",
       "home_team": "Cleveland Guardians",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.4532",
-      "away_prob": "0.5468",
+      "home_prob": "0.4608",
+      "away_prob": "0.5392",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0358",
-      "away_ev": "0.0127",
+      "home_ev": "-0.0197",
+      "away_ev": "-0.0014",
       "home_pitcher": "Joey Cantillo",
       "away_pitcher": "Dylan Cease",
       "pitchers_confirmed": "yes",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:11",
+      "time": "16:00:09",
       "game_id": "823660",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:12",
+      "time": "16:00:10",
       "game_id": "824068",
       "home_team": "Kansas City Royals",
       "away_team": "Miami Marlins",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:13",
+      "time": "16:00:11",
       "game_id": "824634",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:14",
+      "time": "16:00:12",
       "game_id": "824147",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:45:15",
+      "time": "16:00:13",
       "game_id": "823983",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Yankees",
@@ -1305,7 +1305,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 68208,
+    "total_games_scanned_all": 68216,
     "record": {
       "wins": 80,
       "losses": 103,
