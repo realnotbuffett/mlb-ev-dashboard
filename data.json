@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T23:15:11.032792+00:00",
+  "last_updated": "2026-09-02T23:30:08.369804+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
@@ -61,16 +61,16 @@
       "home": "PIT",
       "away_score": 1,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
       "game_id": "822931",
       "away": "NYM",
       "home": "TB",
-      "away_score": 3,
+      "away_score": 6,
       "home_score": 0,
-      "state": "T3",
+      "state": "B3",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
@@ -79,25 +79,25 @@
       "home": "CLE",
       "away_score": 6,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
       "game_id": "823660",
       "away": "DET",
       "home": "MIN",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
       "game_id": "824068",
       "away": "MIA",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-09-02",
-      "time": "19:15:08",
+      "time": "19:30:05",
       "game_id": "824147",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.5639",
-      "away_prob": "0.4361",
+      "home_prob": "0.5603",
+      "away_prob": "0.4397",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0107",
-      "away_ev": "-0.0089",
+      "home_ev": "-0.0170",
+      "away_ev": "-0.0007",
       "home_pitcher": "Hayden Wesneski",
       "away_pitcher": "Davis Martin",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "19:15:09",
+      "time": "19:30:06",
       "game_id": "823983",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Yankees",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "19:15:10",
+      "time": "19:30:08",
       "game_id": "823906",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 68309,
+    "total_games_scanned_all": 68312,
     "record": {
       "wins": 80,
       "losses": 103,
