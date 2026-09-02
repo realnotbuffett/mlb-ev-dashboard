@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-02T19:00:16.848384+00:00",
+  "last_updated": "2026-09-02T19:15:16.698063+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
       "away": "SD",
       "home": "CIN",
       "away_score": 3,
-      "home_score": 5,
-      "state": "B7",
+      "home_score": 7,
+      "state": "T8",
       "start_time": "2026-09-02T16:40:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "OAK",
       "home": "TEX",
       "away_score": 0,
-      "home_score": 1,
-      "state": "T2",
+      "home_score": 2,
+      "state": "B2",
       "start_time": "2026-09-02T18:35:00Z"
     },
     {
@@ -41,9 +41,9 @@
       "game_id": "825037",
       "away": "PHI",
       "home": "ARI",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-02T19:40:00Z"
     },
     {
@@ -1104,7 +1104,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:06",
+      "time": "15:15:07",
       "game_id": "824717",
       "home_team": "Boston Red Sox",
       "away_team": "Seattle Mariners",
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:08",
+      "time": "15:15:08",
       "game_id": "823339",
       "home_team": "Pittsburgh Pirates",
       "away_team": "San Francisco Giants",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:09",
+      "time": "15:15:09",
       "game_id": "822931",
       "home_team": "Tampa Bay Rays",
       "away_team": "New York Mets",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:10",
+      "time": "15:15:11",
       "game_id": "824390",
       "home_team": "Cleveland Guardians",
       "away_team": "Toronto Blue Jays",
@@ -1192,16 +1192,16 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:11",
+      "time": "15:15:12",
       "game_id": "823660",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5102",
-      "away_prob": "0.4898",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0188",
-      "away_ev": "-0.0004",
+      "home_ev": "-0.0213",
+      "away_ev": "0.0022",
       "home_pitcher": "Dean Kremer",
       "away_pitcher": "Drew Anderson",
       "pitchers_confirmed": "yes",
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:12",
+      "time": "15:15:13",
       "game_id": "824068",
       "home_team": "Kansas City Royals",
       "away_team": "Miami Marlins",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:13",
+      "time": "15:15:14",
       "game_id": "824634",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
@@ -1258,16 +1258,16 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:15",
+      "time": "15:15:15",
       "game_id": "824147",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
-      "home_prob": "0.5578",
-      "away_prob": "0.4422",
+      "home_prob": "0.5592",
+      "away_prob": "0.4408",
       "poly_home_price": "0.5600",
       "poly_away_price": "0.4500",
-      "home_ev": "-0.0039",
-      "away_ev": "-0.0173",
+      "home_ev": "-0.0014",
+      "away_ev": "-0.0204",
       "home_pitcher": "Hayden Wesneski",
       "away_pitcher": "Davis Martin",
       "pitchers_confirmed": "yes",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "15:00:16",
+      "time": "15:15:16",
       "game_id": "823983",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Yankees",
@@ -1305,7 +1305,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 68181,
+    "total_games_scanned_all": 68190,
     "record": {
       "wins": 80,
       "losses": 103,
