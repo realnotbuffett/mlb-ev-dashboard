@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T02:15:04.634682+00:00",
+  "last_updated": "2026-09-02T02:30:04.642109+00:00",
   "scoreboard": [
     {
       "game_id": "824472",
@@ -15,8 +15,8 @@
       "away": "SF",
       "home": "PIT",
       "away_score": 12,
-      "home_score": 12,
-      "state": "B9",
+      "home_score": 13,
+      "state": "FINAL",
       "start_time": "2026-09-01T22:40:00Z"
     },
     {
@@ -60,8 +60,8 @@
       "away": "DET",
       "home": "MIN",
       "away_score": 2,
-      "home_score": 14,
-      "state": "T8",
+      "home_score": 15,
+      "state": "T9",
       "start_time": "2026-09-01T23:40:00Z"
     },
     {
@@ -77,9 +77,9 @@
       "game_id": "824633",
       "away": "MIL",
       "home": "CHC",
-      "away_score": 7,
+      "away_score": 9,
       "home_score": 4,
-      "state": "B7",
+      "state": "T8",
       "start_time": "2026-09-01T23:40:00Z"
     },
     {
@@ -87,17 +87,17 @@
       "away": "OAK",
       "home": "TEX",
       "away_score": 1,
-      "home_score": 5,
-      "state": "B6",
+      "home_score": 8,
+      "state": "T7",
       "start_time": "2026-09-02T00:05:00Z"
     },
     {
       "game_id": "824148",
       "away": "CWS",
       "home": "HOU",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 0,
-      "state": "B6",
+      "state": "T7",
       "start_time": "2026-09-02T00:10:00Z"
     },
     {
@@ -106,16 +106,16 @@
       "home": "COL",
       "away_score": 1,
       "home_score": 2,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-09-02T00:40:00Z"
     },
     {
       "game_id": "823984",
       "away": "NYY",
       "home": "LAA",
-      "away_score": 3,
-      "home_score": 0,
-      "state": "T3",
+      "away_score": 4,
+      "home_score": 1,
+      "state": "T4",
       "start_time": "2026-09-02T01:38:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "ARI",
       "away_score": 2,
       "home_score": 0,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-09-02T01:40:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "B1",
       "start_time": "2026-09-02T02:10:00Z"
     }
   ],
