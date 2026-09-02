@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T20:15:13.912335+00:00",
+  "last_updated": "2026-09-02T20:30:13.658679+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
@@ -14,9 +14,9 @@
       "game_id": "822686",
       "away": "ATL",
       "home": "WSH",
-      "away_score": 3,
+      "away_score": 6,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-09-02T17:05:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "TEX",
       "away_score": 8,
       "home_score": 2,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-09-02T18:35:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "COL",
       "away_score": 3,
       "home_score": 2,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-09-02T19:10:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "ARI",
       "away_score": 0,
       "home_score": 0,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-09-02T19:40:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BOS",
       "away_score": 0,
       "home_score": 0,
-      "state": "T1",
+      "state": "T2",
       "start_time": "2026-09-02T20:10:00Z"
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:06",
+      "time": "16:30:05",
       "game_id": "823339",
       "home_team": "Pittsburgh Pirates",
       "away_team": "San Francisco Giants",
@@ -1148,7 +1148,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:07",
+      "time": "16:30:06",
       "game_id": "822931",
       "home_team": "Tampa Bay Rays",
       "away_team": "New York Mets",
@@ -1170,7 +1170,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:08",
+      "time": "16:30:07",
       "game_id": "824390",
       "home_team": "Cleveland Guardians",
       "away_team": "Toronto Blue Jays",
@@ -1192,7 +1192,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:09",
+      "time": "16:30:08",
       "game_id": "823660",
       "home_team": "Minnesota Twins",
       "away_team": "Detroit Tigers",
@@ -1214,16 +1214,16 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:10",
+      "time": "16:30:10",
       "game_id": "824068",
       "home_team": "Kansas City Royals",
       "away_team": "Miami Marlins",
-      "home_prob": "0.5140",
-      "away_prob": "0.4860",
+      "home_prob": "0.5089",
+      "away_prob": "0.4911",
       "poly_home_price": "0.5100",
       "poly_away_price": "0.5000",
-      "home_ev": "0.0078",
-      "away_ev": "-0.0280",
+      "home_ev": "-0.0021",
+      "away_ev": "-0.0178",
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Eury P\u00e9rez",
       "pitchers_confirmed": "yes",
@@ -1236,16 +1236,16 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:11",
+      "time": "16:30:11",
       "game_id": "824634",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4054",
-      "away_prob": "0.5946",
-      "poly_home_price": "0.4100",
-      "poly_away_price": "0.6000",
-      "home_ev": "-0.0112",
-      "away_ev": "-0.0090",
+      "home_prob": "0.4158",
+      "away_prob": "0.5842",
+      "poly_home_price": "0.4200",
+      "poly_away_price": "0.5900",
+      "home_ev": "-0.0099",
+      "away_ev": "-0.0099",
       "home_pitcher": "David Peterson",
       "away_pitcher": "Jacob Misiorowski",
       "pitchers_confirmed": "yes",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:12",
+      "time": "16:30:12",
       "game_id": "824147",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
@@ -1280,7 +1280,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "16:15:13",
+      "time": "16:30:13",
       "game_id": "823983",
       "home_team": "Los Angeles Angels",
       "away_team": "New York Yankees",
@@ -1305,7 +1305,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 14,
-    "total_games_scanned_all": 68224,
+    "total_games_scanned_all": 68232,
     "record": {
       "wins": 80,
       "losses": 103,
