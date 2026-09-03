@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T19:15:11.514566+00:00",
+  "last_updated": "2026-09-03T19:30:13.435442+00:00",
   "scoreboard": [
     {
       "game_id": "823337",
@@ -7,7 +7,7 @@
       "home": "PIT",
       "away_score": 2,
       "home_score": 5,
-      "state": "B8",
+      "state": "FINAL",
       "start_time": "2026-09-03T16:35:00Z"
     },
     {
@@ -15,8 +15,8 @@
       "away": "TOR",
       "home": "CLE",
       "away_score": 5,
-      "home_score": 1,
-      "state": "B5",
+      "home_score": 3,
+      "state": "B6",
       "start_time": "2026-09-03T17:10:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "CWS",
       "home": "HOU",
       "away_score": 2,
-      "home_score": 3,
-      "state": "B3",
+      "home_score": 6,
+      "state": "B4",
       "start_time": "2026-09-03T18:10:00Z"
     },
     {
@@ -1006,7 +1006,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "15:15:05",
+      "time": "15:30:07",
       "game_id": "824796",
       "home_team": "Baltimore Orioles",
       "away_team": "Boston Red Sox",
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "15:15:07",
+      "time": "15:30:08",
       "game_id": "824632",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
@@ -1050,16 +1050,16 @@
     },
     {
       "date": "2026-09-03",
-      "time": "15:15:08",
+      "time": "15:30:09",
       "game_id": "824069",
       "home_team": "Kansas City Royals",
       "away_team": "Miami Marlins",
-      "home_prob": "0.5179",
-      "away_prob": "0.4821",
+      "home_prob": "0.5165",
+      "away_prob": "0.4835",
       "poly_home_price": "0.5300",
       "poly_away_price": "0.4800",
-      "home_ev": "-0.0229",
-      "away_ev": "0.0045",
+      "home_ev": "-0.0254",
+      "away_ev": "0.0072",
       "home_pitcher": "Michael Wacha",
       "away_pitcher": "Sandy Alcantara",
       "pitchers_confirmed": "yes",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "15:15:09",
+      "time": "15:30:10",
       "game_id": "822853",
       "home_team": "Texas Rangers",
       "away_team": "Tampa Bay Rays",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "15:15:10",
+      "time": "15:30:12",
       "game_id": "823095",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -1116,16 +1116,16 @@
     },
     {
       "date": "2026-09-03",
-      "time": "15:15:11",
+      "time": "15:30:13",
       "game_id": "823907",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
-      "home_prob": "0.7256",
-      "away_prob": "0.2744",
+      "home_prob": "0.7251",
+      "away_prob": "0.2749",
       "poly_home_price": "0.7300",
       "poly_away_price": "0.2800",
-      "home_ev": "-0.0060",
-      "away_ev": "-0.0200",
+      "home_ev": "-0.0068",
+      "away_ev": "-0.0180",
       "home_pitcher": "Tarik Skubal",
       "away_pitcher": "Quinn Mathews",
       "pitchers_confirmed": "yes",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 68532,
+    "total_games_scanned_all": 68538,
     "record": {
       "wins": 80,
       "losses": 103,
