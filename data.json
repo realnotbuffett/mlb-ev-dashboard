@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T14:45:14.632242+00:00",
+  "last_updated": "2026-09-03T15:00:14.340003+00:00",
   "scoreboard": [
     {
       "game_id": "823337",
@@ -940,7 +940,7 @@
   "today_games": [
     {
       "date": "2026-09-03",
-      "time": "10:45:05",
+      "time": "11:00:05",
       "game_id": "823337",
       "home_team": "Pittsburgh Pirates",
       "away_team": "San Francisco Giants",
@@ -962,16 +962,16 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:06",
+      "time": "11:00:06",
       "game_id": "824388",
       "home_team": "Cleveland Guardians",
       "away_team": "Toronto Blue Jays",
-      "home_prob": "0.5077",
-      "away_prob": "0.4923",
+      "home_prob": "0.5140",
+      "away_prob": "0.4860",
       "poly_home_price": "0.5200",
       "poly_away_price": "0.4900",
-      "home_ev": "-0.0237",
-      "away_ev": "0.0048",
+      "home_ev": "-0.0115",
+      "away_ev": "-0.0082",
       "home_pitcher": "Tanner Bibee",
       "away_pitcher": "Jos\u00e9 Soriano",
       "pitchers_confirmed": "yes",
@@ -984,7 +984,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:07",
+      "time": "11:00:07",
       "game_id": "824144",
       "home_team": "Houston Astros",
       "away_team": "Chicago White Sox",
@@ -1006,16 +1006,16 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:08",
+      "time": "11:00:08",
       "game_id": "824796",
       "home_team": "Baltimore Orioles",
       "away_team": "Boston Red Sox",
-      "home_prob": "0.4670",
-      "away_prob": "0.5330",
+      "home_prob": "0.4695",
+      "away_prob": "0.5305",
       "poly_home_price": "0.4700",
       "poly_away_price": "0.5400",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0130",
+      "home_ev": "-0.0010",
+      "away_ev": "-0.0177",
       "home_pitcher": "Brandon Young",
       "away_pitcher": "Jake Bennett",
       "pitchers_confirmed": "yes",
@@ -1028,7 +1028,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:10",
+      "time": "11:00:09",
       "game_id": "824632",
       "home_team": "Chicago Cubs",
       "away_team": "Milwaukee Brewers",
@@ -1050,7 +1050,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:11",
+      "time": "11:00:10",
       "game_id": "824069",
       "home_team": "Kansas City Royals",
       "away_team": "Miami Marlins",
@@ -1072,7 +1072,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:12",
+      "time": "11:00:11",
       "game_id": "822853",
       "home_team": "Texas Rangers",
       "away_team": "Tampa Bay Rays",
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:13",
+      "time": "11:00:13",
       "game_id": "823095",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "10:45:14",
+      "time": "11:00:14",
       "game_id": "823907",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 68400,
+    "total_games_scanned_all": 68409,
     "record": {
       "wins": 80,
       "losses": 103,
