@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T03:00:04.826165+00:00",
+  "last_updated": "2026-09-03T03:15:04.706104+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
@@ -86,9 +86,9 @@
       "game_id": "823660",
       "away": "DET",
       "home": "MIN",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 5,
-      "state": "B10",
+      "state": "B11",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -124,7 +124,7 @@
       "home": "LAA",
       "away_score": 1,
       "home_score": 0,
-      "state": "T6",
+      "state": "B6",
       "start_time": "2026-09-03T01:38:00Z"
     },
     {
@@ -133,7 +133,7 @@
       "home": "LAD",
       "away_score": 0,
       "home_score": 3,
-      "state": "T3",
+      "state": "T4",
       "start_time": "2026-09-03T02:10:00Z"
     }
   ],
