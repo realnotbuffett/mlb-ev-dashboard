@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T01:15:05.958427+00:00",
+  "last_updated": "2026-09-03T01:30:06.035419+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
@@ -59,9 +59,9 @@
       "game_id": "823339",
       "away": "SF",
       "home": "PIT",
-      "away_score": 3,
+      "away_score": 5,
       "home_score": 3,
-      "state": "B9",
+      "state": "T10",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
@@ -70,7 +70,7 @@
       "home": "TB",
       "away_score": 10,
       "home_score": 4,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
@@ -79,16 +79,16 @@
       "home": "CLE",
       "away_score": 11,
       "home_score": 0,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
       "game_id": "823660",
       "away": "DET",
       "home": "MIN",
-      "away_score": 4,
+      "away_score": 5,
       "home_score": 1,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 4,
       "home_score": 6,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CHC",
       "away_score": 6,
       "home_score": 5,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "B5",
+      "state": "T6",
       "start_time": "2026-09-03T00:10:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "21:15:05",
+      "time": "21:30:05",
       "game_id": "823906",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 68326,
+    "total_games_scanned_all": 68327,
     "record": {
       "wins": 80,
       "losses": 103,
