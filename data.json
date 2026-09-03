@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T01:45:05.965069+00:00",
+  "last_updated": "2026-09-03T02:00:05.482706+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
@@ -88,7 +88,7 @@
       "home": "MIN",
       "away_score": 5,
       "home_score": 2,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -97,7 +97,7 @@
       "home": "KC",
       "away_score": 7,
       "home_score": 6,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -106,7 +106,7 @@
       "home": "CHC",
       "away_score": 6,
       "home_score": 5,
-      "state": "B5",
+      "state": "B6",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -115,7 +115,7 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-09-03T00:10:00Z"
     },
     {
@@ -124,16 +124,16 @@
       "home": "LAA",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-09-03T01:38:00Z"
     },
     {
       "game_id": "823906",
       "away": "STL",
       "home": "LAD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-03T02:10:00Z"
     }
   ],
