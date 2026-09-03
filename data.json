@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T01:00:07.014848+00:00",
+  "last_updated": "2026-09-03T01:15:05.958427+00:00",
   "scoreboard": [
     {
       "game_id": "824470",
@@ -60,53 +60,53 @@
       "away": "SF",
       "home": "PIT",
       "away_score": 3,
-      "home_score": 2,
-      "state": "B8",
+      "home_score": 3,
+      "state": "B9",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
       "game_id": "822931",
       "away": "NYM",
       "home": "TB",
-      "away_score": 9,
+      "away_score": 10,
       "home_score": 4,
-      "state": "B7",
+      "state": "B8",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
       "game_id": "824390",
       "away": "TOR",
       "home": "CLE",
-      "away_score": 10,
+      "away_score": 11,
       "home_score": 0,
-      "state": "B8",
+      "state": "B9",
       "start_time": "2026-09-02T22:40:00Z"
     },
     {
       "game_id": "823660",
       "away": "DET",
       "home": "MIN",
-      "away_score": 2,
+      "away_score": 4,
       "home_score": 1,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
       "game_id": "824068",
       "away": "MIA",
       "home": "KC",
-      "away_score": 3,
+      "away_score": 4,
       "home_score": 6,
-      "state": "T5",
+      "state": "B5",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
       "game_id": "824634",
       "away": "MIL",
       "home": "CHC",
-      "away_score": 3,
+      "away_score": 6,
       "home_score": 5,
-      "state": "T4",
+      "state": "B4",
       "start_time": "2026-09-02T23:40:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "HOU",
       "away_score": 0,
       "home_score": 0,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-09-03T00:10:00Z"
     },
     {
       "game_id": "823983",
       "away": "NYY",
       "home": "LAA",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-03T01:38:00Z"
     },
     {
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-09-02",
-      "time": "21:00:06",
+      "time": "21:15:05",
       "game_id": "823906",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 68325,
+    "total_games_scanned_all": 68326,
     "record": {
       "wins": 80,
       "losses": 103,
