@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T02:30:05.082538+00:00",
+  "last_updated": "2026-09-04T02:45:05.530945+00:00",
   "scoreboard": [
     {
       "game_id": "823337",
@@ -70,7 +70,7 @@
       "home": "SEA",
       "away_score": 2,
       "home_score": 3,
-      "state": "B2",
+      "state": "T3",
       "start_time": "2026-09-04T01:40:00Z"
     },
     {
@@ -79,7 +79,7 @@
       "home": "LAD",
       "away_score": 1,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-09-04T02:10:00Z"
     }
   ],
