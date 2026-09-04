@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T03:30:04.781815+00:00",
+  "last_updated": "2026-09-04T03:45:05.264929+00:00",
   "scoreboard": [
     {
       "game_id": "823337",
@@ -68,9 +68,9 @@
       "game_id": "823095",
       "away": "OAK",
       "home": "SEA",
-      "away_score": 4,
-      "home_score": 3,
-      "state": "T6",
+      "away_score": 5,
+      "home_score": 4,
+      "state": "B6",
       "start_time": "2026-09-04T01:40:00Z"
     },
     {
@@ -78,8 +78,8 @@
       "away": "STL",
       "home": "LAD",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T5",
+      "home_score": 1,
+      "state": "B5",
       "start_time": "2026-09-04T02:10:00Z"
     }
   ],
