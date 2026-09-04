@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T18:15:20.798971+00:00",
+  "last_updated": "2026-09-04T18:30:33.215864+00:00",
   "scoreboard": [
     {
       "game_id": "824424",
@@ -1003,16 +1003,16 @@
   "today_games": [
     {
       "date": "2026-09-04",
-      "time": "14:15:04",
+      "time": "14:30:17",
       "game_id": "824424",
       "home_team": "Cleveland Guardians",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5628",
-      "away_prob": "0.4372",
+      "home_prob": "0.5614",
+      "away_prob": "0.4386",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0126",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0151",
+      "away_ev": "-0.0032",
       "home_pitcher": "Logan Allen",
       "away_pitcher": "Keider Montero",
       "pitchers_confirmed": "yes",
@@ -1025,16 +1025,16 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:05",
+      "time": "14:30:18",
       "game_id": "824387",
       "home_team": "Cleveland Guardians",
       "away_team": "Detroit Tigers",
-      "home_prob": "0.5628",
-      "away_prob": "0.4372",
+      "home_prob": "0.5614",
+      "away_prob": "0.4386",
       "poly_home_price": "0.5700",
       "poly_away_price": "0.4400",
-      "home_ev": "-0.0126",
-      "away_ev": "-0.0064",
+      "home_ev": "-0.0151",
+      "away_ev": "-0.0032",
       "home_pitcher": "Foster Griffin",
       "away_pitcher": "Andrew Sears",
       "pitchers_confirmed": "yes",
@@ -1047,16 +1047,16 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:06",
+      "time": "14:30:19",
       "game_id": "824471",
       "home_team": "Cincinnati Reds",
       "away_team": "Milwaukee Brewers",
-      "home_prob": "0.4044",
-      "away_prob": "0.5956",
+      "home_prob": "0.4054",
+      "away_prob": "0.5946",
       "poly_home_price": "0.4100",
       "poly_away_price": "0.6000",
-      "home_ev": "-0.0136",
-      "away_ev": "-0.0074",
+      "home_ev": "-0.0112",
+      "away_ev": "-0.0090",
       "home_pitcher": "Rhett Lowder",
       "away_pitcher": "Shane Drohan",
       "pitchers_confirmed": "yes",
@@ -1069,7 +1069,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:07",
+      "time": "14:30:20",
       "game_id": "823418",
       "home_team": "Philadelphia Phillies",
       "away_team": "Atlanta Braves",
@@ -1091,7 +1091,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:08",
+      "time": "14:30:21",
       "game_id": "823338",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Angels",
@@ -1113,7 +1113,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:10",
+      "time": "14:30:22",
       "game_id": "824797",
       "home_team": "Baltimore Orioles",
       "away_team": "Boston Red Sox",
@@ -1135,7 +1135,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:11",
+      "time": "14:30:23",
       "game_id": "823579",
       "home_team": "New York Mets",
       "away_team": "San Francisco Giants",
@@ -1157,7 +1157,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:12",
+      "time": "14:30:24",
       "game_id": "823824",
       "home_team": "Miami Marlins",
       "away_team": "Chicago Cubs",
@@ -1179,7 +1179,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:13",
+      "time": "14:30:25",
       "game_id": "824554",
       "home_team": "Chicago White Sox",
       "away_team": "Minnesota Twins",
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:14",
+      "time": "14:30:26",
       "game_id": "822852",
       "home_team": "Texas Rangers",
       "away_team": "Tampa Bay Rays",
@@ -1223,7 +1223,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:15",
+      "time": "14:30:27",
       "game_id": "824146",
       "home_team": "Houston Astros",
       "away_team": "Arizona Diamondbacks",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:16",
+      "time": "14:30:28",
       "game_id": "824067",
       "home_team": "Kansas City Royals",
       "away_team": "Toronto Blue Jays",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:17",
+      "time": "14:30:29",
       "game_id": "824311",
       "home_team": "Colorado Rockies",
       "away_team": "St. Louis Cardinals",
@@ -1289,7 +1289,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:18",
+      "time": "14:30:30",
       "game_id": "823256",
       "home_team": "San Diego Padres",
       "away_team": "New York Yankees",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:19",
+      "time": "14:30:31",
       "game_id": "823905",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Washington Nationals",
@@ -1333,7 +1333,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:15:20",
+      "time": "14:30:33",
       "game_id": "823093",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 68995,
+    "total_games_scanned_all": 69011,
     "record": {
       "wins": 80,
       "losses": 103,
