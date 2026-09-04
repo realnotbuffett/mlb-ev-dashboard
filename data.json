@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T18:30:33.215864+00:00",
+  "last_updated": "2026-09-04T18:45:21.122356+00:00",
   "scoreboard": [
     {
       "game_id": "824424",
@@ -1003,7 +1003,7 @@
   "today_games": [
     {
       "date": "2026-09-04",
-      "time": "14:30:17",
+      "time": "14:45:04",
       "game_id": "824424",
       "home_team": "Cleveland Guardians",
       "away_team": "Detroit Tigers",
@@ -1025,7 +1025,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:18",
+      "time": "14:45:05",
       "game_id": "824387",
       "home_team": "Cleveland Guardians",
       "away_team": "Detroit Tigers",
@@ -1047,7 +1047,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:19",
+      "time": "14:45:07",
       "game_id": "824471",
       "home_team": "Cincinnati Reds",
       "away_team": "Milwaukee Brewers",
@@ -1069,7 +1069,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:20",
+      "time": "14:45:08",
       "game_id": "823418",
       "home_team": "Philadelphia Phillies",
       "away_team": "Atlanta Braves",
@@ -1091,7 +1091,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:21",
+      "time": "14:45:09",
       "game_id": "823338",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Los Angeles Angels",
@@ -1113,7 +1113,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:22",
+      "time": "14:45:10",
       "game_id": "824797",
       "home_team": "Baltimore Orioles",
       "away_team": "Boston Red Sox",
@@ -1135,7 +1135,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:23",
+      "time": "14:45:11",
       "game_id": "823579",
       "home_team": "New York Mets",
       "away_team": "San Francisco Giants",
@@ -1157,7 +1157,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:24",
+      "time": "14:45:12",
       "game_id": "823824",
       "home_team": "Miami Marlins",
       "away_team": "Chicago Cubs",
@@ -1179,7 +1179,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:25",
+      "time": "14:45:13",
       "game_id": "824554",
       "home_team": "Chicago White Sox",
       "away_team": "Minnesota Twins",
@@ -1201,7 +1201,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:26",
+      "time": "14:45:14",
       "game_id": "822852",
       "home_team": "Texas Rangers",
       "away_team": "Tampa Bay Rays",
@@ -1223,7 +1223,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:27",
+      "time": "14:45:15",
       "game_id": "824146",
       "home_team": "Houston Astros",
       "away_team": "Arizona Diamondbacks",
@@ -1245,7 +1245,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:28",
+      "time": "14:45:16",
       "game_id": "824067",
       "home_team": "Kansas City Royals",
       "away_team": "Toronto Blue Jays",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:29",
+      "time": "14:45:17",
       "game_id": "824311",
       "home_team": "Colorado Rockies",
       "away_team": "St. Louis Cardinals",
@@ -1289,16 +1289,16 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:30",
+      "time": "14:45:18",
       "game_id": "823256",
       "home_team": "San Diego Padres",
       "away_team": "New York Yankees",
-      "home_prob": "0.4923",
-      "away_prob": "0.5077",
+      "home_prob": "0.4911",
+      "away_prob": "0.5089",
       "poly_home_price": "0.4900",
       "poly_away_price": "0.5200",
-      "home_ev": "0.0048",
-      "away_ev": "-0.0237",
+      "home_ev": "0.0022",
+      "away_ev": "-0.0213",
       "home_pitcher": "Walker Buehler",
       "away_pitcher": "Max Fried",
       "pitchers_confirmed": "yes",
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:31",
+      "time": "14:45:19",
       "game_id": "823905",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Washington Nationals",
@@ -1333,7 +1333,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "14:30:33",
+      "time": "14:45:20",
       "game_id": "823093",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 69011,
+    "total_games_scanned_all": 69027,
     "record": {
       "wins": 80,
       "losses": 103,
