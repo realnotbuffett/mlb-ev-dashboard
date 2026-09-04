@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T00:15:06.917435+00:00",
+  "last_updated": "2026-09-04T00:30:07.092709+00:00",
   "scoreboard": [
     {
       "game_id": "823337",
@@ -34,7 +34,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 3,
-      "state": "B4",
+      "state": "B5",
       "start_time": "2026-09-03T23:15:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "CHC",
       "away_score": 1,
       "home_score": 2,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-09-03T23:15:00Z"
     },
     {
@@ -51,8 +51,8 @@
       "away": "MIA",
       "home": "KC",
       "away_score": 2,
-      "home_score": 0,
-      "state": "T3",
+      "home_score": 2,
+      "state": "B3",
       "start_time": "2026-09-03T23:40:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "TEX",
       "away_score": 0,
       "home_score": 0,
-      "state": "B1",
+      "state": "B2",
       "start_time": "2026-09-04T00:05:00Z"
     },
     {
@@ -1094,7 +1094,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "20:15:05",
+      "time": "20:30:05",
       "game_id": "823095",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -1116,7 +1116,7 @@
     },
     {
       "date": "2026-09-03",
-      "time": "20:15:06",
+      "time": "20:30:06",
       "game_id": "823907",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
@@ -1141,7 +1141,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 9,
-    "total_games_scanned_all": 68634,
+    "total_games_scanned_all": 68636,
     "record": {
       "wins": 80,
       "losses": 103,
