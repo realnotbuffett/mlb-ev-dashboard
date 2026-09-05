@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T01:15:14.406890+00:00",
+  "last_updated": "2026-09-05T01:30:12.980618+00:00",
   "scoreboard": [
     {
       "game_id": "824424",
@@ -15,8 +15,8 @@
       "away": "DET",
       "home": "CLE",
       "away_score": 3,
-      "home_score": 0,
-      "state": "T6",
+      "home_score": 1,
+      "state": "B6",
       "start_time": "2026-09-04T23:15:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "home": "CIN",
       "away_score": 10,
       "home_score": 6,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-09-04T22:10:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "PHI",
       "away_score": 5,
       "home_score": 2,
-      "state": "B9",
+      "state": "FINAL",
       "start_time": "2026-09-04T22:40:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "home": "PIT",
       "away_score": 0,
       "home_score": 1,
-      "state": "T8",
+      "state": "B8",
       "start_time": "2026-09-04T22:45:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "home": "BAL",
       "away_score": 1,
       "home_score": 0,
-      "state": "T8",
+      "state": "T9",
       "start_time": "2026-09-04T23:05:00Z"
     },
     {
@@ -61,7 +61,7 @@
       "home": "NYM",
       "away_score": 3,
       "home_score": 9,
-      "state": "T7",
+      "state": "T8",
       "start_time": "2026-09-04T23:10:00Z"
     },
     {
@@ -69,7 +69,7 @@
       "away": "CHC",
       "home": "MIA",
       "away_score": 5,
-      "home_score": 0,
+      "home_score": 1,
       "state": "B7",
       "start_time": "2026-09-04T23:10:00Z"
     },
@@ -79,16 +79,16 @@
       "home": "CWS",
       "away_score": 0,
       "home_score": 4,
-      "state": "B6",
+      "state": "B7",
       "start_time": "2026-09-04T23:40:00Z"
     },
     {
       "game_id": "822852",
       "away": "TB",
       "home": "TEX",
-      "away_score": 2,
+      "away_score": 6,
       "home_score": 1,
-      "state": "B4",
+      "state": "T5",
       "start_time": "2026-09-05T00:05:00Z"
     },
     {
@@ -97,16 +97,16 @@
       "home": "HOU",
       "away_score": 1,
       "home_score": 3,
-      "state": "T4",
+      "state": "T5",
       "start_time": "2026-09-05T00:10:00Z"
     },
     {
       "game_id": "824067",
       "away": "TOR",
       "home": "KC",
-      "away_score": 5,
+      "away_score": 6,
       "home_score": 1,
-      "state": "T5",
+      "state": "T6",
       "start_time": "2026-09-05T00:10:00Z"
     },
     {
@@ -115,16 +115,16 @@
       "home": "COL",
       "away_score": 2,
       "home_score": 1,
-      "state": "B2",
+      "state": "B3",
       "start_time": "2026-09-05T00:40:00Z"
     },
     {
       "game_id": "823256",
       "away": "NYY",
       "home": "SD",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-05T01:40:00Z"
     },
     {
@@ -1311,7 +1311,7 @@
     },
     {
       "date": "2026-09-04",
-      "time": "21:15:13",
+      "time": "21:30:11",
       "game_id": "823905",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Washington Nationals",
@@ -1333,16 +1333,16 @@
     },
     {
       "date": "2026-09-04",
-      "time": "21:15:14",
+      "time": "21:30:12",
       "game_id": "823093",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
-      "home_prob": "0.6756",
-      "away_prob": "0.3244",
+      "home_prob": "0.6763",
+      "away_prob": "0.3237",
       "poly_home_price": "0.6800",
       "poly_away_price": "0.3300",
-      "home_ev": "-0.0064",
-      "away_ev": "-0.0170",
+      "home_ev": "-0.0054",
+      "away_ev": "-0.0192",
       "home_pitcher": "Logan Gilbert",
       "away_pitcher": "Kade Morris",
       "pitchers_confirmed": "yes",
@@ -1358,7 +1358,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 16,
-    "total_games_scanned_all": 69314,
+    "total_games_scanned_all": 69316,
     "record": {
       "wins": 80,
       "losses": 103,
