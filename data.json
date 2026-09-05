@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-05T22:30:15.422250+00:00",
+  "last_updated": "2026-09-05T22:45:09.948490+00:00",
   "scoreboard": [
     {
       "game_id": "823577",
       "away": "SF",
       "home": "NYM",
-      "away_score": 8,
-      "home_score": 3,
-      "state": "T9",
+      "away_score": 9,
+      "home_score": 5,
+      "state": "B9",
       "start_time": "2026-09-05T20:10:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "home": "MIA",
       "away_score": 6,
       "home_score": 4,
-      "state": "T6",
+      "state": "T7",
       "start_time": "2026-09-05T20:10:00Z"
     },
     {
@@ -24,8 +24,8 @@
       "away": "ATL",
       "home": "PHI",
       "away_score": 0,
-      "home_score": 2,
-      "state": "B1",
+      "home_score": 3,
+      "state": "B2",
       "start_time": "2026-09-05T22:05:00Z"
     },
     {
@@ -34,7 +34,7 @@
       "home": "CLE",
       "away_score": 1,
       "home_score": 0,
-      "state": "T2",
+      "state": "T3",
       "start_time": "2026-09-05T22:10:00Z"
     },
     {
@@ -59,36 +59,36 @@
       "game_id": "824795",
       "away": "BOS",
       "home": "BAL",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-05T23:05:00Z"
     },
     {
       "game_id": "822850",
       "away": "TB",
       "home": "TEX",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-05T23:05:00Z"
     },
     {
       "game_id": "824066",
       "away": "TOR",
       "home": "KC",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-05T23:10:00Z"
     },
     {
       "game_id": "824553",
       "away": "MIN",
       "home": "CWS",
-      "away_score": null,
-      "home_score": null,
-      "state": "UPCOMING",
+      "away_score": 0,
+      "home_score": 0,
+      "state": "T1",
       "start_time": "2026-09-05T23:10:00Z"
     },
     {
@@ -1214,7 +1214,7 @@
     },
     {
       "date": "2026-09-05",
-      "time": "18:30:10",
+      "time": "18:45:05",
       "game_id": "824145",
       "home_team": "Houston Astros",
       "away_team": "Arizona Diamondbacks",
@@ -1236,7 +1236,7 @@
     },
     {
       "date": "2026-09-05",
-      "time": "18:30:11",
+      "time": "18:45:06",
       "game_id": "823257",
       "home_team": "San Diego Padres",
       "away_team": "New York Yankees",
@@ -1258,7 +1258,7 @@
     },
     {
       "date": "2026-09-05",
-      "time": "18:30:12",
+      "time": "18:45:07",
       "game_id": "824310",
       "home_team": "Colorado Rockies",
       "away_team": "St. Louis Cardinals",
@@ -1280,16 +1280,16 @@
     },
     {
       "date": "2026-09-05",
-      "time": "18:30:13",
+      "time": "18:45:08",
       "game_id": "823904",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Washington Nationals",
-      "home_prob": "0.6408",
-      "away_prob": "0.3592",
+      "home_prob": "0.6417",
+      "away_prob": "0.3583",
       "poly_home_price": "0.6500",
       "poly_away_price": "0.3600",
-      "home_ev": "-0.0141",
-      "away_ev": "-0.0023",
+      "home_ev": "-0.0128",
+      "away_ev": "-0.0047",
       "home_pitcher": "Tyler Glasnow",
       "away_pitcher": "Cade Cavalli",
       "pitchers_confirmed": "yes",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "2026-09-05",
-      "time": "18:30:15",
+      "time": "18:45:09",
       "game_id": "823094",
       "home_team": "Seattle Mariners",
       "away_team": "Athletics",
@@ -1327,7 +1327,7 @@
     "total_bets_today": 0,
     "total_bets_all_time": 183,
     "total_games_scanned_today": 15,
-    "total_games_scanned_all": 69864,
+    "total_games_scanned_all": 69869,
     "record": {
       "wins": 80,
       "losses": 103,
